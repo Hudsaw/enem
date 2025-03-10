@@ -4,7 +4,7 @@ from app.utils.search import search_words_in_text
 
 def main():
     # Caminho da pasta onde estão os PDFs
-    pdf_folder = 'app/data/'
+    pdf_folder = 'data/'
 
     # Verifica se a pasta existe
     if not os.path.exists(pdf_folder):

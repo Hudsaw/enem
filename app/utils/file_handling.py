@@ -59,7 +59,7 @@ def save_results_to_txt(results, words, base_folder='results/'):
     conteudo = ""
     for result in results:
         # Define o caminho do arquivo de gabarito
-        gabarito_path = os.path.join('app/data/txt', f"{result['arquivo']}_GB.txt")
+        gabarito_path = os.path.join('data/txt', f"{result['arquivo']}_GB.txt")
 
         # Obtém a letra do gabarito
         letra_gabarito = get_gabarito_letter(gabarito_path, result['numero_questao'])

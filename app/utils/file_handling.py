@@ -37,7 +37,6 @@ def extract_text_from_pdf(pdf_path):
 
         return text
 
-import os
 
 def save_results_to_txt(results, words, base_folder='results/'):
     """
@@ -79,15 +78,24 @@ def get_gabarito_letter(gabarito_path, numero_questao):
     Obtém a letra correta do gabarito para o número da questão.
 
     :param gabarito_path: Caminho do arquivo de gabarito.
-    :param numero_questao: Número da questão.
-    :return: Letra correta ou "?" se não encontrada.
+    :param numero_questao: Número da questão (pode ser com ou sem zeros à esquerda).
+    :return: Letra correta ou "anulada" se não encontrada.
     """
     if not os.path.exists(gabarito_path):
-        return "?"
+        return "anulada"
+
+    # Normaliza o número da questão para garantir que tenha zeros à esquerda, se necessário
+    numero_questao = str(numero_questao).zfill(2)  # Assume que o número tem até 2 dígitos
 
     with open(gabarito_path, 'r', encoding='utf-8') as file:
         for line in file:
-            parts = line.strip().split()
-            if len(parts) >= 2 and parts[0] == numero_questao:
-                return parts[1]  # Retorna a letra correta
-    return "?"
+            # Remove espaços em branco no início e no final da linha
+            line = line.strip()
+            
+            # Verifica se a linha começa com o número da questão seguido de um espaço
+            if line.startswith(numero_questao + " "):
+                # Divide a linha em partes e retorna a segunda parte (a letra ou número)
+                parts = line.split()
+                if len(parts) >= 2:
+                    return parts[1]  # Retorna a resposta correta
+    return "anulada"

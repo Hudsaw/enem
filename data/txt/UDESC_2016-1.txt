@@ -1,0 +1,2293 @@
+ 
+                                                       Vestibular 201 6.1 
+ 
+ 
+ 
+ 
+Caderno  de 
+Prova  (Tarde)  
+ 
+ 
+ 
+  
+ 
+15 de novembro  
+ 
+ 
+ 
+das 15h às 19h30min  
+       
+ 
+ 
+50 questões 
+ 
+FÍSICA (14 questões)     
+QUÍMICA (14 questões)  
+HISTÓRIA (11 questões)  
+GEOGRAFI A (11 questões)  
+REDAÇÃO  
+ 
+ 
+ 
+ 
+ 
+ 
+ Instruções  
+___________________________________________  
+ 
+Para fazer a prova você usará:  
+ 
+■ este caderno de prova;  
+■ um cartão -resposta que contém o seu nome, 
+número de inscrição e espaço para sua 
+assinatura.  
+ 
+Verifique, no ca derno de prova, se:  
+ 
+■ faltam folhas e a sequência das questões está 
+correta;  
+■ há imperfeições gráficas que possam causar 
+dúvidas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comunique imediatamente ao fiscal qualquer 
+irregularidade.  
+   Atenção!  
+_______________________________________ __ 
+ 
+■ Não é permitido qualquer tipo de consulta 
+durante a realização da prova.  
+■ Para cada questão são apresentadas 5 (cinco) 
+alternativas (a, b, c, d, e). Apenas uma delas 
+constitui a resposta correta em relação ao 
+enunciado da questão.  
+■ A interpretação das qu estões é parte integrante 
+da prova, não sendo permitidas perguntas aos 
+fiscais.  
+■ Não destaque folhas da prova.  
+■ Você somente poderá entregar sua prova após 
+60 (sessenta) minutos do início.  
+■ Os três últimos candidatos somente poderão 
+retirar -se da sala simulta neamente.  
+■ Ao se retirar da sala não leve consigo nenhum 
+material de prova, exceto  o quadro para 
+conferência de gabarito.  
+ 
+Ao terminar a prova, entregue ao fiscal o caderno 
+de prova completo e o cartão -resposta 
+devidamente preenchido e assinado.  
+ 
+ 
+ 
+ 
+ NOME DO(A) C ANDIDATO(A)  15                                                                                       Vestibular 201 6.1                               
+2 
+  
+ Redação  
+___________________________________________  
+ 
+A redação que apresentar cópia dos textos da Proposta de Redação terá o número de linhas copiadas 
+descontado para efeito de correção.  
+Será atribuída pontuação 0 (zero) às redações:  
+■ escritas a lápis, lapis eira ou caneta de tinta que não seja na cor azul ou preta;  
+■ que não estiverem desenvolvidas na folha oficial definitiva de resposta;  
+■ que não observarem o limite mínimo de 20 e o máximo de 30 linhas;  
+■ que não atenderem à forma solicitada (dissertação);  
+■ com fu ga total do tema;  
+■ resultantes de plágio;  
+■ com identificação (nome, assinatura, rubrica ou apelido) do candidato na folha oficial definitiva de redação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUADRO PARA CONFERÊNCIA DE GABARITO  
+                                 SOMENTE EST A PARTE PODERÁ SER DESTACADA  
+  
+ 
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+ 
+                         
+ 
+26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+ 
+                                                                                                               Vestibular 201 6.1                               
+3 
+  
+ 
+FÍSICA                                                                              (14 questões)  
+Formulário p. 12. 
+ 
+Questão 01  
+ 
+Na Física atual, o menor tempo e o menor comprimento conceptíveis são denominados tempo 
+de Planck ( tP) e comprimento de Planck ( ℓP), respect ivamente. Essas duas grandezas são 
+definidas a partir da combinação das constantes físicas fundamentais:
+ (constante de Planck 
+reduzida = h/2π), G (constante da Gravitação Universal) e c (velocidade da luz no vácuo).  
+ 
+Considerando o S istema Internacional de medidas (SI), assinale a alternativa que contém as 
+corretas  combinações entre
+ , G e c para tP e ℓP.  
+ 
+ 
+ 
+A.  (   )  
+2/1
+32/1
+5,
+
+
+
+
+cG
+cG   
+B.  (   )  
+2/1
+22/1
+5,
+
+
+
+
+cG
+cG   
+C.  (   )  
+2/1
+32/1
+2,
+
+
+
+
+cG
+cG   
+D.  (   )  
+2/1
+52/1
+3,
+
+
+
+
+cG
+cG   
+E.  (   )  
+2/1
+32/1
+5,
+
+
+
+
+Gc
+Gc   
+ 
+ 
+ 
+Questão 02  
+ 
+Um automóvel de passeio , em uma reta longa de uma rodovia, viaja em velocidade constante 
+de 100 km/h e à sua frente , à distância de 1,00 km , está um caminhão que viaja em velocidade 
+constante de 80,0 km/h. O automóvel tem de comprimento 4,50 m e o caminhão 30,0 m. A 
+distância percorrida pelo carro até ultrapassar completamente o caminhão é, 
+aproximadamente, igual a:  
+ 
+ 
+A.  (   )  517 m  
+B.  (   )  20,7 km  
+C.  (   )  515 m  
+D.  (   )  5,15 km  
+E.  (   )  5,17 km  
+ 
+                                                                                       Vestibular 201 6.1                               
+4 
+ Questão 03  
+ 
+O conjunto mostrado na Figura 1, composto por dois blocos A e B, está com aceleração  
+a. O 
+atrito entre os blocos é nulo e a massa deles é m A = 5,0 kg e m B = 1,0 kg. Considerando que o 
+bloco retangular B não desliza sobre o bloco triangular A, a magnitude da aceleração 
+a  do 
+conjunto e a magnitude da força de contato entre os dois blocos são, respectivamente, iguais a:  
+ 
+ 
+A.  (   )  10
+2 m/s2  e 10,0 N  
+B.  (   )  10,0 m/s2  e 5
+2 N 
+C.  (   )  10,0 m/s2  e 10
+2 N 
+D.  (   )  5
+2 m/s2  e 10
+2 N 
+E.  (   )  10,0 m/s2  e 10 N  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questão 04  
+ 
+Em u ma colisão elástica frontal (em uma dimensão) entre duas partículas de massas m 1 e m 2, 
+a partícula 2 est ava em repouso antes da colisão.  Analise as proposições  em relação à colisão.  
+ 
+I.   A quantidade de movimento e a energia cinética do sistema se conservam.  
+II.   Se as massas são iguais, a magnitude da velocidade adquirida pela partícula 2 , após a 
+colisão , é igual à magnitude da velocidade da partícula 1 , antes da colisão.  
+III.   Se m 1 é mai or que m 2, a magnitude da velocidade adquirida pela partícula 2 , após a 
+colisão , será maior que  a magnitude da velocidade da partícula 1 , antes da colisão.  
+IV.   Se m 1 é menor que m 2, o vetor velocidade da partícula 1 , após a colisão , é igual ao vetor 
+velocidade  que ela tinha antes da colisão.  
+ 
+Assinale a alternativa correta : 
+ 
+ 
+A.  (   )  Somente as afirmativas I e III são verdadeiras.  
+B.  (   )  Somente as afirmativas I, III e IV são verdadeiras.  
+C.  (   )  Somente as afirmativas I, II e III são verdadeiras.  
+D.  (   )  Somente a a firmativa  II é verdadeira . 
+E.  (   )  Somente a afirmativa  IV é verdadeira.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A B 
+45
+° 
+ 
+Figur a 
+1 11                                                                                       Vestibular 201 6.1                               
+5 
+ Questão 05  
+ 
+Duas pequenas esferas estão separadas por uma distância de 30 cm. As duas esferas 
+repelem -se com uma força de 7,5 × 10-6 N. Considerando que a carga elétrica das duas esferas 
+é 20 nC, a carga elé trica de cada esfera é, respectivamente:  
+ 
+A. (   ) 10 nC   e  10 nC  
+B. (   ) 13 nC   e  7 nC  
+C. (   ) 7,5 nC  e  10 nC  
+D. (   ) 12 nC   e   8 nC  
+E. (   ) 15 nC   e   5 nC  
+ 
+ 
+ 
+ 
+Questão 06  
+ 
+Um elétron com velocidade  
+v se movimenta na presença de um ca mpo magnético
+B , 
+conforme mostra a Figura 2, saindo do plano do papel.  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Considerando a magnitude da velocidade do elétron igual a um décimo da velocidade da luz , e 
+a magnitude  do campo magnético igual a 1,0 T, o raio da órbita circular desse elétron é, 
+aproximadamente, igual a:  
+ 
+ 
+A.  (   )  1,7 × 10-4 m. 
+B.  (   )  1,7 × 10-3 m. 
+C.  (   )  1,7 × 10-2 m. 
+D.  (   )  1,0 × 10-4 m. 
+E.  (   )  1,0 × 10-3 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 2  
+                                                                                       Vestibular 201 6.1                               
+6 
+ Questão 07  
+ 
+Com relação aos fenômenos eletromagnéticos, analise as proposições . 
+ 
+I.   Corrente elétrica induzida , em um circuito fechado , por um campo magnético variável no 
+tempo sempre gera um campo magnético que se opõe à mudança desse campo.  
+ 
+II.   Correntes elétricas , em circuitos fechados , podem formar dipolos magnéticos, mas nunca 
+monopolos magnéticos.  
+ 
+III.   Ao divi dir-se um ímã ao meio, formam -se dois monopolos magnéticos, um polo sul e outro 
+polo norte.  
+ 
+IV.   Força magnética atua em cargas elétricas em repouso e em movimento.  
+ 
+ 
+Assinale a alternativa correta : 
+ 
+ 
+A.  (   )  Somente as afirmativas II e III são verdadeiras.  
+B.  (   )  Somente as  afirmativas I, III e IV são verdadeiras.  
+C.  (   )  Somente as afirmativas  II e IV são verdadeiras.  
+D.  (   )  Somente as afirmativas I  e II são verdadeiras.  
+E.  (   )  Somente as afirmativa s I e IV são verdadeiras.  
+ 
+ 
+ 
+Questão 08  
+ 
+Uma máquina a vapor foi projetada para operar entre duas fontes térmicas, a fonte quente e a 
+fonte fria, e para trabalhar segundo o ciclo de Carnot. Sabe -se que a temperatura da fonte 
+quente é de 127 °C e que a máquina retira, a cada ciclo, 600J desta fonte, alcançando um 
+rendimento máximo igual a 0,25. O trabal ho realizado pela máquina, por ciclo, e a temperatura 
+da fonte fria são, respectivamente:  
+ 
+ 
+A.  (   )  240 J  e  95 °C  
+B.  (   )  150 J  e  27 °C  
+C.  (   )  15 J  e  95 °C  
+D.  (   )  90 J  e  27 °C  
+E.  (   )  24 J  e  0 °C  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+7 
+ Questão 09  
+ 
+Uma placa de alumínio com um furo circular no centro foi utiliza da para testes de dilatação 
+térmica. Em um dos testes realizados, inseriu -se no furo da placa um cilindro maciço de aço. À 
+temperatura ambiente , o cilindro ficou preso à placa, ajustando -se perfeitamente ao furo, 
+conforme ilustra  a Figura 3 . 
+ 
+Figura 3  
+ 
+O valor do coeficiente de dilatação do alumínio é, aproximadamente, duas vezes o valor do 
+coeficiente de dilatação térmica do aço. Aquecendo -se o conjunto a 200 °C , é correto  afirmar 
+que: 
+ 
+ 
+A. (   )  o cilindro de aço ficará ainda mais fix ado à placa de alumínio, pois , o diâmetro do furo 
+da placa diminuirá e o diâmetro do cilindro aumentará.  
+ 
+B. (   )  o cilindro de aço soltar -se-á da placa de alumínio, pois, em decorrência do aumento de 
+temperatura , o diâmetro do furo aumentará mais que o diâmetro do cilindro.  
+ 
+C. (   )  não ocorrerá nen huma mudança, pois, o conjunto foi submetido à mesma variação de 
+temperatura.  
+ 
+D. (   )  o cilindro soltar -se-á da placa porque sofrerá uma dilatação linear e , em função da 
+conservação de massa , ocorrerá uma diminuição no diâmetro  do cilindro . 
+ 
+E. (   )  não é possível afirma r o que acontecerá, pois, as dimensões iniciais da placa e do 
+cilindro  são desconhecidas . 
+                                                                                       Vestibular 201 6.1                               
+8 
+ Questão 10  
+ 
+A Figura 4 ilustra uma montagem experimental para estudo de ondas estacionárias em cordas 
+esticadas , retrata ndo um dos harmônicos de onda estacionária p ossíve l de ser gerada pelo 
+experimento.  
+ 
+Figura 4  
+ 
+Para gerar ondas estacionárias, entre os pontos A e B, o experimento permite ajustes na 
+tensão da corda (controle manual) , e na frequência de perturbação periódica (controle via 
+regulagem do motor).  
+ 
+Consider e a montagem experimental retratada na Figura 4 , o conhecimento sobre ondas 
+estacionárias , e analise as proposições . 
+ 
+I. As ondas estacionárias não são ondas de propagação, mas resultam da interferência entre 
+as ondas incidentes (propagando -se de A para B) e das ondas refletidas pelo ponto fixo B 
+(propagando -se de B para A). Portanto, em determinadas condições de ajustes de 
+frequência e tensão na corda , ocorrerá a ressonância e, consequentemente, a formação de 
+harmônicos de onda estacionária.  
+ 
+II. A densidade  linear de massa da corda utilizada no experimento não interfere na geração 
+das ondas estacionárias, is to é, cordas mais espessas ou menos espessas, submetidas às 
+mesmas condições de perturbação e tensão, gerarão o mesmo harmônico de onda 
+estacionária.  
+ 
+III. Fixando a frequência de perturbação da corda , e partindo -se de um estado de ressonância, 
+é possível atingir um harmônico superior apenas mediante o aumento da tensão da corda.  
+ 
+IV. Ondas estacionárias não são decorrentes de fenômenos de interferência e ressonânc ia. 
+ 
+Assinale a alternativa correta : 
+ 
+ 
+A. (   )  Somente as afirmativas II e IV são verdadeiras.  
+B. (   )  Somente as afirmativas III e IV são verdadeiras.  
+C. (   )  Somente as afirmativas I e III são verdadeiras.  
+D. (   )  Somente as afirmativas I, III e IV são verdadeiras.  
+E. (   )  Somente a afirmativa  II é verdadeira.  
+ 
+                                                                                       Vestibular 201 6.1                               
+9 
+ Questão 11  
+ 
+Os olhos dos seres humanos podem ser considerados sistemas ópticos. Eles são a janela de 
+entrada da luz e, consequentemente, responsáveis pela formação das imagens que resultarão 
+em nossa visão. Quando a formação de imagens  no olho não é nítida, há alguma anomalia. 
+Considerando as anomalias relativas à visão humana e os estudos sobre lentes, analise as 
+proposições . 
+ 
+I. Um encurtamento do bulbo do olho, se comparado ao comprimento normal  do bulbo, é 
+característico de pessoas com  hipermetropia. Neste caso, a imagem forma -se depois da 
+retina e não sobre ela, prejudicando sua nitidez. Para correção desse problema de visão , 
+utilizam -se lentes convergentes.  
+ 
+II. Um olho com miopia apresenta um alongamento do bulbo, quando comparado ao 
+comprimento normal. Com isso, a imagem dos objetos acabará por se formar após a retina, 
+prejudicando a nitidez  da imagem formada. Para correção desse problema de visão utilizam -
+se lentes divergentes.  
+ 
+III. A dioptria de uma lente, também chamada de grau da lente, corresponde numericamente ao 
+inverso da distância focal, medida em metros.  
+ 
+IV. Uma lente convergente de distância focal igual a 30 cm está imersa no ar . Quando se coloca 
+um objeto de 5 cm de altura, a 40 cm de distância da lente, obtém -se uma imagem real, 
+invertida, maior e localizada a 120 cm da lente.  
+ 
+ 
+Assinale a alternativa correta : 
+ 
+ 
+A. (   )  Somente as afirmativas II e IV são verdadeiras.  
+B. (   )  Somente as afirmativas I e III são verdadeiras.  
+C. (   )  Somente as afirmativas II I e IV são verdadeiras.  
+D. (   )  Somente as afirmativas I, III  e IV são verdadeiras.  
+E. (   )  Todas as afirmativas são verdadeiras.  
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+10 
+ Questão 12  
+ 
+Para se chegar à descrição atual sobre a natureza da luz, caracterizad a pelo comportamento 
+dual (onda -partícula), houve debates épicos entre propositores e defensores de modelos 
+explicativos divergentes. Sobre a natureza da luz , um dos debates que ficou marcado na 
+história da Ciência envolveu grandes estudiosos, tendo de um lado Isaac Newton e de outro 
+Christiaan Huygens.  
+ 
+Focado no debate Newton -Huygens , relativo à natureza da lu z, analise as proposições .  
+ 
+I. Dois aspectos centrais alimentavam o debate entre Newton e Huygens; o primeiro de 
+natureza metodológica e  o segundo que envolvia a aceitação ou não do conceito de vácuo e  
+as suas implicações.  
+ 
+II. Newton e Huygens tinham concepções  diferentes sobre o espaço físico e a natureza da luz, 
+porém, concordavam que os modelos explicativos para a propagação da luz teriam que ser 
+alcançados a partir de um modelo mecânico.  
+ 
+III. O debate Newton -Huygens ocorreu exclusivamente devido à divergência so bre o conceito 
+de vácuo, mas ambos defendiam a natureza ondulatória da luz.  
+ 
+IV. Assumindo perspectivas teóricas e metodológicas diferentes, Newton propôs uma 
+explicação corpuscular para a luz , enquanto Huygens defendia uma visão ondulatória para a 
+luz. 
+ 
+Assin ale a alternativa correta : 
+ 
+ 
+A. (   )  Somente as afirmativas II e IV são verdadeiras.  
+B. (   )  Somente a afirmativa III é verdadeira.  
+C. (   )  Somente as afirmativas I e II são verdadeiras.  
+D. (   )  Somente as afirmativas I, II e IV são verdadeiras.  
+E. (   )  Somente a afirmativa IV é verdadeira.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+11 
+ Questão 13  
+ 
+No contexto histórico da virada do século XIX para o século XX, Lord Kelvin proferiu uma 
+palestra e afirmou que não havia  mais muitos pontos obscuros para serem resolvidos pela 
+Física. Destacou que existiam apenas dois problemas:  o primeiro referente à não detecção do 
+vento de éter (resultado nulo do experimento de Michelson -Morley) , e o segundo, relacionado à 
+partição de energia (emissão e absorção da radiação de corpo negro).  
+ 
+Em relação ao avanço na construção de conhecimento em Física, decorrente dos dois 
+problemas apontados por Lord Kelvin, assinale a alternativa  corret a. 
+ 
+ 
+A. (   )  Os pontos obscuros apontados por Lord Kelvin não se configuraram em problemas 
+científicos , e foram ignorados pela Ciência.  
+B. (   )  Os problemas sinalizados por Lo rd Kelvin foram solucionados pela mecânica 
+newtoniana, sendo necessário apenas um refinamento experimental.  
+C. (   )  A Ciência, em particular a Física, não avançou mediante a resolução de problemas e  
+aos pontos obscuros apontados por Lord Kelvin , que retratavam ape nas dúvidas 
+pessoais dele próprio.  
+D. (   )  Max Planck foi o único a solucionar os dois problemas apontados por Lord Kelvin e, por 
+isso, Planck é considerado por muitos o “Pai da Mecânica Quântica”.  
+E. (   )  Os pontos obscuros destacados por Lord Kelvin foram determinantes na condução de 
+mudanças radicais na Física, culminando na construção das teorias quânticas e 
+relativísticas.  
+ 
+ 
+ 
+Questão 14  
+ 
+Em uma residência unifamiliar moram quatro pessoas. A Tabela 1 fornece a potência e o tempo 
+efetivo de funcionamento dos principais aparelhos domésticos presentes na casa de ssa família.  
+ 
+Tabela 1  
+Aparelho  Potência (W)  Tempo de Funcionamento 
+Diário (horas)  
+geladeira  500 6 
+lâmpadas  150 5 
+computador  300 6 
+chuveiro  5000  0,7 
+forno Elétrico  1500  2 
+máquina de lavar roupa  1000  1,5 
+ 
+Sabe ndo-se que o preço de energia elétrica por kWh custa R$ 0,40; que o período para o 
+cálculo da conta de energia elétrica mensal é de 30 dias e que a família gasta mensalmente  
+R$ 200,00 com a conta de energia elétrica, assinale a alternativa que apresenta, 
+respectivamente, o nome do aparelho com maior consumo mensal, o impacto  percentual na 
+conta mensal do aparelho de maior consumo e o valor  pago mensalmente , devido ao consumo 
+dos equipamentos elétricos da família que não estão relacionados na Tabela 1.  
+ 
+A. (   )  chuveiro; corresponde a 21% do custo mensal total; R$ 35,60  
+B. (   )  geladeira, corresponde a 18% do custo mensal total; R$ 46,40  
+C. (   )  chuveiro, corresponde a 18% do custo mensal total; R$ 53,60  
+D. (   )  geladeira, corresponde a 21% do custo mensal total; R$ 71,60  
+E. (   )  chuveiro, corresp onde a 42% do custo mensal total; R$ 29,60                                                                                        Vestibular 201 6.1                               
+12 
+  
+FORMULÁRIO DE FÍSICA                 
+ 
+2
+0 021at tvxx 
+ 
+atvv0  
+xa v v  22
+02  
+pp
+oiA' 
+sendFG ..
+ 
+'1 1 1
+ppf 
+t  
+...2 1 FF FR 
+T2
+ 
+r v 
+RS 
+Rvac2
+  
+maF
+ 
+gLT2 
+kxF 
+22 1.
+rqqkF 
+mgP
+ 
+cosFd W  
+mvQ  
+dghpp0  
+Vmd
+ 
+mghE  
+2
+21mv E  
+AFP  
+RvmF2
+
+ 
+2
+21kx E  
+WQU  
+NF F  
+TmcQ
+ 
+mL Q  
+Vp W  
+tEP
+  
+Tv
+ 
+12
+Carnot 1
+TT  
+1QW 
+dVgE 
+`t t
+ 
+22 1
+rmmGF  
+rqkV  
+2rqkE  
+qVU
+ 
+sJ x h . 1063,6`34  
+senqvBF  
+nRT pV  
+UiP
+ 
+RiU  
+tqi 
+tB
+ 
+Q I
+ 
+22
+9.109
+CmNx k  
+K
+CTToC
+K 
+
+ 273  
+BLv 
+T LL  . 10
+ 
+seniLBF  
+fv  
+cosBAB  
+riB
+20
+1 
+...,5,3,1 ;
+4  n nL 
+...,3,2,1 ;
+2  n nL  
+sm c / 100,38  
+AmT7
+0 10 4
+ 
+2 5/ 100,1 mN patm  
+kg x me311011,9  
+) /(3,8 K molJ R   
+2/0,10 sm g
+ 
+2 2 11/ 107,6 kgmN G  
+C x qe19106,1 
+J eV19106,1 1  
+3 3/ 100,1
+2mkg dOH
+ E = h f – W 
+rmGMU. 
+J cal 4 1  
+                                                                                          Vestibular 201 6.1                               
+13 
+     
+QUÍMICA                                                                         (14 questões)  
+Tabela Periódica p. 21. 
+ 
+Questão 15 
+ 
+As Figuras 1 e 2 apresentam a varia ção da densidade da água como função da temperatura 
+medida  a uma  atmosfera de pressão. A Figura 1 representa essa variação na faixa de -20 a 
+100ºC , e a Figura 2 representa a expansão da Figura 1 na faixa de 0 a 10ºC.  
+         
+  
+                                                                                    
+                                          Figura 1                                                          
+                                  
+                                                 
+ 
+ 
+                                                    Figura 2  
+Com relação às figuras acima, assinale a alternativa correta . 
+A.  (   )  A 0ºC observa -se um equilíbrio sólido/líquido em que a água sólida tem uma 
+densidade menor que água líquida, sendo essa propriedade anômala da água 
+prejudicial para manutenção da vida aquática , em lugares onde são registradas 
+temperaturas negativas, pois o gelo formado na superfície imerge e acaba por 
+congelar todo o restante do ambiente aquático.  
+B.  (   )  Os líquidos têm , em geral , a tendência de diminu ir sua densidade com o aumento da 
+temperatura, como c onseq uência da maior distância entre as moléculas, sendo que a 
+água segue esse mesmo comportamento.  
+C.  (   )  A diminuição anômala da densidade da água sólida em relação à água líquida deve -
+se à natureza coesiva que as ligações de hidrogênio , formadas entre as molé culas 
+de água , exercem umas sobre as outras, que acabam por formar estruturas 
+organizadas de maneira a maximizar essas interações, sendo que essas estruturas 
+ocupam um volume maior por unidade de massa , comparativamente à água líquida.     
+D.  (   )  Com o aumento da temperatura na faixa de 0 a 4ºC , a água em estado líquido 
+aument a a sua densidade,  sendo esse comportamento explicado pelo maior volume 
+ocupado por grama de água nessa temperatura.  
+E.  (   )  O aumento de densidade do gelo em relação à água líquida ou a soluções aqu osas 
+diluídas é o que provoca o estufamento ou a quebra d as garrafas d e plástico ou de 
+vidro , quando submetidas ao congelamento.                                                                                        Vestibular 201 6.1                               
+14 
+ Questão 1 6 
+ 
+A Termoquímica estuda a energia e o calor associados a reações químicas e/ou 
+transformações físicas de substâncias ou misturas. Com relação a conceitos , usados nessa 
+área da química, assinale a alternativa incorreta . 
+ 
+ 
+A.  (   )  A quebra de ligação química é um processo endotérmico. Já a formação de ligações 
+são processos exotérmicos. Dessa forma, a variação de entalpia para uma  reação 
+química vai depender do balanço energético entre quebra e formação de novas 
+ligações.  
+ 
+B.  (   )  A variação  de energia que acompanha qualquer transformação deve ser igual e oposta 
+à energia que acompanha o processo inverso.  
+ 
+C.  (   )  A entalpia H de um processo pode  ser definida como o calor envolvido no mesmo, 
+medido à pressão constante. A variação de entalpia do processo permite classificá -lo 
+como endotérmico, quando absorve energia na forma de calor, ou exotérmico quando 
+libera energia.  
+ 
+D.  (   )  O fenômeno de ebulição e o de fusão de uma substância são exemplos de processos 
+físicos endotérmicos.  
+ 
+E.  (   )  A lei de Hess afirma que a variação  de energia deve ser diferente , dependendo se um 
+processo ocorre r em uma ou em várias etapas .  
+ 
+ 
+ 
+Questão 1 7 
+ 
+A reação de combustão da gasolina , do álcool e de outros combustíveis produz gás carbônico, 
+vapor de água, fuligem e alguns óxidos de nitrogênio, que podem intensificar, entre outros 
+problemas, a chuva ácida. Os conversores catalíticos , usados nos automóveis , convertem 
+óxidos de nitrogêni o, incluindo o NO 2, em N 2 antes de lançar os efluentes gasosos na 
+atmosfera. Uma tecnologia alternativa que vem sendo explorada , para uso nos conversores 
+catalíticos , é o uso de ácido isociânico  (H -NC=O) que reage com NO 2, conforme a equação 
+(não balance ada):  
+ 
+                    x HNCO + y NO 2   z N2 + w CO 2 + r H2O 
+ 
+Em relação à equação, assinale a alternativa correta . 
+ 
+ 
+A.  (   )  É uma reação ácido -base, na qual o ácido isociânico é o ácido , e o dióxido de 
+nitrogênio é a base.  
+B.  (   )  A reação não é plausível, pois um a reação não pode ocorrer com o mesmo elemento 
+em diferentes estados de oxidação.  
+C.  (   )  Nessa reação , o ácido isociânico é o oxidante , e o dióxido de nitrogênio é o redutor . 
+D.  (   )  O estado de oxidação do átomo de carbono é +3 no ácido isociânico e +4 no dióxido 
+de ca rbono  que é o responsável pela redução do dióxido de nitrogênio.  
+E.  (   )  A soma dos menores coeficientes estequiométricos inteiros é igual a 33.  
+ 
+                                                                                       Vestibular 201 6.1                               
+15 
+ Questão 1 8 
+ 
+Um processo industrial muito importante usado para melhorar propriedades físicas, mecânicas  
+e térmicas d a borracha é o da vulcanização. Uma das variações existentes desse processo é a 
+vulcanização a frio,  em que  o composto S 2Cl2 é usado como fonte de átomos de enxofre, que 
+formam “pontes” entre as cadeias poliméricas da borracha inicial. O composto S 2Cl2 pode ser 
+produzido pela reação entre enxofre fundido com gás cloro, cuja reação é  representada pela 
+equação (não balanceada):  
+ 
+x  S8(l) + y Cl2(g)   z S2Cl2(l) 
+ 
+Com relação à equação, assinale a alternativa correta . 
+ 
+A.  (   )  A massa mínima de gás cloro necessária pa ra reagir completamente com 128 g de S 8(l)  
+              é de 142 g.  
+B.  (   )  Os coeficiente x, y e z são, respectivamente, 1, 2 e 4.  
+C.  (   )  S8 é uma das formas isotópicas com que o átomo de enxofre se apresenta na natureza.  
+D.  (   )  Essa reação de oxirredução se processa com var iação do estado de oxidação dos  
+              átomos de enxofre de 0 para +2 e o cloro de 0 para -2. 
+E.  (   )  Misturando -se 200 g de S 8(l) com 284 g de gás cloro obtém -se, no máximo , uma massa  
+              de 540 g de S 2Cl2.  
+ 
+ 
+ 
+Questão 1 9 
+ 
+A história da borrach a natural teve início no século XVI , quando os exploradores espanhóis 
+observaram os índios sul -americanos brincando com bola s feitas de um material extraído de 
+uma árvore local, popularmente conhecida como seringueira. Do ponto de vista estrutural, 
+sabe -se que essa borracha, chamada látex, é um polímero de isopreno, conforme ilustrado na 
+reação a seguir.  
+   
+Com relação à estrutura do isopreno e à da borracha natural , analise as proposições . 
+ 
+I.   A molécula de isopreno apresenta qu atro carbonos com a configuração sp .  
+II.   As duplas ligações do polímero formado apresentam configuração Z.  
+III.   A borracha natural realiza ligações de hidrogênio entre suas cadeias.  
+IV.   Segundo  a  nomenclatura  oficial,  a  molécula   de  isopreno  é  denominada                    
+3-metil -1,3-buteno.  
+Assinale a alternativa correta .  
+A.  (   )  Somente  a afirmativa IV  é verdadeira . 
+B.  (   )  Somente a afirmativa III  é verdadeira.  
+C.  (   )  Somente as afirmativas I e III  são verdadeiras.  
+D.  (   )  Somente as a firmativas II e IV  são verdadeiras.  
+E.  (   )  Somente a afirma tiva II é verdadeira.                                                                                        Vestibular 201 6.1                               
+16 
+ Questão 20 
+ 
+O consumo cada vez maior de combustíveis fósseis tem levado a um aumento considerável da 
+concentração de dióxido de carbono na atmosfera, o que acarreta diversos problemas, dentre 
+eles o efeito estufa.  
+Com relação à moléc ula de dióxido de carbono , é correto  afirmar  que:  
+A.  (   )  é apolar e apresenta ligações covalentes apolares.  
+B.  (   )  é polar e apresenta ligações covalentes polares.  
+C.  (   )  os dois átomos de oxigênio estão ligados entre si por meio  de uma ligação covalente 
+apolar.  
+D.  (   )  é apolar e ap resenta ligações covalentes polares.  
+E.  (   )  apresenta quatro ligações covalentes apolares.  
+ 
+ 
+ 
+Questão 21 
+ 
+A tabela periódica dos elementos químicos é uma das ferramentas mais úteis na Química. Por 
+meio da tabela é possível prever as propriedades químicas dos elem entos e dos compostos 
+formados por eles. Com relação aos elementos C, O e Si , analise as proposições.  
+I.   O átomo de oxigênio apresenta maior energia de ionização.  
+II.   O átomo de  carbono apresenta o maior raio atômico.  
+III.   O átomo de  silício é mais eletronegativo que o átomo de carbono.  
+IV.   O átomo de  silício apresenta maior energia de ionização.  
+V.   O átomo de  oxigênio apresenta o maior raio atômico.  
+ 
+Assinale a alternativa correta .  
+ 
+A.  (   )  Somente a afirmativa V é verdadeira . 
+B.  (   )  Somente as afirmativas I e II são verdadeiras.  
+C.  (   )  Somente as afirmativas IV e V são verdadeiras.  
+D.  (   )  Somente a afirmativa I é verdadeira.  
+E.  (   )  Somente a afirmativa III é verdadeira.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+17 
+ Questão 22 
+ 
+Em relação à equação abaixo, assinale a alternativa que contém a classificação da função 
+química de cada espécie , 
+ 
+(CH 3)3NH(aq) H2PO4(aq) + (CH 3)3N(aq) H3PO4(aq) +
+1 2 3 4
+ 
+ 
+A.  (   )  1 e 4 são ácidos, 2 e 3 são bases.  
+B.  (   )  1 é base, 2 é ácido e 3 e 4 são sais.  
+C.  (   )  1 e 3 são ácidos, 2 e 4 são bases.  
+D.  (   )  1 é ácido, 2 é base e 3 e 4 são sais.  
+E.  (   )  1 e 3 são bases, 2 e 4 são ácidos.  
+ 
+ 
+ 
+Questão 23 
+ 
+As reações químicas dependem de colisões eficazes que o correm entre as moléculas dos 
+reagentes. Quando se pensa em sistema fechado, é de se esperar que as colisões ocorram 
+entre as moléculas dos produtos em menor ou maior grau , até que se atinja o equilíbrio 
+químico. À temperatura ambiente, o NO 2(g), gás casta nho-avermelhado, está sempre em 
+equilíbrio com o seu dímero, o N 2O4(g), gás incolor.  Em um experimento envolvendo a 
+dissociação de N 2O4(g) em NO 2(g) coletaram -se os seguintes dados: a amostra inicial de N 2O4(g) 
+utilizada foi de 92g, em um dado momento  a soma dos componentes  N2O4(g) e NO 2(g)  foi de 
+1,10 mol.  
+ 
+Com base n esses dados, pode -se dizer que a quantidade dissociada em mols de N 2O4(g) é:  
+ 
+A.  (   )  0,20 
+B.  (   )  0,10 
+C.  (   )  0,40 
+D.  (   )  0,60 
+E.  (   )  0,80 
+ 
+ 
+ 
+Questão 2 4 
+ 
+Na Inglaterra por volta de 1900, uma série de experimentos realizados p or cientistas, como Sir 
+Joseph John Thompson (1856 -1940) e Ernest Rutherford (1871 -1937), estabeleceu um modelo 
+do átomo que serviu de base à teoria atômica. Atualmente , sabe-se que três partículas 
+subatômicas são os constituintes de todos os átomos: próto n, nêutrons e elétrons. Desta forma, 
+o átomo constituído por 1 7 prótons, 18 nêutrons e 17 elétrons possui número atômico e número 
+de massa , sequencialmente , igual a:  
+A.  (   )  17 e 18  
+B.  (   )  34 e 52  
+C.  (   )  17 e 17  
+D.  (   )  17 e 35  
+E.  (   )  35 e 17                                                                                        Vestibular 201 6.1                               
+18 
+ Questão 25 
+ 
+Atualmente a venda e/ou fornecimento d e refrigerantes t êm sido proibid os pelos órgãos 
+competentes em ambientes escolares. Tal fato ocorre porque se tem a comprovação de que 
+essas bebidas possuem formulações altamente calóricas (rica s em carboidratos) e com alta 
+concentração de sais , tais como cloreto de sódio.  
+ 
+Assinale a alternativa corret a em relação a essas bebidas.  
+ 
+A.  (   )  Uma lata de 350 mL de refrigerante contém 18 mg de cloreto de sódio, logo, a 
+quantidade deste sal presente em 1,0 litro desta bebida é de 51,4 gramas.  
+B.  (   )  A versão isenta de açúcar es de ste refrigerante (lata de 350 mL) possui 49 mg de 
+cloreto de sódio, logo, a concentração molar desta substância é de 2,4 × 10-2 mol/L.  
+C.  (   )  Considerando que um determinado refrigerante possui 10,6 gramas de aç úcares para 
+cada 100 mL de bebida e que esta ma ssa de carboidratos corresponde a , 
+aproximadamente , 12%  da  ingestão  calórica   diária  de  um adulto ; a ingestão de 
+900 mL desta bebida ultrapassa a demanda energética diária deste indivíduo.  
+D.  (   )  Assumindo que o açúcar presente no refrigerante seja 100% saca rose, e seu 
+coeficiente de solubilidade de 33 g/100 mL de água, uma lata de 500 m L que possui 
+35 g desta substância pode ser considerada saturada.  
+E.  (   )  A temperatura de ebulição do refrigerante é menor que a temperatura de ebulição da 
+água pura uma vez que a sa carose é um composto orgânico.  
+ 
+ 
+ 
+Questão 26 
+ 
+O tiomersal  é uma substância química , em geral, utilizada como conservante em certos 
+medicamentos e vacinas , originalmente fabricado pela empresa farmacêutica americana Eli 
+Lilly & Company . Foi, durante um long o tempo, o princípio ativo do Merthiolate®, um 
+antisséptico de uso tópico, que possuía uma coloração vermelha característica.  
+ 
+Em relação à estrutura química do tiomersal , assinale a alternativa correta . 
+ 
+A.  (   )  Os metais presentes na estrutura da molécula pert encem ao grupo 1 da tabela 
+periódica de elementos.  
+B.  (   )  As substituições presentes no anel aromático caracterizam um composto do tipo orto 
+em que o grupo carboxilato é a porção menos polar da substância.  
+C.  (   )  Não há a presença do fenômeno de ressonância eletrônica p ara o composto em 
+questão , quando este é mantido no estado sólido.  
+D.  (   )  Estão presentes no composto carbonos com hibridação do tipo sp e sp3,  sendo  – 
+sete sp e dois sp3 
+E.  (   )  Estão presentes no composto carbonos com hibridação do tipo sp2 e sp3, sendo que 
+não há a presença de centros quirais na molécula.                                                                                        Vestibular 201 6.1                               
+19 
+ Questão 27 
+ 
+Quando um soluto não volátil é adicionado a um determinado solvente puro, uma solução é 
+formada e suas propriedades físico -químicas podem ser alteradas. Este fenômeno é 
+denominado efeito coligativo das s oluções.  
+ 
+Consider e estes efeitos  e analise as proposições.  
+I.   O abaixamento da pressão máxima de vapor de um líquido faz com que este tenha um 
+maior ponto de ebulição. Tal fato é possível quando uma colher de sopa de açúcar 
+(sacarose) é adicionada a uma pa nela contendo 1 litro de água, por exemplo. Este 
+fenômeno é conhecido como ebulioscopia ou ebuliometria.  
+ 
+II.   Uma tática interessante para acelerar o resfriamento de bebidas consiste na adição de sal 
+de cozinha  ao recipiente com  gelo em que elas estão imersas.  Neste caso , o efeito 
+crioscópico está presente. Considerando um número idêntico de mols de cloreto de sódio e 
+brometo de magnésio em experimentos distintos, o efeito coligativo resultante será o 
+mesmo, pois este independe da natureza da substância utiliza da. 
+ 
+III.   A pressão osmótica do sangue humano é da ordem de 7,8 atm devido às substâncias nele 
+dissolvidas. Desta forma , é fundamental que, ao se administrar uma determinada solução 
+contendo um medicamento via intravenosa, a pressão osmótica deste último seja 
+hipotônica em relação à da corrente sanguínea , sob o risco de que as hemácias possam 
+se romper ao absorverem um excesso de partículas administradas.  
+ 
+ 
+Assinale a alternativa  correta . 
+ 
+A.  (   )  Somente a afirmativa  I é verdadeira . 
+B.  (   )  Somente as afirmativas  I e III são v erdadeiras . 
+C.  (   )  Somente as afirmativa s I e II são verdadeiras . 
+D.  (   )  Somente as afirmativa s II e III são verdadeiras.  
+E.  (   )  Somente a afirmativa  III é verdadeira . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+20 
+ Questão 28 
+ 
+Os miriápodes pertencem a um subfilo dos artrópodes que agrupa m animais segmentados  com 
+um elevado número de pernas , tais como lacraias e piolho -de-cobra. Como mecanismo de 
+defesa, estes animais produzem uma substância chamada amigdalina  (C20H27NO 11) que é 
+liberada juntamente com uma enzima que hidrolisa tal composto , transformando -o em 
+açúcares, benzaldeído e ácido cianídrico, conforme processo bioquímico descrito na Figura  3. 
+ 
+                                                               Figura 3  
+Considerando a reação bioquímica descrita, assinale a alter nativa correta .  
+ 
+A.  (   )  Nenhuma ligação glicosídica é quebrada uma vez que os anéis de glicose presentes no 
+reagente permanecem intactos nos produtos d a reação.  
+B.  (   )  Os monossacarídeos , formados nos produtos , são altamente solúveis em meio aquoso 
+uma vez que não apre sentam nenhum tipo de interações intermoleculares com a água.  
+C.  (   )  O ácido cianídrico , formado após a reação , pode ser considerado um ácido forte uma 
+vez que apresenta Ka = 4,9 × 10-10. 
+D.  (   )  Considerando que a quantidade de ácido cianídrico necessária para gerar uma  dose 
+letal para uma pessoa adulta é de 0,06 g, a massa de amigdalina necessária para  que 
+ocorra este fato será de 10,1 gramas.  
+E.  (   )  Estão presentes no reagente as funções químicas álcool, éter e nitrila e, após o 
+processo bioquímico de hidrólise, apenas alguma s funções éter selecionadas são 
+quebradas para dar origem aos produtos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+21 
+  
+ 
+TABELA PERIÓDICA                                                                          
+ 
+ 
+ 
+ 
+ 
+                                                                                      Vestibular 201 6.1                               
+22 
+  
+HISTÓRIA                                                                        (11 questões)  
+ 
+Questão 29  
+ 
+A Marcha da família com Deus pela liberdade:  
+“Movimento surgido em março de 1964 e que consistiu em uma série de manifestações, ou 
+"marchas", organizadas principalmente por setores do clero e por entidades femininas em 
+respo sta ao comício realizado no Rio de Janeiro, em 13 de março de 1964, durante o qual o 
+presidente João Goulart  anunciou seu programa de reformas de base.”  
+Adap. Disponível em:  
+http://cpdoc.fgv.br/producao/dossies/Jango/artigos/AConjunturaRadicalizacao/A_marcha_da_familia_co
+m_Deus  acessado em:  12/08/2015.  
+Assinale a alternativa correta  sobre a Marcha  da família  com Deus pela liberdade.  
+ 
+A.  (   )  Mostrou o protagonismo do movimento feminista e da contracultura, em especial a 
+Campanha da Mulher pela Democracia (Camde), a União Cívica Feminina e a 
+Fraterna Amizade Urbana e  Rural.  
+ 
+B.  (   )  Congregou segmentos das classes populares, em especial sem tetos e operários da 
+indústria, em parceria com a Federação do  Centro das Indústrias do Estado de São 
+Paulo (FIESP).  
+ 
+C.  (   )  Tinha como meta propagar a ideia de liberdade religiosa e de liberdad e sexual.  
+ 
+D.  (   )  Contou com a aliança , de setores de esquerda da igreja católica e da juventude 
+estudantil de classe média , contra o conservadorismo da sociedade Brasileira.  
+ 
+E.  (   )  Era favorável à deposição do presidente eleito João Goulart e teve papel importante 
+no Golpe Militar de 1964.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+23 
+ Questão 30 
+ 
+Analise as proposições sobre a história da redução da maioridade penal no Brasil.  
+I.   De acordo com a Constituição de 1988 , a data para a maioridade foi estabelecida, pela 
+primeira vez, em 18 anos de Idade.  
+II.   Durante  a União Ibérica n as Ordenações Filipinas a maioridade se dava aos 7 anos. A 
+partir dessa idade era possível prender e castigar severamente quem cometesse 
+determinados crimes, sendo previsto, inclusive, castigos corporais.  
+III.   Conforme estabelecido pelo Código  Penal de 1940, a idade da maioridade penal foi 
+estabelecida em 1 8 anos de idade.  
+IV.   A idade de 14 anos, para que alguém fosse julgado, foi instituída em 1830 pelo primeiro 
+Código Criminal do Império.  
+V.   O primeiro Código Penal Republicano de 1890 reduziu a maio ridade penal para 9 anos de 
+idade.  
+ 
+Assinale a alternativa  correta . 
+ 
+A.  (   )  Somente as afirmativas  I e II e IV são verdadeiras.  
+B.  (   )  Somente as afirmativas  I, III, e IV são verdadeiras.  
+C.  (   )  Somente as afirmativas  II, III e V são verdadeiras.  
+D.  (   )  Somente as afirmativas II, IV  e V são verdadeiras.  
+E.  (   )  Todas as afirmativas são verdadeiras.  
+ 
+ 
+ 
+Questão 31  
+ 
+Haiti.  
+ “Depois do terremoto de 2010, que matou 230 mil pessoas e deixou 1,5 milhão de 
+desabrigados, 56 mil haitianos já emigraram para o Brasil, segundo o Ministério da Justiça . A 
+maioria entra no país pelo Acre e segue de ônibus para os estados do Sul e do Sudeste. “  
+Disponível em:  http://g1.globo.com/fantastico/noticia/2015/07/imigrante -diz-que-muitos -brasileiros -consideram -
+haitianos -como -escravos.html  acessado em: 12/08/2 015.  
+ 
+Assinale a alternativa correta  sobre os imigrantes haitianos instalados no  Brasil . 
+ 
+A.  (   )  A maioria dos haitianos instalados no país vêm de forma ilegal, visto que o governo 
+brasileiro não possui uma política  eficaz de controle de imigração . 
+B.  (   )  Os imigrantes  que vieram para o Brasil fazem parte de  um programa governamental 
+de parceria entre as embaixadas do Brasil e do Haiti nos mesmos moldes do  “Mais 
+Médicos”, porém expandido para outras áreas profissionais .  
+C.  (   )  Os imigrantes haitianos possuem as mais diversas qualificações profissionais, no 
+entanto, a maioria não consegue emprego correspondente à sua qualificação 
+profissional , mesmo aqueles quem possu em curso superior . 
+D.  (   )  Em Santa Catarina , os haitianos t êm se concentrado no litoral e no Vale do Itajaí e se 
+destac ado em trabalhos nos centros urbanos, não havendo utilização da mão de obra 
+haitiana no desenvolvimento da agricultura catarinense.  
+E.  (   )  Os imigrantes haitianos só t êm direito ao trabalho, sendo -lhes vedado ingresso  a 
+escolas e universidades .                                                                                       Vestibular 201 6.1                               
+24 
+ Questão 32 
+ 
+Anali se as proposições sobre as populações indígenas na História  do Brasil . 
+  
+I. A escravidão indígena não vigorou porque as populações indígenas não possuíam 
+vocação para a agricultura de grande escala , tal como a implementada pela metrópole 
+portuguesa.  
+  
+II. A contr ibuição indígena foi marcante em elementos do folclore, da culinária e da língua, e 
+também no que diz respeito à organização social e econômica do Brasil . 
+ 
+III. Em Santa Catarina , a concentração de populações indígenas foi maior no litoral, em 
+especial com a po pulação Guarani, Xokleng e Kaingang. No interior do Estado houve um 
+grande vazio populacional, o que motivou as políticas de incentivo à imigração europeia na 
+região.  
+ 
+IV. O assassinato de lideranças indígenas , na contempor aneidade , possui vínculos com as  
+lutas pela demarcação de terras indígenas . 
+ 
+V. No período da chegada dos europeus , no Brasil , as populações indígenas organizaram 
+diversas expedições de luta e de resistência  à invasão europeia , chegando a organizar 
+uma grande confederação de povos indígenas do litoral do Rio de Janeiro e do Vale do 
+Paraíba para expulsar os portugueses. Essa revolta ficou conhecida como Confederação 
+dos Tamoios e contou com a aliança de lideranças indígenas com invasores franceses 
+estabelecidos no Rio de Janeiro.   
+ 
+Assinale as alternativa corretas . 
+ 
+A.  (   )  Somente as afirmativas  I, III e IV são verdadeiras.  
+B.  (   )  Somente as afirmativas  III, IV e V são verdadeiras.  
+C.  (   )  Somente as afirmativas II, IV e V são verdadeiras.  
+D.  (   )  Somente as afirmativas  I, II e III são verdadeiras.  
+E.  (   )  Todas as afirmativas são  verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+25 
+ Questão 33 
+ 
+Analise as proposições  em relação à participação das mulheres na História do Brasil . 
+ 
+I. Dilma Rousseff foi a primeira mulher eleita a Presidente do Brasil. Foi militante de 
+organizações políticas de luta contra a  ditadura militar, tais como as organizações 
+revolucionárias Política Operária (POLOP), o Comando de Libertação Nacional (COLINA) e 
+a Vanguarda Armada Revolucionário Palmares (VAR -Palmares). Foi fundadora do Partido 
+dos Trabalhadores  e durante o governo Lu la atuou como ministra da Fazenda, como 
+Presidente do Conselho da Petrobrás e como Ministra -chefe da Casa Civil.  
+II. Chiquinha Gonzaga foi compositora, pianista e regente brasileira. É considera da a primeira 
+“pianista de choro” no Brasil , e a primeira mulher a reger uma orquestra no país. Participou 
+ativamente do movimento que lutava pela abolição da escravidão .  
+III. Pagu foi militante comunista, poeta, jornalista, desenhista e personagem de destaque entre 
+os poetas modernistas do Brasil. Foi presa pela polícia po lítica de Getúlio Vargas em 1931 , 
+por ter participado de uma greve de estivadores na cidade de Santos e presa em 1935 , em 
+Paris , como comunista estrangeira . 
+IV. Carolina de Jesus  foi uma escritora negra brasileira proveniente das classes populares que 
+alcançou  grande prestígio nas letras. Publicou diversos livros, sendo Quarto de Despejo  o 
+mais famoso.  
+V. Antonieta de Barros foi professora , e a primeira mulher negra eleita ao cargo de 
+governadora do Estado de Santa Catarina . Também atuou como jornalista e escrito ra, 
+desta cando-se na luta por uma política educacional mais igualitária e contra a discriminação 
+racial.  
+ 
+A.  (   )  Somente as afirmativas II, III e IV são verdadeiras.  
+B.  (   )  Somente as afirmativas I, II e V são verdadeiras.  
+C.  (   )  Somente as afirmativas I, III e V são verdadeir as.  
+D.  (   )  Somente as afirmativas III, IV e V são verdadeiras.  
+E.  (   )  Todas as afirmativas são verdadeiras.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+26 
+ Questão 34 
+ 
+Analise o poema abaixo:  
+ 
+A um historiador  
+Vós que louvais o passado,  
+que tendes explorado a face exterior,  
+a superfície das gentes , 
+o lado da vida que se exibiu,  
+que tendes tratado o homem  
+como uma criatura de políticos,  
+agregados, governantes e pregadores,  
+eu, habitante dos Alegânis,  
+tratando -o tal como em si mesmo  
+é ele em seus próprios direitos,  
+tomando o pulso da vida que raram ente se exibe  
+(o fundo orgulho do homem consigo mesmo),  
+Cantor da Pessoa Humana,  
+delineando o que ela ainda está por ser,  
+o que eu projeto é a história do futuro.  
+                                       
+Whitman,   Walt.   Folhas de Relva.   Seleção  e traduçã o de Geir Campos.   Ilustrações de  Darcy Penteado.   Ed. 
+Civilização Brasileira.  Rio de Janeiro, 1964.  (tradução de Geir Campos)  
+ 
+Assinale a alternativa correta  em relação ao poema A um historiador . 
+ 
+A.  (   )  Whitman associa a história política  e a história dos vence dores a uma história da face 
+interior da humanidade . 
+ 
+B.  (   )  Whitman não vê nenhuma diferença entre a história produzida pelo historiador e a 
+história articulada pelo poeta.  
+ 
+C.  (   )  O autor faz uma crítica ao historiador que  se dedica somente à história dos 
+vencedores e à dos grandes feitos . 
+ 
+D.  (   )  Whitman faz um elogio ao papel do historiador visto que ele tem se dedicado aos 
+temas fundamentais da história da humanidade . 
+ 
+E.  (   )  Whitman destaca que o compromisso da história e do historiador deve recair nos fatos 
+e acontecimentos do  passado que imped em os homens  de repetirem o s mesmos erros 
+no futuro.  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+27 
+ Questão 35 
+ 
+Analise as proposições em relação aos registros sobre o pro tagonismo das populações negras 
+contra a discriminação racial.  
+I. No Brasil , Abdias Nascimento é considerado um a das lideranças mais expressivas da 
+juventude negra comunista, participou ativamente da luta armada contra a ditadura militar e 
+foi o criador do Teatro Experimental do Negro (TEN) e do Movimento Negro Unificado 
+(MNU).  
+II. Durante as décadas de 60 e 70 , Steve  Biko liderou o Movimento  da Consciência Negra  
+contra o apartheid  na África do Sul. Ficou famoso pelo slogan Black is Beautiful .  
+III. As Panteras Negras  foi um movimento negro norte -americano criado nos anos 60 do século 
+XX. Os militantes desse grupo radical p ediam a libertação de todos os negros das 
+penitenciárias americanas , e o pagamento de indenizações às famílias negras pelo período 
+da escravidão. O grupo teve orientação marxista e foi severamente reprimido pelo FBI. Entre 
+as lideranças , merece m destaque H uey Newton e Bobby Seale . 
+IV. Nação do Islã  foi uma vertente religiosa norte -americana de luta contra a discriminação 
+racial, praticava a luta política por meios legais, mas aceitava a violência para autoproteção. 
+O grupo defendia a supremacia e o separatismo dos negros. Seu principal representante foi 
+Malcolm X .  
+V. Em Santa Catarina , a população negra só conseguiu se mobilizar com organizações de 
+combate  ao racismo a partir  da militância anti rracial de Cruz e Sousa em meados do  
+século XIX . 
+Assinale a alternat iva correta . 
+A.  (   )  Somente as afirmativas II, III e IV estão verdadeiras.  
+B.  (   )  Somente as afirmativas I, II e V são verdadeiras.  
+C.  (   )  Somente as afirmativas III, IV e V são verdadeiras.  
+D.  (   )  Somente as afirmativas I , II e IV são verdadeiras.  
+E.  (   )  Todas as afirmativas são verdade iras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+28 
+ Questão 36 
+ 
+Sobre a Revolta da Chibata , assinale a alternativa corret a. 
+ 
+A.  (   )  Embora os marinheiros revoltosos, homens negros em sua maioria, tenham assumido 
+o controle de grandes embarcações de guerra, não souberam como manejá -las, visto 
+que somente oficiais de alta patente possuíam conhecimento e domínio da tecnologia 
+necessária para conduzir as embarcações de guerra.  
+ 
+B.  (   )  O governo não cedeu à pressão dos marinheiros revoltados e conseguiu dominar e 
+prender todos os envolvidos. As principais lideranças foram fuziladas por formação de 
+motim , e os demais participantes foram encaminhados a campos de trabalho no 
+extremo norte do país .  
+ 
+C.  (   )  O movimento foi liderado por um marinheiro negro, João Cândido, único líder que 
+conseguiu anistia do governo e f oi imediatamente liberado, uma vez que foi quem 
+intermediou as negociações de rendição dos marinheiros .  
+ 
+D.  (   )  O movimento foi composto exclusivamente por marinheiros negros que exigiam o fim 
+dos castigos corporais e a criação de uma lei que penalizasse a discr iminação racial 
+nas forças armadas.  
+ 
+E.  (   )  Além do fim do castigo corporal , o movimento exigia melhoria  na alimentação, criação 
+de uma nova tabela de serviços , que diminuísse o excesso de trabalho dos 
+marinheiros , e anistia para todos os envolvidos na revolta .  
+ 
+ 
+ 
+Questão 37 
+ 
+A Lei do Ventre Livre foi uma lei abolicionista, promulgada , no Brasil , em 28 de setembro de 
+1871.   
+ 
+Sobre a Lei do Ventre Livre , assinale a alternativa correta . 
+ 
+A.  (   )  Foi promulgada pelo Imperador Pedro II e concedia liberdade a todas as crian ças e às 
+respectivas mães que viviam sob a escravidão no território brasileiro.  
+ 
+B.  (   )  Essa lei encontrou forte resistência entre os senhores , visto que não previa 
+indenização pelo fim da escravidão das crianças nascidas a partir da publicação da lei . 
+ 
+C.  (   )  Instituí a a liberdade de todas as crianças nascidas a partir da publicação da lei, mas 
+deixava a possibilidade dessas crianças permanecerem sob “os cuidados” do antigo 
+proprietário até a idade de 21 anos . 
+ 
+D.  (   )  Como a lei libertava a criança, mas não libertava os pais,  assim que nasciam essas 
+crianças eram retiradas do convívio com os pais escravizados e er am destinadas a um 
+abrigo mantido pelo Estado . 
+ 
+E.  (   )  De acordo com a lei , os senhores tinham a opção de manter as crianças libertas junto 
+aos pais escravizados até a maior idade, mas  os senhores  não pod iam usufruir d a mão 
+de obra delas.                                                                                        Vestibular 201 6.1                               
+29 
+ Questão 38 
+ 
+ 
+ Disponível em: https://commons.wikimedia.org/wiki/File:B -29_Enola_Gay_w_Crews.jpg  acessado em : 07/10/2015  
+ 
+Com base no conhecimento sobre a história do século XX,  pode -se afirmar que a imagem 
+fotográfica:  
+ 
+A.  (   )  registra o primeiro grupo de jovens da força armada norte american a simpatizantes da 
+causa  gay durante a Guerra do Vietnã.  
+ 
+B.  (   )  retrata a imagem  do avião responsável por lançar a bomba atômica na cidade de 
+Hiroshima , causando a morte de milhares de pessoas no pe ríodo da Segunda Guerra 
+Mundial.  
+ 
+C.  (   )  registra a tripulação responsável por realizar a primeira viagem internacional no roteiro 
+EUA/URSS no ano de 1945 . 
+ 
+D.  (   )  trata do registro histórico sobre o avião e a tripulação norte -americana responsável por 
+lançar gases venenosos sobre a população c ivil durante a Guerra do Vietnã.   
+ 
+E.  (   )  retrata a imagem do a vião utilizado pelos EUA para efetuar o desembarque das tro pas 
+norte -americanas na Normandia , durante a segunda -guerra Mundial.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+30 
+ Questão 39 
+“Podemos ser algo sim plistas e dizer que houve duas revoluções na Inglaterra dos meados do 
+século XVII. Uma, a que venceu, estabeleceu os sagrados direitos de propriedade (abolição 
+dos títulos feudais sobre a terra, o fim da taxação arbitrária), conferiu poder político aos 
+proprietários (soberania do Parlamento e da common law,  supressão dos tribunais que 
+funci onavam com base na prerrogativa  e removeu tudo que impedia o triunfo da ideologia dos 
+homens com propriedades — ou seja, da ética protestante. Houve, porém, outra revolução, que 
+nunca chegou a se concretizar, embora de tempos em tempos ameaçasse acontecer. Ela 
+poderia haver estabelecido um sistema comunal de propriedade e uma democracia muito mais 
+ampla nas instituições legais e políticas; poderia, também, haver retirado da Igreja Anglicana o 
+seu caráter oficial e repudiado a ética protestante. O objeto deste livro está em examinar essa 
+revolta no interior da Revolução e a fascinante torrente de ideias radicais que ela 
+desencadeou.”  (Hill, p. 32). Por radicais, o autor entende grupos que elaboraram projetos de 
+mudança drástica no sistema político, social e religioso da Inglaterra.  
+Assinale a opção correta  acerca de dois grupos de atuação na Revolução Inglesa, cujas 
+projetos estão inseridos nessa “o utra revolução” protagonizada por movimentos radicais 
+mencionados pelo historiador Christopher Hill .  
+A.  (   )  anglicanos e anabatistas  
+B.  (   )  tory e Whigs  
+C.  (   )  diggers e quakers  
+D.  (   )  luteranos e levellers  
+E.  (   )  socialista utópicos e anarquistas  
+                                                                                       Vestibular 201 6.1                               
+31 
+  
+GEOGRAFIA                                                                   (11 questões)  
+ 
+Questão 40  
+ 
+Faça a correspondência entre os paralelos notáveis e as suas latitudes aproximadas . 
+ 
+1 – Trópico de Câncer  
+2 – Equador  
+3 – Círculo Polar Ártico 
+4 – Trópico de Capricórnio  
+5 – Círculo Polar Antártico  
+ (    ) 0o 
+(    ) 23o27’ S  
+(    ) 66º33’ N  
+(    ) 23o27’ N  
+(    ) 66o33’ S  
+ 
+ 
+Assinale a alternativa que contém a sequência correta , de cima para baixo.  
+ 
+A.  (   )  1 – 3 – 4 – 5 – 2  
+B.  (   )  2 – 4 – 5 – 1 – 3  
+C.  (   )  2 – 5 – 3 – 1 – 4  
+D.  (   )  2 – 4 – 3 – 1 – 5 
+E.  (   )  1 – 3 – 2 – 4 – 5  
+ 
+ 
+Questão 4 1 
+ 
+A teoria da tectônica de placas afirma que a América do Sul e a África estiveram unidas e 
+iniciaram sua separação há cerca de 125 milhões de anos.  
+Assinale a alternativa que contém o nome d a era geológica em que se iniciou tal separação, o 
+do bloco formado pela América do Sul e África e o do continente que também fazia parte deste 
+bloco , sequencialmente.  
+ 
+A.  (   )  Cenozoico – Laurásia – América do Norte  
+B.  (   )  Arqueozoico – Pangea – Europa  
+C.  (   )  Mesozoico – Gondwana – Ásia  
+D.  (   )  Mesozoico – Gondwana – Antártida  
+E.  (   )  Cenozoi co – Laurásia – Austrália  
+ 
+ 
+ 
+Questão 4 2 
+Sobre as regiões intertropicais do globo é correto  afirmar:  
+ 
+A.  (   )  aparecem em todos os continentes do globo, com exceção da Europa.  
+B.  (   )  apresentam formações vegetais de reduzida biodiversidade, devido aos baixos totais 
+pluviométricos que ocorrem nessa área.  
+C.  (   )  apresentam marcante sazonalidade da precipitação, sendo que , no H emisfério Sul, o 
+período de chuvas coincide com o inverno e o de seca, com o verão.  
+D.  (   )  apresentam as quatro estações do ano bem definidas, sem estação seca.  
+E.  (   )  são caracterizadas por uma baixa amplitude térmica anual, em virtude da pequena 
+diferença da incidência da radiação solar entre as estações do ano.                                                                                        Vestibular 201 6.1                               
+32 
+ Questão 4 3 
+Sobre o fenômeno da inversão térmica, assinale a alternativa correta . 
+ 
+A.  (   )  Consiste no rápido resfriamen to do ar próximo à superfície terrestre, o que torna a 
+atmosfera estável e dificulta a dispersão de poluentes.  
+ 
+B.  (   )  É provocado pela reação da água da chuva com ácidos lançados a partir da queima 
+de combustíveis fósseis.  
+ 
+C.  (   )  É provocado pela poluição das grandes cidades, a qual gera uma camada de ar frio 
+próxima à superfície , enquanto o ar mais quente fica acima desta camada, agravando 
+a concentração dos poluentes.  
+ 
+D.  (   )  É formado pelo aquecimento diferencial de porções continentais e marítimas, fazendo 
+com que o vento  sopre do continente para o oceano durante a noite.  
+ 
+E.  (   )  Pode agravar a ocorrência de enchentes e alagamentos nas zonas urbanas, pois 
+situações de inversão térmica favorecem a ocorrência de fortes chuvas.  
+ 
+ 
+ 
+Questão 4 4 
+ 
+Conflitos envolvendo a ocupação de Terra s no Brasil são bastante antigos . Em relação a estes 
+conflitos pode -se afirmar, exceto . 
+ 
+A.  (   )  Depois de promulgada a Constituição de 1988 acabaram os conflitos de terras com os 
+indígenas, pois a Lei garant ia o direito de propriedade aos indígenas, cujas terras 
+foram todas demarcadas até 1993.  
+ 
+B.  (   )  Sem terem onde trabalhar, muitos agricultores ocupam terras abandonadas, onde 
+constroem suas casas e passam a cultivar o solo, tornando -se posseiros.  
+ 
+C.  (   )  O Movimento dos Trabalhadores Rurais Sem Terra (MST) nasceu em meados dos 
+anos 1980 e , desde então , luta pela Reforma Agrária, pela terra e por mudanças 
+sociais no país.  
+ 
+D.  (   )  Dentro do Movimento dos Trabalhadores Rurais Sem Terra (MST) existe o espaço dos 
+“Sem Terrinhas”, destinado à educação infantil, cujas atividades buscam ins erir as 
+crianças , desde cedo , na luta pela Reforma Agrária.  
+ 
+E.  (   )  Nos últimos anos é possível reconhecer que houve alguma melhoria das condições de 
+vida no campo.  Entretanto isso não levou fez com que findassem os conflitos pela 
+posse da terra.  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+33 
+ Questão 4 5 
+ 
+Observe  o mapa que apresenta as mesorregiões do Estado de Santa Catarina.  
+ 
+ 
+Disponível em: https://pt.wikipedia.org/wiki/Lista_de_mesorregiões_de_Santa_Catarina , aces sado em:  
+30/08/2015  
+ 
+ 
+Associe as colunas , com base na leitura do mapa .  
+ 
+ 
+(I) Mesorregião nº 4, formada por 02 
+microrregiões.  (    ) Região altamente industrializada, onde 
+fica a ma ior cidade do Estado, 
+Joinville, com mais de 550.000 
+habitantes (2013).  
+ 
+(II)  
+Mesorregião nº 2, formada por 03 
+microrregiões.   
+(    )  
+Na região ficam as cidades mais frias 
+do Brasil, e é comum ocorrer  geada 
+intensa  e também , ocasional mente,  
+queda de neve durante o inverno.  
+ 
+(III)  
+Mesorregião nº 6, formada por 04 
+microrregiõ es  
+(    )  
+É a região mais alemã do Brasil.  
+ 
+(IV)  
+Mesorregião nº3, formada por 05 
+microrregiões   
+(    )  
+A região é  caracterizada, em sua maior 
+parte, pela presença da Floresta 
+Ombrófila Mista, seguida da Floresta 
+Estacional Decidual.  
+ 
+(V)  
+Mesorregião  nº 5, formada por 03 
+microrregiões   
+(    )  
+É a região mais italiana do estado.  
+ 
+Assinale a alternativa correta , de cima para baixo . 
+ 
+A. (   )  I – II – V – III e IV  
+B. (   )  II – I – III – IV e V  
+C. (   )  V – III – IV – II e I  
+D. (   )  IV – V – I – II e III  
+E. (   )  V – IV – III – II e I  
+ 
+                                                                                       Vestibular 201 6.1                               
+34 
+ Ques tão 4 6 
+ 
+Entre os países europeus listados a baixo, assinale a alternativa que ap resenta associação 
+correta de suas características . 
+ 
+A.  (   )  Noruega: país insular, de clima temperado oceânico.  
+B.  (   )  Itália: país banhado pelo oceano Atlântico, com forte presença da agricu ltura na 
+economia.  
+C.  (   )  Suíça: país montanhoso e sem litoral.  
+D.  (   )  Grécia: país banhado pelo mar Mediterrâneo, um dos países mais ricos do continente 
+europeu.  
+E.  (   )  Hungria: país do leste europeu, ingressou na União Europeia em 1973.  
+ 
+ 
+ 
+Questão 4 7 
+ 
+O Oeste catarinense pos sui características peculiares  quanto à produção industrial e agrícola . 
+Analise as proposições em relação à informação . 
+ 
+I.   As atividades mais importantes são a extração de madeira,  a produção  de erva mate e a 
+indústria metal -mecânica.  
+ 
+II.   Predominam as atividad es industriais ligadas à produção de suínos e  à de aves.  
+ 
+III.   A extração de carvão mineral , antes feita na região Sul , tem sido gradativamente 
+implantada no Oeste , gerando  resultados excelentes nos últimos anos.  
+ 
+IV.   As indústrias de celulose e de papel são caract erísticas da região, onde também se 
+destacam as atividades agrícolas de produção de gramíneas e de cana -de-açúcar.  
+ 
+Assinale a alternativa correta . 
+ 
+ 
+A. (   )  Somente a afirmativa III é verdadeira.  
+B. (   )  Somente as afirmativas I e IV são verdadeiras.  
+C. (   )  Somente as afirmativ as II, III e IV são verdadeiras.  
+D. (   )  Somente a afirmativa II é verdadeira.  
+E. (   )  Todas as afirmativas são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+35 
+ Questão 4 8 
+ 
+Analise as proposições sobre a produção do Petróleo em nível mundial . 
+ 
+I.   A Venezuela é o maior produtor da s América s. 
+II.   O Brasil passa a ser o quinto produtor mundial, depois da descoberta do pré -sal. 
+III.   Em 2015 , os Estados Unidos se transformaram no maior produtor mundial, graças à 
+extração do óleo de xisto, que é um substitutivo do petróleo.  
+IV.   A Arábia Saudita e a Rússia são grand es produtores mundiais.  
+V.   Na América Latina, o México é o maior produtor.  
+ 
+Assinale a alternativa correta : 
+ 
+A.  (   )  Somente as afirmativas II e IV  são verdadeiras . 
+B.  (   )  Somente as afirmativas III, IV e V  são verdadeiras .  
+C.  (   )  Todas as afirmativas são verdadeiras . 
+D.  (   )  Somente as afirmativas I e III  são verdadeiras . 
+E.  (   )  Somente a afirmativa V é verdadeira . 
+ 
+ 
+ 
+Questão 49 
+ 
+Sobre a morfologia do litoral é correto afirmar, exceto . 
+ 
+A. (   )   Baía é uma reentrância da costa pela qual o mar avança para a terra. Uma baía menor 
+é chamada de enseada.  
+ 
+B. (   )  No litoral existem acidentes geográficos como lagoas, ilhas, dunas, estreitos, praias e 
+meandros, estes últimos formados pela decomposição das praias.  
+ 
+C. (   )   Estreito é um canal de água que une dois corpos aquosos (mares e oceanos) e separa 
+duas massas de terras . 
+ 
+D. (   )   Istmo é uma estreita faixa de terra que liga duas áreas de terra maiores (p.ex., unindo 
+uma península a um continente ou separando dois mares).  
+ 
+E. (   )  Dunas são montes de areia formados a partir de processos eólicos. As dunas 
+estacionárias, como o próprio no me sugere, ficam imóveis em função do aumento da 
+umidade, de processos internos e/ou em razão do desenvolvimento de vegetação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+36 
+ Questão 5 0 
+ 
+Analise as proposições em relação à o rganização do espaço geográfico brasileiro que reflete 
+os diferentes momentos da ocupação do país, sua economia e seu crescimento.  
+ 
+I.   O centro econômico do Brasil, bastante industrializado e urbanizado, é constituído por São 
+Paulo e Rio de Janeiro, duas grandes metrópoles globais.  
+ 
+II.   As metrópoles regionais t êm importância reg ional, pois seus serviços abrangem uma área 
+extensa, englobando várias cidades de porte menor. Exemplo disso são as cidades de 
+Belém, Manaus e Goiânia.  
+ 
+III.   As metrópoles nacionais possuem uma complexa oferta de serviços, equipamentos 
+urbanos, universidades, b ancos, etc... que extrapolam a abrangência dos seus estados , a 
+exemplo , Porto Alegre, Curitiba, Belo Horizonte, Recife, Brasília, Fortaleza.  
+ 
+IV.   Cidades locais ou pequenas cidades exercem influência  apenas nas áreas rurais de sua 
+vizinhança e possuem escasso equipamento urbano (escolas, cinemas, hospitais).  
+ 
+V.   Capitais regionais e megalópoles globais são sinônimos, pois se referem  a enormes 
+conjuntos de grandes cidades que , uma vez conurbadas, abrangem áreas extensas cuja 
+influência é global.  
+ 
+ 
+Assinale a alter nativa correta : 
+ 
+A.  (   )  Somente  as afirmativas I, II, III e IV  são verdadeiras . 
+B.  (   )  Somente as afirmativas II e IV  são verdadeiras . 
+C.  (   )  Somente as afirmativas I , II e V  são verdadeiras . 
+D.  (   )  Somente as afirmativas I e III  são verdadeiras . 
+E.  (   )  Todas as afirmativas são verdadeiras .                                                                                       Vestibular 201 6.1                               
+37 
+  
+REDAÇÃO                                                                
+ 
+A prova de redação apresenta três propostas, o candidato deverá escolher  uma delas para 
+elaborar a sua dissertação . 
+ 
+Proposta 1 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo , enfocando o 
+tema: Avareza: mediocridade humana . 
+  
+ 
+Texto 1  
+“Proprietário e estabelecido por sua conta, o rapaz atirou -se à labutação ainda com mais ardor, 
+possuindo -se de tal delírio de enriquecer, que afrontava resignado as m ais duras privações. 
+Dormia sobre o balcão da própria venda, em cima de uma esteira, fazendo travesseiro de um 
+saco de estopa cheio de palha.”  
+ 
+AZEVEDO, Aluisio. O Cortiço . 8ª ed. São Paulo: Martin Claret, 2012. p.17 . 
+ 
+ 
+ 
+Texto 2  
+“ – Eu não convidei ninguém , ele vem porque quer. E você, Seu Dodó, não diz nada? O senhor 
+ouve essa desgraça, vê que estão querendo me depenar, me explorar, e fica calado?”  
+ 
+SUASSUNA, Ariano. O santo e a porca . 30ª ed. Rio de Janeiro. José Olympio. p. 41.  
+ 
+ 
+ 
+Texto 3  
+ 
+ 
+  
+ 
+Disponí vel em: http://mensagens.culturamix.com/frases/frases -sobre -avareza  acessado em: 30/08/2015.  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 6.1                               
+38 
+ Proposta 2 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo , enfocando o 
+tema : Preservar as evidências do antigo é dar continuidade à história.  
+ 
+Texto 1  
+É de vital importância preservar as características originais de uma arquitetura, não só para 
+seus moradores como também para o país, já que são esses p equenos fragmentos espalhados 
+que contribuem para se formar a história cultural.  Infelizmente, essas memórias ficarão 
+apagadas materialmente se nenhuma providência for tomada, pois as propriedades  antigas  
+estão sendo destruídas. Restaurar esses patrimônios  é manter vivo um ícone histórico cultural, 
+é uma forma de eternizar a reflexão sobre a história. Desconhecer o próprio passado é fechar 
+as portas para a construção de um novo futuro.  
+ 
+Disponível em: http://valdecyalves.blogspot.com.br/2010/08/patrimonio -historico -preservacao -da.html  
+[Adaptado]Acesso em: 20/08/2015.  
+ 
+Texto 2  
+      Fiquei olhando. Ah , como eu amava es sas casas antigas, gastas de uso, cheias de 
+tradições, prenh es de reminiscências! Gostava de perceber nelas o sinal do tempo passando, 
+ver-lhes gravados nas fachadas os dramas, ouvir o dolorido murmúrio que todas elas pareciam 
+deixar escorrer, exalar pelas frestas quais feridas sangrando.  
+  
+MIGUEL, Salim. Melhores contos . Editora Global, São Paulo 2009, p. 125  
+ 
+Texto 3  
+ 
+ 
+ 
+ 
+Mercado Público 2015  
+                                                                                       Vestibular 201 6.1                               
+39 
+ Proposta 3 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo, enfocando o 
+tema: Grafitismo   
+ 
+ 
+Texto 1  
+...Do figurativo ao abs trato. Abstrativar o figurativo, criando uma nova linguagem plástica que 
+só os pósteros admirarão e irão entender. Exemplo? Não: os clássicos não! Da Vinci, Rafael, 
+Miguel  Ângelo, Giotto... não -não. Avancemos. O impressionismo. Sim, o impressionismo (ou  o 
+expressionismo?): levou quanto, 50 anos , 100 anos para se impor, para vencer.  
+  
+MIGUEL, Salim. Melhores contos . Editora Global, São Paulo 2009, p. 154.  
+ 
+ 
+ 
+Texto 2  
+     O princípio do grafitismo, que favorece sua difusão, está em uma proposta fora dos padrõ es 
+e realmente revolucionária, em primeiro lugar porque não é arte vendável (pois é realizada 
+sobre suportes como vagões ferroviários ou muros urbanos) e por isso desnorteia "o sistema 
+da arte" no qual o mercado frequentemente lança, divulga, ce lebra ou queima artistas e 
+tendências. Em segundo lugar, porque esta expressão de criatividade espontânea e explosiva 
+dirige -se diretamente ao público, sem o apoio de colecionadores,  marchands , críticos ou 
+curadores de museus.  
+ 
+Disponível  em<http://www.cam .cultura.pr.gov.br/modules/conteudo/conteudo.php?conteudo=117[Adaptado] Acesso 
+em: 12/08/2015  
+ 
+ 
+ 
+Texto 3  
+ 
+ 
+Disponível em http://criticadaespecie.com/2013/11/10/po r-baixo -do-grafiti -do-armazem -vieira/  Acesso em:  
+12/08/2015  
+ 
+                                                                                       Vestibular 201 6.1                               
+40 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+41 
+  FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+42 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+43 
+ FOLHA DE RASCUNH O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+44 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO s erá corrigido!                                                                                        Vestibular 201 6.1                               
+45 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+46 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 6.1                               
+47 
+                                                                                       Vestibular 201 6.1                               
+48 
+  

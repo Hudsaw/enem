@@ -1,0 +1,2307 @@
+                                                                                      Vestibular 2023.2                               
+ 
+ 
+                                                   
+ 
+ 
+ 
+ 
+Caderno  de 
+Prova  (Tarde)  
+ 
+ 
+ 
+  
+ 
+25 de junho  
+ 
+ 
+ 
+das 15h às 19h30min  
+       
+ 
+ 
+50 questões 
+ 
+FÍSICA (14 questões)     
+QUÍMICA (14 questões)  
+HISTÓRIA (11 questões)  
+GEOGRAFIA (11 questões)  
+REDAÇÃO  
+ 
+ 
+ 
+ 
+ 
+ 
+ Instruções  
+___________________________________________  
+ 
+Para fazer a prova você usará:  
+ 
+■ este caderno de prova;  
+■ um cartão -resposta que contém seu nome ; 
+número de inscrição e espaço para sua 
+assinatura.  
+ 
+Verifique, no caderno de prova, se:  
+ 
+■ faltam folhas ; 
+■ a sequência das questões está correta;  
+■ há imperfeições gráficas que possam causar 
+dúvidas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comunique imediatamente ao fiscal qualquer 
+irregularidade.  
+   Atenção!  
+_________________________________________  
+ 
+■ Não é permitido qualquer tipo de consulta 
+durante a realização da prova.  
+■ Para cada questão são apresentadas 5 (cinco) 
+alternativas ( A, B, C, D, E ). Apenas uma delas 
+constitui a resposta correta em relação ao 
+enunciado da questão.  
+■ A interpretação das questões é parte integrante 
+da prova, não sendo permitidas perguntas aos 
+fiscais.  
+■ Não destaque folhas do caderno de  prova s. 
+■ Você somente poderá entregar sua prova após 
+60 (sessenta) minutos do início.  
+■ Os três últimos candidatos só poderão retirar -se 
+da sala simultaneamente.  
+■ Ao se retir ar da sala não leve consigo nenhum 
+material de prova, exceto  o quadro para 
+conferência de gabarito.  
+ 
+Ao terminar a prova, entregue ao fiscal o caderno 
+de prova completo e o cartão -resposta , 
+devidamente , preenchido s e assinado s. 
+ 
+ 
+ 
+ 
+ 
+ NOME DO(A) CANDIDATO (A) 25                                                                                       Vestibular 2023.2                               
+ 
+ 
+2 
+ 
+ 
+  Redação  
+ 
+ 
+A redação que apresentar cópia dos textos da Proposta de Redação terá o número de linhas copiadas 
+descontado para efeito de correção  e avaliação .  
+Será atribuída pontuação 0 (zero) às redações:  
+■ escritas a lápis, lapiseira ou caneta de tinta que não seja na cor preta;  
+■ escrita com letra ilegível , impossibilitando a  leitura para  correção;  
+■ que não apresentem texto escrito na folha oficial de redação, que será considerada “em branco”;  
+■ que estiverem escritas no verso da folha oficial de redação;  
+■ que não estiverem escritas em Língua Portuguesa;  
+■ que não observarem o limite mínimo de 20 e o máximo de 30 linhas. As linhas com cópia dos textos 
+motivadores, apresentados no Caderno de Prova, serão desconsideradas para efeito de contagem do 
+número mínimo de linhas , para a avaliação ; 
+■ que não atenderem à proposta solicitada ( disserta tivo-argumentativo ) ou que possuam outra estrutura 
+textual;  
+■ escritas em versos;  
+■ com fuga total do tema;  
+■ resultantes de plágio;  
+■ com identificação (nome, assinatura, rubrica, apelido, desenho, rabis co, traçado) ou qualquer outro registro 
+que possa revelar o autor d o texto dissertativo -argumentativo  na folha oficial definitiva de redação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUA DRO PARA CONFERÊNCIA DE GABARIT O  
+ 
+ 
+ 
+ 
+SOMENTE ESTA PARTE PODERÁ SER DESTACADA  
+ 
+  
+ 
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+ 
+                         
+ 
+26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+ 
+                                                                                                               Vestibular 2023.2                               
+ 
+ 
+3 
+ 
+ 
+  
+FÍSICA                                                                              (14 questões)  
+Formulário p.  10. 
+ 
+Questão 01  
+ 
+Considere que dois veículos estão em movimento uniforme sobre uma rodovia. Admita que o 
+primeiro veículo partiu da origem , e o segundo partiu da posição 300 km. Considerando que a 
+velocida de do primeiro é 90 km/h e a do segundo é -110 km/h, determine quais os tempos cuja 
+distância entre eles será de 100km : 
+ 
+A.  (   )  30 e 120 minutos  
+B.  (   )  90 e 120 minutos  
+C.  (   )  60 e 90 minutos  
+D.  (   )  60 e 180 minutos  
+E.  (   )  60 e 120 minutos  
+ 
+ 
+Questão 02  
+ 
+Na Figura 1, considere o gráfico da t rajetória dos projéteis A e B.  
+ 
+ 
+ 
+FIGURA 1  
+Analise as proposições abaixo . 
+ 
+I. O alcance horizontal de ambos os proj éteis é o mesmo.  
+II. A altura máxima atingida pelo projétil A é o dobro da altura do projétil B.  
+III. Ambos os projéteis possuem a mesma velocidade inic ial.  
+IV. O tempo de duração da trajetória de ambos é igual.  
+V. Tratam-se de movimento s uniformemente variado s.  
+ 
+Assinale a alternativa correta . 
+A.  (   )  Somente as afirmativas  I, II e V são verdadeiras . 
+B.  (   )  Somente  as afirmativas I, II e III são verdadeiras . 
+C.  (   )  Somente  as afirmativas I, II e IV são verdadeiras . 
+D.  (   )  Somente as afirmativas II, III e V são verdadeiras . 
+E.  (   )  Somente as afirmativas III, IV e V são verdadeiras .                                                                                       Vestibular 2023.2                               
+ 
+ 
+4 
+ 
+ 
+ Questão 03  
+ 
+Na Figura 2, dois blocos de massas m1 e m2 são conectados por um fio ideal e estão em 
+repouso sobre uma superfície horizontal sem atrito. Uma força F é aplicada sobre o bloco de 
+massa m2 e o conjunto adquire uma aceleração para a direita.  
+ 
+FIGURA 2  
+ 
+Assinale a alternativa que correspond e ao módulo da tensão na corda entre os dois blocos.  
+ 
+A.  (   )  
+  
+ 
+B.  (   )  
+  
+ 
+C.  (   )  
+  
+ 
+D.  (   )  
+  
+ 
+E.  (   )  
+  
+ 
+ 
+ 
+Questão 04  
+ 
+Um veículo a 20 m/s colide na traseira de outro veículo parado em um sinal. Na colisão, os dois 
+veículos sofrem  deformaç ões e permanecem unidos , após o choque ,  a  uma  velocidade  de 
+10 m/s. Cons idere que ambos os veículos têm a mesma massa.  
+ 
+Assinale a alternativa que correspond e à fração da energia que foi dissipada, ou seja, que 
+corresponde ao trabalho da deformação, energia térmica e sonora . 
+ 
+A.  (   )  0,25 
+B.  (   )  0,125  
+C.  (   )  0,5 
+D.  (   )  0,01 
+E.  (   )  0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+5 
+ 
+ 
+ Questão 05  
+ 
+A Figura  3 ilustra a parte traseira de um carro ao fazer uma curva à esquerda. A inclinação da 
+curva é dada pelo ângulo  θ.  
+ 
+ 
+FIGURA 3  
+ 
+Assinale a alternativa que correspond e às orientações , respectivamente , da força centrípeta 
+atuando sobre o carro ao fazer a cu rva, e da força de atrito estático nas rodas, impedindo que o 
+carro derrape radialmente:  
+ 
+A.  (   )  
+  e 
+  
+B.  (   )  
+ e 
+  
+ 
+C.  (   )  
+  e 
+  
+ 
+D.  (   )  
+ e
+  
+ 
+E.  (   )  
+ e
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+6 
+ 
+ 
+ Questão 06  
+ 
+Um mergulhador submerso , a 10 metros embaixo d’água, usou um tubo conectado à superfície 
+para respirar. Considere qu e a densidade da água é 1000 kg/m3.  
+ 
+Assinale a alternativa que correspond e à diferença de pressão aproximada que a água exerce 
+sobre os pulmões em relação ao ar externo , que está a  pressão atmosférica , e  
+a justificativa de o porqu ê é perigoso fazer isso :  
+ 
+A.  (   )  2 atm, como a pressão da água sobre o peito do mergulhador é maior que a pressão 
+interna do ar, dificulta a expansão dos pulmões para inspirar.  
+B.  (   )  1 atm, como a pressão da água sobre o peito do mergulhador é maior que a pressão 
+interna do ar, dificulta a expansão dos pulmões para inspirar.  
+C.  (   )  0,5 atm, como a pressão da água sobre o peito do mergulhador é maior que a pressão 
+interna do ar, dificulta a expansão dos pulmões para inspirar.  
+D.  (   )  -1 atm, como a pressão da água sobre o peito do mergulhador é menor que a pressão 
+interna do ar, dificulta a compressão dos pulmões para expirar.  
+E.  (   )  -2 atm, como a pressão da água sobre o peito do mergulhador é menor que a pressão 
+interna do ar, dificulta a compressão dos pulmões para expirar.  
+ 
+ 
+Questão 0 7 
+ 
+Em uma  região do espaço , existe um campo eletrostático uniforme de 200 N/C que consegue 
+manter um objeto de massa 0,1 g suspenso acima do solo , com uma aceleração no sentido 
+ascendente de 0,2 m/s2.  
+ 
+Assinale a alternativa que correspond e ao módulo da carga elétrica do objeto.  
+ 
+A.  (   )  4,8 C 
+B.  (   )  2,4 C 
+C.  (   )  2,0 C 
+D.  (   )  5,1 C 
+E.  (   )  1,0 C 
+ 
+ 
+Questão 0 8 
+ 
+Quando a luz incide em uma lente convergente, em um prisma, em um espelho, em uma 
+superfície negra , em uma superfície branca, ela sofre respectivamente:  
+ 
+A.  (   )  refração  – dispersão  – reflexão difusa  – absorção – reflexão especular  
+B.  (   )  refração  – dispersão  – reflexão especular  – reflexão difusa – absorção   
+C.  (   )  dispersão  – refração  – reflexão especular  – absorção – reflexão difusa  
+D.  (   )  dispersão  – refração  – reflexão especular  – reflexão difusa – absorção  
+E.  (   )  refraçã o – dispersão  – reflexão especular  – absorção – reflexão difusa  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+7 
+ 
+ 
+ Questão 0 9 
+ 
+Considere os componentes de um circuito elétrico e as suas funções . 
+ 
+I. O indutor é capaz de armazenar energia eletrostática.  
+II. A resistência é capaz de converter energia elétrica em calor.  
+III. Uma  resistência é capaz de alterar a diferença de potencial de uma parte de um circuito.  
+IV. O capacitor armazena energia através de um campo magnético.  
+V. A energia armazenada em um indutor é igual à quantidade de trabalho necessária para 
+estabelecer um dado fluxo  de corrente através do indutor.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II, III e V são verdadeiras.  
+B.  (   )  Somente as afirmativas I, II e III são verdadeiras . 
+C.  (   )  Somente as afirmativas I, II e V são verdadeiras . 
+D.  (   )  Somente as afirmativas I, II e IV são verdadeiras . 
+E.  (   )  Somente  as afirmativas III, IV e V são verdadeiras . 
+ 
+ 
+Questão 10  
+ 
+A Figura 4 ilustra uma ponte de Wheatstone. Considere que a tensão elétrica medida pelo 
+galvanômetro V entre A e B é nula.  
+ 
+Assinale a alternativa que correspond e ao valor d a resistência R X.  
+ 
+ 
+ 
+FIGURA 4  
+ 
+A.  (   )  
+ 
+B.  (   )  
+ 
+C.  (   )  
+ 
+D.  (   )  
+ 
+E.  (   )  
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+8 
+ 
+ 
+ Questão 11  
+ 
+Uma barra de um determinado material possui coeficiente de dilatação linear  1, e outra barra 
+possui coeficiente de dilatação linear  2. A primeira barra possui o comprimento  inicial  1% 
+maior que o comprimento inicial da segunda barra. Ambas são aquecidas e sofrem a mesma 
+variação de temperatura  ∆T. Após dilatarem, a segunda barra  fica com o comprimento 1% 
+maior que a primeira .  
+ 
+Assinale a alternativa que corresponde a razão  
+ 
+ 
+ 
+          
+A.  (   )  1,12 
+B.  (   )  1,01 
+C.  (   )  1,1 
+D.  (   )  1 
+E.  (   )  1,012 
+ 
+ 
+ 
+Questão 1 2 
+ 
+Sobre processos termodinâmicos de gases perfeitos , analise as proposições . 
+ 
+I. Em um  ciclo termodinâmico, a va riação da energia interna é nula.  
+II. Em um processo adiabático não há transferência de calor entre o meio e o sistema.  
+III. Em um processo isocórico, a pressão permanece constante.  
+IV. Em uma expansão livre, o calor é igual ao trabalho.  
+V. Em um processo isotérmico, a pr essão é diretamente proporcional ao volume.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, II e III são verdadeiras . 
+B.  (   )  Somente as afirmativas I, II e V são verdadeiras . 
+C.  (   )  Somente as afirmativas II, III e V são verdadeiras . 
+D.  (   )  Somente as afirmativas I, II e IV são verdadeiras . 
+E.  (   )  Somente as afirmativas III, IV e V são verdadeiras . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+9 
+ 
+ 
+ Questão 13  
+ 
+A Figura 5 ilustra uma onda que se propaga a uma velocidade de 10 km/s. 
+ 
+ 
+ 
+FIGURA 5  
+ 
+Assinale a alternativa que correspond e à frequência da onda . 
+ 
+A.  (   )  10 M Hz 
+B.  (   )  10 Hz 
+C.  (   )  15 M Hz 
+D.  (   )  1,5 M Hz 
+E.  (   )  15 Hz 
+ 
+ 
+Questão 14  
+ 
+Considere os seguintes dispositivos tecnológicos e algumas aplicações deles.  
+ 
+I. O sistema de posicionamento global (GPS) é usado para localizar um objeto na superfície 
+terrestre.  
+II. A célula solar converte energia lumi nosa em energia elétrica.  
+III. A microscopia eletrônica utiliza um feixe de elétrons para gerar imagens de objetos mil 
+vezes menor que uma célula.  
+IV. A radiação de micro -ondas  aquece alimentos.  
+V. O raio laser é usado para di versas aplicações cirúrgicas na medicina.   
+ 
+Assinale a alternativa que ilustra , diretamente , uma aplicação tecnológica da dualidade onda -
+partícula . 
+ 
+A.  (   )  I 
+B.  (   )  III  
+C.  (   )  II 
+D.  (   )  IV  
+E.  (   )  V                                                                                       Vestibular 2023.2                               
+ 
+ 
+10 
+ 
+ 
+ FORMULÁRIO DE FÍSICA  
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+11 
+ 
+ 
+ QUÍMICA                                                                (14 questões)  
+Tabela periódica p. 22. 
+ 
+ 
+Questão 15  
+ 
+A Figura abaixo ilustra um composto da classe dos flavonoides, uma das principais classes de 
+compostos orgânicos estudadas na própolis.  
+ 
+ 
+ 
+ (S)-2,4-dimetoxi -5-(1-fenilalil) fenol  
+ 
+ 
+Com relação à figura  dada, as sinale a alternativa incorreta . 
+ 
+A.  (   )  A molécula possui apenas um carbono quiral.  
+B.  (   )  O estado de oxidação dos átomos de carbono do anel aromático ligados a oxigênio são 
+todos +1, enquanto o estado de oxidação dos átomos de carbono do grupamento 
+metila são todos -2. 
+C.  (   )  A molécula possui fórmula constituída por 16 carbonos, 16 hidrogênios e 3 oxigênios.  
+D.  (   )  A alta relação C/O na molécula faz com que ela seja mais solúvel em etanol do que em 
+água, justificando as preparações do extrato de própolis em meio etanólico.  
+E.  (   )  A molécu la possui grupamentos éter e fenol em sua estrutura.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+12 
+ 
+ 
+ Questão 16  
+ 
+O uso de antissépticos, tal como o etanol em gel, ganhou grande relevância na imprensa e nas 
+redes sociais, especialmente após decretada a pandemia do novo coronavírus , no Brasil,  em 
+março de 2020.  
+Com relação a esse tema, considere as afirmativas . 
+ 
+I. A porcentagem indicada para a maior eficiência do álcool em gel é de 70% de etanol, sendo 
+o restante composto , principalmente , por emolientes e espessantes.  
+II. A água é necessária para a  preparação do etanol em gel , pois permite um maior tempo de 
+residência do produto nas mãos, uma vez que a mistura apresenta menor pressão de vapor 
+em relação ao etanol puro.  
+III. Proporções abaixo de 70% de etanol , na preparação do etanol em gel , não permitem bo a 
+eficiência do produto, uma vez que, especialmente , para vírus envelopados, a primeira 
+etapa do mecanismo de ação baseia -se em solubilizar/penetrar o envelope, que consiste em 
+uma membrana lipoproteica, seguido de desnaturação de proteínas pela ação da mi stura 
+etanol/água.  
+IV. Sabões, sabonetes e detergentes são misturas que contém substâncias surfactantes, que 
+possuem em sua molécula uma parte polar e outra apolar, também permitindo alta eficiência 
+em remoção de bactérias e vírus de várias superfícies.  
+Assina le a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II, III e IV  são verdadeiras.  
+B.  (   )  Somente as afirmativas I, II e IV  são verdadeiras.  
+C.  (   )  Somente as afirmativas I, II e III  são verdadeiras.  
+D.  (   )  Somente as afirmativas I e IV  são verdadeiras.  
+E.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+13 
+ 
+ 
+ Questão 17  
+ 
+O peróxido de hidrogênio é comumente vendido no com ércio em geral, incluindo mercados e 
+farmácias, com diversos usos, dependendo da concentração. Uma solução a 3% em massa é 
+geralmente usada como alvejant e ou antisséptico. A água oxigenada decompõe -se em água 
+líquida e oxigênio gasoso espontaneamente, porém , lentamente , quando em solução aquosa. 
+Uma outra maneira de expressar sua concentração é em volume de oxigênio produzido pela 
+decomposição total do per óxido de hidrogênio, medido a 273 K e 1 atm de pressão. Por 
+exemplo, uma solução de peróxido 20 volumes significa que 1 mL dessa solução irá produzir 
+20 mL de gás oxigênio, medido na CNTP.  
+ 
+Fonte : http://brasilescola.uol.com.br/quimica/peroxido -de-hidroge nio.htm . Acesso em 24/maio de 2023.  
+ 
+Considere que uma solução aquosa de peróxido de hidrogênio tem densidade de 1,2 g/mL e 
+50% em massa.  
+ 
+Assinale a alternativa que expressa , correta mente , a concentração aproximada em volumes 
+de gás oxigênio dessa soluçã o. 
+ 
+A.  (   )  400 
+B.  (   )  100 
+C.  (   )  200 
+D.  (   )  50 
+E.  (   )  40 
+ 
+Questão 18  
+ 
+Cerca de 2 milhões de toneladas de resíduos plásticos são geradas , no Brasil , por ano. Algo 
+em torno de 15 -17% são reaproveitados, e o restante vai parar nos aterros sanitários, rios e 
+mares. Uma das maneiras de aproveita r plásticos é na geração de energia por meio de sua 
+combustão. A tabela abaixo mostra calores de combustão do metano, do carbono e do 
+polietileno, um dos plásticos muito comu ns utilizado no Brasil.  
+Material  ΔH combustão  
+Metano (gás natural)  -802 kJ/mol  
+Carbono  -393,5 kJ/mol  
+Polietileno  -46,3 MJ/kg  
+ 
+Assinale a alternativa que apresenta , corretamente , a massa de metano e de carbono, em kg, 
+respectivamente, que geram a mesma quantidade de energia que 1 kg de  polietileno , quando 
+queimado por completo.  
+ 
+A.  (   )  0,92 e 1,41  
+B.  (   )  17,3 e 8,50  
+C.  (   )  22,4 e 26,7  
+D.  (   )  1,36 e 1,53  
+E.  (   )  2,0 e 3,1  
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+14 
+ 
+ 
+ Questão 19  
+ 
+A formação do gás hidrogênio (H 2), a partir de dois átomos de hidrogênio (H), pode ser 
+explicada devido ao estado mais estável, de menor ene rgia, dos átomos ligados, em 
+comparação ao estado energético desses átomos isolados.  
+ 
+Em relação à ligação formada entre esses átomos, assinale a alternativa correta . 
+ 
+A.  (   )  A ligação é iônica, pois embora haja repulsão entre os núcleos, há um 
+compartilhamento de elétrons entre os dois átomos de hidrogênio.  
+B.  (   )  A ligação é covalente e se estabelece quando, devido à diferença de eletronegatividade, 
+um dos átomos de hidrogênio doa seu elétron para o outro átomo.  
+C.  (   )  A ligação é metálica, pois há compartilhamento de elétro ns entre os átomos de 
+hidrogênio, que , na tabela periódica , é classificado como um metal alcalino.  
+D.  (   )  A ligação é covalente e se estabelece quando há um equilíbrio entre as forças de 
+atração e repulsão, de modo que os elétrons de cada átomo de hidrogênio são atraídos 
+igualmente pelos dois núcleos.  
+E.  (   )  A ligação é iônica e se estabelece quando um dos átomos de hidrogênio cede seu 
+elétron para o outro átomo de hidrogênio.  
+ 
+ 
+Questão 20  
+ 
+Considere um sistema formado por dois eletrodos de platina, conectados a uma bate ria de 
+chumbo (de 12 V) e mergulhados em cloreto de sódio fundido, em temperatura superior à 
+temperatura de fusão do NaCl (801º C). Nesse sistema , a corrente elétrica é conduzida no 
+líquido e ocorre a decomposição do NaCl.  
+ 
+Com base nessas informações e e m seus conhecimentos em eletroquímica, assinale a 
+alternativa correta . 
+ 
+A.  (   )  A decomposição do cloreto de sódio é uma reação espontânea e, por isso, o uso da 
+bateria de chumbo (de 12 V) é dispensável para a ocorrência da reação.  
+B.  (   )  O eletrodo ligado ao polo negati vo da bateria atrai os cátions Na+, formando sódio 
+metálico a partir da semi rreação de redução. No outro eletrodo, os ânions Cl- são 
+atraídos e oxidam -se, produzindo gás cloro.  
+C.  (   )  A reação de decomposição não espontânea de uma substância iônica líquida é 
+conh ecida por eletrólise aquosa.  
+D.  (   )  No ânodo ocorre a reação de oxidação Na+ (ℓ) + e- → Na (ℓ) e no cátodo ocorre a reação 
+de redução 2 Cl- (ℓ) → Cl 2 (g) + 2 e-. 
+E.  (   )  A reação de decomposição do cloreto de sódio produz energia elétrica que pode ser 
+utilizada e, por is so, o sistema pode ser considerado uma pilha.  
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+15 
+ 
+ 
+ Questão 2 1 
+ 
+Sabe -se que algumas propriedades das soluções dependem da concentração, ou seja, da 
+proporção entre seus constituintes, e não da natureza do soluto.  
+ 
+Sobre essas propriedades, é incorreto  afirmar  que: 
+ 
+A.  (   )  o abaixamento da pressão de vapor ocorre ao se adicionar um soluto não volátil a uma 
+solução, retardando a ebulição do solvente.  
+B.  (   )  o abaixamento crioscópico pode ser verificado no congelamento de uma solução de 
+água com cloreto de sódio, que passa a o correr em menor temperatura do que a 
+temperatura em que ocorreria o congelamento da água pura.  
+C.  (   )  o aumento da temperatura de ebulição da água é constatado durante o cozimento de 
+alimentos, em que se adiciona sal de cozinha na água em que são colocados os 
+alimentos, e a temperatura de ebulição da água passa a ser maior do que se fosse 
+utilizada sem o sal.  
+D.  (   )  o aumento da temperatura de fusão da água é observado quando se prepara uma 
+solução com água da torneira e sal de cozinha.  
+E.  (   )  a pressão osmótica é a pressão nec essária para interromper a passagem espontânea 
+de solvente, por uma membrana semipermeável, de um meio menos concentrado para 
+outro mais concentrado . 
+ 
+Questão 22  
+ 
+Uma professora de química solicitou que seus alunos preparassem , no laboratório , uma 
+SOLUÇÃO A (solução aquosa de cloreto de potássio, com concentração 0,2 mol/L) , a partir de 
+50 mililitros de uma SOLUÇÂO B (solução aquosa de cloreto de potássio com concentração 1,0 
+mol/L).  
+ 
+A professora informou aos alunos que, se necessário, considerassem a mas sa molar do KCl 
+como 74,5 g/mol. Sobre o preparo da SOLUÇÃO A, é correto  afirmar . 
+ 
+A.  (   )  Deve ser realizado um processo de diluição da SOLUÇÃO A, adicionando -se 74,5 g de 
+KCl aos 50 mililitros da SOLUÇÃO B.  
+B.  (   )  Deve ser realizado um processo de dissolução da SOLUÇÃO  A, adicionando -se 100 
+mililitros de água à SOLUÇÃO B.  
+C.  (   )  Deve ser realizado um processo de diluição da SOLUÇÃO B, adicionando -se 50 
+mililitros  dessa solução,  até que o volume da solução A atinja 250 mililitros.  
+D.  (   )  Deve ser realizado um processo de diluição da S OLUÇÃO A, adicionando -se água aos 
+50 mililitros da SOLUÇÃO B , até que o volume da solução atinja 125 mililitros.  
+E.  (   )  Deve ser realizado um processo de dissolução da SOLUÇÃO A, adicionando -se 149 g 
+de KCl à 50 mL da SOLUÇÃO B . 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+16 
+ 
+ 
+ Questão 2 3 
+ 
+As investigações sob re a estrutura da matéria representam um importante marco na história da 
+química, especialmente nos séculos XIX e XX, em que foi proposta a existência de várias 
+partículas que podem ser encontradas em um átomo.  
+ 
+Sobre essas partículas, analise as proposiç ões. 
+ 
+I. Os prótons são partículas de carga positiva que estão localizadas no núcleo do átomo.  
+II. Os elétrons são partículas de carga negativa que estão localizadas na eletrosfera.  
+III. Os nêutrons são partículas sem carga elétrica e estão localizadas na eletrosfera.  
+IV. Os prótons possuem massa maior que a dos elétrons.  
+V. Os nêutrons estão localizados no núcleo do átomo e possuem massa equivalente à massa 
+dos elétrons.  
+VI. Os prótons e os elétrons são partículas que, embora possuam cargas opostas, estão 
+localizad os no núcleo a tômico.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, II e III são verdadeiras.  
+B.  (   )  Somente as afirmativas II, IV e V são verdadeiras.  
+C.  (   )  Somente as afirmativas V e VI são verdadeiras.  
+D.  (   )  Somente as afirmativas III e VI são verdadeiras.  
+E.  (   )  Somente as afir mativas I, II e IV são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+17 
+ 
+ 
+ Questão 24  
+ 
+Observe a temperatura de fusão e de ebulição das substâncias , a seguir, a 1 atm de pressão.  
+Substância  Temperatura  
+fusão (ºC)  Temperatura  
+ebulição (ºC)  
+Cloro  -101,0  -34,6 
+Flúor  -219,6  -188,1  
+Bromo  -7,2 58,8 
+Mercúrio  -38,8 356,6  
+Iodo  113,5  184,0  
+ 
+Em relação a essas propriedades, assinale a alternativa que corresponde , corret amente , aos 
+estados físicos da matéria , nas situações apresentadas.  
+A.  (   )  O mercúrio, se ficar exposto à temperat ura ambiente, estando esta a 24°C, estará no 
+estado sólido.  
+B.  (   )  Se uma amostra de iodo for levada para a Antártida,   aonde  as temperaturas alcançam 
+- 55°C, a mesma encontrar -se-á  no estado gasoso.  
+C.  (   )  No deserto, onde as temperaturas são elevadas durante o dia, podendo atingir 50° C, o 
+flúor encontra -se no estado líquido.  
+D.  (   )  O cloro, nas CNTP, encontra -se no estado sólido.  
+E.  (   )  Em temperaturas altas , como as que acontecem no verão , podendo chegar a 45°C, o 
+bromo encontra -se no estado líquido.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+18 
+ 
+ 
+ Questão 2 5 
+O grá fico, a seguir, refere -se ao diagrama energético de uma reação química, no qual se veem 
+destacados dois caminhos de reação:  
+ 
+Após uma análise das entalpias dos reagentes , dos produtos e dos valores i, ii, iii e iv, pode -se 
+afirmar  que a:  
+A.  (   )  reação é endotérm ica e i  representa o ΔH com a presença do catalisador.  
+B.  (   )  reação é exotérmica e a energia de ativação, sem a presença do catalisador, é 
+representada por iii.  
+C.  (   )  presença do catalisador diminui a energia de ativação de i para ii e mantém constante o 
+ΔH da reação representada por iv.  
+D.  (   )  presença do catalisador diminui o ΔH da reação, representado por iii.  
+E.  (   )  reação é endotérmica e a presença do catalisador diminui o ΔH de i para ii.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+19 
+ 
+ 
+ Questão 2 6 
+Para promover a manutenção de diversos tipos de espécies, a água do ma r deve ser 
+ligeiramente alcalina, com seu pH entre 7,4 e 8,5 . Isto ocorre por conta de diversas reações 
+relacionadas ao gás carbônico e ao carbonato de cálcio , que tendem a manter o pH constante . 
+Essas reações químicas estão representadas a seguir:  
+(i) CO 2(g) 
+  CO 2(aq)     
+(ii) CO 2(aq) + H 2O(l) 
+  H2CO 3(aq)   
+(iii) H2CO 3(aq) 
+  H+(aq) + HCO 3-(aq) 
+(iv) HCO 3-(aq) 
+  H+(aq) + CO 32-(aq) 
+(v) CaCO 3(s) 
+  Ca2+(aq) + CO 32-(aq) 
+Sobre essas reações químicas, analise as proposições . 
+ 
+I. O H2CO 3 em solução aquosa dissocia -se formando os íons OH- e CO 32-. 
+II. As reações apresentadas nas cinco equações ocorrem simultaneamente e configuram uma 
+solução tampão.  
+III. Segundo os processos acima, infere -se que o pH da água é levemente ácido.  
+IV. Caso haja exces so de íons H+ o sistema se deslocará no sentido que produza CO 32-. 
+V. Na equação i ocorre o equilíbrio físico entre o gás carbônico dissolvido e o gasoso.  
+VI. O aumento de CO 2 é prejudicial para diversos seres marinhos por provocar a acidificação 
+desse  ambiente, com consequente dissolução de sistemas vivos , contendo carbonato de 
+cálcio em sua composição.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, II e VI são verdadeiras.  
+B.  (   )  Somente as afirmativas II, V e VI são verdadeiras.  
+C.  (   )  Somente as afirmativas I, III, V e VI  são verdadeiras.  
+D.  (   )  Somente as afirmativas III, IV e V são verdadeiras.  
+E.  (   )  Somente as afirmativas III e V são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+20 
+ 
+ 
+ Questão 2 7 
+ 
+O quadro , a seguir , representa algumas substâncias obtidas pela destilação do petróleo cru e 
+de suas pro priedades.  
+ 
+Nome da fração 
+obtida  Número de átomos de 
+carbono na molécula  Temperatura de 
+ebulição aproximada 
+(ºC) Utilização  
+Gás natural  X1 -160 a -1 X4 
+Gasolina  C6 a C 12 50 a 200  Combustível para 
+automóveis  
+Querosene  C10 a C 14 X3 Combustível para avião  
+Diesel  C14 a C 20 270 a 350  X5 
+Asfalto  X2 Resíduo  Cobertura de estradas  
+ 
+Assinale a alternativa correta  que representa X 1, X2, X3, X4 e X 5, respectivamente.  
+A.  (   )  C1 a C 5, acima de C 36, 150 a 275, combustível, combustível para ônibus e 
+caminhão . 
+B.  (   )  C35, C1 a C 5, 100 a 150, lubrificante, solvente.  
+C.  (   )  C1 a C 4, acima de C 36, 350 a 450, combustível, solvente.  
+D.  (   )  C1 a C 4, acima de C 36, 25 a 100, solvente, combustível.  
+E.  (   )  C35, C1 a C 5, 150 a 350, matéria prima, solvente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+21 
+ 
+ 
+ Questão 2 8 
+A utilização de combustíveis deriva dos do petróleo contribui para a emissão de gases 
+poluentes. O controle da combustão incompleta, uma das principais causas de poluição 
+atmosférica é tão importante que no Brasil, desde 1993, há legislação sobre a redução 
+de emissão de poluentes por veículo s automotores . 
+Sobre a poluição atmosférica , gerada pelos combustíveis fósseis, assinale a alternativa 
+correta .  
+A.  (   )  A combustão do álcool pode ser representada pelas equações: ( i) C 2H5OH(ℓ) + 
+2O2(g) → 2CO (g) + 3H 2O(ℓ) e (ii) C 2H5OH(ℓ) + 3O 2(g) → 2CO 2(g) + 3H 2O(ℓ). 
+Para uma mesma quantidade de etanol, a combustão completa indicada na 
+equação  ii consome maior quantidade de oxigênio que a combustão incompleta, 
+indicada na equação  i. 
+B.  (   )  Na combustão incompleta do butano 2C 4H10(g) + 9O 2(g) → 8CO (g) + 10H 2O(ℓ), 
+a fulig em ocorre em razão da formação de monóxido de carbono . 
+C.  (   )  Veículos  cujos motores queimam gasolina e álcool geram o monóxido de 
+carbono (CO), o que praticamente não ocorre com caminhões e ônibus.  
+D.  (   )  A fumaça preta , que sai de um automóvel desregulado , é a fuligem , resultante 
+da combustão completa do combustível.  
+E.  (   )  O monóxido de carbono, produzido da combustão incompleta, é um gás incolor e 
+mal cheiroso e possui a propriedade química de combinar -se com a 
+hemoglobina , presente nos glóbulos vermelhos do sangue, ajudand o no 
+transporte de oxigênio para as células do corpo, não possuindo nenhum efeito 
+negativo à saúde.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+22 
+ 
+ 
+ TABELA PERIÓDICA                                                                          
+ 
+ 
+ 
+ 
+ 
+                                                                                      Vestibular 2023.2                               
+ 
+ 
+23 
+ 
+ 
+ HISTÓRIA                                                                        (11 questões)  
+ 
+Questão 29  
+ 
+Promulgado durante o governo do General Costa e Silva em 13 de dezembro de 1968, o Ato 
+Institucional n ° 5, o AI -5, vigorou até 1978 e significou a possibilidade de uma série de atos 
+arbitrários por pa rte do presidente da república. Dentre as resoluções e possibilidades previstas 
+no Ato, era possível ao presidente : 
+ 
+I. Decretar a intervenção nos estados e municípios, sem as limitações previstas na 
+Constituição; suspender os direitos políticos de quaisquer cidadãos pelo prazo de 10 anos.  
+II. Suspender as garantias constitucionais ou legais de: vitaliciedade, inamovibilidade e 
+estabilidade; decretar o confisco de bens de todos quantos tenham enriquecido 
+ilicitamente, no exercício de cargo ou função pública, incl usive de autarquias, empresas 
+públicas e sociedades de economia mista, sem prejuízo das sanções penais cabíveis.  
+III. Cassar mandatos eletivos federais, estaduais e municipais; decretar o recesso do 
+Congresso Nacional, das Assembleias Legislativas e das Câmaras  de Vereadores, por Ato 
+Complementar, em estado de s ítio ou fora dele, só voltando os mesmos a funcionar 
+quando convocados pelo Presidente da República.  
+ 
+Assinale a alternativa que apresenta apenas as assertivas corretas , conforme o Ato 
+Institucional n ° 5. 
+ 
+A.  (   )  Somente a afirmativa  III é verdadeira.  
+B.  (   )  Somente as afirmativas  I e II são verdadeiras.  
+C.  (   )  Somente as afirmativas  I e III são verdadeiras.  
+D.  (   )  Somente as afirmativas  II e III são verdadeiras.  
+E.  (   )  Todas as afirmativas  são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+24 
+ 
+ 
+ Questão 30  
+ 
+"A revolução  cubana  era tudo:  romance,  heroísmo  nas montanhas,  ex-líderes  estudantis  com a 
+desprendida  generosidade  de sua juventude  - os mais  velhos  mal tinham  passado  dos trinta  -, 
+um povo  exultante,  num paraíso  turístico  tropical  pulsando  com os ritmos  da rumba".  
+ 
+Fonte:  (HOBSBAWM,  Eric. Era Dos Extremos  - O breve  século  XX - 1914 -1991 .  São Paulo:  Companhia  
+das Letras,  1995.)  
+ 
+A respeito da Revolução Cubana, assinale a alternativa correta . 
+ 
+A.  (   )  Foi implementada por meio  do processo eleitoral de 1958, que procl amou Fidel Castro 
+como primeiro presidente democraticamente eleito.  
+B.  (   )  Foi um movimento exclusivamente composto pela aristocracia cubana de velha -guarda  
+e pelos  acordos de gabinete com o governo russo.  
+C.  (   )  Foi o resultado da fragilidade e do isolamento do gover no de Fulgêncio  Batista, que, 
+desde sua eleição até 1959, jamais contou com apoio político ou financeiro norte -
+americano.  
+D.  (   )  Foi orientada por um ideário nacionalista e anti -imperialista que conquistou apoio de 
+setores da esquerda cubana.  
+E.  (   )  Foi o primeiro movi mento revolucionário a atingir êxito e instaurar um governo popular 
+na América Latina, durante o século XIX.  
+ 
+ 
+Questão 31  
+ 
+Muitos historiadores e historiadoras t êm se dedicado ao estudo do século XIX. René Rémond 
+referiu -se a ele como um dos séculos mais complexos que existem. Arno J. Mayer, por sua vez, 
+caracterizou -o como uma época de “persistência do Antigo Regime ”.  
+ 
+Considerando seus conhecimentos, a ssinale a alternativa que apresenta apenas movimentos 
+ocorridos no Século XIX.  
+ 
+A.  (   )  Revolução Francesa, Ind ependência do Brasil, Guerra de Secessão nos EUA  
+B.  (   )  Independência da Argentina, Abolição da Escravidão no Brasil, Comuna de Paris.  
+C.  (   )  Revolução Russa, Guerra dos 100 anos, Revolta dos Malês.  
+D.  (   )  Independência da Guiana Francesa, Independência da Bolívia, Revolução F arroupilha.  
+E.  (   )  Estado Novo, Revolução Industrial, Revolução Chinesa.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+25 
+ 
+ 
+ Questão 32  
+ 
+“Nós  proclamamos  o direito,  para todos  os povos  colonizados,  de assumirem  seu próprio  
+destino...  A longa  noite  está morta.”  
+ 
+Fonte:  (Declaração  do V Congresso  Pan-Africano, 1945)  
+ 
+Conforme Leila Hernandez, o pan -africanismo pode ser compreendido como um “ movimento 
+político -ideológico centrado na noção de raça, noção que se torna primordial para unir aqueles 
+que a despeito de suas especificidades históricas são assemelhad os por sua origem humana e 
+negra”.  
+ 
+A respeito do Pan -Africanismo, assinale a alternativa correta .  
+ 
+A.  (   )  Movimento político -ideológico originado na África, a partir da segunda metade do século 
+XX, após o sucesso dos processos de descolonização no continente.   
+B.  (   )  Movimento político que surgiu fora da África e ganhou força com as pessoas negras que 
+passaram a militar contra a discriminação e subjugação a que eram sujeit as nas 
+colônias.  
+C.  (   )  Movimento político originado no Sudão por grupos revolucionários extremistas ma rxistas 
+que, após a independência, defendiam um movimento denominado “colonização 
+inversa” , cujo lema era “Africanos do mundo: uni -vos”.  
+D.  (   )  Movimento ideológico originado em Mali, na África Ocidental, e que serviu como 
+elemento de coesão para os africanos qu e, no Brasil, incitaram o movimento conhecido 
+como Revolta dos Malês.  
+E.  (   )  Movimento político ideológico , iniciado no Brasil, cujos principais líderes eram 
+vinculados a partidos socialistas e defendiam a irrestrita implementação de cotas 
+raciais.  
+ 
+ 
+Questão 33  
+ 
+Ao longo do século XIX o Nacionalismo, compreendido como uma força revolucionária, pode 
+ser percebido nos seguintes movimentos : 
+ 
+I. Unificação Italiana e Unificação Alemã  
+II. Independências de países Africanos   
+III. Cisma do Oriente  
+IV. Revolução dos Cravos  
+ 
+Assinale a alternativa  correta  que contempla apenas os movimentos ocorridos no século XIX.  
+ 
+A.  (   )  Somente as afirmativas I e II são verdadeiras.  
+B.  (   )  Somente as afirmativas I, II e IV  são verdadeiras . 
+C.  (   )  Somente as afirmativas III e IV  são verdadeiras . 
+D.  (   )  Somente as afirmativas I e III são verdadeiras . 
+E.  (   )  Somente as afirmativas I, III e IV  são verdadeiras .  
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+26 
+ 
+ 
+ Questão 34  
+ 
+“O carro -chefe das reformas era, sem dúvida, a reforma agrária que visava eliminar os conflitos 
+pela posse da terra e garantir o acesso à propriedade de milhões de trabalh adores rurais. Em 
+discurso por ocasião do encerramento do 1° Congresso Camponês realizado em Belo 
+Horizonte em novembro de 1961, João Goulart, afirmou que não só era premente a realização 
+da reforma agrária, como também declarou a impossibilidade de sua ef etivação sem a 
+mudança da Constituição brasileira que exigia indenização prévia em dinheiro para as terras 
+desapropriadas.” (Marieta de Moraes Ferreira)  
+ 
+O texto acima refere -se à(s) reforma(s):  
+ 
+A)  “campesinas ”, promovidas por Vargas e defendidas por Goular t, seu vice em 1961.  
+B) “políticas ”, promovidas durante o governo Lula.  
+C) implementadas pelos Atos Institucionais, instauradas a partir do Golpe de 1964.   
+D) “de base ”, promovidas pelo governo de João Goulart.  
+E) “da previdência ”, amplamente debatida no governo de  Michel Temer e de clara inspiração 
+nas proposições de João Goulart.  
+ 
+ 
+Questão 35  
+ 
+Considerado como um dos maiores expoentes da filosofia escolástica, São Tomás de Aquino 
+foi fortemente influenciado pelas obras de Aristóteles. Apesar de sua grande importâ ncia, os 
+textos de Aristóteles tornaram -se conhecidos na Europa apenas a partir do século XII.  
+ 
+A chegada dos textos de Aristóteles na Europa deveu -se à/ao(s) :  
+ 
+A.  (   )  processo de queda do Império Romano, que impulsionou a difusão das obras clássicas 
+para toda a Europa, resultando na construção das grandes bibliotecas eclesiásticas de 
+Roma e Paris.  
+B.  (   )  ascensão do movimento Renascentista, que se inspirava filosoficamente e 
+artisticamente nas obras produzidas na Grécia Clássica.   
+C.  (   )  registros realizados por Sócrates e  resguardados em Constantinopla , até a posterior 
+edificação de Alexandria que, em fins do século XI, monopolizava m a tradução de 
+autores gregos clássicos.  
+D.  (   )  trabalho de São Tomás de Aquino, monge beneditino e primeiro tradutor de Aristóteles 
+para o francês moderno.  
+E.  (   )  atuação dos centros de cultura árabes , nos quais realizaram -se as primeiras traduções 
+que foram, posteriormente, difundidas pela Europa Medieval.  
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+27 
+ 
+ 
+ Questão 36  
+ 
+A respeito do período comumente conhecido como Guerra Fria, analise as assertivas . 
+ 
+I. Pode ser caracterizad o como uma disputa entre potências por predomínio internacional, 
+sendo que cada uma contava com o apoio de países aliados.  
+II. Pode ser caraterizad o como um processo colonizador socialista contemporâneo, voltado à 
+exploração econômica d e países subdesenvolvidos.  
+III. Realizou -se, entre 1945 e 1989,  por uma disputa exclusivamente filosófico -ideológica, 
+protagonizada por Karl Marx e Adam Smith.  
+IV. Tem entre suas principais manifestações a corrida armamentista nuclear e a corrida 
+espacial.  
+ 
+Assin ale a alternativa  correta . 
+ 
+A.  (   )  Somente as afirmativas I e II são verdadeiras.  
+B.  (   )  Somente as afirmativas I e IV  são verdadeiras.  
+C.  (   )  Somente as afirmativas II e III  são verdadeiras.  
+D.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+E.  (   )  Somente as afirmativas III e IV  são v erdadeiras.  
+ 
+ 
+Questão 37  
+ 
+A respeito dos escravizados africanos e de sua condição , no Brasil , durante os períodos da 
+Colônia e Império , analise as proposições .  
+ 
+I. Trabalhavam apenas nos campos pois, uma vez nas cidades, eram imediatamente 
+alforriados para d esempenhar trabalhos domésticos.  
+II. Sofriam castigos físicos, os quais eram efetuados apenas por feitores ou capatazes brancos, 
+sob a ordem de seus proprietários.   
+III. Devido à extrema violência com a qual eram tratados, os escravizados não tinham 
+quaisquer for mas ou possibilidades de resistência.  
+IV.  Não compartilhavam, obrigatoriamente, da mesma cultura e religião, já que provinham de 
+regiões diferentes da África.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa IV é verdadeira.  
+B.  (   )  Somente a afirmativa I é verdadeira.  
+C.  (   )  Somente a afirmativa II é verdadeira.  
+D.  (   )  Somente a afirmativa III é verdadeira.  
+E.  (   )  Todas as afirmativas são verdadeiras.  
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+28 
+ 
+ 
+ Questão 38  
+ 
+Se de início a ocupação do território brasileiro  pelo processo de colonização  restringia -se ao 
+litoral, nos séculos XVII e XVIII , ela se estende para regiões interioranas, incitada , 
+especialmente , pela possibilidade de exploração de novas atividades econômicas e interesses 
+políticos na definição de fronteiras.  
+ 
+A respeito do movimento de ocupação do interior do Brasil , assinale a alternativa correta . 
+ 
+A) A ocupação do Pampa gaúcho foi motivada , exclusivamente , pela necessidade de 
+manutenção das fronteiras.  
+B) O vale amazônico foi ocupado apenas no século XIX, em função da ascensão do ciclo da 
+borracha.  
+C) O sertão nordestino fo i uma das últimas áreas ocupadas no processo de colonização, e a 
+exemplo do que fora implementado no sul dos EUA, serviu , primeiramente , para a 
+produção de algodão.  
+D) No planalto central assistiu -se à prática do bandeirismo e  a da mineração.  
+E) O litoral brasi leiro pode ser ocupado apenas após a exploração massiva do interior, devido 
+à necessidade de catequese indígena.  
+ 
+ 
+ 
+Questão 39  
+ 
+No século XIX ocorreram os processos de independência do Brasil e de outros países da 
+América Latina. Uma das principais difere nças perceptíveis foi a instauração de regimes 
+republicanos nos países da América Espanhola e do regime monárquico, no Brasil.  
+ 
+A instauração da m onarquia como regime político brasileiro , pode ser compreendid a como : 
+ 
+A.  (   )  resistência às implicações políticas q ue a república traria, ao preconizar a 
+obrigatoriedade da abolição da escravidão.  
+B.  (   )  manifestação de um elemento identitário brasileiro que reincide no desejo de se 
+diferenciar dos outros países da América Latina.  
+C.  (   )  consequência de um processo anterior, verificável  pela instalação da corte portuguesa 
+no Brasil.  
+D.  (   )  consequência dos acordos estabelecidos com a monarquia norte -americana, 
+interessada na importação do algodão como matéria prima.   
+E.  (   )  comprovação do fascínio exerc ido pela pompa da corte e da condição imp erial.  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+29 
+ 
+ 
+ GEOGRAFIA                                                                   (11 questões)  
+ 
+Questão 4 0 
+ 
+No verão, os continentes são transformados em centros de baixa pressão, enquanto ,  no 
+inverno , eles são relativamente frios, se comparados com os oceanos quentes. Os continentes 
+tropicais e os oceanos que os circundam experimentam, então, uma inversão sazonal na 
+direção do vento. A causa básica e essencial desse fenômeno atmosférico é o aquecimento 
+diferencial de grandes áreas continentais e oceânicas, variando com a estação. Esse tipo de 
+circulação atmosférica é mais desenvolvido no leste e sudeste da Ásia.  
+ 
+Fonte: Adaptado de AYOADE, J. O. Introdução à climatologia para os trópicos . Rio de Janeiro: Bertrand 
+Brasil, 1996.  
+ 
+O fenômeno climáti co ao qual o texto se refere é  denominado : 
+ 
+A.  (   )  El Niño  
+B.  (   )  La Niña  
+C.  (   )  Monção  
+D.  (   )  Tufão  
+E.  (   )  Inversão térmica  
+ 
+ 
+Questão 4 1 
+ 
+Assinale a alternativa correta  sobre a industrialização na América Latina .  
+ 
+A.  (   )  Grande parte dos países latino -americanos possui economia essencialmente in dustrial. 
+Somente República Dominicana, Haiti e Nicarágua apresentam atividade agrária mais 
+expressiva na América Latina.  
+B.  (   )  O processo de industrialização do Brasil, México e Argentina, os países mais 
+industrializados da América Latina, ocorreu somente a par tir do século XX. Diz -se que a 
+industrialização desses países foi tardia porque , na Europa , esse processo aconteceu 
+ainda no século XVIII.  
+C.  (   )  Em países como Brasil, Argentina e Panamá, considerados relativamente 
+industrializados, as indústrias estão voltadas,  sobretudo, para a produção de bens de 
+consumo não duráveis, como alimentos, vestuário e bebidas, com baixo nível 
+tecnológico.  
+D.  (   )  No Brasil, e em países como a Argentina e o México, encontra m-se parques industriais 
+pouco diversificados, com ênfase nas indúst rias de bens intermediários (fabricação de 
+autopeças e maquinários).  
+E.  (   )  Desde 1950  o Brasil, assim como outros países da América Latina, passou a estimular o 
+desenvolvimento e a diversificação de indústrias nacionais. Esse processo de 
+diversificação e desenvo lvimento da atividade industrial passou a ser denominado 
+industrialização por substituição de importações . 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+30 
+ 
+ 
+ Questão 4 2 
+ 
+A forma de nosso planeta (formato e suas dimensões) é um tema que vem sendo pesquisado 
+ao longo dos anos em várias partes do mundo. M uitas foram as interpretações e os conceitos 
+desenvolvidos para definir qual seria a forma da Terra. Pitágoras, em 528 a.C., introduziu o 
+conceito de forma esférica para o planeta, e , a partir daí , sucessivas teorias foram 
+desenvolvidas até alcançarmos o c onceito que é , hoje, bem aceito no meio científico 
+internacional.  
+ 
+Fonte: Adaptado de Instituto Brasileiro de Geografia e Estatística – IBGE. Noções Básicas de Cartografia . Rio de 
+Janeiro: IBGE, 1999.  
+ 
+Considerando o formato e as dimensões do planeta Terra , indique a proposição incorreta . 
+ 
+A.  (   )  O geoide é uma representação da superfície da Terra determinada pela linha do relevo 
+do planeta. Essa superfície serve de referência e não corresponde à superfície real da 
+Terra.  
+B.  (   )  A superfície do geoide não corresponde , necessariamente , à superfície da elipsoide de 
+referência. As diferenças, positivas ou negativas, entre essas duas superfícies podem 
+ser representadas em um mapa e são chamadas ondulações do geoide.  
+C.  (   )  Segundo o conceito introduzido pelo matemático alemão , Carl Friedrich Gauss (1777 -
+1855), a forma do planeta é o geoide, que corresponde à superfície do nível médio do 
+mar homogêneo (ausência de correntezas, ventos, variação de densidade de água, 
+etc.) supostamente prolongado por sob os continentes.  
+D.  (   )  O elipsoide é a superfície de referência utilizada nos cálculos que fornecem subsídios 
+para a elaboração de uma representação cartográfica. A forma e o tamanho de um 
+elipsoide, bem como sua posição relativa ao geoide, define m um sistema geodésico.  
+E.  (   )  O principal uso dos elip soides de referência é servir de base para um sistema de 
+coordenadas de latitude (norte/sul), longitude (este/oeste) e elevação (altura).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+31 
+ 
+ 
+ Questão 43 
+ 
+“A população global deverá atingir 8 bilhões na próxima terça -feira (15). De acordo co m as 
+mais recentes projeções das Nações Unidas (ONU), faltam menos de 500 mil pessoas para 
+que o planeta atinja a marca. Segundo a ONU, a população mundial deve chegar a 8,5 bilhões 
+em 2030 e a 9,7 bilhões em 2050. (...) Atualmente, dois terços da populaçã o global vive em um 
+país ou região onde a fecundidade ao longo da vida está abaixo de 2,1 nascimentos por 
+mulher, aproximadamente o nível necessário para um crescimento zero a longo prazo para 
+uma população com baixa mortalidade. (...) O levantamento apont a que mais da metade do 
+aumento projetado da população global até 2050 estará concentrado em oito países: República 
+Democrática do Congo, Egito, Etiópia, Índia, Nigéria, Paquistão, Filipinas e República Unida da 
+Tanzânia”  
+ 
+Disponível em https://www.cnnbrasil.com.br/saude/populacao -mundial -se-aproxima -de-8-bilhoes -
+numero -deve -ser-atingido -na-terca -15/ (acesso em 15 de novembro d e 2022)  
+ 
+Sobre o crescimento populacional projetado para a primeira metade do século XXI, assinale a 
+alternativa correta . 
+ 
+A.  (   )  Nações da África Subsaariana predominam entre as maiores previsões de crescimento 
+populacional, denotando uma redução da mortalidade nesses países . 
+B.  (   )  A atual taxa de fecundidade predominante , no planeta , permite -nos prever um ritmo 
+acelerado de crescimento da população global . 
+C.  (   )  A maior parte do crescimento populacional projetado dar -se-á em países da América 
+Latina e da Ásia de Monções . 
+D.  (   )  O atual quadro de crescimento populacional confirma a tese malthusiana de que o 
+enriquecimento populacional é um estimulador da natalidade . 
+E.  (   )  As nações de elevado crescimento populacional são também as que exercem maior 
+pressão sobre os recursos naturais do pl aneta . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+32 
+ 
+ 
+ Questão 4 4 
+ 
+Blumenau é uma cidade catarinense que historicamente sofre com desastres socioambientais.  
+ 
+Em relação a es se contexto, analise as afirmativas . 
+ 
+I. Em Blumenau, embora a colonização não tenha se organizado às margens d o rio, durante o 
+século XX, a industrialização aproximou a cidade do Itajaí -Açú, por isso, as enchentes 
+passaram a ocorrer frequentemente.  
+ 
+II. Em função das configurações geomorfológicas da bacia hidrográfica do Itajaí, a região é 
+afetada unicamente por ench entes, não havendo registros históricos de movimentos de 
+massa.  
+ 
+III. Além do mapeamento das áreas de risco, de ações de prevenção e de obras de engenharia, 
+o planejamento urbano com vistas à construção da justiça socioambiental , na cidade , é uma 
+importante arm a contra os desastres.  
+ 
+Assinale a alternativa  correta . 
+  
+A.  (   )  Somente a afirmativa II é verdadeira.  
+B.  (   )  Somente as afirmativas I e II são verdadeiras.  
+C.  (   )  Somente a afirmativa III é verdadeira.  
+D.  (   )  Somente as afirmativas I e III são verdadeiras.  
+E.  (   )  Somente as afirmativas II  e III são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+33 
+ 
+ 
+ Questão 45  
+ 
+A litosfera terrestre pode ser classificada segundo sua estrutura geológica, ou seja, conforme 
+suas diferentes origens e a composição de suas rochas.  
+ 
+Sobre as estruturas geológicas, associe a s duas colunas . 
+ 
+1. Crátons  (   ) compõe m a plataforma continental brasileira . 
+2. Bacias sedimentares  (   ) são áreas geologicamente estáveis.  
+3. Dobramentos modernos  (   ) apresentam formação deposicional e estrutura em 
+camadas,  podem apresentar quantid ade 
+considerável de fósseis e também petróleo.  
+  (   ) são áreas com formação nas primeiras eras 
+geológicas do planeta,  têm composição de rochas 
+ígneas, magmáticas e metamórficas e apresentam 
+elevada quantidade e diversidade de minerais como 
+ouro, ferro, alumínio etc.  
+  (   ) são e lementos geológicos formadores de sinclinais, 
+comuns em zonas crustais em atividade tectônica 
+recente.  
+ 
+Assinale a alternativa que representa a sequência correta , de cima para baixo . 
+ 
+A.  (   )  1 – 2 – 3 – 1 - 2 
+B.  (   )  2 – 2 – 1 – 1 - 3 
+C.  (   )  2 – 1 – 2 – 1 - 3 
+D.  (   )  3 – 3 – 1 – 1 - 2 
+E.  (   )  1 – 2 – 3 – 3 - 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+34 
+ 
+ 
+ Questão 46  
+ 
+Um bioma pode ser definido como um grande conjunto de vida vegetal e animal caracterizado 
+pelo tipo de vegetação dominante.  
+ 
+Leia atentamente o texto.  
+ 
+O Bioma Amazônia oc upa cerca de 49% do território brasileiro. O Bioma ________ localiza -se 
+na região litorânea, onde vivem mais de 50% da população brasileira, sendo o mais ameaçado 
+entre os biomas que ocorrem no Brasil. O Bioma ________ abrange várias tipologias vegetais 
+na Região Nordeste, estendendo -se pelos estados do Maranhão, Piauí, Ceará, Rio Grande do 
+Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia e Minas Gerais. Embora esteja 
+localizado em área de clima ________, apresenta grande variedade de paisagens, relativa  
+riqueza biológica e espécies que só ocorrem nesse bioma. O Bioma ________ ocorre 
+principalmente no Planalto Central Brasileiro, estando presente em Goiás, Tocantins, Mato 
+Grosso, Mato Grosso do Sul, Minas Gerais, Bahia, Distrito Federal, Maranhão, Piauí, Rondônia, 
+São Paulo e Paraná. É reconhecido como a ________ mais rica do mundo em biodiversidade 
+com a presença de diversas tipologias vegetais de riquíssima flora. O Bioma ________ é 
+reconhecido como a maior planície de inundação contínua do Planeta Terra , o que constitui o 
+principal fator para a sua formação e diferenciação em relação aos demais biomas. É o bioma 
+________, embora a criação de gado seja uma atividade importante economicamente para a 
+região, aliada às atividades de turismo.  O Bioma _______ _ com uma área aproximada de 2% 
+do território nacional, abrange a metade sul do Estado do Rio Grande do Sul. É caracterizado 
+por clima ________, com temperaturas negativas no inverno, que influenciam a vegetação.   
+ 
+Disponível em: 
+<ftp://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Desc
+ricao_Biomas.pdf >. Acesso em 21/04/2020.  Adaptado . 
+ 
+Em relação aos biomas continentais brasileiros, assinale a alternativa que completa 
+corretamente  o texto.  
+ 
+A.  (   )  Mata Atlântica – Cerrado – árido – Caatinga – Pradaria – Pantanal – menos preservado – 
+Pampa – seco  
+B.  (   )  Planície Costeira – Caatinga – seco – Cerrado – Tundra – Pantanal – mais preservado – 
+Pradaria – chuvoso  
+C.  (   )  Mata Atlântica – Caatinga – semiárido – Cerrado – Savana – Pantanal – mais 
+preservado – Pampa - chuvoso  
+D.  (   )  Planície Costeira – Cerrado – semiárido  – Caatinga – Savana – Pantanal – menos 
+preservado – Campo s – seco  
+E.  (   )  Mata Atlântica – Caatinga – semiárido  – Cerrado – Tundra – Pantanal – mais 
+preservado – Pampa – seco  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+35 
+ 
+ 
+ Questão 47  
+ 
+Estudos v êm demonstrando que a Floresta Amazônica apresenta importância na  regulação 
+climática de grande parte da  América do  Sul.  
+ 
+Em relação a este contexto, analise as afirmativas . 
+ 
+I. A teoria dos rios aéreos expressa que es ses ligam os ventos alísios , carregados de 
+umidade do Atlântico equatorial , com a umidade presente  sobre a floresta, seguindo até 
+os Andes e daí , sazonalme nte, para a s parte s central e  meridional da América do Sul, 
+levando precipitação  continente adentro.  
+ 
+II. Em virtude da grande dimensão territorial da Amazônia, o desmatamento e o fogo 
+noticiados  com frequência  são ecologicamente danosos, entretanto, não chega m a ter 
+efeito potencial sobre o clima.  
+ 
+III. A Amazônia é o maior bioma continental brasileiro e possui a maior floresta tropical do 
+mundo.  
+ 
+Assinale a alternativa  correta . 
+ 
+A.  (   )  Somente a afirmativa I é verdadeira.  
+B.  (   )  Somente as afirmativas I e III são verdadeiras.  
+C.  (   )  Somente as afirmativas I e II são verdadeiras.  
+D.  (   )  Somente as afirmativas II e III são verdadeiras.  
+E.  (   )  Todas as afirmativas são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+36 
+ 
+ 
+ Questão 48  
+ 
+Transportando água em uma região semiárida , a bacia hidrográfica do Rio São Francisc o tem 
+importância econômica, histórica e cultural para o nordeste brasileiro.  
+ 
+Sobre o território compreendido pela bacia hidrográfica do Rio São Francisco, analise as 
+afirmativas e assinale (V) para verdadeir a ou (F) para fals a. 
+ 
+(    ) O Rio São Francis co nasce na Serra da Canastra, em Minhas Gerais.  
+(    ) O Rio São Francisco conforma a divisa natural de Pernambuco com os estados da 
+Bahia e o de Alagoas.  
+(    ) Localizado em parte do território do São Francisco, o Polígono das Secas situa -se, 
+majorita riamente , na região Nordeste, porém estende -se até o norte de Minas Gerais.  
+(    ) No curso do “Velho Chico ”, como popularmente é conhecido o Rio São Francisco, não 
+é possível encontrar áreas industriais, agroindustriais ou regiões metropolitanas, mas 
+uma socioeconomia ribeirinha baseada na agricultura e na pesca tradicionais que, nos 
+últimos anos, coexiste com a exploração turística e hidrelétrica das águas.  
+(    ) A obra de transposição do Rio São Francisco é composta por dois eixos principais: o 
+eixo N orte alcança cidades de Pernambuco, Ceará, Paraíba e Rio Grande do Norte e o 
+eixo Leste que atende cidades do Pernambuco e da Paraíba . 
+ 
+Assinale a alternativa que representa a sequência correta , de cima para baixo.  
+ 
+A.  (   )  V – V – F – F – V 
+B.  (   )  V – F – V – V – V 
+C.  (   )  F – F – V – F – V 
+D.  (   )  F – F – F – V – V 
+E.  (   )  V – F – V – F – V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+37 
+ 
+ 
+ Questão 49  
+ 
+O desenvolvimento da China para tornar -se uma potência mundial é um dos mais notáveis 
+processos geoeconômicos da história recente, e uma de suas estratégias é o empreend imento 
+que ficou conhecido como Nova Rota da Seda, que conforma um projeto de globalização com 
+características chinesas.  
+ 
+Sobre a Nova Rota da Seda Chinesa, analise as afirmativas e assinale (V) para verdadeir a ou 
+(F) para fals a. 
+ 
+(    ) O plano foi apres entado por Xi Jinping ao então presidente dos EUA, Barack Obama, 
+em 2013, com a finalidade principal de melhorar a conectividade China -EUA por meio 
+de obras de infraestrutura em escala transcontinental.  
+(    ) Denominado como Belt and Road Initiative (BRI ), a Nova Rota subdivide -se no Cinturão 
+Econômico (ligando a China ao sudeste da Ásia, sul da Ásia, Ásia Central, Rússia e 
+Europa) e a Rota Marítima (ligando as regiões costeiras da China com o sudeste e sul 
+da Ásia, Pacífico Sul, Oriente Médio, África Ori ental até a Europa).  
+(    ) O projeto é rigoroso ao definir uma área de cooperação restrita à infraestrutura, 
+evitando relacionar a iniciativa a questões complexas como políticas públicas, finanças, 
+comércio ou cultura.  
+(    ) O projeto atende também a o bjetivos econômicos internos da China, no sentido de criar 
+demanda para a supercapacidade ociosa da indústria nacional , de facilitar o acesso a 
+fontes de energia, alimentos, minérios e mercados para exportação  e de  
+internacionalização de empresas , etc. 
+(    ) O projeto vem recebendo críticas de organismos internacionais por , supostamente , 
+fomentar altos níveis de endividamento externo nos países, pela insustentabilidade de 
+algumas obras e falta de transparência nos acordos comerciais.  
+ 
+Assinale a alternat iva que representa a sequência correta, de cima para baixo.  
+ 
+A.  (   )  F – F – F – V – V 
+B.  (   )  V – V – F – V – V 
+C.  (   )  V – F – V – F – F 
+D.  (   )  F – V – F – V – V 
+E.  (   )  F – F – V – V – V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+38 
+ 
+ 
+ Questão 50  
+ 
+Leia atentamente a  letra da canção “Idade Média Moderna” composta por Pedro Luís e Carlos 
+Rennó . 
+ 
+Idade Média Moderna  
+(Pedro Luís / Carlos Rennó)  
+ 
+"Bela, ói que bela  
+Cidadela de uma nova Idade Média!  
+Nela se encastela  
+Uma casta que dá costas à tragédia.  
+Eis 
+Uma ilha de tranquilidade.  
+Uma ilha que ninguém invade.  
+Uma ilha de paz n o oceano  
+Turbulento da grande cidade.  
+ 
+Sim, 
+É mais um condomínio fechado  
+De alto luxo, de todos ilhado,  
+Isolado, alheado, alienado,  
+Apartado e apartheid -armado.  
+ 
+Eis a novidade,  
+Eis a nova: a Idade Média Moderna!  
+E a velha grade  
+Da exclusão que aqui entend e ser eterna.  
+ 
+Na realidade,  
+Na real Idade Média moderna,  
+A sociedade  
+Não é nada igual, tão livre nem fraterna.  
+ Torre,  
+Muro alto, guarita,  
+Portão duplo, controle,  
+Arma, alarme, sensor;  
+Guarda,  
+Fio de arame farpado,  
+Câmeras, monitores,  
+Cerca elétrica, medo , 
+Vigilância, TV...  
+ 
+Um esquema forte  
+Como um forte,  
+Como um campo de concentração,  
+Bunker ou abrigo,  
+Como domiciliar prisão,  
+Livre do perigo,  
+Da rua, da praça, do calçadão,  
+Livre da cidade,  
+Dos cidadãos,  
+Livre enfim da liberdade!"  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: carlosren no.com  
+ 
+Analise as afirmativas  em relação à canção . 
+ 
+I. Não muito difundidos , no Brasil, os condomínios fechados são uma forma de auto 
+segregação  de classe , motivada, principalmente, pelo medo do crime e da violência, que, 
+em contraponto, contribui para a va lorização do espaço público da cidade e incentiva a 
+sociabilidade urbana.  
+ 
+II. A inserção de condomínios fechados , no espaço urbano , celebra ideias como liberdade, 
+igualdade, tolerância, alteridade e diversidade que são ausentes na concepção de espaço 
+público  da cidade moderna e contemporânea.  
+ 
+III. Os condomínios fechados podem ser interpretados como um dos resultados de uma nova 
+forma de organização da segregação socioespacial das cidades brasileiras no final do 
+século XX, marcada por uma proximidade espacial en tre grupos heterogêneos que, em 
+contraponto, estão cada vez mais separados do ponto de vista social e, entre os quais se                                                                                       Vestibular 2023.2                               
+ 
+ 
+39 
+ 
+ 
+ erguem os muros e os aparatos de segurança mencionados na canção.  
+ 
+Assinale a alternativa  correta . 
+  
+A.  (   )  Somente a afirmativa II é verdade ira.  
+B.  (   )  Somente as afirmativas I e II são verdadeiras.  
+C.  (   )  Somente a afirmativa III é verdadeira.  
+D.  (   )  Somente as afirmativas I e III são verdadeiras.  
+E.  (   )  Somente as afirmativas II e III são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+40 
+ 
+ 
+ REDAÇÃO                                                                
+ 
+ 
+A prova de redação apresenta três propostas, o candidato deverá escolher somente uma  
+delas para elaborar a sua redação.  
+ 
+Proposta 1  
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo - 
+argumen tativo , enfocando o tema: A efemeridade da vida . 
+ 
+TEXTO 1  
+   “esta vida é uma viagem  
+pena eu estar  
+   só de passagem ” 
+ 
+ LEMINSKI, Paulo. Melhores poemas . Organização Fred Góes e Álvaro Marins; coordenação Edla van Steen -7ª.ed. 
+São Paulo: Global,2016, p.199  
+ 
+ 
+TEXTO2  
+“Não importa ao tempo o minuto que passa, mas o minuto que vem. O minuto que vem é forte, 
+jucundo, supõe trazer em si a eternidade, e traz a morte  (...)” 
+ 
+Memórias Póstumas de Brás Cubas, Machado de Assis  Editora Ática A.S, p 27 
+ 
+ 
+TEXTO 3 
+ 
+ 
+Disponível em: https://br.images.search.yahoo.com/search/ima ges;_ylt=AwrJ_5sGziRk2UsG7vL.   Acesso  em: abril 
+de 2023  
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+41 
+ 
+ 
+  
+ 
+Proposta 2  
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo - 
+argumentativo , enfocando o tema:  O paradoxo da solidão . 
+ 
+TEXTO 1  
+ “A terceira força que me chamava ao bu lício era o gosto de luzir, e, sobretudo, a incapacidade 
+de viver só.”  
+Memórias Póstumas de Brás Cubas, Machado de Assis  Editora Ática A.S, p. 146 
+ 
+ 
+TEXTO 2  
+“Um dos horrores de qualquer reclusão é nunca se poder estar só. No meio daquela multidão, 
+há sempr e um que nos vem falar isto ou aquilo.”  
+ 
+Barreto, Lima. Diário do Hospício; O cemitério dos vivos; prefácio Alfredo Bosi; organização e notas Augusto/Massi, 
+Murilo Marcondes de Moura. 1 ed. São Paulo: Companhia das Letras 2017, p.187.  
+  
+ 
+ 
+TEXTO 3  
+ 
+Disponível em:https://br.images.search.yahoo.com/search/images;_ylt Acesso em : 10/abril de 2023 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+42 
+ 
+ 
+ Proposta 3  
+Com base na leitura dos tex tos motivadores abaixo, redija um texto dissertativo - 
+argumentativo , enfocando o tema:  O poder da fantasia humana .  
+ 
+TEXTO 1  
+“Pensar em salvar -se pela fantasia é apenas mais uma fantasia.”  
+ 
+O conto da mulher brasileira , Edla van Steen (organizadora, 3ª. Ed . São Paulo: Global, 2007. Port Moresby , p. 143  
+ 
+ 
+TEXTO 2  
+“A dor, segundo o Humanitismo, é uma pura ilusão. Quando a criança é ameaçada por um pau,  
+antes  mesmo de ter sido espancada, fecha os olhos e treme; essa predisposição  é que 
+constituí  a base da ilu são humana  (...)”  
+ 
+Memórias Póstumas de Brás Cubas, Machado de Assis  Editora Ática A.S.p. 145 
+ 
+ 
+ 
+TEXTO 3  
+ 
+Disponível em: https://www.istockphoto.com/br/fotos/paisagem -de-fantasia -representa%C3% Acesso em : 10/abril de 
+2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 2023.2                               
+ 
+ 
+43 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este rascunho NÃO será corrigido!                                                                                        Vestibular 2023.2                               
+ 
+ 
+44 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este rascunho NÃO será corrigido!                                                                                        Vestibular 2023.2                               
+ 
+ 
+45 
+ 
+ 
+ FOLHA D E RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este rascunho NÃO será corrigido!                                                                                        Vestibular 2023.2                               
+ 
+ 
+46 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este rascunho NÃO s erá corrigido!                                                                                        Vestibular 2023.2                               
+ 
+ 
+47 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este rascunho NÃO será corrigido!                                                                                        Vestibular 2023.2                               
+ 
+ 
+48 
+ 
+ 
+  

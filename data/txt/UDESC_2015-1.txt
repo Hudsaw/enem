@@ -1,0 +1,1664 @@
+	
+Universidade do Estado de Santa Catarina 
+Vestibular 2015.1  
+	
+			
+Caderno de 
+Prova (Tarde)  
+
+ 
+
+ 
+ 
+16 de novembro  
+ 
+ 
+ 
+das 15h às 1 30min 9h
+50 questões        
+ 
+ 01
+ 
+FÍSICA (14 questões)     QUÍMICA (14 questões)  HISTÓRIA (11 questões)  GEOGRAFIA (11 questões) REDAÇÃO  
+ 
+	
+	
+ 
+ NOME DO (A) CANDIDATO (A)
+ 
+ Instruções  
+___________________________________________  
+ 
+Para fazer a prova você usará: 
+ 
+■ este caderno de prova; 
+■ um cartão-resposta que contém o seu nome, 
+número de inscrição e espaço para sua 
+assinatura. 
+ 
+Verifique, no caderno de prova, se: 
+ 
+■ faltam folhas e a sequência das questões está 
+correta; 
+■ há imperfeições gráficas que possam causar 
+dúvidas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comunique imediatamente ao fiscal qualquer 
+irregularidade. 
+   Atenção! 
+_________________________________________  
+ 
+■ Não é permitido qualquer tipo de consulta 
+durante a realização da prova. 
+■ Para cada questão são apresentadas 5 (cinco) 
+alternativas (a, b, c, d, e). Apenas uma delas 
+constitui a resposta correta em relação ao 
+enunciado da questão. 
+■ A interpretação das questões é parte integrante 
+da prova, não sendo permitidas perguntas aos fiscais. 
+■ Não destaque folhas da prova. 
+■ Você somente poderá entregar sua prova após 
+60 (sessenta) minutos do início. 
+■ Os três últimos candidatos somente poderão 
+retirar-se da sala simultaneamente.  
+■ Ao se retirar da sala não leve consigo nenhum 
+material de prova, exceto  o quadro para 
+conferência de gabarito. 
+ 
+Ao terminar a prova, entregue ao fiscal o caderno de prova completo e o cartão-resposta 
+devidamente preenchidos e assinados. 
+ 
+ 
+ 
+O  
+ 
+                                                                                                Vestibular 2015.1                    
+        2 
+  
+  
+ Redação  
+___________________________________________  
+ 
+A redação que apresentar cópia dos textos da Proposta de Redação terá o número de linhas copiadas 
+descontado para efeito de correção.  
+Será atribuída pontuação 0 (zero) às redações: ■ escritas a lápis, lapiseira ou caneta de tinta que não seja na cor azul ou preta; 
+■ que não estiverem desenvolvidas na folha oficial definitiva de redação; 
+■ que não observarem o limite mínimo de 20 e o máximo de 30 linhas; 
+■ que não atenderem à forma solicitada (dissertação); 
+■ com fuga total do tema; 
+■ resultantes de plágio; 
+■ com identificação (nome, assinatura, rubrica ou apelido)  do candidato na folha oficial definitiva de redação. 
+ 
+ 
+ 
+ 
+     
+ 
+              
+QUADRO PARA CONFERÊN CIA DE GABARITO 
+                                 SOMENTE ESTA PARTE PODERÁ SER DESTACADA 
+  
+ 
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+ 
+                         
+ 
+26 27 28 29 30 31 32 33 34 35  36 37 38  39 40 41 42  43 44 45 46 47 48 49 50 
+                                                                                                                         Vestibular 2015.1                    
+        3 
+  
+ 
+FÍSICA                                                                             (14 questões)  
+Formulário p. 10. 
+ 
+Questão 01 
+ 
+Um pêndulo é formado por uma haste rígida inext ensível de massa desprezível e em uma das 
+extremidades há uma esfera sólida de massa m. A outra extremidade é fixada em um suporte 
+horizontal. A haste tem comprimento L e a esfera tem raio r. O pêndulo é deslocado da sua 
+posição de equilíbrio de uma altura H e executa um movimento harmônico simples no plano, 
+conforme mostra Figura 1. 
+ 
+ 
+     
+ 
+    
+ 
+ Com relação ao movimento desse pêndulo, analise as proposições.  
+I.   A energia mecânica em
+ A e B são iguais. 
+II.   As energias cinética e potencial em A e B são iguais. 
+III.   A energia cinética em A é mínima. 
+IV.   A energia potencial em B é máxima. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I e II são verdadeiras. B.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+C.  (   )  Somente as afirmativas I e III são verdadeiras. 
+D.  (   )  Somente as afirmativas I e IV são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+A 
+B H L 
+Figura 1                                                                                               Vestibular 2015.1                    
+        4 
+  
+ Questão 02  
+Deixa-se cair um objeto de massa 500  g de uma altura de 5 m acima do solo. Assinale a 
+alternativa que representa a velocidade do objeto, imediatamente, antes de tocar o solo, 
+desprezando-se a resistência do ar.  
+A.  (   )  10 m/s 
+B.  (   )  7,0 m/s 
+C.  (   )  5,0 m/s 
+D.  (   )  15 m/s 
+E.  (   )  2,5 m/s 
+ 
+ 
+ 
+Questão 03 
+ 
+Com relação às colisões elástica e inelástica, analise as proposições. 
+ 
+I.   Na colisão elástica, o momento linear e a energia cinética não se conservam. II.   Na colisão inelástica, o momento linear e a energia cinética não se conservam. 
+III.   O momento linear se conserva tanto na colisão elástica quanto na colisão inelástica. 
+IV.   A energia cinética se conserva tanto na colisão elástica quanto na colisão inelástica. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa III é verdadeira. 
+B.  (   )  Somente as afirmativas I e II são verdadeiras. 
+C.  (   )  Somente a afirmativa IV é verdadeira. 
+D.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ 
+Questão 04 
+ Um carro de bombeiros transita a 90 km/h, com a sirene ligada, em uma rua reta e plana. A 
+sirene emite um som de 630 Hz. Uma pessoa parada na calçada da rua, esperando para 
+atravessar pela faixa de pedestre, escuta o som da sirene e observa o carro de bombeiros se 
+aproximando. Nesta situação, a frequência do som ouvido pela pessoa é igual a:  
+A.  (   )  620 Hz 
+B.  (   )  843 Hz 
+C.  (   )  570 Hz 
+D.  (   )  565 Hz 
+E.  (   )  680 Hz  
+                                                                                                Vestibular 2015.1                    
+        5 
+  
+ Questão 05  
+Com relação às Leis de Newton, analise as proposições. 
+ 
+I.   Quando um corpo exerce força sobre o outro, este reage sobre o primeiro com uma força 
+de mesma intensidade, mesma direção e mesmo sentido. 
+II.   A resultante das forças que atuam em um corpo de massa m é proporcional à aceleração 
+que este corpo adquire. 
+III.   Todo corpo permanece em seu estado de repouso ou de movimento retilíneo uniforme, a 
+menos que uma força resultante, agindo sobre ele, altere a sua velocidade. 
+IV.   A intensidade, a direção e o sentido da força resultante agindo em um corpo é igual à 
+intensidade, à direção e ao sentido da aceleração que este corpo adquire. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+B.  (   )  Somente as afirmativas I e IV são verdadeiras. 
+C.  (   )  Somente as afirmativas I e II são verdadeiras. 
+D.  (   )  Somente as afirmativas II e III são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+  
+Questão 06 
+ 
+Com relação aos fenômenos da reflexão e da refração da luz branca, analise as proposições.  
+I.   A transparência dos vidros é explicada pelos fenômenos de refração e reflexão. II.   A dispersão da luz branca em um prisma de vidro é devida à reflexão na face de incidência 
+do prisma. 
+III.   A luz branca dispersa em um prisma é co mposta somente pelas cores primárias vermelho, 
+verde e azul. 
+  
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II e III são verdadeiras. 
+B.  (   )  Somente a afirmativa I é verdadeira. 
+C.  (   )  Somente as afirmativas I e II são verdadeiras. 
+D.  (   )  Somente a afirmativa III é verdadeira. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+                                                                                                 Vestibular 2015.1                    
+        6 
+  
+ 
+Questão 07 
+ 
+Analise as proposições com relação às leis da termodinâmica. 
+ 
+I.   A variação da energia interna de um sistema termodinâmico é igual à soma da energia na 
+forma de calor fornecida ao sistema e do trabalho realizado sobre o sistema. 
+II.   Um sistema termodinâmico isolado e fechado aumenta continuamente sua energia interna. 
+III.   É impossível realizar um processo termodinâmico cujo único efeito seja a transferência de 
+energia térmica de um sistema de menor temperatura para um sistema de maior temperatura. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I e II são verdadeiras. 
+B.  (   )  Somente as afirmativas II e III são verdadeiras. 
+C.  (   )  Somente as afirmativas I e III são verdadeiras. 
+D.  (   )  Somente a afirmativa II é verdadeira. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+Questão 08 
+ 
+A proposição e a consolidação da Teoria da Relatividade e da Mecânica Quântica, componentes teóricos do que se caracteriza atualmente como Física Moderna, romperam com 
+vários paradigmas da Física Clássica. Baseando- se especificamente em uma das teorias da 
+Física Moderna, a Relatividade Restrita, analise as proposições.  
+I.   A massa de um corpo varia com a velocidade e tenderá ao infinito quando a sua 
+velocidade se aproximar da velocidade da luz no vácuo. 
+II.   A Teoria da Relatividade Restrita é complexa e abrangente, pois, descreve tanto movimentos retilíneos e uniformes quanto movimentos acelerados. 
+III.   A Teoria da Relatividade Restrita superou a visão clássica da ocupação espacial dos 
+corpos, ao provar que dois corpos, com massa pequena e velocidade igual à velocidade da luz no vácuo, podem ocupar o mesmo espaço ao mesmo tempo. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa I é verdadeira. 
+B.  (   )  Somente as afirmativas I e II são verdadeiras. 
+C.  (   )  Somente a afirmativa II é verdadeira. 
+D.  (   )  Somente as afirmativas I e III são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ 
+                                                                                                Vestibular 2015.1                    
+        7 
+  
+ 
+Questão 09 
+ 
+Um gás ideal é submetido a uma transformação isotérmica, conforme descrito no diagrama da 
+Figura 2.  
+ 
+Figura 2 
+ 
+ 
+Os valores da pressão P x e do volume V y indicados no diagrama são, respectivamente, iguais a: 
+ 
+A.  (   )  4,0 atm e 6,0 L 
+B.  (   )  0,4 atm e 4,0 L 
+C.  (   )  0,6 atm e 3,0 L 
+D.  (   )  2,0 atm e 6,0 L 
+E.  (   )  0,2 atm e 4,0 L 
+ 
+ 
+ 
+Questão 10 
+ 
+Ao longo de um processo de aproximação de duas partículas de mesma carga elétrica, a energia potencial elétrica do sistema:  
+A.  (   )  diminui. 
+B.  (   )  aumenta. 
+C.  (   )  aumenta inicialmente e, em seguida, diminui. 
+D.  (   )  permanece constante. 
+E.  (   )  diminui inicialmente e, em seguida, aumenta. 
+ 
+                                                                                                Vestibular 2015.1                    
+        8 
+  
+ Questão 11 
+ 
+Considere as informações constantes na Tabela 1.  
+Tabela 1 
+ 
+Metais Função Trabalho (eV) 
+Alumínio 4,08 
+Prata 4,73 
+Platina 6,35 
+Níquel 5,01 
+ 
+Com base na Tabela 1 e no princípio da conservação da energia para o efeito fotoelétrico, 
+analise as proposições.  
+I.   Quatro placas metálicas, cada uma composta por um dos metais relacionados na Tabela 1, 
+são iluminadas por uma luz de frequência f. Nesta situação, a energia cinética mínima dos 
+elétrons ejetados de cada placa possui o mesmo valor. 
+II.   Quatro placas metálicas, cada uma composta por um dos metais relacionados na Tabela 1, somente ejetarão elétrons com energia cinética maior que zero, quando a energia da luz 
+que as ilumina for maior que o valor da função trabalho de cada metal. 
+III.   Quatro placas metálicas, cada uma composta por um dos metais relacionados na Tabela 1, 
+são iluminadas por uma luz de energia igual a 7,5 eV. Neste caso, os elétrons ejetados da 
+superfície da placa de alumínio terão a maior energia cinética. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I e III são verdadeiras. 
+B.  (   )  Somente as afirmativas I e II são verdadeiras. 
+C.  (   )  Somente a afirmativa III é verdadeira. 
+D.  (   )  Somente as afirmativas II e III são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ 
+Questão 12 
+ Considere um longo solenoide ideal composto por 10.000 espiras por metro, percorrido por 
+uma corrente contínua de 0,2 A. O módulo e as linhas de campo magnético no interior do 
+solenoide ideal são, respectivamente:  
+A.  (   )  nulo, inexistentes. 
+B.  (   )  8   10
+-4 T, circunferências concêntricas. 
+C.  (   )  4   10-4 T, hélices cilíndricas. 
+D.  (   )  8   10-3 T, radiais com origem no eixo do solenoide. 
+E.  (   )  8   10-4 T, retas paralelas ao eixo do solenoide. 
+ 
+                                                                                                Vestibular 2015.1                    
+        9 
+  
+ 
+ 
+Questão 13 
+ Com relação ao fornecimento de energia elétrica residencial, analise as proposições.  
+I.   As lâmpadas incandescentes apresentam um brilho constante porque a corrente elétrica 
+que chega às residências é contínua. 
+II.   A potência elétrica fornecida aos eletrodomésticos residenciais pode ser medida em 
+quilowatt-hora. 
+III.   Devem ser instalados transformadores nos postes das ruas, para converter a tensão da rede elétrica externa em um valor compatível com a tensão adequada para o uso residencial.   
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II e III são verdadeiras. 
+B.  (   )  Somente as afirmativas I e II são verdadeiras. 
+C.  (   )  Somente as afirmativas I e III são verdadeiras. 
+D.  (   )  Somente a afirmativa III é verdadeira. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ 
+Questão 14 
+ 
+Uma onda de rádio que se propaga no vácuo possui uma frequência f e um comprimento de 
+onda igual a 5,0 m. Quando ela penetra na água, a velocidade desta onda vale 2,1   108 m/s. 
+Na água, a frequência e o comprimento de onda valem, respectivamente:  
+A.  (   )  4,2   10
+7 Hz, 1,5 m 
+B.  (   )  6,0   107 Hz, 5,0 m 
+C.  (   )  6,0   107 Hz, 3,5 m 
+D.  (   )  4,2   107 Hz, 5,0 m 
+E.  (   )  4,2   107 Hz, 3,5 m 
+ 
+  
+ 
+   
+ 
+                                                                                                Vestibular 2015.1                    
+        10 
+  
+FORMULÁRIO DE FÍSICA                
+ 
+2
+0 021at t v x x    at v v0 x a v v  22
+02
+ W hf Ec  
+ t os v x xc0 0   2
+0 021sen gt t v y y  
+ t  ...2 1  F F FR
+ 
+T2  r v  RS  
+Rvac2
+  
+ma F  gLT2 kx F  constante32
+
+rT 
+mg P  cosFd W  mv Q  dgh p p 0 
+Vmd  mgh E  2
+21mv E  AFP  
+Rvm F2
+  2
+21kx E  W Q U  NF F  
+T mc Q   mL Q  V p W  
+tEP  
+220
+1cvmm
+ 
+12
+Carnot 1TT   
+1QW dVg E  
+22 1
+rq qk F  22 1
+rm mG F  
+rqk V  2rqk E  
+qV U  2 2 9/ 10 0 , 9C m N k    senqvBF  nRT pV  
+Ui P  Ri U  tqi 
+tB
+   
+
+
+
+
+
+F SS
+v vvf f0 
+
+
+
+SD S
+vv vf f0 KCTToC
+K 
+
+ 273 BLv  
+ T L L  . 10  seniLB F  f v  cosBAB   
+riB
+20 ... , 5 , 3 , 1 ;4 n n L
+ ... , 3 , 2 , 1 ;2 n n L
+ s m c / 10 0 , 38   
+iLNBo  2 5
+0 / 10 0 , 1m N p   ) /( 5 , 0C g cal co
+gelo    ) /( 3 , 8K mol J R    
+2/ 0 , 10s m g  2 2 11/ 10 7 , 6kg m N G   ) /( 0 , 1
+2C g cal co
+O H    J eV1910 6 , 1 1   
+3 3/ 10 0 , 1
+2m kg dO H   g cal Lfusão / 80  s m vS / 340  J cal4 1  
+ = 2    A = A O (1 +  T)  = 3        V = V O (1 + 
+T) rm GMU.  m T 7
+0 10 4 A                                                                                                Vestibular 2015.1                    
+        11 
+  
+ 
+QUÍMICA                                                                         (14 questões)  
+Tabela Periódica p. 18. 
+ 
+Questão 15 
+ 
+Um dos compostos empregados como agente de proteção da radiação ultravioleta é o 
+Padimato A, denominação dada à estrutura abaixo, apresentada nos rótulos dos protetores solares comerciais. 
+ 
+ 
+ Analise as proposições em relação à estrutura do Padimato A.  
+I.   Apresenta em sua estrutura a função amina e a função éter.  
+II.   Possui seis carbonos com configuração sp
+2. 
+III.   Apresenta a fórmula molecular C 14H21NO 2. 
+IV.   Realiza ligação de hidrogênio entre suas moléculas. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa II é verdadeira. 
+B.  (   )  Somente a afirmativa I é verdadeira. 
+C.  (   )  Somente a afirmativa III é verdadeira. 
+D.  (   )  Somente as afirmativas II e III são verdadeiras. 
+E.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+ 
+ 
+Questão 16 
+ A Organização Pan-Americana e a Organização Mundial da Saúde recomendam a fluoretação das águas de abastecimento público como medida da mais alta prioridade para prevenção e controle da cárie dentária. De acordo com a Portaria nº 2914 do Ministério da Saúde de 2011, o valor máximo permitido de fluoreto presente na água de abastecimento público é de 1,5 mg L
+-1. 
+Considerando um reservatório com capacidade de 1,50 milhões de metros cúbicos, assinale a alternativa que corresponde à massa de fluoreto de sódio que deve ser adicionada ao reservatório, para que a concentração final de fluoreto seja a máxima permitida. 
+ 
+A.  (   )  5 x103 g 
+B.  (   )  2,25 ton 
+C.  (   )  4,97 ton 
+D.  (   )  1,50x106 g 
+E.  (   )  42,0x106 g                                                                                                Vestibular 2015.1                    
+        12 
+  
+ 
+Questão 17 
+ 
+Considere a determinação da capacidade antiácida de um medicamento cujo princípio ativo é 
+carbonato de sódio, que pode ser feita pela reação com ácido clorídrico. Um comprimido de 
+1,8656 g foi triturado e dissolvido em água, necessitando de 22,00 mL de HCl 0,4000 mol L-1 
+para ser completamente neutralizado. Assinale a alternativa que corresponde à porcentagem 
+em massa de carbonato de sódio no comprimido. 
+ 
+A.  (   )  12,50 % B.  (   )  19,57 % 
+C.  (   )  25,00 % 
+D.  (   )  14,15 % 
+E.  (   )  50,00 % 
+ 
+ 
+Questão 18 
+ 
+Os fundamentos da estrutura da matéria e da atomística baseados em resultados experimentais tiveram sua origem com John Dalton, no início do século XIX. Desde então, no 
+transcorrer de aproximadamente 100 anos, outros cientistas, tais como J. J. Thomson, E. 
+Rutherford e N. Bohr, deram contribuições marcantes de como possivelmente o átomo estaria estruturado. Com base nas ideias propostas por esses cientistas, marque (V) para verdadeira e (F) para falsa.  
+(   ) Rutherford foi o primeiro cientista a propor a ideia de que os átomos eram, na verdade, 
+grandes espaços vazios constituídos por um centro pequeno, positivo e denso com 
+elétrons girando ao seu redor. 
+(   ) Thomson utilizou uma analogia inusitada ao comparar um átomo com um “pudim de 
+passas”, em que estas seriam prótons incrus tados em uma massa uniforme de elétrons 
+dando origem à atual eletrosfera. 
+(   ) Dalton comparou os átomos a esferas maciças, perfeitas e indivisíveis, tais como “bolas 
+de bilhar”. A partir deste estudo surgiu o termo “átomo” que significa “sem partes” ou “indivisível”. 
+(   ) O modelo atômico de Bohr foi o primeiro a envolver conceitos de mecânica quântica, em 
+que a eletrosfera possuía apenas algumas r egiões acessíveis denominadas níveis de 
+energia, sendo ao elétron proibido a movimentação entre estas regiões. 
+(   ) Rutherford utilizou em seu famoso experimento uma fonte radioativa que emitia 
+descargas elétricas em uma fina folha de ouro, além de um anteparo para detectar a direção tomada pelos elétrons. 
+ Assinale a alternativa correta , de cima para baixo. 
+ 
+A.  (   )  F – V – V – V – F  
+B.  (   )  V – V – F – V – F  
+C.  (   )  F – V – V – F – V  
+D.  (   )  V – F – F – F – F  
+E.  (   )  V – F – F – F – V                                                                                                 Vestibular 2015.1                    
+        13 
+  
+ 
+Questão 19 
+ A Estação Espacial Internacional (EEI) é um satélite artificial habitável que orbita nosso planeta a 422 km de altitude. Desde 02 de novembro de 2000, data da chegada dos primeiros astronautas a esta estação, a EEI vem batendo recordes, pois está continuamente habitada. Devido ao processo de respiração, um astronauta elimina diariamente cerca de 470 litros de 
+gás carbônico (nas CNTP) devido ao processo de respiração. Suponha que se utilizem filtros 
+contendo hidróxido de sódio para absorver o CO
+2 e transformá-lo em carbonato de sódio e 
+água. Assinale a alternativa  que apresenta a quantidade de massa de hidróxido de sódio 
+necessária para que este astronauta permanecesse 07 (sete) dias nesta estação espacial.  
+A.  (   )  11,75 kg 
+B.  (   )  839 g C.  (   )  1,68 kg 
+D.  (   )  5,40 kg 
+E.  (   )  240 g 
+  
+Questão 20 
+ 
+As doenças infecciosas são a segunda maior causa de mortalidade do mundo devido às altas 
+taxas de resistência microbiana, especialmente em ambientes hospitalares. No entanto, a diminuição na descoberta de novos antibióticos torna-se preocupante. Desta maneira, o antibiótico ceftobiprol está em estudos clínicos no FDA ( Food and Drug Administration ), ou 
+seja, último estágio antes de ser comercializado.  
+ 
+ 
+ 
+A estrutura do ceftobipr
+ol possui: 
+ 
+A.  (   )  apenas três carbonos quirais. 
+B.  (   )  dez carbonos com hibridização sp2 e uma função química ácido carboxílico.  
+C.  (   )  apenas ciclos condensados e um a função amina primária em sua estrutura.  
+D.  (   )  apenas três centros estereogênicos e dez carbonos com hibridização sp2 
+E.  (   )  três aminas secundárias em sua estrutura. 
+  
+ 
+                                                                                                 Vestibular 2015.1                    
+        14 
+  
+Questão 21 
+ 
+Em uma aula de Química Geral, o professor falava sobre termoquímica – energia produzida por 
+materiais orgânicos” e, para esclarecer seus alunos, ele falou: “Sabe-se que materiais 
+orgânicos como fezes de animais, se armazenadas dentro de câmaras e colocadas sobre 
+determinadas condições de pressão e temperatura, podem produzir biogás, composto, 
+principalmente, de metano” e concluiu: “o calor de combustão do metano à pressão constante é 
+-880 kJ/mol”. Com base nestas informações, assinale a alternativa correta . 
+ 
+A.  (   )  O metano é um líquido inflamável à pressão atmosférica.  
+B.  (   )  Na molécula de metano cada átomo de hidrogênio é ligado ao átomo de carbono por 
+ligações covalentes e possui estrutura piramidal.  
+C.  (   )  A combustão do gás metano é um processo endotérmico. 
+D.  (   )  A entalpia dos produtos é maior que a dos reagentes. 
+E.  (   )  A queima de 5,0 Kg de gás metano libera uma energia de 2,75x108J. 
+ 
+ 
+Questão 22 
+ 
+Muitas propriedades físicas e químicas podem ser comparadas para diferenciar substâncias 
+quanto ao seu caráter iônico ou molecular. Compostos moleculares são formados unicamente 
+por ligações covalentes entre seus elementos formadores. Por outro lado, quando analisamos 
+uma substância iônica, não há significativo co mpartilhamento de elétrons, sendo que o número 
+de elétrons recebido deve ser o mesmo que o número de elétrons cedido. Assinale a 
+alternativa que representa o número de elétr ons envolvido na formação do óxido de índio. 
+ 
+A. (   )  4 B. (   )  5 C. (   )  6 D. (   )  3 E. (   )  2 
+  
+Questão 23 
+ 
+Reações de oxirredução estão presentes no dia-a-dia como na ação desinfetante da água 
+sanitária, na geração de energia elétrica em baterias e na obtenção de metais a partir de seus minérios. Como exemplo destas reações considere uma folha de alumínio imersa em uma solução aquosa de sulfato de cobre. Sabendo-se que o potencial de redução do alumínio é -1,66V e o potencial de redução do cobre é +0,34V, é correto  afirmar que: 
+ 
+A.  (   )  o alumínio é o agente oxidante. 
+B.  (   )  ocorrerá redução do Cu(II). 
+C.  (   )  o potencial de oxirredução da reação é de -1,32V. D.  (   )  o sulfato de cobre é o agente redutor.  
+E.  (   )  o estado de oxidação do enxofre no sulfato de cobre, CuSO
+4 é -2. 
+ 
+ 
+  
+                                                                                                Vestibular 2015.1                    
+        15 
+  
+Questão 24 
+ 
+A pressão de vapor de um solvente líquido diminui devido à presença de um soluto não volátil (efeito tonoscópico), afetando a temperatura de fusão (efeito crioscópico) e a temperatura de 
+vaporização do solvente (efeito ebulioscópico). Faz-se uso destes fenômenos, por exemplo, 
+nos anticongelantes utilizados nos radiadores de automóveis e nos sais empregados para fundir gelo em regiões onde há ocorrência de neve.  Os líquidos A, B, C e D, listados abaixo, estão a 1 atm e a 25
+oC e apresentam, respectivamente, pressões de vapor P A, PB, PC e P D. 
+ 
+Líquido A: 100 mL de solução 0,01 mol/L de NaCl em água. 
+Líquido B: 100 mL de água. 
+Líquido C: 100 mL de solução 0,01 mol/L de glicose em água. 
+Líquido D: 50 mL de água.  
+ 
+Assinale a alternativa correta com relação à pressão de vapor dos líquidos A, B, C e D. 
+ 
+A.  (   )  P D=PB>PC>PA 
+B.  (   )  P A>PC>PB>PD 
+C.  (   )  P A=PC>PD>PB 
+D.  (   )  P D>PB> P A=PC 
+E.  (   )  P D > P A=PC>PB 
+ 
+ 
+Questão 25 
+ O mercúrio (II) é tóxico para nosso corpo, sendo eliminado por um processo com cinética de 
+primeira ordem com relação ao mercúrio. O tempo para que a concentração se reduza à metade 
+da concentração inicial é dado pela equação a seguir, em que 
+k é a constante de meia vida e 
+vale 0,1155 dias-1 para o mercúrio (II):  
+ 
+kt693 , 0
+21  
+ 
+Se um fazendeiro acidentalmente ingerir grãos contaminados por mercúrio (II), serão necessários: 
+ 
+A.  (   )  6 meses para que a concentração inicial de mercúrio reduza à metade, e a velocidade 
+de eliminação é dada pela expressão: velocidade =
+ k [Hg2+]. 
+B.  (   )  12 dias para que a concentração inicial de mercúrio reduza 25%, e a velocidade de 
+eliminação é dada pela expressão: velocidade = k [Hg2+]. 
+C.  (   )  6 dias para que a concentração inicial de mercúrio reduza à metade, e a velocidade de 
+eliminação é dada pela expressão: velocidade = - k [Hg2+]. 
+D.  (   )  6 dias para que a concentração inicial de mercúrio reduza à metade, e a velocidade de 
+eliminação é dada pela expressão: velocidade = - k [Hg2+]1/2. 
+E.  (   )  6 dias para que a concentração de mercúrio inicial reduza à metade, e a velocidade de 
+eliminação é dada pela expressão: velocidade = - k [Hg2+]2. 
+                                                                                                Vestibular 2015.1                    
+        16 
+  
+ 
+Questão 26 
+ 
+A ciência usa o recurso de modelos para explicar os fenômenos observados. Em muitas situações o modelo de Dalton para o átomo é suficiente para entender alguns fenômenos, mas a razão da periodicidade das propriedades físicas e químicas na Tabela Periódica só foi 
+possível a partir do modelo de Bohr. Com relação às propriedades na Tabela Periódica atual, 
+pode-se afirmar que:  
+A.  (   )  para cada coluna na Tabela Periódica, de acordo com o modelo de Bohr, os elétrons 
+começam a preencher um novo nível de energia. 
+B.  (   )  a primeira energia de ionização corresponde ao elétron mais fortemente ligado ao 
+núcleo. 
+C.  (   )  ao longo de um período, o raio atômico diminui. Portanto, a energia de ionização 
+também diminui. 
+D.  (   )  de acordo com o modelo de Bohr, a primeira energia de ionização do sódio (Na) é 
+maior que a primeira energia de ionização do cloro (Cl).  
+E.  (   )  a variação das energias de ionização observada ao longo da Tabela Periódica está 
+relacionada às distâncias dos elétrons ao núcleo. 
+ 
+ 
+Questão 27 
+ A condutividade elétrica de um material depende muito do tipo de ligação química da qual o 
+material é formado e do estado físico em que este se encontra. Sendo assim, materiais como 
+prata, açúcar de cana (sacarose) e sal de cozinha (cloreto de sódio) apresentam comportamentos distintos quanto à condutividade elétrica. Em relação à condutividade elétrica assinale a alternativa correta . 
+ 
+A.  (   )  O açúcar é uma substância iônica que não conduz bem a eletricidade. 
+B.  (   )  O açúcar é um bom condutor de corrente elétrica porque possui cargas livres em seu 
+retículo cristalino molecular. 
+C.  (   )  O cloreto de sódio fundido não conduz corrente elétrica. 
+D.  (   )  Um objeto de prata é bom condutor de corrente elétrica porque apresenta elétrons 
+livres em seu retículo cristalino metálico. 
+E.  (   )  O cloreto de sódio é um bom condutor de corrente elétrica em temperaturas inferiores 
+ao seu ponto de fusão. 
+ 
+ 
+   
+ 
+                                                                                                Vestibular 2015.1                    
+        17 
+  
+Questão 28 
+ 
+Um estudante de química obteve uma soluç ão indicadora ácido-base, triturando no 
+liquidificador algumas folhas de repolho roxo com água. Em seguida, ele dividiu a solução 
+obtida em três tubos de ensaio (A, B e C) e no primeiro tubo adicionou uma pequena quantidade de vinagre (solução de ácido acético); no segundo alguns cristais de soda cáustica (NaOH), e no terceiro alguns cristais de sal para churrasco (NaCl), obtendo o resultado 
+conforme mostra o quadro: 
+ 
+Tubo de ensaio Substância adicionada Coloração inicial Coloração final 
+A Vinagre Roxa Vermelha 
+B Soda cáustica Roxa Verde 
+C Sal para churrasco Roxa Roxa 
+ 
+Se o estudante realizar outro experimento adicionando no tubo A KOH, no B HNO 3 e no C 
+KNO 3, contendo a solução inicial extraída do repolho roxo, a coloração final, respectivamente 
+será: 
+ 
+A.  (   )  roxa, verde, roxa. B.  (   )  roxa, vermelha, verde. 
+C.  (   )  verde, roxa, vermelha. D.  (   )  vermelha, verde, roxa. 
+E.  (   )  verde, vermelha, roxa. 
+ 
+   
+ 
+   
+ 
+     
+ 
+    
+ 
+     
+ 
+                                                                                                 Vestibular 2015.1                    
+        18 
+  
+ 
+TABELA PERIÓDICA                                                                          
+ 
+  
+                                                                                                 Vestibular 2015.1                    
+        19 
+                                                                                    
+ HISTÓRIA                                                                        
+(11 questões)  
+ 
+ 
+Questão 29 
+ 
+Analise as proposições relativas a acontecimentos da história do Brasil, no século XX, e 
+assinale (V) para verdadeira e (F) para falsa.  
+ 
+(   ) Juscelino Kubitschek governou entre os anos de 1956 e 1961 com a promessa de fazer o 
+Brasil crescer 50 anos em 5. Período em  que houve desenvolvimento urbano e aumento 
+do consumo no país, conhecido como “anos dourados”. 
+(   ) O processo de urbanização vivenciado no Brasil, a partir dos anos 1950, possibilitou às 
+mulheres brasileiras acesso à formação educacional e a atividades, até então, 
+exclusivamente masculinas, contudo, para que as mulheres alcançassem os mesmos 
+direitos que os homens, foram necessárias muitas mobilizações.  
+(   ) Em 1988 foi promulgada a Constituição ainda em vigência. No texto desta Carta Magna 
+são encontradas importantes decisões referentes à abrangência dos direitos civis. 
+(   ) Nas décadas de 80 e 90, do século XX, para conter a inflação, os governos brasileiros 
+lançaram diferentes planos econômicos, os quais impuseram medidas como: mudança 
+da moeda, controle de preços e de salários. 
+(   ) O processo de “abertura política” foi rápido e estabeleceu o fim do período da ditadura 
+civil brasileira, ocorrendo as eleições diretas, realizadas em 1985, que elegeram 
+Tancredo Neves presidente do Brasil. 
+ 
+Assinale a alternativa que contém a sequência correta,  de cima para baixo. 
+ 
+A.  (   )  V – V – V – V – F  B.  (   )  F – V – V – F – F  
+C.  (   )  V – F – V – V – V  
+D.  (   )  F – F – V – V – V  
+E.  (   )  F – V – F – F – F  
+ 
+                                                                                                Vestibular 2015.1                    
+        20 
+  
+ 
+Questão 30 
+ 
+Assinale a alternativa incorreta a respeito de acontecimentos do período monárquico no Brasil. 
+ 
+A.  (   )  Cabanagem, Sabinada, Revolução Farroupilha e Balaiada foram revoltas que 
+aconteceram em províncias do Norte e do Sul do país e representaram as tensões políticas e sociais, relacionadas ao período regencial. 
+B.  (   )  A cana-de-açúcar foi a grande cultura da agricultura do império brasileiro e o açúcar, 
+principal produto brasileiro de exportação nesse período, financiou as medidas de 
+desenvolvimento do país. 
+C.  (   )  Durante o Primeiro Reinado foi promulgada a 1ª Constituição Brasileira (1824) e 
+alguns traços característicos desta são: a instituição do poder moderador e o voto indireto e censitário (ou seja, os eleitores precisavam atender a certos critérios, 
+inclusive econômicos, para votar). 
+D.  (   )  No Segundo Reinado, o Brasil foi alvo da chamada ambição “civilizatória”, o que 
+significou a apresentação de uma imagem do  Brasil como “nação civilizada”. Isso 
+acarretou na modernização do Rio de Janeiro, capital do império, e em medidas de estímulo à cultura nacional. 
+E.  (   )  A abolição da escravidão aconteceu durante o Segundo Reinado com a assinatura da 
+chamada Lei Áurea, porém esta não foi a “única” responsável por este acontecimento, 
+visto que antes da assinatura desta lei, a escravidão já estava enfraquecida por 
+pressões internas e externas ao Brasil. 
+ 
+ 
+ 
+Questão 31 
+ 
+Assinale a alternativa incorreta  em relação à ditadura militar e ao contexto deste período, no 
+Brasil.  
+A.  (   )  A luta armada foi um expediente utilizado por diferentes grupos contrários ao regime 
+militar, assim, homens e mulheres participaram de diferentes ações, incluindo a 
+criação de “guerrilhas” como a Guerrilha do Araguaia, arduamente combatida pelo 
+exército brasileiro.  
+B.  (   )  Um dos acontecimentos que antec edeu o golpe militar foi um grande comício em apoio 
+às reformas de base realizado na Central do Brasil, Rio de Janeiro, onde estiveram 
+presentes mais de 150 mil pessoas. 
+C.  (   )  No Estado de Santa Catarina as medidas de censura e o controle dos diferentes 
+governos militares não foram sentidos como em outros estados brasileiros, e uma evidência disso é o fato de não haver catari nenses na lista de desaparecidos políticos. 
+D.  (   )  A Marcha da Família com Deus pela liberdade foi um movimento que contou com a 
+participação de representantes das camadas médias urbanas, empresários, membros do clero, entre outros grupos que eram contrários ao governo de João Goulart. 
+E.  (   )  Durante o período do governo militar, no Brasil, os diversos presidentes fizeram uso de 
+Atos Institucionais (AI). O AI 5 (1968) foi considerado o mais “violento”, pois permitia ações como a suspensão de habeas corpus  para os chamados “crimes políticos”.  
+                                                                                                Vestibular 2015.1                    
+        21 
+  
+ 
+Questão 32 
+ 
+Analise as proposições a respeito do Estado Novo e do presidente Getúlio Vargas.  
+ 
+I.   O Departamento de Imprensa e Propaganda (DIP) foi criado para produzir material de 
+propaganda (cartazes, objetos, espetáculos, livros, artigos, etc. enaltecedores deste 
+governo), e seus organizadores se valeram de símbolos e imagens que representavam os 
+sentimentos de aprovação e adesão da sociedade ao governo Vargas.  
+II.   O Estado Novo compreendeu o período de governo de Getúlio Vargas que se estendeu 
+entre os anos de 1937 a 1954 e neste último ano este presidente cometeu suicídio, 
+causando, no país, grande comoção.  
+III.   A política trabalhista foi uma das questões chave na “Era Vargas”, o que ficou evidenciado 
+por meio de medidas como: criação do Ministério do Trabalho, Indústria e Comércio e promulgação de diversas leis (salário mínimo, férias, carteira de trabalho).   
+IV.   A educação também foi alvo das políticas articuladas no governo Vargas, a exemplo, a 
+criação do Ministério da Educação e Saúde Pública em 1930, quando Gustavo Capanema 
+foi ministro.  
+V.   Estado, Pátria, Nação e Povo – foram as palavras chave no Estado Novo, e Getúlio Vargas 
+foi o personagem principal deste período, se ndo a imagem dele utilizada em cartazes, 
+documentários e livros didáticos publicados em diferentes estados brasileiros.  
+ 
+Assinale a alternativa  correta . 
+ 
+A.  (   )  Somente as afirmativas II, IV e V são verdadeiras. 
+B.  (   )  Somente as afirmativas I, III, IV e V são verdadeiras. 
+C.  (   )  Somente as afirmativas II e III são verdadeiras. 
+D.  (   )  Somente as afirmativas I e V são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+                                                                                                  Vestibular 2015.1                    
+        22 
+  
+ 
+Questão 33 
+ 
+Episódios recentes de racismo, homofobia e xenofobia têm colocado em discussão problemas 
+graves e pouco debatidos na sociedade.  Analise as proposições sobre tais questões, e 
+assinale (V) para verdadeira e (F) para falsa.  
+(   ) No século XIX, o surgimento de um “racismo científico”, conjunto de teorias racistas 
+amparadas em trabalhos científicos, justific ou e tornou possível ações civilizatórias e 
+colonialistas de países europeus, especialmente sobre territórios da África. 
+(   ) No Brasil, a existência de leis, como a que estabelece a política de cotas para estudantes 
+negros e indígenas e a lei que tornou obrigatório o ensino da História e Cultura Afro-
+Brasileira e Indígena têm gerado impactos positivos para tais populações e para o país, 
+de forma geral, pois ampliam as oportunidades para estes povos e fazem conhecer sua 
+contribuição cultural. 
+(   ) Na Europa, o preconceito tem sido intensificado por conta da entrada de imigrantes 
+ilegais que buscam emprego e, portanto, rivalizam com a população local no mercado de trabalho. Alguns países têm tomado medidas severas para conter a entrada desses 
+imigrantes. 
+(   ) Casos de homofobia e racismo, no Brasil, estão relacionados à inexistência de uma 
+legislação que criminalize tais atitudes. 
+ 
+Assinale a alternativa que contém a sequência correta , de cima para baixo. 
+ 
+A.  (   )  V – F – F – V  B.  (   )  V – V – V – F  
+C.  (   )  V – V – F – F  
+D.  (   )  F – F – V – V  
+E.  (   )  F – V – V – F  
+ 
+ 
+    
+ 
+                                                                                                Vestibular 2015.1                    
+        23 
+  
+ 
+Questão 34 
+ 
+Leia os seguintes textos:   
+ 
+TEXTO 1 
+ 
+“Os bugres adultos e jovens eram os principais alvos de caçadas empreendidas por fazendeiros ou por bugreiros (caboclos especializ ados em localizar, destruir aldeamentos e 
+capturar alguns sobreviventes). Só conseguiam  escapar da morte algumas mulheres jovens 
+que seriam transformadas em esposas e companheiras de peões, pequenos sitiantes e tropeiros. (...) Segundo os mais experientes bugreiros, das crianças, só as de colo conseguiam “se salvar”, mas mesmo assim era para serem criadas longe de suas mães.”  
+ 
+MACHADO, Paulo Pinheiro. Bugres, tropeiros e biriva s: aspectos do povoamento do planalto serrano. 
+In: AREND, Silvia M. Fáve ro. BRANCHER, Ana. (org.) História de Santa Catarina no século XIX. 
+Florianópolis: Ed. da UFSC, 2001.  
+ 
+ 
+ 
+TEXTO 2 
+ 
+ “O que se percebe, então, é uma Desterro negra transgressora, que existia sob o controle 
+exercido pelos senhores e administradores. El a é ao mesmo tempo uma ‘cidade esconderijo’ 
+porque o meio urbano escondia a condição social do negro escravo, do liberto e pretos livres, 
+e uma ‘cidade solidária’ pois solidariedades poderiam se estabelecer de formas diferentes e 
+sobre os mais várias objetivos. Dentro deste contexto, temos a Irmandade Nossa Senhora do 
+Rosário e de São Benedito dos Homens Pretos, como uma espaço de expressão de africanos e afro-descendentes escravos, livres, libertos de Desterro.”  
+ 
+MORTARI, Claudia. CARDOSO, Paulino de Jesus. Territórios negros em Florianópolis no século XX. 
+In: BRANCHER, Ana (org.) História de Santa Catarina. Estudos Contemporâneos. Florianópolis: Letras 
+Contemporâneas, 1999, p. 89.  
+ 
+ 
+ 
+ 
+                                                                                                Vestibular 2015.1                    
+        24 
+  
+ Analise as proposições em relação aos textos. 
+ 
+I.   As expressões “Desterro transgressora” e “Cidade esconderijo” evidenciam as situações 
+de improviso e sobrevivência vivenciadas pelos povos afrodescendentes na cidade de 
+Desterro (atual Florianópolis).  
+II.   O Texto 2 fala das irmandades como “espaço de expressão” de africanos e 
+afrodescendentes. Neste sentido, entende-se que naqueles lugares estes grupos podiam celebrar suas práticas religiosas, suas festividades e vivenciar suas sociabilidades. 
+III.   O Texto 1 relata a situação de violência empreendida sobre os povos indígenas no planalto 
+do Estado de Santa Catarina, a única região em que ocorreram conflitos entre colonos e 
+povos nativos.  
+IV.   As situações expressas, nos dois textos, são localizadas apenas nos contextos em que 
+foram vivencias e não têm, portanto, relação com a atual situação dos povos indígenas e afrodescendentes no estado catarinense. 
+V.   As situações apresentadas nos textos e que evidenciam situações de violência e controle 
+social para povos indígenas e afrodescendentes são exceções no espaço catarinense, onde 
+a diversidade cultural não ofereceu motivos para a existência de conflitos.  
+ 
+Assinale a alternativa correta. 
+ A.  (   )  Somente as afirmativas II e V são verdadeiras. 
+B.  (   )  Somente as afirmativas I e III são verdadeiras. C.  (   )  Somente as afirmativas I, III e IV são verdadeiras. 
+D.  (   )  Somente as afirmativas I e II são verdadeiras. E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ Questão 35 
+ “A incompreensão do presente nasce fatalmente da ignorância do passado. Mas talvez não 
+seja menos vão esgotar-se em compreender o passado se nada se sabe do presente.” Marc Bloch. Apologia da História ou o ofício do historiador . Rio de Janeiro: Jorge Zahar, 2001, p. 65.  
+ 
+Assinale a alternativa que contém a definição de história mais coerente com a citação do 
+historiador Marc Bloch.  
+ 
+A.  (   )  A História é a ciência que resgata o passado para explicar o presente e fazer 
+previsões sobre o futuro. 
+B.  (   )  A História é uma ciência que visa promover o entretenimento dos expectadores do 
+presente e um conhecimento inútil sobre o passado. 
+C.  (   )  A História é, tal como a literatura, uma narrativa sobre o passado determinada pela 
+imaginação do historiador. 
+D.  (   )  A História é a ciência que se refugia no passado para não compreender as questões 
+do presente. 
+E.  (   )  A História é uma ciência que formula questões sobre o passado a partir de 
+inquietações e experiências vividas no presente.                                                                                                Vestibular 2015.1                    
+        25 
+  
+ 
+Questão 36 
+ 
+Em relação aos principais acontecimentos ocorridos na História da Antiguidade, numere-os 
+cronologicamente. 
+ 
+(   ) Conquistas militares de Alexandre, O grande. 
+(   ) Guerra do Peloponeso. 
+(   ) Conversão do imperador Constantino ao cristianismo em Roma. 
+(   ) Formação das pólis gregas. 
+(   ) Rebelião escrava liderada por Spartacus. 
+ 
+Assinale a alternativa que contém a sequência cronológica correta , de cima para baixo. 
+ 
+A.  (   )  1 – 3 – 5 – 4 – 2  
+B.  (   )  5 – 4 – 2 – 3 – 1  
+C.  (   )  2 – 4 – 1 – 3 – 5  
+D.  (   )  3 – 2 – 4 – 5 – 1  
+E.  (   )  4 – 2 – 1 – 5 – 3  
+ 
+ 
+ 
+Questão 37 
+ 
+Leia com atenção o fragmento retirado da Carta de Pero Vaz de Caminha. 
+ 
+ “E quando veio ao Evangelho, que nos erguemos todos em pé, com as mãos levantadas, eles [os índios] se levantaram conosco e al çaram as mãos, ficando assim, até ser acabado; e 
+então tornaram-se a assentar como nós. E quando levantaram a Deus, que nos pusemos de 
+joelhos, eles se puseram assim todos, como nós estávamos com as mãos levantadas, e em 
+tal maneira sossegados, que, certifico a Vossa Alteza, nos fez muita devoção.”  
+ 
+Pero Vaz de Caminha. In: OLIVIERI, A. C. e VILLA, M. A. Crônicas do descobrimento . São Paulo: 
+Ática, 1999, p. 23. 
+ 
+ 
+ 
+Em relação à Carta de Caminha para o Rei de Portugal, pode-se dizer que é:  
+ 
+A.  (   )  uma narrativa que projeta sobre as populações nativas uma visão de mundo cristão, 
+como se o Brasil fosse uma espécie de paraíso edênico. 
+B.  (   )  um relato imparcial sobre as populações indígenas, porque o autor narra exatamente o 
+que viu e viveu no Brasil. 
+C.  (   )  uma narrativa capaz de identificar a verdadeira essência das populações indígenas 
+brasileiras que já conheciam o cristianismo, e traziam no seu íntimo um conhecimento prévio dos ensinamentos pregados por Cristo a seus discípulos. 
+D.  (   )  um relato que expressa total ignorância e despreparo do cronista sobre o  caráter 
+dissimulado e estratégico das populações indígenas, que desejavam tão somente ganhar a confiança dos viajantes europeus para obter lucros e fazer alianças políticas para derrotar seus inimigos. 
+E.  (   )  um relato sem valor histórico, pois está marcado por uma perspectiva eurocêntrica e 
+preconceituosa sobre os habitantes nativos do Brasil.                                                                                                 Vestibular 2015.1                    
+        26 
+  
+ 
+ 
+Questão 38 
+ 
+A imagem fotográfica abaixo foi feita durante a Guerra do Contestado, movimento social ocorrido na fronteira do Paraná com Santa Catarina, entre 1912-1916. Trata-se de um registro de grupo de sertanejos que se renderam às forças oficiais brasileiras no ano de 1914. Os rebeldes estão 
+sentados, enquanto representantes das forças políticas e militares da época aparecem de pé. 
+ 
+ 
+ 
+Fonte:  Arquivo histórico do Exército (RS). 
+ 
+Analise as proposições a partir da análise da imagem e do conhecimento histórico sobre a 
+Guerra do Contestado. 
+ 
+I.   A montagem do cenário demonstra que a imagem foi montada e fotografada pelos 
+representantes das forças militares e políticas.  
+II.   A luta pela pelo direito à terra, contra a exploração dos políticos locais e contra a 
+madeireira internacional Lumber and Colonization Company , configura esse movimento 
+como uma experiência nacional e internacional  contra a exploração política e econômica, 
+projetando-a, dessa forma, além dos limites da história regional catarinense. 
+III.   O movimento do Contestado contou com a participação de uma população miscigenada, 
+incluindo afrodescendentes, populações de origem indígena, mulheres e imigrantes europeus, muitos deles assumindo o comando político, militar e religioso das “comunidades santas” ou dos “redutos”. 
+IV.   Trata-se de um conflito de cunho messiânico  sem conotações políticas. Os fiéis desejavam 
+apenas aguardar o retorno do Exército Encantado de São Sebastião e dos monges João e José Maria. 
+V.   Trata-se de um conflito liderado por foragido s da polícia e por latifundiários que tinham como 
+interesse principal derrubar os líderes políticos democraticamente eleitos, para ganhar a posse das terras da região e vendê-las para as  grandes empresas de colonização. 
+ 
+Assinale a alternativa correta . 
+A.  (   )  Somente as afirmativas I, II e V são verdadeiras. 
+B.  (   )  Somente as afirmativas I, II e IV são verdadeiras. 
+C.  (   )  Somente as afirmativas I, II e III são verdadeiras. 
+D.  (   )  Somente as afirmativas III, IV e V são verdadeiras. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+                                                                                                Vestibular 2015.1                    
+        27 
+  
+Questão 39 
+ 
+O cartunista e jornalista Henfil (1944-1988) se notabilizou pela construção de um humor marcado pela ironia e pelo cinismo. Graúna é um dos seus cartuns publicado em O Pasquim.  
+ 
+ GRAUNINHA, CONTA COMO É QUE 
+FOI O SEU PRIMEIRO VOTO DE 
+ANALFABETA... 
+BOM. 
+    Enfim, aquele que torrou mais dinheiro...  Escolhi o meu candidato pela aparência...  Um bem frio, mentiroso, dado a negócios excusos...  Me prometeu emprego público, comprou meu voto!  
+VIU ESTA? Como n ão? Há anos que eu venho observando como é que os alfabetizados votam... PERALÁ. 
+GRAÚNA! NÃO É 
+ASSIM QUE SE VOTA...  VIU ESTA?  
+INCRÍVEL! 
+PEGOU RAPIDIM  O CINISMO DA COISA...
+ 
+ 
+ 
+ 
+Com base no desfecho irônico proposto sobre a capacidade das populações analfabetas 
+escolherem os seus líderes políticos por meio do voto, depreende-se que: 
+ 
+A.  (   )  Os analfabetos não estão prontos para a democracia, uma vez que votam pela 
+aparência ou de acordo com suas necessidades pessoais. 
+B.  (   )  As pessoas analfabetas têm capacidade de justificar as escolhas dos seus candidatos 
+políticos a partir de critérios racionais. 
+C.  (   )  As pessoas analfabetas são mais influenciáveis na política que os alfabetizados, pois 
+não possuem instrução para identificar as estratégias e discursos ludibriantes dos 
+candidatos políticos. 
+D.  (   )  As pessoas alfabetizadas são as mais qualificadas para escolher o representante 
+político que deve governar o país. 
+E.  (   )  As pessoas analfabetas são ingênuas e facilmente manipuláveis o que limita sua 
+capacidade de escolher o político que governará toda a população do país.                                                                                                 Vestibular 2015.1                    
+        28 
+  
+ 
+GEOGRAFIA                                                                   (11 questões)  
+ 
+ 
+Questão 40 
+ 
+Analise as proposições sobre os fatores do clima. 
+ 
+I.   Quanto maior a latitude, menores são as médias térmicas anuais. 
+II.   Quanto maior a altitude, menor a temperatura. 
+III.   As massas de ar são enormes bolsões de ar, que se deslocam pela superfície da Terra por 
+diferença de pressão. À medida que elas se deslocam vão se descaracterizando pela 
+influência de outras massas de ar com as quais trocam calor. 
+IV.   A maior ou menor proximidade de grandes quantidades de água exerce forte influência não 
+só no comportamento da umidade relativa do ar, mas também no da temperatura. 
+V.   O relevo influi na temperatura e na umidade do ar, ao facilitar ou dificultar a circulação de 
+massas de ar. 
+ Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+B.  (   )  Somente as afirmativas I, II e V são verdadeiras. 
+C.  (   )  Somente as afirmativas I e III são verdadeiras. 
+D.  (   )  Somente a afirmativa IV é verdadeira. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ Questão 41 
+ 
+O ponto mais alto do Brasil é o Pico da Neblina, localizado na Serra do Imeri, no estado (do) 
+(de):  
+A.  (   )  Amazonas 
+B.  (   )  São Paulo 
+C.  (   )  Rio de Janeiro  
+D.  (   )  Goiás 
+E.  (   )  Minas Gerais 
+ 
+  
+ 
+                                                                                                   Vestibular 2015.1                    
+        29 
+  
+ Questão 42 
+ 
+Analise as proposições em relação ao continente africano. 
+ 
+I.   No relevo predominam os planaltos em escudos antigos. 
+II.   O Norte do continente tem grandes restrições para o uso agrícola em razão da presença 
+de um enorme deserto. 
+III.   As florestas se concentram na região equatorial do continente. IV.   A população se concentra nas zonas litorâneas do continente. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+B.  (   )  Somente as afirmativas I e II são verdadeiras. 
+C.  (   )  Somente as afirmativas I e III são verdadeiras. 
+D.  (   )  Somente a afirmativa IV é verdadeira. 
+E.  (   )  Todas as afirmativas são verdadeiras. 
+ 
+ 
+ 
+Questão 43  
+Analise as proposições sobre a composição da população catarinense.  
+ 
+I.   É uma população predominantemente de etnia branca, devido às políticas migratórias de 
+“embranquecimento” da população estabelecidas durante o período do Império. 
+II.   Atualmente, o estado catarinense é marcado pelo fenômeno da migração de retorno, ou 
+seja, populações de outros estados que vieram para cá estão retornando a seus estados 
+de origem. 
+III.   Verifica-se, no estado catarinense, um processo de redução da taxa de natalidade, 
+provocado, entre outros fatores, pelo prolongamento do tempo de estudo dos jovens. 
+IV.   A redução da taxa de natalidade, combinada com o aumento das taxas de mortalidade, é 
+responsável pela redução do crescim ento vegetativo em Santa Catarina. 
+V.   No estado catarinense, as taxas de imigração da última década superam as taxas de 
+emigração. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, III e V são verdadeiras. 
+B.  (   )  Somente as afirmativas I, II, III e IV são verdadeiras. 
+C.  (   )  Somente as afirmativas I, III e IV são verdadeiras.  
+D.  (   )  Somente as afirmativas III, IV e V são verdadeiras. 
+E.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+ 
+ 
+                                                                                                Vestibular 2015.1                    
+        30 
+  
+  Questão 44 
+ 
+A produção de alimentos segue uma série de possibilidades e limitações que vão desde as 
+condições pedológicas do clima e da cultura de um povo. A religião é um elemento cultural que 
+também interfere nos hábitos alimentares e, consequentemente, na produção de alimentos. 
+Numere as colunas, relacionando os costumes alimentares às seitas religiosas. 
+ 
+(1) Islamismo (    )   A restrição alimentar acontece em um período específico: a 
+quaresma. 
+(2) Budismo (    )   A ingestão de bebidas alcoólicas é proibida, assim como a de 
+carnes de suínos, cães, macacos e animais selvagens. 
+(3) 
+ 
+(4) Judaísmo 
+ 
+Catolicismo (    )   Não há leis proibindo ou permitindo a ingestão de alguns 
+alimentos. A conduta alimentar varia entre as vertentes de acordo 
+com os princípios práticos e filosóficos do grupo, embora haja 
+grupos veganos, que não consomem produtos animais, pelo 
+princípio de não causar danos a outras vidas. 
+  (    )   Os mamíferos permitidos na alimentação precisam ruminar e ter 
+unhas fendidas, por isso não é permitida a ingestão de carne de 
+suínos e de camelos. 
+ 
+Assinale a alternativa que apresenta a sequência correta , de cima para baixo. 
+ 
+A.  (   )  3 – 1 – 2 – 4  B.  (   )  1 – 4 – 2 – 3  
+C.  (   )  4 – 1 – 2 – 3  
+D.  (   )  4 – 2 – 3 – 1  
+E.  (   )  2 – 3 – 4 – 1  
+ 
+ 
+ 
+Questão 45 
+ 
+A República do Haiti é um pequeno país, que possui cerca de 10 milhões de habitantes, dos 
+quais a grande maioria negra. A língua oficial é o francês e o crioulo, e a capital chama-se 
+Porto Príncipe. O quadro social do país é bastante precário, em 2014 os jornais noticiaram a 
+busca dos haitianos por trabalho no Brasil. Assinale a alternativa que contém o nome do 
+continente onde o Haiti se localiza.  
+A.  (   )  América do Norte 
+B.  (   )  América Central 
+C.  (   )  Ásia 
+D.  (   )  América do Sul 
+E.  (   )  África 
+                                                                                                Vestibular 2015.1                    
+        31 
+  
+ Questão 46 
+ 
+O ano de 2014 foi marcado por fortes conflitos entre a Rússia e a Ucrânia. Analise as 
+proposições sobre a Ucrânia.  
+ 
+I.   Está politicamente dividida, com sua porção ocidental desejosa de estreitar laços com a 
+União Europeia e a porção oriental, com a Rússia. 
+II.   Pelo país passam importantes gasodutos que transportam o gás natural da região do mar 
+Cáspio para a Europa, cujo controle interessa tanto à União Europeia quanto à Rússia. 
+III.   Vem tentando se aproximar da Rússia desde 1991, quando deixou a União Europeia. 
+IV.   Possui grandes extensões de solos muito férteis, sendo grande produtora de cereais. 
+V.   Ainda padece dos efeitos da poluição radioativa, decorrente do acidente nuclear de 
+Chernobyl, em 1986. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, II, III e IV são verdadeiras. 
+B.  (   )  Somente as afirmativas I, II, IV e V são verdadeiras. 
+C.  (   )  Somente as afirmativas II, III, IV e V são verdadeiras.  
+D.  (   )  Somente as afirmativas III e IV são verdadeiras. 
+E.  (   )  Somente as afirmativas I e V são verdadeiras.  
+ 
+ 
+Questão 47 
+ Assinale a alternativa correta  em relação às características e à atuação das massas de ar 
+sobre o território brasileiro. 
+ 
+A.  (   )  Massa tropical atlântica: quente e úmida, provoca chuvas no litoral das regiões 
+nordeste, sudeste e sul do Brasil. 
+B.  (   )  Massa equatorial atlântica: quente e seca, responsável pelas secas periódicas na 
+região nordeste. 
+C.  (   )  Massa equatorial continental: quente e úmida, é o maior mecanismo formador de 
+chuvas nas regiões sudeste e sul do Brasil. 
+D.  (   )  Massa tropical continental: fria e seca, provoca chuvas convectivas no Brasil central. 
+E.  (   )  Massa polar atlântica: fria e úmida, é a principal responsável pelas fortes chuvas em 
+Santa Catarina, nos meses de verão. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                Vestibular 2015.1                    
+        32 
+  
+Questão 48 
+ 
+Analise as proposições em relação à espacialidade da economia catarinense. 
+ 
+I.   De colonização mais recente, a região oeste catarinense abriga a agroindústria, 
+principalmente de suínos e aves. 
+II.   No planalto de Canoinhas predomina a indústria moveleira e a extração de erva-mate. 
+III.   A região nordeste possui, além da indústria metal-mecânica, um dos mais importantes 
+portos catarinenses – o porto de Itajaí – localizado na cidade do mesmo nome. 
+IV.   A atividade turística, presente em quase todo o território catarinense, tem nos meses de 
+janeiro o maior destino concentrado no litoral, sobretudo em cidades como Florianópolis e 
+Balneário Camboriú; e no mês de julho, para a serra catarinense, em função da possibilidade da ocorrência de neve e pelos hotéis fazenda. 
+V.   O carvão, que foi a atividade econômica mais importante da região Sul de Santa Catarina, 
+entrou em declínio no Governo Vargas, dando lugar a uma economia mais diversificada, com destaque para as indústrias cerâmica, vestuário, calçado, entre outras. 
+ Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, III e V são verdadeiras. 
+B.  (   )  Somente as afirmativas III e IV são verdadeiras. C.  (   )  Somente as afirmativas I, II e V são verdadeiras. 
+D.  (   )  Somente as afirmativas II, III e IV são verdadeiras. 
+E.  (   )  Somente as afirmativas I, II e IV são verdadeiras. 
+ 
+ 
+Questão 49 
+ 
+Um dos grandes problemas da atualidade é a produção de lixo. Analise as proposições que 
+representam a redução de impactos ambientais. 
+ 
+I.   Aumentar o tempo da obsolescência program ada, isto é, a indústria aumenta a vida útil dos 
+produtos. 
+II.   Aumentar o uso do correio eletrônico, diminuindo com isso o uso de papéis em cartas, 
+memorandos, etc. 
+III.   Facilitar e estimular a prática dos brechós, aumentando o reaproveitamento de roupas e 
+objetos de utilidade doméstica, de decorações, alongando assim a vida útil de diversos 
+produtos. 
+IV.   Aumentar a reciclagem de latas, vidros e outros materiais passíveis de reaproveitamento. 
+V.   Reaproveitar a água das chuvas para lavação de roupas, calçadas, carros e vasos 
+sanitários. 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II e III são verdadeiras. 
+B.  (   )  Somente as afirmativas I, IV e V são verdadeiras. 
+C.  (   )  Somente a afirmativa V é verdadeira. D.  (   )  Somente a afirmativa I é verdadeira. E.  (   )  Todas as afirmativas são verdadeiras.                                                                                                Vestibular 2015.1                    
+        33 
+  
+ 
+Questão 50 
+ 
+O setor agropecuário é responsável por grande parte do PIB brasileiro, comportando a 
+produção para o consumo interno e para a exportação. Numere a coluna, relacionando o 
+cultivo descrito a sua característica. 
+ 
+(1) café (   ) produção marcante sobre extensas áreas do oeste paulista, 
+predominantemente em grandes propriedades e em latifúndios. 
+(2) cana-de-açúcar (   ) importante cultivo de exportação brasileiro, as maiores regiões 
+produtoras concentram-se nos estados do Mato Grosso e do 
+Paraná. 
+(3) soja (   ) tradicional cultivo no Rio Grande do Sul, hoje também marcante 
+no interior da região nordeste do Brasil. 
+(4) uva (   ) cultivo marcante no estado de Minas Gerais, sendo o Brasil o 
+maior produtor mundial. 
+(5) trigo (   ) importante cultivo nos estados do Rio Grande do Sul, Santa 
+Catarina e Paraná, sendo o Brasil ainda importador. 
+ 
+A sequência correta  é, de cima para baixo.  
+ 
+A.  (   )  1 – 2 – 4 – 5 – 3  
+B.  (   )  4 – 3 – 1 – 5 – 2  
+C.  (   )  2 – 3 – 4 – 1 – 5  
+D.  (   )  3 – 4 – 2 – 1 – 5  
+E.  (   )  5 – 3 – 2 – 1 – 4  
+ 
+ 
+     
+ 
+ 
+                                                                                                Vestibular 2015.1                    
+        34 
+  
+ 
+REDAÇÃO                                                                
+ 
+ 
+A prova de redação apresenta três propostas, o candidato deverá escolher  uma  delas para 
+elaborar a sua dissertação. 
+ 
+ 
+ 
+Proposta 1 
+ Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo, enfocando o 
+tema:  O valor do silêncio.  
+ 
+Texto 1 
+ 
+“Aquele silêncio insinuava tanta coisa, e nos incomodava tanto... Como se para revelar algo 
+fosse necessário silenciar.”  
+ 
+Hatoum, Milton. Relato de um certo Oriente.  São Paulo: Companhia das Letras, 2013,  p. 82.
+ 
+ 
+ 
+Texto 2 
+ “De resto, como contar com palavras o que se passou praticamente sem elas? Dona Luísa sabia. Eu sabia que ela sabia e o silêncio era apenas a maneira pela qual ela mostrava sua generosidade.”  
+ 
+Gabeira, Fernando. O que é isso, companheiro?  Rio de Janeiro: Codecri, 1979, p. 112.
+ 
+ 
+ 
+Texto 3 
+ 
+A voz do silêncio   
+ 
+Pior do que a voz que cala, 
+é um silêncio que fala. 
+ 
+Simples, rápido! E quanta força! 
+ 
+Imediatamente me vieram à cabeça situações 
+em que o silêncio me disse verdades terríveis, 
+pois você sabe, o silêncio não é dado a amenidades. 
+Um telefone mudo. Um e-mail que não chega. 
+Um encontro onde nenhum dos dois abre a boca. 
+ 
+Silêncios que falam sobre desinteresse, 
+esquecimento, recusa.  
+[...] 
+ 
+Martha Medeiros: A voz do silêncio - Pior do que a voz...
+Adapt. disponível em: http://www.casadobruxo.com.br/poesia/m/marta17.htm
+Acessado em: 20/09/2014.
+                                                                                                Vestibular 2015.1                    
+        35 
+  
+ 
+Proposta 2 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo, enfocando o 
+tema: Corrupção: via de mão dupla. 
+ 
+Texto 1 
+ 
+“Sabíamos ambos enganar ao mestre. A novidade estava nos termos da proposta, na troca 
+de lição e dinheiro, compra franca, positiva, toma lá, dá cá; tal foi a causa da sensação.”   
+Assis, Machado de. Várias histórias . São Paulo: Martin Claret, 2013, pp. 115 e 116.
+ 
+  
+Texto 2 
+ 
+Ninguém se corrompe só. Corrupção, como ensina a lógica, é via de mão dupla. Se alguém 
+recebeu propina é porque alguém ofereceu. São corruptos ambos - o que recebeu e o que 
+deu. 
+ 
+Disponível em: http://www.ormnews.com.br/noticia.asp ?noticia _id=688285#.VBDSGfldU2s
+Acessado em: 28/08/2014.
+ 
+ 
+ 
+Texto 3 
+ 
+ 
+ 
+Disponível em: https://www.google.com.br/search?q=corrupçao+via+de+mão+dupla&espv=2&biw=1366&bih = 
+Acessad
+o em: 28/08/2014. 
+ 
+ 
+    
+                                                                                                Vestibular 2015.1                    
+        36 
+  
+ 
+Proposta 3 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo, enfocando o 
+tema:  Há definição para a felicidade?  
+ 
+Texto 1 
+ 
+“Aliás, se começássemos a aprofundar muito nossa discussão sobre felicidade, ali naquela sala, cercado dos livros empoeirados que trouxera de Minas, as divergências iam se ampliar de maneira vertiginosa”. 
+ 
+ 
+Gabeira, Fernando. O que é isso, companheiro?  Rio de Janeiro: Codecri, 1979, p. 117.
+ 
+ 
+ 
+Texto 2 
+ 
+O homem sábio não busca o prazer, mas a libertação das preocupações e dos sofrimentos. 
+Ser feliz é ser auto-suficiente. 
+ 
+Disponível em: http://pensador.uol.com.br /felicid ade_aristoteles/
+Acessado em: 28/08/2014.
+ 
+ 
+ 
+Texto 3 
+ 
+ 
+ 
+ 
+Disponível em: https://www.google.com.br/search?q=mafa lda+ charges&espv=2&biw=1366&bih=643 
+Acessado em: 28/08/2014. 
+ 
+                                                                                                Vestibular 2015.1                    
+        37 
+ FOLHA DE RASCUNHO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                                Vestibular 2015.1                    
+        38 
+  FOLHA DE RASCUNHO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                                Vestibular 2015.1                    
+        39 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+                                                                                                Vestibular 2015.1                    
+        40 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 

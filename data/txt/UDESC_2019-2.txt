@@ -1,0 +1,2413 @@
+ 
+                                                                 Vestibular 2019.2                                
+ 
+                                                   
+ 
+ 
+ 
+ 
+Caderno  de 
+Prova  (Tarde)  
+ 
+ 
+ 
+  
+ 
+02 de junho  
+ 
+ 
+ 
+das 15h às 19h30min  
+       
+ 
+ 
+50 questões 
+ 
+FÍSICA (14 questões)     
+QUÍMICA (14 questões)  
+HISTÓRIA (11 questões)  
+GEOGRAFIA (11 questões)  
+REDAÇÃO  
+ 
+ 
+ 
+ 
+ 
+ 
+ Instruções  
+___________________________________________  
+ 
+Para fazer a prova você usará:  
+ 
+■ este caderno de prova;  
+■ um cartão -resposta que contém seu nome, 
+número de inscrição e espaço para sua 
+assinatura.  
+ 
+Verifique, no caderno de prova, se:  
+ 
+■ faltam folhas ; 
+■ a sequência das questões está correta;  
+■ há imperfeições gráficas que possam causar 
+dúvidas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comunique imediatamente ao fiscal qualquer 
+irregularidade.  
+   Atenção!  
+_________________________________________  
+ 
+■ Não é permitido qualquer tipo de consulta 
+durante a realização da prova.  
+■ Para cada questão são apresentadas 5 (cinco) 
+alternativas (a, b, c, d, e). Apenas uma delas 
+constitui a resposta correta em relação ao 
+enunciado da questão.  
+■ A interpretação das questões é parte integrante 
+da prova, não sendo permitidas perguntas aos 
+fiscais.  
+■ Não destaque folhas da prova.  
+■ Você somente poderá entregar sua prova após 
+60 (sessenta) minutos do início.  
+■ Os três últimos candidatos somente poderão 
+retirar -se da sala simultaneamente.  
+■ Ao se retirar da s ala não leve consigo nenhum 
+material de prova, exceto  o quadro para 
+conferência de gabarito.  
+ 
+Ao terminar a prova, entregue ao fiscal o caderno 
+de prova completo e o cartão -resposta 
+devidamente preenchido s e assinado s. 
+ 
+ 
+ NOME DO(A) CANDIDATO(A)  02                                                                                       Vestibular 201 9.2                               
+ 
+ 
+2 
+ 
+ 
+  Redação  
+ 
+ 
+A redação que apr esentar cópia dos textos da Proposta de Redação terá o número de linhas copiadas 
+descontado para efeito de correção  e avaliação .  
+Será atribuída pontuação 0 (zero) às redações:  
+■ escritas a lápis, lapiseira ou caneta de tinta que não seja na cor azul ou pret a; 
+■ escrita com letra ilegível , impossibilitando a correção;  
+■ que não apresentem texto escrito na folha oficial de redação, que será considerada “em branco”;  
+■ que estiverem escritas no verso da folha oficial de redação;  
+■ que não estiverem escritas em Língua P ortuguesa;  
+■ que não observarem o limite mínimo de 20 e o máximo de 30 linhas. As linhas com cópia dos textos 
+motivadores, apresentados no Caderno de Prova, serão desconsideradas para efeito de contagem do 
+mínimo de linhas , para a avaliação ; 
+■ que não atendere m à proposta solicitada ( dissertação ) ou que possuam outra estrutura textual;  
+■ escritas em versos;  
+■ com fuga total do tema;  
+■ resultantes de plágio;  
+■ com identificação (nome, assinatura, rubrica, apelido, desenho, rabisco, traçado) ou qualquer outro registro 
+que possa revelar o autor da dissertação na folha oficial definitiva de redação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+QUADRO PARA CONFERÊNCIA DE GABARITO  
+                                 SOMENTE ESTA PARTE PODERÁ SER DESTACADA  
+  
+ 
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+ 
+                         
+ 
+26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+ 
+                                                                                                               Vestibular 201 9.2                               
+ 
+ 
+3 
+ 
+ 
+  
+FÍSICA                                                                   (14 questões)  
+Formu lário p. 10.  
+ 
+ 
+Questão 01  
+ 
+Uma forma simples de medir o tempo de reação de um indivíduo é observar quanto tempo ele 
+leva para fechar a mão e segurar uma régua graduada em queda livre. A Figura 1 mostra duas 
+imagens. Uma com a mão aberta e uma régua graduad a acima no momento em que ela é 
+solta. A outra imagem mostra o momento em que a régua é segurada, registrando -se a 
+distância h percorrida pela régua em queda livre.  
+ 
+                                                                                A                     B  
+ 
+FIGURA 1  
+ 
+Dois participante  fizeram esse teste de reação. O participante A registrou uma altura h e o 
+participante B registrou h/2.  
+ 
+Assinale a alternativa que correspond e à razão entre os tempos de reação  
+B Att/ .  
+ 
+ 
+ 
+A.  (   )  2 
+B.  (   )  
+2  
+C.  (   )  
+21  
+D.  (   )  
+21  
+E.  (   )  
+41  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+4 
+ 
+ 
+ Questão 0 2 
+ 
+Considere um balão esférico de raio R cheio de ar, com a metade do seu volume fora e a outra 
+metade dentro d’água. O balão está amarrado por uma c orda que se encontra completamente 
+esticada , como mostra a Figura 2.  
+ 
+ 
+FIGURA 2  
+ 
+Sabendo -se que 
+ard  e 
+águad  correspondem , respectivamente , à densidade do ar e à da água , 
+assinale a alternativa que correspond e ao módulo da tensão na corda.  
+ 
+ 
+A.  (   )  
+) 2(
+323
+ar águad dgR    
+ 
+B.  (   )  
+) 2 2(
+343
+ar águad dgR    
+ 
+C.  (   )  
+) 2(
+343
+ar águad dgR    
+ 
+D.  (   )  
+) (
+343
+água ard dgR    
+ 
+E.  (   )  
+) 2 (
+323
+ar águad dgR    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+5 
+ 
+ 
+ Questão 0 3 
+ 
+Considere dois patinadores que patinam juntos com a mesma velocidade v. O patinador A tem 
+massa m e o patinador B tem massa 2m. Em um  dado momento o patinador A empurra o B e , 
+imediatamente , a velocidade do A vai a zero.  
+ 
+Desconsidere quaisquer forças de atrito , e a ssinale a alternativa que correspond e ao 
+percentual de variação da velocidade do p atinador B , após o empurrão.  
+ 
+A.  (   )  25% 
+B.  (   )  -50% 
+C.  (   )  -25% 
+D.  (   )  50% 
+E.  (   )  -33% 
+ 
+ 
+ 
+Questão 0 4 
+ 
+Considere um recipiente de volume 
+V cujo coeficiente de dilatação volumétrica é  
+R. Um 
+líquido de coeficiente de dilatação volumétrica 
+L é colocado no recipiente até enchê -lo 
+completamente. Após uma variação de temperatura  
+T , o recipiente e o líquido têm seus 
+volumes dilatados , e transborda um volume  
+10V  de líquido.  
+ 
+Assinale a alternativa q ue corresponde ao  valor 
+TR L ) ( . 
+ 
+A.  (   )  0,2 
+B.  (   )  10 
+C.  (   )  5 
+D.  (   )  0,1 
+E.  (   )  2 
+ 
+ 
+Questão 05 
+ 
+Considere que o valor médio do kWh é de R$ 0,50. Um chuveiro elétrico tem uma potência de 
+7000 W e uma lâmpada tem uma potência de 100  W.  
+ 
+Assinale a alternativa que correspond e, respectivamente,  ao valor do  consumo de energia , em 
+30 dias , de uma pessoa que fica em média 20 minutos tomando banho diariamente , e ao valor 
+do consumo de uma lâmpada o dia inteiro ligada .  
+ 
+A.  (   )  R$ 35,00 e R$ 36,00  
+B.  (   )  R$ 14,00 e R$ 14,40  
+C.  (   )  R$ 35,00 e R$ 14, 00 
+D.  (   )  R$ 14,00 e R$ 36,00  
+E.  (   )  R$ 35,00 e R$ 14,40  
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+6 
+ 
+ 
+ Questão 06 
+ 
+A Figura 3 mostra um circuito colocado acima de um ímã, cujo campo magnético é restringido 
+pela área cinza , e as linhas de campo magnético são perpendiculares em relação ao plano do 
+circuito.  
+ 
+FIGURA 3 
+ 
+Analise as proposições em relação  à Figura 3.  
+ 
+I. Ao deslocarmos o circuito e o ímã juntos em sentidos contrários , ao longo da direção y , 
+surge corrente no circuito.  
+II. Ao deslocarmos somente o ímã, ao longo da direção x , observa -se corrente no circuito.  
+III. Se o ca mpo magnético variar no tempo , surge corrente no circuito.  
+IV. Ao deslocar -se o circuito e o ímã juntos no mesmo sentido  e na mesma velocidade , ao longo 
+da direção y , observa -se corrente no circuito.  
+V. Ao deslocar -se o circuito e o ímã juntos no mesmo sentido e na mesma velocidade,  ao longo 
+da direção x , surge corrente no circuito.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas  I, II e IV são verdadeiras.  
+B.  (   )  Somente  as afirmativas  I, III e V são verdadeiras.  
+C.  (   )  Somente as afirmativas I, II e III são verdadeir as. 
+D.  (   )  Somente as afirmativas  II, IV e V são verdadeiras.  
+E.  (   )  Somente as afirmativas  III, IV e V são verdadeiras.  
+ 
+ 
+ 
+ 
+Questão 0 7 
+ 
+Um resistor com resistência de 
+10  é ligado em paralelo com um resistor de resistência de 
+40
+. Uma fonte de tensão de 
+V12 é aplicada à associação.  
+ 
+Assinale a alternativa que corresponde à corrente elétrica total no circuito e à potência 
+dissipada no resistor de
+40 , respectivamente.  
+ 
+A.  (   )  3,6A e 1,5W  
+B.  (   )  0,24A e 2,3W   
+C.  (   )  1,5A e 3,6W  
+D.  (   )  0,3A e 3,6W  
+E.  (   )  1,5A e 2,3W  
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+7 
+ 
+ 
+ Questão 0 8 
+ 
+Dois moles de gás ideal são comprimidos isotermicamente, à temperatura ambiente de 25ºC, 
+até que o volume  deste gás se reduza à metade.  
+ 
+Assinale a alternativa que melhor representa a razão entre as pre ssões inicial e final do gás.  
+ 
+A.  (   )  2 
+B.  (   )  4 
+C.  (   )  1/4 
+D.  (   )  1 
+E.  (   )  1/2 
+ 
+ 
+Questão 0 9 
+ 
+A distância que um objeto deve ser colocado de um espelho côncavo com raio de curvatura de 
+50cm para que a imagem desse objeto tenha a mesma orientação e meça 4/3 do tamanho do 
+objeto  é: 
+ 
+A.  (   )  87,5 cm  
+B.  (   )  6,25 cm  
+C.  (   )  43,75 cm  
+D.  (   )  12,5cm  
+E.  (   )  116,66 cm  
+ 
+ 
+ 
+Questão 10 
+ 
+Em 1900 Max Planck propôs a quantização da energia para explicar a radiação de corpo 
+negro. O postulado de Planck propõe que a energia seja dada por 
+nhf E  sendo 
+E  a 
+energia, 
+n  um número inteiro, 
+f  a frequência e  
+huma constante que , posteriormente , ficou 
+conhecida como constante de Planck.  
+ 
+Assinale a alternativa que corresponde à unidade de medida de 
+h  no sistema internacional de 
+unidades.  
+ 
+A.  (   )  
+Kg .
+s m/2  
+ 
+B.  (   )  
+Kg .
+sm/  
+ 
+C.  (   )  
+Kg .
+2 2/s m  
+ 
+D.  (   )  
+Kg .
+.m 
+s 
+ 
+E.  (   )  
+Kg .
+2/sm  
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+8 
+ 
+ 
+ Questão 11 
+ 
+Um copo contendo 200ml de água foi colocado no refrigerador até que a temperatura atingisse 
+5ºC negativos. O copo foi, então, retirado do refrigerador e colocado sobre uma  mesa, em uma 
+cozinha cuja temperatura ambiente est ava 10ºC.  
+ 
+Assinale a alternativa que corresponde ao calor total recebido pela água até atingir o equilíbrio 
+térmico.  
+ 
+A.  (   )  1,5kcal  
+B.  (   )  16,5kcal  
+C.  (   )  18,5kcal  
+D.  (   )  19,5kcal 
+E.  (   )  4,1kcal  
+ 
+ 
+ 
+Questão 12 
+ 
+Duas cargas elétricas pontu ais 
+1q e 
+2q  estão fixas e separadas pela distância d. Seja 
+2 1F  a 
+intensidade da força elétrica da carga 
+1q  sobre a carga 
+2q  e 
+1 2F a intensi dade força elétrica 
+da carga q 2 sobre a carga 
+1q .  
+ 
+Analise as proposições com relação às forças 
+2 1
+F  e 
+1 2
+F e suas intensidades.  
+ 
+I. Se 
+1q > 
+2q  então  
+2 1F  >  
+1 2F  
+II.  
+2 1
+F e 
+1 2
+F  satisfazem a 3ª lei de Newton.  
+III. Se 
+1q  for aproximada de 
+2q  para a nova distância 
+4d , então 
+1 2F  aumenta rá 16 vezes.  
+IV. Para quaisquer posições e valores das cargas elétricas vale a igualdade 
+12 21  F F   
+V. A força elétrica depende da velocidade das partículas.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas II , III e V são verdadeiras . 
+B.  (   )  Somente as afirmativas I , II e V são verdadeiras . 
+C.  (   )  Somente as afirmativas III , IV e V são verdadeiras . 
+D.  (   )  Somente as afirmativas II , III e IV são verdadeiras . 
+E.  (   )  Somente as afirmativas I , II e IV são verdadeiras . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+9 
+ 
+ 
+ Questão 13 
+ 
+Partículas com diferentes raz ões carga/massa, isto é q/m, penetram em uma  região de campo 
+magnético uniforme, de tal maneira que suas velocidades, que são iguais, são perpendiculares 
+ao campo magnético. Devido à força de Lorentz, as partículas descrevem trajetórias circulares.  
+ 
+Analis e as proposições com relação ao movimento de cargas elétricas em campo magnético 
+uniforme.  
+ 
+I. Partículas desprovidas de carga elétrica experimentam maior força magnética.  
+II. Partículas com cargas de sinais contrários seguirão trajetórias circulares em se ntidos 
+opost os. 
+III. Quanto maior a razão q/m menor será o raio da trajetória circular descrita pela partícula.  
+IV. A força de Lorentz não realiza nenhum trabalho sobre estas cargas.  
+V. Se uma das partículas for um nêutron , ele seguirá uma trajetória elípt ica. 
+ 
+Assinale a alternativa correta . 
+A.  (   )  Somente as afirmativas  II, III e IV são verdadeiras . 
+B.  (   )  Somente as afirmati vas I, III e V são verdadeiras . 
+C.  (   )  Somente as afirmativas III e IV são verdadeiras.  
+D.  (   )  Somente as afirmativas  I, II e V são verdadeiras . 
+E.  (   )  Somente as afirmativas  I, IV e V são verdadeiras . 
+ 
+ 
+Questão 14 
+ 
+Um tanque com 50cm de profundidade contém água com densidade de 1000kg/m3. Uma 
+pequena esfera, com 2,0cm de raio, feita de material com densidade de 920kg/m3, é colocada 
+no fundo do tanque e liberada do repo uso. Desconsidere a resistência da água ao movimento 
+da esfera.  
+Assinale a alternativa que corresponde ao valor do tempo de subida.  
+ 
+A.  (   )  
+s
+8092   
+ 
+B.  (   )  
+s
+9280   
+ 
+C.  (   )  
+s 115   
+ 
+D.  (   )  
+s
+9280   
+ 
+E.  (   )  
+s
+8092  
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+10 
+ 
+ 
+ FOMULÁRIO DE FÍSICA  
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+11 
+ 
+ 
+  
+QUÍMICA                                                                         (14 questões)  
+Tabela periódica p. 18. 
+ 
+Questão 15  
+ 
+Com o rompimento da barragem de Brumadinho, vários elementos químicos , oriundos do 
+rejeito de  minério, foram lançados no rio Paraopeba. O rejeito de minério era composto , 
+principalmente , pelos elementos ferro, manganês e alumínio.  Uma   amostra de cerca de 
+5,0040 g do sedimento do rio Paraopeba , contendo alumínio, foi coletada e submetida a 
+tratam ento químico (adição de reagentes) e , posterior mente, à  ignição, resultando em 1,0200 g 
+de Al 2O3. A equação química ( não balanceada ), abaixo, representa a reação química 
+envolvida na determinação do alumínio . 
+ 
+Al(OH) 3(s)  Al2O3(s) + H 2O(l)  
+ 
+A partir dos dados fornecidos no texto e na equação química, a porcentagem de alumínio 
+encontrada no sedimento do rio Paraopeba é  de aproximadamente:  
+ 
+A.  (   )  20,0 %  
+B.  (   )  40,0 %  
+C.  (   )  1,1 %  
+D.  (   )  18,5 %  
+E.  (   )  11,0 %  
+ 
+ 
+Questão 1 6 
+ 
+Um aluno de química preparou no laboratório uma solução de glicose 1 m ol/L (solução A) e 
+uma solução de cloreto de magnésio 1 mol/L (solução B). As duas substâncias são solúveis em 
+água, portanto, ao olhar os frascos o aluno observa que , macroscopicamente , as duas 
+soluções aquosas são iguais.  
+ 
+Comparando -as, em relação as s uas propriedades coligativas, é corret o afirmar que:   
+ 
+A.  (   )  ao nível do mar, a solução A tem o mesmo número de partículas que a solução B.  
+B.  (   )  o ponto de congelamento da solução A é inferior ao da solução B.  
+C.  (   )  ao nível do mar, o ponto de congelamento das soluções A e  B são superiores a 0oC. 
+D.  (   )  em uma mesma temperatura, a pressão de vapor da solução B é superior à da 
+solução A.  
+E.  (   )  sob uma mesma pressão externa, o ponto de ebulição da solução B é maior que  o da 
+solução A.                                                                                        Vestibular 201 9.2                               
+ 
+ 
+12 
+ 
+ 
+ Questão 1 7 
+ 
+Um químico precisa produzir em seu laborat ório álcool etílico utilizando como reagente a 
+glicose com pureza de 98%. A fermentação da glicose ocorre de acordo com a reação química 
+não balanceada  abaixo:  
+ 
+C6H12O6(s)   C2H5OH(l) + CO 2(g)  
+ 
+Considerando que a fermentação da glicose tem rendimento de 70%, e que a densidade do  
+etanol  é 0,789 g/mL, assinale a alternativa que representa a massa de glicose em kg , que o 
+químico deve utilizar para produzir 5,0 L de etanol . 
+ 
+A.  (   )  7,7 kg 
+B.  (   )  11,2 kg 
+C.  (   )  8,3 kg 
+D.  (   )  4,5 kg 
+E.  (   )  10,2 kg 
+ 
+ 
+Questão 1 8 
+ 
+A ligação entre átomos de elemento s químicos pode dar origem a diversas substâncias simples 
+ou compostas , encontradas na natureza, tais como o dióxido de carbono (CO 2), a água (H 2O), 
+o gás oxigênio (O 2) e o gás metano (CH 4).  
+ 
+Em relação às ligações químicas , presentes nessas substâncias, é correto  afirmar que  
+existe(m) : 
+ 
+A.  (   )  ligação iônica em duas das substâncias citadas.  
+B.  (   )  três substâncias com ligações covalentes apolares.  
+C.  (   )  apenas uma substância com ligação dupla.  
+D.  (   )  ao menos uma substância que , embora possua ligações covalentes polares, é uma 
+subs tância apolar.  
+E.  (   )  três substâncias que, embora possuam ligações covalentes apolares, são polares.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+13 
+ 
+ 
+ Questão 1 9 
+ 
+A dessalinização da água do mar pode ser realizada a partir de um sistema de destilação. Para 
+isso, um volume de sta água salgada é aquecido at é que se forme o vapor d´água, que é 
+resfriado e se torna água líquida, sem o sal dissolvido.  
+ 
+Com base no exposto e em seus conhecimentos químicos, é incorreto  afirmar que:  
+ 
+A.  (   )  a presença de sais dissolvidos em água do mar diminui a condutividade elétrica d a 
+solução.  
+B.  (   )  a água salgada é um exemplo de solução que não apresenta as propriedades físicas 
+do respectivo solvente puro.  
+C.  (   )  na dessalinização da água do mar estão presentes os processos de evaporação e 
+condensação.  
+D.  (   )  a temperatura de ebulição da água pura é dif erente da temperatura de ebulição da 
+água com sal dissolvido.  
+E.  (   )  em grandes altitudes, devido à menor densidade do ar (menor pressão atmosférica) , a 
+temperatura de ebulição da água pura é menor que a da água salgada.  
+ 
+ 
+Questão 20 
+ 
+Considere uma pilha caseira constituída por 5 moedas de cobre e 5 moedas de níquel, com 
+pedaços de papel toalha , molhado s em uma solução saturada de água com sal de cozinha 
+(NaCl) , intercala ndo as moedas.  
+ 
+Sabendo que EoCu2+/Cu = +0,337 V; EoNi2+/Ni = -0,240 V; EoH+/H2 = 0,000 V;  
+EoNa+/Na = -2,710 V , é correto  afirmar que:  
+ 
+A.  (   )  Ni2+ será reduzido, enquanto que o Cu será oxidado.  
+B.  (   )  Ni será oxidado, enquanto que o Cu2+ será reduzido . 
+C.  (   )  não ocorrerá espontaneamente uma reação de oxirredução.  
+D.  (   )  a moeda de níquel recebe os elétrons perdidos pela moeda de cobre.    
+E.  (   )  Ni sofrerá oxidação, transferindo dois elétrons para outra espécie.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+14 
+ 
+ 
+ Questão 21 
+ 
+Um dos medicamentos mais consumidos no Brasil é dipirona sódica. Este medicamento é 
+muito empregado para alívio de dores e febres, sua estrutura quími ca é apresentada a seguir:  
+ 
+ 
+ 
+ 
+Analise as proposições sobre a molécula apresentada . 
+ 
+I. Apresenta as funções orgânicas amina e cetona.  
+II. É uma molécula apolar , devido à presença de muitos carbonos em sua estrutura.  
+III. Possui somente carbonos com hibridização sp2 em sua estrutura.  
+IV. Na forma apresentada, não realiza ligações de hidrogênio entre suas moléculas.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa II  é verdadeira.  
+B.  (   )  Somente as a firmativas  II e III  são verdadeiras.  
+C.  (   )  Somente as a firmativas I e IV  são ver dadeiras.  
+D.  (   )  Somente as a firmativas I, II e III  são verdadeiras.  
+E.  (   )  Somente a afirmativa IV  é verdadeira.  
+ 
+ 
+Questão 22 
+ 
+A química orgânica é a parte da Química que se dedica ao estudo de moléculas contendo 
+átomos de carbono.  
+ 
+Neste contexto, com relação à moléc ula de 4 -metiloctan -1-ol, assinale a alternativa incorret a. 
+ 
+A.  (   )  Possui nove carbonos com hibridização sp3. 
+B.  (   )  Apresenta a fórmula molecular C 9H20O. 
+C.  (   )  Apresenta em sua estrutura dois carbonos assimétricos.  
+D.  (   )  Apresenta na cadeia principal oito carbonos sp3. 
+E.  (   )  É um álcoo l de cadeia aberta, ramificado e saturado.  
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+15 
+ 
+ 
+ Questão 23 
+ 
+Nas reações químicas, dependendo se o calor é absorvido ou liberado na reação, diz -se que 
+as reações são endotérmicas ou exotérmicas, respectivamente.  
+ 
+Analise as equações químicas abaixo.  
+ 
+I. CH 4(g) + 2 O 2(g) → CO 2(g) + H 2O(l) + 889,5 kJ  
+II. Fe 2O3(s) +3 C (s) → 2 Fe (s) +3 CO (g)     ΔH = + 490 kJ  
+III. HC l (aq) + NaOH (aq)  → NaC l (aq) + H 2O(l)    ΔH = - 57,7 kJ  
+IV. 1 H 2(g) + 1/2 O 2(g) → 2 H 2O(l) + 68,3 kJ  
+ 
+Com base na equações químicas analisadas, a ssinale a alternativa que apresenta apenas 
+reações exotérmicas.  
+ 
+A.  (   )  Somente as equações químicas  I, II e IV . 
+B.  (   )  Somente as equações  químicas  I e IV . 
+C.  (   )  Somente  a equação química  II.  
+D.  (   )  Somente  a equação  química  III. 
+E.  (   )  Somente as equações químicas I, III e IV . 
+ 
+ 
+Questão 24 
+ 
+Analise as proposições em relação ao átomo.  
+ 
+I. A menor partícula de um elemento químico é chamada átomo.  
+II. Todos os átomos de um dado elemento são idênticos.  
+III. Os átomos de elementos diferentes têm massas diferentes.  
+IV. Um composto químico utiliza uma combin ação específica de átomos de mais de um 
+elemento.  
+V. Em uma reação química, os átomos não são criados nem destruídos, apenas trocam de 
+parceiros para produzir novas substâncias.  
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas  I, II e IV são verdadei ras. 
+B.  (   )  Somente as afirmativas I, IV e V são verdadeiras.  
+C.  (   )  Somente as afirmativas III, IV e V são verdadeiras.  
+D.  (   )  Somente as afirmativas I, II e III são verdadeiras.  
+E.  (   )  Somente as afirmativas I, III e V são verdadeiras.  
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+16 
+ 
+ 
+ Questão 25 
+ 
+Considere a equação química ab aixo. 
+ 
+                                                   CaCO 3(s) + H 3O+(aq)   
+   Ca2+(aq) + HCO 3-(aq) 
+ 
+Analise as proposições em relação a es sa equação química.  
+ 
+I) A equação química representa a reação de neutralização de uma base forte por um  ácido 
+forte.  
+II) O equilíbrio representado pela equação química pode ser deslocado para a esquerda 
+adicionando -se solução aquosa de ácido nítrico.  
+III) Para formação de uma maior quantidade de fase sólida pode -se adicionar hidróxido de 
+sódio à reação química representada pela equação química  dada.  
+IV) A adição de dois equivalentes de ácido forte sobre o carbonato de cálcio leva à formação 
+de dióxido de carbono e de íons cálcio.   
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas  I e III são verdadeiras.  
+B.  (   )  Soment e as afirmativas  III e IV são verdadeiras.  
+C.  (   )  Somente as afirmativas  I e II são verdadeiras.  
+D.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+E.  (   )  Somente as afirmativas I e IV são verdadeiras.  
+ 
+ 
+ 
+Questão 26 
+ 
+Com relação aos estados físicos da matéria, assinale a a lternativa incorreta . 
+ 
+A.  (   )  Considerando uma mesma substância, na maioria dos casos , o nível de entropia (S) 
+aumenta na ordem: S gás< S líquido<Ssólido. 
+B.  (   )  A energia molar necessária para fundir uma determinada substância é tipicamente 
+menor que a energia necessária  para vaporiz á-la. 
+C.  (   )   O  ácido  sulfídrico (H 2S, 34 g/mol)  é  um  gás  a  25 °C. Por outro lado,  a água 
+(H2O, 18 g/mol), mesmo com uma massa molar bem menor , comparativamente ao 
+H2S, é líquida na mesma temperatura. Esse comportamento anômalo da água pode 
+ser explicado pelas diferenças entre as forças intermoleculares em cada caso.  
+D.  (   )  O estado de agregação de uma mesma substância em seus diferentes estados 
+físicos leva a uma ordem na densidade que, na maioria dos casos, é: 
+dsólido>dlíquido>dgás. 
+E.  (   )  Uma substância abaixo de sua temperatura de ebulição pode evaporar, mas com 
+pressão de vapor inferior à pressão externa sobre o líquido.  
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+17 
+ 
+ 
+ Questão 27 
+ 
+A equação química que representa a reação de hidrólise da sacarose , fornecendo glicose , é 
+dada abaixo . 
+                                                  C12H22O11(aq) + H 2O(l)  
+  2 C 6H12O6(aq) 
+ 
+A lei de velocidade dessa reação é dada por v = k [C 12H22O11] [H+], em que k = 1,8 x10-4 L mol-1 
+s-1 a 298 K. A energia de ativação para essa reação é de 108 kJ por mol de sacarose.  
+ 
+Considerando a equação de hidrólise da sacarose e os conceitos de cinética química, analise 
+as proposições.  
+ 
+I) A velocidade de hidrólise é independente da acidez ou alcalinidade do meio reacional.  
+II) A lei de velocidade é de primeira ordem em rela ção à sacarose e aos íons hidrogênio, e 
+de segunda ordem total.  
+III) A 298 K, na concentração de 1,0 mol/L de sacarose e pH = 5,00, a velocidade da reação 
+em relação à sacarose é de –1,8 nmol L-1 s-1. 
+IV) Sendo a energia de ativação a energia mínima que deve ser fo rnecida para a reação 
+iniciar, para aumentar a taxa de obtenção de glicose pode -se aumentar a temperatura e 
+diminuir o pH do meio reacional.  
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente as afirmativas I, III e IV são verdadeiras.  
+B.  (   )  Somente as afirmativas II, II I e IV são verdadeiras.  
+C.  (   )  Somente as afirmativas I, II e III são verdadeiras.  
+D.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+E.  (   )  Todas as afirmativas são verdadeiras.  
+ 
+ 
+ 
+Questão 28 
+ 
+Em uma reação química, o número de átomos de reagentes deve ser igual ao número  de 
+átomos nos produtos, quando isso acontece pode se dizer que a reação está balanceada.  
+ 
+Analise a reação a seguir , e marque a alternativa que contém , respectivamente , os coeficientes 
+estequiométricos para balancear corretamente  a reação.  
+ 
+____As 4S6  +  ___O 2                   ___As 4O6  +  ___SO 2 
+ 
+A.  (   )  1 – 9 – 1 – 6 
+B.  (   )  2 – 16 – 2 – 8 
+C.  (   )  1 – 16 – 1 – 6 
+D.  (   )  1 – 6 – 2 – 3 
+E.  (   )  2 – 18 – 2 – 6 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+18 
+ 
+ 
+ TABELA PERIÓDICA                                                                          
+ 
+ 
+ 
+ 
+ 
+                                                                                      Vestibular 201 9.2                               
+ 
+ 
+19 
+ 
+ 
+ HISTÓRIA                                                                        (11 questões)  
+ 
+Questão 29  
+ 
+Em 1921 o historiador Marc Bloch publicou um texto com o título Reflexões de um historiador 
+sobre as notícias falsas da guerra . Conforme indica o título, neste texto o historiador analisa  a 
+presença das falsas notícias em diferentes períodos históricos. Além  disso, afirma que as 
+falsas notícias, ao longo do tempo, preencheram a vida da humanidade . O historiador indica 
+que estas só se propagam se encontram , na sociedade , um ambiente favoráv el, pois por meio 
+delas os homens acabam por expressar seus preconceitos, medos, receios e várias formas de 
+emoção.  
+ 
+Tomando por base o que diz o historiador Marc Bloch, é correto  afirmar que:  
+ 
+A.  (   )  a existência das notícias falsas deve ser compreendida como fenômeno histórico e  a 
+proliferação delas tem relação com a sociedade dentro da qual estas são 
+disseminadas.  
+B.  (   )  a disseminação das notícias falsas é um fenômeno característico apenas da 
+contemporaneidade , e independe da sociedade na qual circula m.  
+C.  (   )  a dissemi nação das notícias falsas é um caso isolado e não tem relação alguma com 
+questões históricas ou sociais.  
+D.  (   )  a proliferação de notícias falsas ocorre apenas em instâncias pessoais e pri vadas, não 
+atingindo jamais questões políticas ou sociais.  
+E.  (   )  não existem apo ntamentos de caráter histórico a respeito da existência efetiva de 
+notícias falsas em contexto algum.  
+ 
+ 
+ 
+Questão 30 
+ 
+Observe os seguintes dados apresentados pelo artigo "Racismo: o que você tem a ver com 
+isso?", publicado em março de 2017 no portal Unisin os Notícias . 
+  
+1) Segundo o Mapa do Encarceramento no Brasil, de 2012, as prisões contavam com 1,5 mais 
+negros que brancos.  
+2) Segundo o Mapa da Violência, de 2015, os dados referentes ao ano de 2013 indicam que 
+foram assassinados, proporcionalmente, 173,6 % mais negros que brancos.  
+3) Segundo o mesmo Mapa da Violência, de 2015, em 10 anos (de 2003 a 2013) o número de 
+homicídios de mulheres negras aumentou 54% . 
+ 
+Sabendo -se que o racismo é elemento historicamente constitutivo da sociedade brasileira,  
+assim  a análise dos dados :  
+ 
+A.  (   )  permite afirmar que não existe racismo no Brasil.  
+B.  (   )  permite constatar que a violência, no Brasil, atinge mais pessoas negras que  brancas.  
+C.  (   )  indica que não há qualquer relação entre o racismo e a desigualdade social.  
+D.  (   )  permite afirmar um a diminuição nos atos violentos , tendo por vítimas mulheres negras , 
+entre os anos de 2003 e 2013.  
+E.  (   )  não se relaciona, de forma alguma, com questões raciais.  
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+20 
+ 
+ 
+ Questão 31 
+ 
+Observe a imagem a baixo .  
+ 
+(acervo do Museu Paulista da USP - http://www.mp.usp.br/ace rvo)  
+ 
+ 
+A pintura  do quadro "Independência ou Morte" (ou o Grito do Ipiranga) é considerada a 
+representação mais difundida do momento da Independência do Brasil. A obra é de autoria de 
+Pedro Américo,  encomendada pelo Conselh eiro I mperial Joaquim Inácio Ram alho,  data de 
+1888 e encontra -se, atualmente , no Museu Paulista da USP.  
+ 
+Considerando  autor,  o tema e a data de produção da obra , é correto  afirmar que:  
+ 
+A.  (   )  a obra pode ser considerada como o retrato exato do evento que apresenta.  
+B.  (   )  Pedro Américo era um obse rvador privilegiado dos eventos e, por isso, p ôde capturar 
+e registrar na tela a Independência do Brasil no exato momento em que esta ocorreu.   
+C.  (   )  a obra deve ser analisada considerando a intencionalidade dos sujeitos que atuaram 
+em sua produção , assim como as características do seu tempo.  
+D.  (   )  o quadro de Pedro Américo se refere, na verdade, à participação de Dom Pedro II nos 
+eventos da Proclamação da República.  
+E.  (   )  quadros como o de Pedro Américo não podem ser considerados como fontes para  
+análise históri ca.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+21 
+ 
+ 
+ Questão 32 
+ 
+Em 2017, após pressão do movimento LGBT, que reivindica va o caráter social das 
+identificações de gênero , foi regulamentada uma portaria autorizando o uso de banheiros e 
+vestuários na Universidade Federal do ABC Paulista , conforme iden tificação de gênero 
+(portaria no. 261 de 31 de julho de 2017). Tal discussão ocorreu em diferentes estados e 
+instituições do Brasil , e é embasada pela prerrogativa de que:  
+ 
+A.  (   )  as diferenças de gênero são definidas exclusivamente por questões genéticas.  
+B.  (   )  o sexo determina o gênero do indivíduo.  
+C.  (   )  gênero e sexo são sinônimos.  
+D.  (   )  o gênero determina o sexo do indivíduo.  
+E.  (   )  o gênero é uma construção social.  
+ 
+ 
+ 
+Questão 33 
+ 
+A partir de 1964 tem -se, no Brasil, a instauração de um regime que ficou popularmente 
+conhecido como D itadura Militar, instaurado a partir da deposição do então presidente João 
+Goulart. Alguns historiadores, como Daniel Araão Reis Filho, reivindica ram, porém, a 
+nomenclatura de Ditadura Civil Militar, na medida em que o regime contou com a participação 
+civil.   
+ 
+Para justificar esta nomenclatura e exemplificar este envolvimento cita(m)-se:  
+ 
+A.  (   )  A atuação maciça do clero, especialmente pela CNBB que, durante todo o período 
+da ditadura , temeu a instauração do comunismo no Brasil.  
+B.  (   )  A participação popular, que manif estava apoio ao governo militar por meio dos 
+pleitos para cargos no executivo e no legislativo.  
+C.  (   )  As manifestações de apoio aos militares, como a passeata dos 100 mil e as 
+campanhas de anistia.  
+D.  (   )  A participação de políticos civis, grupos midiáticos e empresá rios, que davam 
+sustentação ao governo dos militares , apoiando -os.  
+E.  (   )  A presença de civis nos cargos do executivo.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+22 
+ 
+ 
+ Questão 34 
+ 
+Ao se observa r o panorama político brasileiro , no século XX, Jânio Quadros, presidente do 
+Brasil entre 31 de janei ro e 25 de agosto de 1961, emerge como uma personalidade 
+extravagante. Seu governo foi marcado por contradições e polêmicas, deambulando entre 
+esquerda  e direita política.  
+ 
+Dentre as atitudes polêmicas , que marcaram  seu curto governo , citam-se:  
+ 
+A.  (   )  O fecham ento do congresso e a instauração do parlamentarismo.  
+B.  (   )  A proibição da prática do Skate e a tentativa de assassinato de João Goulart.  
+C.  (   )  O rompimento de relações democráticas com os EUA e a instauração do 
+comunismo.  
+D.  (   )  A instauração do bipartidarismo e o estreita mento de laços com a Rússia.  
+E.  (   )  A proibição do uso de biquínis  nas praias e a condecoração de Che Guevara.  
+ 
+ 
+ 
+Questão 35 
+ 
+ Leia atentamente o texto a seguir .  
+ 
+"Se o homem no estado de natureza é tão livre, conforme dissemos, se é senhor absoluto da 
+sua pró pria pessoa e posses, igual ao maior e a ninguém sujeito, por que abrirá ele mão dessa 
+liberdade, por que abandonará o seu império e sujeitar -se-á ao domínio e controle de qualquer 
+outro poder? Ao que é óbvio responder que, embora no estado de natureza ten ha tal direito, a 
+utilização do mesmo é muito incerta e está constantemente exposto à invasão de terceiros 
+porque, sendo todos senhores tanto quanto ele, todo o homem igual a ele e, na maior parte, 
+pouco observadores da equidade e da justiça, o proveito da  propriedade que possui nesse 
+estado é muito inseguro e muito arriscado. Estas circunstâncias obrigam -no a abandonar uma 
+condição que, embora livre, está cheia de temores e perigos constantes; e não é sem razão 
+que procura de boa vontade juntar -se em socie dade com outros que estão já unidos, ou 
+pretendem unir -se para a mútua conservação da vida, da liberdade e dos bens a que chamo de 
+propriedade." (LOCKE, John.  Segundo Tratado Sobre o Governo , São Paulo: Abril Cultural, 1983)  
+ 
+No trecho acima, John Locke (1 632-1704) anuncia alguns elementos que caracterizam a 
+corrente de pensamento conhecida como Liberalismo.  
+ 
+Em termos políticos, pode -se afirmar que o texto justifica:  
+ 
+A.  (   )  a necessidade do governo como proteção à vida e aos direitos.  
+B.  (   )  a instauração do governo  absoluto como imposição da natureza humana.  
+C.  (   )  a liberdade individual sempre acima do direito de propriedade.  
+D.  (   )  o governo como poder oriundo da natureza.  
+E.  (   )  o cerceamento da liberdade por parte do governo.  
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+23 
+ 
+ 
+ Questão 36 
+ 
+A exploração do trabalho é uma caracte rística marcante do processo colonizador no Brasil. Nos 
+primeiros 30 anos, os interesses da coroa voltavam -se, principalmente , à extração do pau-
+brasil, produto existente em quase todo o litoral brasileiro. E a extração era feita com o objetivo 
+evidente de  abastecer o mercado europeu.  
+ 
+Assinale a alternativa que explicita o principal recurso utilizado para a aquisição des sa matéria 
+prima .  
+ 
+A.  (   )  Exploração do trabalho indígena.  
+B.  (   )  Exploração escravocrata de negros trazidos de diferentes regiões da África.  
+C.  (   )  Pagamen to da corveia , conforme os códigos que fundamentavam as relações de 
+servidão.  
+D.  (   )  Aquisição de m aquinários adquiridos da Inglaterra durante a primeira fase da 
+Revolução industrial.  
+E.  (   )  Nomeação dos criollos  que vendiam o pau -brasil por preços abaixo do mercado 
+europeu.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+24 
+ 
+ 
+ Questão 37 
+Leia atentamente o texto a seguir .  
+ 
+"Mobutu Sese Seko foi o último dos líderes que dominaram o continente durante a Guerra Fria.  
+No Zaire, a ascensão de Mobutu, em 1965, representou a consolidação da vi tória do Ocidente 
+capitalista, quatro anos depois do assassinato de Patrice Lumumba, pró -soviético. Lumumba 
+foi líder do movimento pela independência do então Congo Belga e seu primeiro -ministro, 
+depois da independência, em 1960.  
+Em outros países da África  negra, a geração de líderes nacionalistas que lutaram contra o 
+colonialismo conseguiu, de um modo geral, se manter no poder." (Folha Mundo, 17 de maio de 1997)  
+ 
+A partir do texto acima e de seus conhecimento sobre processo de descolonização na África e 
+Ásia, analise as proposições .  
+ 
+I - Foi de grande relevância para os movimentos de descolonização a transferência de uma 
+ideologia humanista e antinacionalista, expressa na organização das nações colonizadoras.  
+II - Os movimentos de descolonização iniciaram  a partir dos anos 1960, incitados , 
+especialmente , pela oficialização do fim do discurso que apregoava a inferioridade dos povos 
+afro-asiáticos.  
+III - Nos países da África Negra, as independências foram sempre obtidas por meio de 
+negociações, na medida em que as lutas e os combates armados eram inacessíveis aos que 
+reivindicavam independência.   
+IV - O enfraquecimento das potências coloniais europeias , após a Segunda Guerra mundial, 
+pode ser considerado como um dos fatores possibilitadores dos processos de descolonização.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente a afirmativa III  é verdadeira.  
+B.  (   )  Somente a afirmativa II é verdadeira.  
+C.  (   )  Somente a afirmativa IV é verdadeira.  
+D.  (   )  Somente a afirmativa I é verdadeira.  
+E.  (   )  Somente as afirmativas I e IV são verdadeiras.  
+ 
+ 
+Ques tão 38 
+ 
+Os processos  políticos , vivenciados no Brasil e em outros países da América Latina , 
+apresentam diferenças bastante evidentes. Dentre elas pode -se citar:  
+ 
+A.  (   )  O Brasil foi o único país da América Latina a obter sua independência no século XIX.  
+B.  (   )  Diferen temente do que ocorrera em outros países da América Latina, o Brasil, após a 
+proclamação de sua independência, tornou -se uma monarquia.  
+C.  (   )  O Brasil foi o único país da América Latina que não contou com a participação de 
+Simon Bolívar em seu processo de indep endência.  
+D.  (   )  Diferente mente  do que ocorrera em outros países da América Latina, no Brasil os 
+grupos indígenas sempre obtiveram representatividade nas cúpulas governamentais.  
+E.  (   )  Diferente mente  do que ocorreu no Paraguai, na Argentina e na Bolívia, no Brasil não  
+houve a instalação de missionários Jesuítas.  
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+25 
+ 
+ 
+ Questão 39 
+ 
+A Guerra  do Paraguai pode ser considerada um dos  maior es conflito s armado da história da 
+América do Sul. Provocou a morte de centenas de pessoas de todos os exércitos envolvidos e, 
+além disso, c ausou desequilíbrio econômico e endividamento dos países envolvidos.  
+ 
+Sobre a Guerra do Paraguai , é correto afirmar :  
+ 
+A.  (   )  O Brasil não teve grandes prejuízos com a Guerra do Paraguai, na medida em que 
+pode reconquistar parte do s território s paraguaio, argent ino e uruguaio.  
+B.  (   )  A guerra gerou lucros para a Inglaterra, que emprestou bilhões de libras aos países da 
+Tríplice Aliança.  
+C.  (   )  O Brasil não teve uma participação ativa na Guerra, envolvendo -se apenas por meio 
+de acordos econômicos.  
+D.  (   )  O Paraguai, apesar dos cust os financeiro da guerra, não sofreu grandes baixas  no que 
+diz respeito à sua população.  
+E.  (   )  A Argentina manteve -se em posição de neutralidade durante a guerra.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+26 
+ 
+ 
+ GEOGRAFIA                                                                   (11 questões)  
+ 
+Questão 4 0 
+ 
+A Figura  1 ilustra os dez principais tipos de nuvens . 
+ 
+ 
+ 
+ 
+ 
+FIGURA 1  
+ 
+Fonte: https://www.climatempo.com.br/videos/video/4/sM52W25 -IyY (acesso em 21 de março de 2019)  
+ 
+ 
+Com base na Figura 1 e nos seus conhecimentos, assinale a alternativa corret a em relação às 
+nuvens.  
+ 
+A.  (   )  Cumulus são formadas logo após a passagem de uma frente fria e indicam tempo frio 
+e seco . 
+B.  (   )  Cirrus podem ser formadas em altitudes ba ixas. 
+C.  (   )  Nimbostratus produzem o fenômeno do halo solar . 
+D.  (   )  Cumulonimbus apresentam desenvolvimento vertical e são as únicas capazes de 
+produzir tempestades com relâmpagos . 
+E.  (   )  Stratocumulus são formadas exclusivamente por cristais de gelo . 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+27 
+ 
+ 
+ Questão 4 1 
+ 
+Analise  as proposições s obre as características da hidrografia brasileira.  
+ 
+I. A hidrografia brasileira é rica em rios e pobre em lagos . 
+II. Predominam , no Brasil , rios intermitentes . 
+III. Os rios brasileiros apresentam , em geral, elevado potencial hidrelétrico . 
+IV. O tipo de fo z predominante , no Brasil , é o estuário . 
+V. Todas  as bacias hidrográficas brasileiras apresentam drenagem exorreica . 
+VI. Predomina , no Brasil , o regime de alimentação glacial . 
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente  as afirmativas I, III, IV e V  são verdadeiras . 
+B.  (   )  Somente  as afirmativas  I e III  são verdadeiras.  
+C.  (   )  Somente  as afirmativas  II, IV e VI  são verdadeiras.  
+D.  (   )  Somente  as afirmativas  III e IV  são verdadeiras.  
+E.  (   )  Somente  as afirmativas  I, II e IV  são verdadeiras.  
+ 
+ 
+ 
+ 
+Questão 4 2 
+ 
+As dunas se destacam entre as diversas  formas de deposição de sedimentos eólicos.  
+ 
+Assinale a alternativa incorret a em relação às dunas.  
+ 
+A.  (   )  A migração de dunas ocasiona problemas de soterramento e de assoreamento nas 
+zonas litorâneas do Brasil, exigindo dragagem contínua.  
+B.  (   )  Ventos dominantes vind os do sudeste formam enormes campos de dunas migratórias , 
+que se deslocam ao longo da costa até encontrarem obstáculos como casas, rodovias, 
+lagos , etc.  
+C.  (   )  A parte da duna que recebe o vento é denominada sotavento e possui inclinação 
+baixa, de 5 º a 15º norma lmente, enquanto a outra face, denominada barlavento, é 
+protegida do vento e é bem mais íngreme, com inclinação de 20º a 35º.  
+D.  (   )  As dunas transversais são também encontradas em ambientes fluviais como na Ilha 
+do Caju, no delta do rio Parnaíba, no Maranhão.  
+E.  (   )  Diferentes técnicas são utilizadas na tentativa de imobilizar dunas, uma das mais 
+eficientes tem sido o plantio de vegetação ou de certas gramíneas na base da duna.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+28 
+ 
+ 
+ Questão 4 3 
+ 
+Observe o mapa que ilustra a divisão política do Continente Asiático para responder à questão.  
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: http://geografia.hi7.co/mapa -mudo -politico -da-asia-56c3b040b25c7.html  (acesso em 19 de março de 2019)  
+ 
+ 
+Assinale a alternativa que  descreve , corretamente , o país, assinalado  com números  no mapa , 
+e a sua característica . 
+ 
+A.  (   )  O país  número 3 é muito populoso e possui o hindi e o inglês como idiomas oficiais . 
+B.  (   )  No país número  1 o clima predominante é o desértico . 
+C.  (   )  O país número  5 possui o petr óleo como o principal produto de exportação . 
+D.  (   )  O país número  4 é o segundo país mais rico do mundo . 
+E.  (   )  O país número  2 abriga pouco menos de 10% da população da Terra . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+29 
+ 
+ 
+ Questão 4 4 
+ 
+Analise as proposições sobre a concentração fundiária na América Latina.  
+  
+I. A concentração fundiária é herança do período colonial. A economia colonial foi baseada 
+na formação de pequenas propriedades rurais voltadas para a agricultura de subsistência.  
+II. A concentração fundiária é uma característica marcante do espaço agrá rio, e tem sido 
+causa de diversos conflitos pela posse de terras.  
+III. Atualmente, a concentração fundiária vem sendo mantida pelas políticas agrárias que, de 
+certa forma, beneficiam os pequenos proprietários rurais.  
+IV. As plantations  são grandes lavouras monocult oras de produtos tropicais , voltados para 
+exportação.  
+ 
+Assinale a alternativa correta .  
+ 
+A.  (   )  Somente as afirmativas I e II são verdadeiras.  
+B.  (   )  Somente as afirmativas II e III são verdadeiras.  
+C.  (   )  Somente as afirmativas I e IV são verdadeiras.  
+D.  (   )  Somente as afirmativa s I e III são verdadeiras.  
+E.  (   )  Somente as afirmativas II e IV são verdadeiras.  
+ 
+ 
+ 
+Questão 4 5 
+ 
+Utilizado há mais de 2.000 anos, desde a época da ocupação romana da Inglaterra, quando 
+era usado para aquecer as casas dos romanos. No entanto, sua importância mai or surgiu com 
+o desenvolvimento das máquinas a vapor, graças a o alto conteúdo energético e  à grande 
+disponibilidade na Europa e Ásia e, posteriormente, no nordeste dos Estados Unidos. É um 
+componente importante na matriz energética de diversos países como,  por exemplo, Estados 
+Unidos e China.  
+Fonte: Adaptado de TEIXEIRA, W. et al. Decifrando a Terra. São Paulo: Cia. Editora Nacional,  2009.  
+ 
+Esse recurso energético ao qual o texto se refere é o(a) : 
+ 
+A.  (   )  petróleo  
+B.  (   )  gás natural  
+C.  (   )  biomassa  
+D.  (   )  urânio  
+E.  (   )  carvão mineral  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+30 
+ 
+ 
+ Questão 4 6 
+ 
+Diversos focos de tensão espalhados pelo planeta são reflexos de movimentos separatistas 
+que almejam conquistar autonomia sobre seus territórios para formar um Estado livre e 
+soberano.  
+ 
+Observe a Figura  2 que ilustra alguns dos movimentos  separatistas ativos pelo mundo , e os 
+últimos países a serem criados , para responder à questão.  
+ 
+ 
+                                                                                                  FIGURA 2 
+Fonte: Adaptado de BERCITO, Diogo. Saiba mais sobr e os principais movimentos separatistas em atividade. Folha de São Paulo , 
+São Paulo, 10 out. 2017. Disponível em < https://www1.folha.uol.com.br/mundo/2017/10/1925792 -saiba -mais -sobre -os-principais -
+movimentos -separatistas -em-atividade.shtml>. Acesso em 17 m ar. 2019.  
+ 
+As regiões que sustentam movimentos separatistas indicadas nos números 1, 2, 6 e 10 são, 
+respectivamente:  
+ 
+A.  (   )  País Basco, Irlanda do Norte, Chechênia e Tibete  
+B.  (   )  Escócia, Catalunha, Chechênia e China  
+C.  (   )  Catalunha, País Basco, Caxemira e Tibete  
+D.  (   )  País Basco , Irlanda do Norte, Caxemira e Tibete  
+E.  (   )  Catalunha, Irlanda do Norte, Escócia e Chechênia                                                                                        Vestibular 201 9.2                               
+ 
+ 
+31 
+ 
+ 
+ Questão 47 
+ 
+Ao longo das últimas décadas, a China apresentou taxas muito elevadas de crescimento 
+econômico, destacando -se como a mais nova grande potência emergente no cenário mundial. 
+Sobre o crescimento econômico chinês, analise as proposições.  
+ 
+I. As grandes mudanças econômicas ocorreram a partir do final da década de 1970, quando o 
+governo de Deng Xiaoping , que assumiu o poder após a morte de Mao Tsé -Tung , promoveu 
+um a mplo conjunto de reformas nas áreas da agricultura, ciência, tecnologia e defesa, 
+acompanhadas pela abertura econômica do país, mesmo sob o rígido controle político do 
+partido comunista.  
+II. Em 1949, os dirigentes do Partido Comunista Chinês (PCC), liderados p or Mao Tsé -Tung, 
+buscaram acelerar o crescimento econômico do país, investindo no desenvolvimento do 
+setor primário e terciário, sobretudo, no comércio de produtos.  
+III. As chamadas Zonas Econômicas Especiais (ZEEs), criadas nas províncias litorâneas da 
+costa l este do país, como Xiamen, Shantou e Shenzen, permitiram a entrada de grandes 
+empresas estrangeiras (estadunidenses e europeias) que, além de aproveitarem os 
+impostos reduzidos e a mão de obra barata, trouxeram enormes investimentos em capital e 
+tecnologia  à região.  
+IV. A China adot ou um sistema político -econômico  denominado economia socialista de 
+mercado.  
+ 
+Assinale a alternativa correta .  
+ 
+A.  (   )  Somente as afirmativas I, III e IV são verdadeiras.  
+B.  (   )  Somente as afirmativas II, III e IV são verdadeiras.  
+C.  (   )  Somente as afir mativas II e III são verdadeiras.  
+D.  (   )  Somente as afirmativas I e IV são verdadeiras.  
+E.  (   )  Somente as afirmativas I e II são verdadeiras.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+32 
+ 
+ 
+ Questão 48 
+ 
+Nas últimas décadas do século XX, com a revolução técnico -científica, as indústrias adotaram 
+novos padrões locacionais , conhecidos como desconcentração espacial das indústrias que fez 
+emergir novos polos produtivos, afastados das aglomerações tradicionais.  
+ 
+Analise as proposições que explicam os motivos desta desconcentração . 
+ 
+I. Busca r áreas  mais v antajosas em termos de quantidade e/ou qualidade de mão de obra.  
+II. Buscar áreas  com isenção de impostos.  
+III. Buscar  áreas  onde exista fraca organização sindical.  
+IV. Buscar  áreas  onde  a legislação ambiental é mais amena para as indústrias.  
+V. Buscar áreas  onde possam a umentar os lucros sem tantas taxas ou prejuízos.  
+VI. Buscar áreas  onde já exista infraestrutura industrial instalada.  
+VII. Buscar  áreas  de grande produção industrial.  
+ 
+Assinale a alternativa correta . 
+ 
+A.  (   )  Somente  as afirmativas I, III, V e VII  são verdadeiras . 
+B.  (   )  Somente  as afirmativas IV, V, VI e VII  são verdadeiras . 
+C.  (   )  Somente  as afirmativas I, II, III, IV e V  são verdadeiras . 
+D.  (   )  Somente as afirmativas II e III  são verdadeiras . 
+E.  (   )  Todas as afirmativas são verdadeiras .  
+ 
+ 
+ 
+Questão 49 
+ 
+As migrações são fatos comuns desde a criação do mundo. No século XXI, a situação 
+demográfica de muitos países da Europa Ocidental, do Canadá,  do Japão e da Austrália 
+constitui -se em fator de atração de migrantes. Todos esses países tiveram taxas de 
+fecundidade abaixo do nível necessário para repor su as populações e passaram a contar com 
+grande número de idosos.  
+ 
+Como consequência deste processo , pode -se apontar  o(a): 
+ 
+A.  (   )  incentivo oficial às migrações clandestinas.  
+B.  (   )  aumento da migração feminina.  
+C.  (   )  diminuição da população economicamente ativa, o que obrigou  os países a contratar 
+mão de obra imigrante.  
+D.  (   )  aumento das guerras e do tráfico.  
+E.  (   )  aumento dos direitos humanos dos refugiados.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+33 
+ 
+ 
+ Questão 50 
+ 
+Relacione a coluna  A, que possui o nome das formas de relevo , à coluna B , que possui a 
+descrição  destes relev os. 
+ 
+          Coluna A                                                Coluna B  
+ 
+(1) Chapada   (    ) Monte ilha em alemão. Saliência do relevo encontrada em 
+regiões de clima árido e semiárido.  
+(2) Escarpa   (    ) Pequena elevação do terreno, uma colina.  
+(3) Inselberg  (    ) Enrugamento, dobra e soerguimento da crosta devido à 
+ação de forças endógenas.  
+(4)  Cuesta   (    ) Tipo de Planalto cujo topo é aplainado e as encostas são 
+escarpadas.  
+(5) Morro   (    ) Declive acentuado que aparece em bordas de plan alto. 
+(6) Montanha   (    ) Forma de relevo que possui um lado com escarpa abrupta 
+e o outro com declive suave.  
+     
+Assinale a alternativa que cont ém a sequência correta , de cima para baixo . 
+ 
+A.  (   )  1 – 2 – 3 – 4 – 5 – 6  
+B.  (   )  3 – 5 – 6 – 1 – 2 – 4 
+C.  (   )  6 – 5 – 4 – 3 – 2 – 1  
+D.  (   )  3 – 4 – 1 – 2 – 6 – 5  
+E.  (   )  2 – 1 – 6 – 4 – 5 – 3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+34 
+ 
+ 
+ REDAÇÃO                                                                
+ 
+A prova de redação apresenta três propostas, o candidato deverá escolher somente uma  
+delas  para elaborar seu texto dissertativo -argumentativo . 
+ 
+Proposta 1  
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo -
+argumentativo , enfocando o tema: A falta de políticas públicas em relação às favelas  
+ 
+TEXTO 1  
+“Eu não vejo efici ência no Serviç o Social em relação ao favelado .” 
+  
+Adap. JESUS, Coralina Mª de. Quarto de despejo: diário de uma favelada . 10ª Ed. São Paulo: Ática, p. 41.  
+ 
+ 
+TEXTO 2  
+“O Palácio é a sala de visita. A Prefeitura é a sala de jantar e a cidade é o jardim. E a favela é o 
+quintal onde jogam os lixos. ”  
+ 
+Adap. JESUS, Coralina Mª de. Quarto de despejo: diário de uma favelada . 10ª Ed. São Paulo: Ática, p. 32.  
+ 
+ 
+TEXTO 3  
+ 
+ 
+Disponível em: https://agenciambrasil.com.br/2019/01/extrema -pobreza -cresce, acessado em março 2019.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+35 
+ 
+ 
+ Proposta 2  
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo - 
+argumentativo , enfocando o tema: Insegurança  
+ 
+TEXTO 1  
+ “Minha filha está com medo. Minha filha tem vinte anos e está com medo dos vigias, dos  
+porteiros, dos choferes de táxi , dos entregadores, dos consertadores de eletrodomésticos. 
+Minha filha está com medos de todos os homens...”  
+ 
+COLASANTI, Marina. Crônica para jovens . 1ªEd. São Paulo: Global, 2012, p.74 . 
+ 
+TEXTO 2  
+“Minha filha está com medo.  E, quando sa i à noite, prefiro que não volte de táxi, porque táxi é 
+perigoso,  não gosto que volte de ônibus, porque há muito perigo, e não lhe dou um carro, 
+porque carros entram em garagens, e garagens também podem ser muito perigosas. Então ela 
+vai com s eu medo, e eu fico com o meu, rezando ambas para que as leis da probabilidade a 
+favoreçam, e não se acenda olhar de lobo por trás de uma m áscara  de homem.”  
+ 
+COLASANTI, Marina. Crônica para jovens . 1ªEd. São Paulo: Global, 2012, p.7 6.  
+ 
+ 
+TEXTO 3  
+ 
+Disponível em: https://www.google.com/search?q=insegurança+charge+tem+alguem+batendo+na+porta&rlz= , acessado em março 
+2019  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+36 
+ 
+ 
+ Proposta 3 
+ 
+Com base na leitura dos textos motivadores abaixo, redija um texto dissertativo - 
+argumentativo , enfocando o tema: Compaixão  
+ 
+TEXTO 1 
+ 
+“Um no entanto se descobriu num gesto largo e demorado  
+Olhando o esquife longamente ” 
+ 
+Bandeira, Manuel. Melhores poemas , seleção de Francisco Assis Barbosa; [direção Edla Van Steen] - 17ed. São 
+Paulo:Global,2015,p.86.  
+ 
+ 
+TEXTO 2 
+ 
+“A compaixão é a fonte de toda a justiça e de toda a moral; e o ser que não a conhece está 
+excluído da própria humanidade.”  
+-Schopenhauer, filósofo alemão  
+ 
+Revista Vida Simples, edição 140, p.19.  
+ 
+ 
+TEXTO 3  
+ 
+ 
+Disponível em: https://org.br/Article.aspxid=2122&ac=141934, acessado em março 2019.  
+ 
+ 
+ 
+                                                                                       Vestibular 201 9.2                               
+ 
+ 
+37 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+38 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+39 
+ 
+ 
+ FOLHA DE  RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+40 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO se rá corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+41 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+42 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+43 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+44 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+45 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+46 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+47 
+ 
+ 
+ FOLHA DE RASCUNHO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este Rascunho NÃO será corrigido!                                                                                        Vestibular 201 9.2                               
+ 
+ 
+48 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

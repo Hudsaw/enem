@@ -17,7 +17,8 @@ def main():
     if not pdf_files:
         print(f"Nenhum arquivo PDF encontrado na pasta '{pdf_folder}'.")
         return
-
+    print("Programa para auxiliar professores a buscar questões de acordo com palavras chaves!\n")
+    print("Pode ser incuidas novas provas para consulta, basta normalizar o padrão!\n")
     # Palavras a serem buscadas
     words = input("Digite as palavras que deseja buscar (separadas por vírgula): ").split(',')
 
@@ -47,6 +48,7 @@ def main():
     # Salva todos os resultados em um único arquivo TXT
     if all_results:
         save_results_to_txt(all_results, words)
-
+    print("\nAs questões sobre as palavras estão em um arquivo de mesmo nome na pasta results!\n")
+    print("Desenvolvido por HUDSAW, se ajudou faz um pix (hudsonrb@gmail.com)\n")
 if __name__ == "__main__":
     main()

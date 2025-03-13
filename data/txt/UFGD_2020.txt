@@ -1,0 +1,2252 @@
+Og
+oganessônio118Cu
+cobre29
+63,546(3)Ni
+níquel28
+58,693Co
+cobalto27
+58,933Fe
+ferro26
+55,845(2)Mn
+manganês25
+54,938Cr
+crômio24
+51,996V
+vanádio23
+50,942Ti
+titânio22
+47,867Sc
+escândio21
+44,956Ca
+cálcio20
+40,078(4)Mg
+magnésio12
+24,305Be
+berílio4
+9,0122
+K
+potássio19
+39,098Na
+sódio11
+22,990Li
+lítio3
+6,94H
+hidrogênio1
+1,008
+Kr
+criptônio36
+83,798(2)Br
+bromo35
+79,904Se
+selênio34
+78,971(8)As
+arsênio33
+74,922Ge
+germânio32
+72,630(8)Ga
+gálio31
+69,723Al
+alumínio13
+26,982Si
+silício14
+28,085P
+fósforo15
+30,974S
+enxofre16
+32,06Cl
+cloro17
+35,45Ar
+argônio18
+39,95B
+boro5
+10,81C
+carbono6
+12,011N
+nitrogênio7
+14,007O
+oxigênio8
+15,999F
+flúor9
+18,998Ne
+neônio10
+20,180He
+hélio2
+4,0026
+Zn
+zinco30
+65,38(2)
+Rb
+rubídio37
+85,468
+Cs
+césio55
+132,91
+Fr
+frâncio87Sr
+estrôncio38
+87,62
+Ba
+bário56
+137,33
+Ra
+rádio88Y
+ítrio39
+88,906Zr
+zircônio40
+91,224(2)
+Hf
+háfnio72
+178,49(2)Ta
+tântalo73
+180,95W
+tungstênio74
+183,84Re
+rênio75
+186,21Os
+ósmio76
+190,23(3)Ir
+irídio77
+192,22Pt
+platina78
+195,08Au
+ouro79
+196,97Hg
+mercúrio80
+200,59Tl
+tálio81
+204,38Pb
+chumbo82
+207,2Bi
+bismuto83
+208,98Po
+polônio84
+At
+astato85
+Rn
+radônio86
+Rf
+rutherfórdioDb104
+dúbnio105
+Sg
+seabórgio106
+Bh
+bóhrio107
+Hs
+hássio108
+Mt
+meitnério109
+Ds
+darmstádtio110
+Rg
+roentgênio111
+Cn
+copernício112
+Nh
+nihônio113
+Fl
+fleróvio114
+Mc
+moscóvio115
+Lv
+livermório116
+Ts
+tennesso117Nb
+nióbio41
+92,906Mo
+molibdênio42
+95,95Tc
+tecnécio43
+Ru
+rutênio44
+101,07(2)Rh
+ródio45
+102,91Pd
+paládio46
+106,42Ag
+prata47
+107,87Cd
+cádmio48
+112,41In
+índio49
+114,82Sn
+estanho50
+118,71Sb
+antimônio51
+121,76Te
+telúrio52
+127,60(3)I
+iodo53
+126,90Xe
+xenônio54
+131,29
+La
+lantânio57
+138,91
+Ac
+actínio89Ce
+cério58
+140,12
+Th
+tório90
+232,04Pr
+praseodímio59
+140,91
+Pa
+protactínio91
+231,04Nd
+neodímio60
+144,24
+U
+urânio92
+238,03Pm
+promécio61
+Np
+neptúnio93Sm
+samário62
+150,36(2)
+Pu
+plutônio94Eu
+európio63
+151,96
+Am
+amerício95Gd
+gadolínio64
+157,25(3)
+Cm
+cúrio96Tb
+térbio65
+158,93
+Bk
+berquélio97Dy
+disprósio66
+162,50
+Cf
+califórnio98Ho
+hôlmio67
+164,93
+Es
+einstênio99Er
+érbio68
+167,26
+Fm
+férmio100Tm
+túlio69
+168,93
+Md
+mendelévio101Yb
+itérbio70
+173,05
+No
+nobélio102Lu
+lutécio71
+174,97
+Lr
+laurêncio103Tabela periódica1
+2
+3 4 5 6 7 8 910 11 1213 14 15 16 1718
+www.tabelaperiodica.org
+LicençadeusoCreativeCommonsBy-NC-SA 4.0-Usesomenteparafinseducacionais
+VersãoIUPAC/SBQ(pt-br)com5algarismossignificativos,baseadaemDOI:10.1515/pac-2015-0305-atualizadaem19demarçode2019Casoencontrealgumerrofavoravisarpelomailluisbrudna@gmail.com57 a 71
+89 a 103Li
+lítio3
+6,94númeroatômico
+símboloquímico
+nome
+pesoatômico (massaatômicarelativa)
+Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 1QUESTÃO 1  
+A equação da fotossíntese é tradicionalmente 
+representada pela fórmula a seguir.
+6CO2 + 6H2O + Luz → C6H12O6 + 6CO2
+Com relação à fotossíntese e ao(s) organismo(s) que 
+participa(m) desse processo, assinale a alternativa 
+correta.
+(A) A fotossíntese é realizada somente pelos 
+representantes do Reino Plantae.
+(B) Os organismos que realizam fotossíntese possuem 
+somente células procarióticas.
+(C) A organela fundamental para o processo 
+fotossintético é o cloroplasto.
+(D) A fotossíntese é um dos processos essenciais para 
+que exista vida na Terra, pois ao final de cada ciclo 
+são liberadas seis moléculas de dióxido de carbono 
+e mais uma de glicose.
+(E) Os organismos que realizam a fotossíntese são 
+chamados de heterotróficos, ou seja, são aqueles 
+que produzem o próprio alimento (produtores). 
+QUESTÃO 2 
+Leia o trecho a seguir do conto Nhola dos Anjos e a 
+Cheia do Corumbá , de Bernardo Élis. 
+[…]
+A chuva caía meticulosamente, sem pressa de 
+cessar. A palha do rancho porejava água, fedia a 
+podre, derrubando dentro da casa uma infinidade 
+de bichos que a sua podridão gerava. Ratos, sapos, 
+baratas, grilos, aranhas, — 
+[…]
+Disponível em: <https://contobrasileiro.com.br/nhola-dos-anjos-e-a-cheia-do-corumba-
+conto-de-bernardo-elis/>. Acesso em: 09 set. 2019.
+O que é correto afirmar sobre teias alimentares, 
+considerando os elementos contidos no trecho 
+apresentado?
+(A) A palha é consumidor primário. 
+(B) Dentre as espécies citadas no trecho do conto 
+não há possibilidade de se estabelecer uma teia 
+alimentar.
+(C) Palha, baratas, aranhas e grilos estão no mesmo 
+nível trófico.
+(D) Ratos, sapos, grilos e aranhas estão no mesmo 
+nível trófico.
+(E) Ratos, sapos, grilos e aranhas não estão no mesmo 
+nível trófico.QUESTÃO 3 
+Disponível em: <https://bit.ly/2Pq66uK>. Acesso em: 20 set. 2019.
+É sabido que os seres vivos estão presentes no ar, no 
+solo e na água. O conjunto em que todos os seres vivos 
+são encontrados chama-se BIOSFERA. Estudando 
+esses diferentes ambientes, pode-se delimitar 
+diversos conjuntos na biosfera: uma floresta, uma 
+lagoa, um rio, um mar, entre outros. Cada um desses 
+conjuntos pode ser considerado um ecossistema, e 
+em todos eles pode-se identificar: Fatores bióticos: 
+o conjunto dos seres vivos; e Fatores abióticos: que 
+podem ser físicos, químicos ou geológicos (água, ar, 
+solo, luz, calor, substâncias químicas, entre outros). 
+Os ecossistemas são dinâmicos, pois seus diversos 
+componentes interagem permanentemente. Sendo 
+assim, assinale a alternativa correta.
+(A) O coletivo de todos os indivíduos de uma mesma 
+espécie em uma determinada região geográfica 
+constitui uma comunidade biológica.
+(B) Os seres vivos somente têm condições favoráveis de 
+sobrevivência em seu habitat, quando conseguem 
+obter a matéria e a energia necessárias de que 
+precisam. 
+(C) Em se tratando de cadeia alimentar, estamos 
+considerando os indivíduos apenas coletivamente, 
+com a finalidade de estudar as relações de 
+transferência de matéria e de energia entre eles. 
+(D) As plantas possuem um pigmento chamado 
+clorofila, pelo qual conseguem captar energia da luz 
+solar e dos alimentos, e transformar essa energia 
+em energia inorgânica, realizando fotossíntese. 
+(E) O principal processo por meio do qual a maioria dos 
+seres vivos obtém energia a partir dos alimentos é 
+a respiração anaeróbia. CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS2   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 4 
+Disponível em: <https://www.grupoescolar.com/a/b/5C9F1.jpg>. Acesso em: 20 set. 2019.
+A célula é considerada a unidade fundamental de 
+todos os seres vivos. Existem os seres unicelulares, 
+aqueles formados por uma única célula e os 
+multicelulares/pluricelulares, que possuem mais de 
+uma célula. Uma célula sempre se origina de outra 
+célula preexistente. Como a maioria das células não é 
+visível a olho nu, é necessário utilizar o microscópio. No 
+corpo humano, existem células capazes de alterar sua 
+forma original, pois emitem pseudópodes parecidos 
+com os da ameba, essas células são os macrófagos 
+e alguns tipos de células do sangue, como os 
+neutrófilos. A maioria das células mantém uma forma 
+relativamente constante de seus contornos. Nos 
+seres multicelulares, há especializações das células 
+de modo que certos grupos celulares desempenham 
+funções distintas das de outros grupos celulares. A 
+partir dessas considerações, é correto afirmar que
+(A) os organismos multicelulares se originam de 
+diversas células distintas, chamadas célula ovo ou 
+zigoto. São essas células que sofrem várias divisões 
+e dão origem às células do corpo.
+(B) à medida que as células se dividem, ocorre também 
+o processo de diferenciação celular: grupos de 
+células generalizadas e específicas que exercem 
+determinadas funções.
+(C) os seres unicelulares estão em contato direto com 
+o meio ambiente, mas as células dos indivíduos 
+multicelulares não ficam em contato direto com o 
+ambiente externo ao corpo. Essa troca está sempre 
+relacionada com as propriedades da membrana 
+plasmática. 
+(D) a parede celular das células vegetais é constituída 
+de celulose, um polissacarídeo que confere 
+resistência mecânica à célula, ela é impermeável 
+e rígida, impedindo a passagem tanto do solvente 
+quanto do material dissolvido das soluções com as 
+quais entra em contato. (E) existem, no entanto, proteínas com função 
+transportadora na membrana plasmática, 
+localizadas na única camada de fosfoproteína, 
+estabelecendo uma comunicação entre o meio 
+extracelular e o citoplasma.
+QUESTÃO 5 
+Disponível em: <http://www.mesalva.com/forum/uploads/default/
+original/2X/0/01257a773022951d387e969252167934847aea44.jpg>.
+Acesso em: 20 set. 2019. 
+O que caracteriza um ser vivo não é o fato apenas de 
+ele crescer, mas sim o tipo de crescimento por meio 
+do qual ele aumenta seu tamanho. Os seres vivos 
+transformam o alimento e o utiliza como fonte de 
+energia, inclusive para seu crescimento. Os seres vivos 
+podem sofrer alterações no seu material genético, que 
+são chamadas de mutações e são observadas tanto 
+nos seres que possuem reprodução assexuada em seu 
+ciclo de vida, quanto nos que possuem reprodução 
+sexuada. Nos organismos com reprodução sexuada, 
+as mutações podem ocorrer tanto nas células que 
+constituem o corpo, denominadas células somáticas, 
+quanto nos gametas, que são as células sexuais. 
+Sendo assim, assinale a alternativa correta.
+(A) Na reprodução sexuada, as diferenças entre os 
+descendentes e seus pais não se devem apenas 
+ao fato de ser o descendente formado por meio 
+do material recebido dos dois; deve-se também a 
+possíveis mutações sofridas pelos pais no material 
+genético que transmitem aos filhos. 
+(B) Como resultado dessas modificações na herança 
+genética, observa-se que os indivíduos de uma 
+mesma população são todos idênticos, em suas 
+características, evitando a variabilidade. 
+(C) Os indivíduos com menor chance de sobreviver 
+são aqueles com maiores chances de se reproduzir 
+e deixar descendentes, que podem herdar essas 
+características que trouxeram vantagens ao 
+ambiente. 
+(D) Pode-se dizer que as características de um grupo 
+de indivíduos são selecionadas pelas condições Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 3do ambiente e que, ao longo das gerações, as 
+vantagens são mantidas e as desvantagens tendem 
+a ser eliminadas, este processo é chamado de 
+evolução natural. 
+(E) A ação da seleção natural sobre o patrimônio 
+genético de uma população faz com que, ao longo 
+do tempo, os indivíduos apresentem modificações 
+em relação às gerações anteriores podendo levar 
+à formação de novas espécies, este processo é 
+chamado de seleção natural. 
+QUESTÃO 6 
+Leia o texto a seguir.
+[...] Aprendeu que as folhas das árvores servem para 
+nos ensinar a cair sem alardes. Disse que fosse ele 
+caracol vegetado sobre pedras, ele iria gostar. Iria 
+certamente aprender o idioma que as rãs falam com 
+as águas e ia conversar com as rãs. E gostasse mais 
+de ensinar que a exuberância maior está nos insetos 
+do que nas paisagens. Seu rosto tinha um lado de 
+ave. Por isso ele podia conhecer todos os pássaros 
+do mundo pelo coração de seus cantos. Estudara 
+nos livros demais. Porém aprendia melhor no ver, 
+no ouvir, no pegar, no provar e no cheirar. Chegou 
+por vezes de alcançar o sotaque das origens. Se 
+admirava de como um grilo sozinho, um só pequeno 
+grilo, podia desmontar os silêncios de uma noite! 
+[...]. 
+Aprendimentos. Manoel de Barros. Disponível em: https://poesiaspreferidas.wordpress.
+com/2012/12/20/aprendimentos-manoel-de-barros/. Acesso em: 20 set. 2019.
+O ser humano pode alterar as condições do meio 
+em que vive, pois dispõe de mais recursos que os 
+outros seres vivos. Porém, mudanças repentinas e 
+agressões violentas a todo o meio ambiente pode 
+levar a um desequilíbrio ambiental insustentável e 
+até prejuízos ao próprio homem, ficando a vida no 
+planeta comprometida. Nessa perspectiva, assinale a 
+alternativa correta.
+(A) Quando interferimos no meio ambiente de forma 
+agressiva como, por exemplo, desmatando, 
+queimando ou poluindo, ocorrem modificações 
+que denominamos de desequilíbrio ambiental. 
+(B) O desenvolvimento humano trouxe, como 
+consequência, o crescimento mundial, porém 
+sem comprometer a produção e a qualidade 
+de alimentos, o equilíbrio entre os animais e a 
+ocupação geográfica das áreas. 
+(C) A ocupação urbana é um fenômeno presente em 
+todo o mundo, e o seu crescimento é cada vez 
+menor e mais lento. O homem também migra 
+do ambiente rural para as cidades, em busca de 
+melhores condições de vida e oportunidade de trabalho. 
+(D) Mesmo quando os recursos naturais como água 
+e o solo são inadequadamente utilizados, não 
+ocorrem as contaminações e as poluições, o que 
+permite a natureza manter o equilíbrio natural. 
+(E) É importante não confundir aquecimento global 
+com o efeito estufa, embora estejam interligados, 
+eles não são equivalentes. O efeito estufa é um 
+processo físico pelo qual a presença dos gases 
+atmosféricos mantém a temperatura da terra em 
+maior equilíbrio do que teriam, caso estivessem 
+ausentes. O efeito estufa é consequência do 
+aquecimento global.
+QUESTÃO 7 
+Há mais de 70 anos, um dos principais atrativos 
+turísticos do México é a Quebrada de Acapulco: 
+mergulhadores saltam de rochas a 45 metros 
+de altura, sobre as ondas do mar, sem qualquer 
+equipamento de proteção. Considerando o salto 
+como um movimento de queda livre de velocidade 
+vertical inicial nula, desprezando-se a resistência do 
+ar e tomando a aceleração da gravidade como g = 
+10 m/s2, então o tempo entre o salto e a entrada na 
+água, bem como a velocidade do mergulhador ao 
+atingir a água, são, respectivamente:
+(A) Tempo = 2,5 segundos, velocidade = 25 m/s.
+(B) Tempo = 3,0 segundos, velocidade = 30 m/s.
+(C) Tempo = 3,5 segundos, velocidade = 35 m/s.
+(D) Tempo = 4,0 segundos, velocidade = 40 m/s.
+(E) Tempo = 4,5 segundos, velocidade = 45 m/s.
+QUESTÃO 8 
+De acordo com a Física Clássica, é correto afirmar 
+que
+(A) as quatro estações, divisão climática do ano, são o 
+resultado da inclinação do eixo de rotação da Terra, 
+que faz um ângulo de aproximadamente 23,5° em 
+relação ao plano da sua trajetória ao redor do Sol.
+(B) um experimento de queda livre é realizado numa 
+câmara onde é retirado todo o ar do seu interior. 
+São abandonados, a partir do repouso, uma bola 
+de boliche e uma pena de uma altura de 50 metros. 
+A bola de boliche atinge o chão pelo menos 10 
+metros à frente da pena.
+(C) a força gravitacional repulsiva que a Terra realiza 
+sobre a Lua mantém a separação fixa entre o 
+planeta e seu satélite natural.
+(D) um pião se equilibra na posição vertical enquanto 
+realiza um movimento de rotação, graças ao 
+princípio de conservação do momento linear.
+(E) ondas eletromagnéticas não são visíveis a olho nu.4   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 9 
+Inúmeras são as causas de incêndios dentro de 
+casa, com materiais inflamáveis como, por exemplo, 
+cortinas, sofá, armários de madeira e prateleiras, 
+sendo rápida a propagação. O major Gildomar 
+Alves, comandante do Corpo de Bombeiros Militar 
+de Brasília-DF, alerta: “É preciso ter cuidado para 
+não usar o adaptador T (benjamin), porque pode 
+sobrecarregar a fiação, que é calculada pela 
+engenharia”. 
+Disponível em: <https://jornaldebrasilia.com.br/cidades/casos-de-incendios-domesticos-
+aumentaram-44-no-ano-passado/>. Acesso em: 14 set. 2019.
+Sobre os riscos e os cuidados em instalações elétricas, 
+é correto afirmar que
+(A) quanto maior o comprimento do fio de cobre, 
+menor o risco de um curto-circuito.
+(B) quanto menor a área do fio de cobre, maior o risco 
+de um curto-circuito.
+(C) efeito joule é o responsável pela transformação da 
+energia térmica em energia elétrica.
+(D) à medida que os aparelhos são ligados na instalação 
+doméstica, a resistência elétrica total aumenta.
+(E) o disjuntor é um sistema de segurança, pois 
+diminui a tensão elétrica na residência.
+QUESTÃO 10 
+Quando a luz passa através de um prisma, seu 
+espectro é dividido em sete cores monocromáticas, 
+eis que surge um arco-íris de cores. A atmosfera 
+faz o mesmo papel do prisma, atuando onde os 
+raios solares colidem com as moléculas de ar, água 
+e poeira e são responsáveis pela dispersão do 
+comprimento de onda azul da luz. 
+Devido ao seu pequeno tamanho e estrutura, as 
+minúsculas moléculas presentes na atmosfera 
+espalham melhor as ondas com os menores 
+comprimentos de onda, tais como o azul e o violeta. 
+Durante praticamente todo o dia a luz azul se espalha 
+cerca de dez vezes mais que a luz vermelha. Além 
+disso, a luz azul tem uma frequência que é muito 
+próxima da frequência de ressonância dos átomos, 
+ao contrário da luz vermelha. Por isso, a luz azul 
+movimenta os elétrons nas camadas atômicas da 
+molécula com muito mais facilidade que a vermelha. 
+Isso provoca um ligeiro atraso na luz azul que é 
+reemitida em todas as direções. 
+Quando o céu está com cerração, névoa ou poluição, 
+há partículas de tamanho grande que dispersam 
+igualmente todos os comprimentos de ondas, logo 
+o céu tende a ficar mais branco, devido à associação 
+das cores monocromáticas. 
+Quando o sol está no horizonte, a luz percorre um caminho muito maior através da atmosfera 
+para chegar aos nossos olhos do que quando está 
+sobre nossas cabeças. A luz azul nesse caminho foi 
+dispersa quase integralmente, a atmosfera atua 
+como um filtro, e muito pouca luz azul chega até 
+nossos olhos, enquanto que a luz vermelha que é 
+apenas transmitida nos alcança mais facilmente. 
+No vácuo, existente fora das proximidades do 
+planeta Terra, onde não há atmosfera, os raios do 
+sol não são dispersos, logo eles percorrem uma linha 
+reta do sol até o observador, por isso, os astronautas 
+veem o céu escuro, como se fosse sempre noite. 
+Disponível em: <https://www.sofisica.com.br/conteudos/curiosidades/ceu_azul.php>. 
+Acesso em 20 set. 2019. (Fragmento Adaptado).
+Com base no texto sobre as cores do céu, o principal 
+fenômeno ótico responsável pelas suas diferentes 
+cores é a
+(A) Transmissão.
+(B) Reflexão.
+(C) Aberração. 
+(D) Difração.
+(E) Polarização.
+QUESTÃO 11 
+Um tanque escavado tem volume de 400,00 m3 de 
+água a 22° C. Nesse tanque, a concentração de peixes 
+é de 80,00 peixes/m3. Sabendo que a temperatura da 
+água subiu para 28° C, que as paredes do tanque são 
+estáveis, e que o número de peixes dentro do tanque 
+continua igual, qual é a nova concentração de peixes 
+por m3?   
+Use como coeficiente de expansão volumétrica da 
+água: 1,50 x 10-4° C-1
+(A) 86,05 peixes/m3
+(B) 80,06 peixes/m3
+(C) 79,94 peixes/m3 
+(D) 64,32 peixes/m3 
+(E) 32,00 peixes/m3 Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 5QUESTÃO 12 
+Um gás ideal é submetido ao processo termodinâmico 
+descrito pelo ciclo abca no diagrama pressão-volume 
+(P-V) ilustrado na figura apresentada. Com relação 
+ao trabalho W realizado no processo abc, a energia 
+interna ∆U no ciclo abca e a temperatura em c (Tc) 
+no processo ca, (com Ta  sendo a temperatura em a), 
+são, respectivamente:
+(A) Wabc =  1,5 J; ∆Uabca = 0,0 J; Tc = (4/9)Ta
+(B) Wabc = -6,0 J; ∆Uabca = 1,5 J; Tc = (9/4)Ta
+(C) Wabc =  6,0 J; ∆Uabca = 6,0 J; Tc = Ta
+(D) Wabc =  6,0 J; ∆Uabca = 0,0 J; Tc = (9/4) Ta
+(E) Wabc = -1,5 J; ∆Uabca = 1,5 J; Tc = (4/9) Ta
+QUESTÃO 13 
+Ácidos e bases são substâncias presentes em 
+inúmeros processos químicos que ocorrem ao nosso 
+redor, desde processos industriais até processos 
+biológicos e reações que ocorrem no ambiente. 
+A força relativa desses ácidos ou bases podem 
+ser expressas quantitativamente a partir de sua 
+constante de equilíbrio ácida ou básica. Analise a 
+tabela a seguir com alguns ácidos e bases ordenados 
+em função de sua capacidade de doar ou receber 
+prótons e seus respectivos valores de Ka e Kb.
+Ácido KaBase Conjugada Kb
+HClO4Grande ClO4-Muito pequena
+H3O+1,0 H2O 1,0x10-14
+H2SO31,7x10-2HSO3-8,3x10-13
+H3PO47,5x10-3H2PO4-1,3x10-12
+HF 7,2x10-4F-1,4x10-11
+H2CO34,2x10-7HCO3-2,4x10-8
+Com base na análise da tabela e nas propriedades 
+dos ácidos e bases, assinale a alternativa correta.
+(A) Segundo a teoria de Bronsted-Lowry, as bases 
+conjugadas de ácidos fracos possuem ligeira 
+habilidade em remover prótons da água.(B) Ácidos fortes transferem parcialmente seus 
+prótons para a água, resultando em uma mistura 
+de moléculas de ácidos e seus íons constituintes 
+em solução.
+(C) As bases conjugadas de ácidos fortes produzem 
+soluções mais básicas que as bases conjugadas de 
+ácidos fracos. 
+(D) O ácido perclórico é considerado um ácido fraco, 
+uma vez que sua base conjugada possui um valor 
+de Kb “muito pequena”.
+(E) Todo ácido e base de Lewis é também um ácido e 
+base de Bronsted-Lowry. 
+QUESTÃO 14 
+A busca por materiais de alto valor agregado, alta 
+aplicabilidade e sustentabilidade motiva inovações 
+em todas as áreas da ciência. O carbeto de tungstênio 
+(WC) é uma substância extremamente dura, 
+composta por uma liga intersticial muito utilizada na 
+fabricação de abrasivos, materiais muito duros que 
+arrancam, por atrito, partículas de outros materiais. 
+O carbeto de tungstênio é obtido a partir da seguinte 
+reação química: 
+ W(s) + C(s) → WC(s) 
+Com base nessa reação, ao calcular o valor de ΔHf 
+usando a Lei de Hess e as seguintes reações de 
+combustão, assinale a alternativa correta. 
+W(s) + 3/2O(g) → WO3(s)       ΔHcomb = - 840 kJ/mol
+C(s) + O2(g) → CO2(g)   ΔHcomb = - 394 kJ/mol
+WC(s)+5/2O2(g)→WO3(s)+CO2(g)      ΔHcomb= - 1196 kJ/mol
+(A) +38 kJ/mol.
+(B) +750 kJ/mol.
+(C) –38 kJ/mol.
+(D) –2430 kJ/mol.
+(E) –750 kJ/mol.
+QUESTÃO 15 
+A mistura de água e álcool etílico não mantém a 
+aditividade dos volumes. Esse fato pode ser observado 
+de forma perceptível, quando se misturam 50% de 
+água e 50% de álcool etílico. Assinale a alternativa 
+que explica corretamente esse fato.
+(A) Há incompatibilidade entre as substâncias 
+misturadas e isso produz a redução do volume 
+total da mistura.
+(B) As interações de hidrogênio entre as moléculas de 
+água e álcool reduzem o volume ocupado pelas 
+moléculas, diminuindo o volume total da mistura.
+(C) Ocorrem interações hidrofóbicas e hidrofílicas que 
+reduzem o volume ocupado pelas moléculas.6   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGD(D) Não se pode explicar tal fato em bases de interações 
+moleculares para a redução do volume.
+(E) Ocorre absorção de energia das moléculas e essa 
+energia absorvida é responsável pela redução do 
+volume molecular.
+QUESTÃO 16 
+Em uma aula experimental de Química no 1º ano do 
+ensino médio, os estudantes, divididos em grupos, 
+tentaram descobrir por que alguns materiais se 
+misturam e outros não. Para isso, utilizaram reagentes 
+de uso cotidiano: água, óleo de soja, vinagre, glicerina, 
+sal de cozinha. O roteiro experimental utilizado está 
+descrito na tabela a seguir.
+Reagente 1 - 10 mL 
+no béquerReagente 2 - uma 
+colher de caféMisturam-se?
+Água Óleo de soja ?
+Água Vinagre ?
+Água Glicerina ?
+Água Sal de cozinha ?
+Óleo de soja Vinagre ?
+Óleo de soja Glicerina ?
+Óleo de soja Sal de cozinha ?
+Vinagre Glicerina ?
+Vinagre Sal de cozinha ?
+Vaselina Sal de cozinha ?
+De acordo com os resultados obtidos na aula 
+experimental e os conhecimentos sobre ligações 
+químicas, polaridade e forças intermoleculares, é 
+correto afirmar que
+(A) água e óleo de soja não se misturam, pois a água é 
+apolar e o óleo polar com tipo de interação ligação 
+de hidrogênio em ambos. 
+(B) vinagre e água se misturam, devido ao tipo de 
+interação intermolecular que ocorre entre eles 
+que é do tipo dipolo induzido ou forças de London.
+(C) glicerina e água não se misturam, devido ao tipo 
+de polaridade que elas possuem, pois a glicerina é 
+apolar e a água polar.
+(D) água e sal de cozinha se misturam, devido ao sal 
+de cozinha e à água serem substâncias iônicas. 
+(E) óleo de soja e vinagre não se misturam, devido ao 
+tipo de interação intermolecular do óleo, que é do 
+tipo ligação de hidrogênio, e ao vinagre ser uma 
+substância iônica.
+ QUESTÃO 17  
+O diclorodifenilnitrocloroetano (DDT) é o mais 
+conhecido entre os inseticidas do grupo dos 
+organoclorados. Ele foi usado na Segunda Guerra 
+Mundial, para prevenção do tifo em soldados, que 
+o utilizavam na pele para combater os piolhos; 
+posteriormente, seu uso passou a ser agropecuário. 
+Esse tipo de inseticida atua sobre o sistema 
+nervoso central, ocasionando distúrbios sensoriais 
+e problemas relacionados à respiração. Segundo 
+notícia veiculada na Revista Exame, 1 em cada 4 
+cidades está com sua água contaminada pelo DDT.
+Disponível em: <https://exame.abril.com.br/brasil/1-em-4-municipios-tem-coquetel-com-
+agrotoxicos-na-agua-consulte-o-seu/>. Acesso em: 19 set. 2019.  (Adaptado).
+Observe, a seguir, a figura da estrutura do DDT.
+Disponível em: <https://i.stack.imgur.com/yWmDB.png>. Acesso em: 19 set. 2019.
+Sobre o DDT, é correto afirmar que
+(A) é um composto de cadeia aberta.
+(B) este apresenta dez insaturações em sua cadeia 
+carbônica.
+(C) a sua fórmula molecular é C13H9Cl5.
+(D) este apresenta dois centros quirais.
+(E) o seu composto pertence à classe dos haletos 
+orgânicos.
+QUESTÃO 18  
+Atualmente, o etanol (C₂H₅OH) é um dos principais 
+combustíveis alternativos aos oriundos do petróleo. 
+Uma de suas maiores vantagens é o fato de ele ser 
+um combustível renovável e que o  comercializado 
+nos postos de combustível tem em média 96% de 
+pureza. 
+(Densidade do etanol a 20° C: 0,810 g/cm3) 
+Considerando esse valor de pureza, é correto afirmar 
+que a combustão completa de 1 litro de etanol 
+(A) gera 0,609 g de H2O.
+(B) gera 2,231 g de CO2.
+(C) consome 1,081 g de O2.
+(D) gera 1,487 g de CO2.
+(E) gera 0,304 g de H2O.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 7QUESTÃO 19 
+Leia o trecho a seguir, extraído do poema 
+Aprendimentos, de Manoel de Barros.
+O filósofo Kierkegaard me ensinou que cultura é o 
+caminho que o homem percorre para se conhecer. 
+Sócrates fez o seu caminho de cultura e ao fim falou 
+que só sabia que não sabia de nada.
+Disponível em: <https://poesiaspreferidas.wordpress.com/2012/12/20/aprendimentos-
+manoel-de-barros/> Acesso em: 5 set. 2019.
+Com base no trecho do poema, analise se são 
+verdadeiras ou falsas as afirmações a seguir.
+( ) O conhecimento é resultado de concepções sociais 
+e culturais sobre o que vem a ser o conhecimento. 
+Logo, sociedades diferentes tendem a produzir e a 
+valorizar diferentes tipos de conhecimento.
+( ) Existem muitos caminhos para a produção do 
+conhecimento; o da filosofia é questionar e duvidar 
+sempre.
+( ) O conhecimento filosófico é a busca pela verdade, 
+conforme acreditavam os filósofos da antiguidade 
+clássica. Logo, é tarefa da filosofia, por meio desse 
+processo de indagação permanente, conhecer e 
+disseminar o conhecimento verdadeiro.
+( ) Cada sociedade, em cada tempo histórico, define 
+seus próprios paradigmas de conhecimento.
+( ) Sócrates é produto de sua própria sociedade, e seu 
+pensamento reflete as preocupações do tempo/
+espaço ao qual ele pertencia.
+Assinale a alternativa que contém a sequência correta 
+de cima para baixo. 
+(A) F, F, V, F, F
+(B) V, F, V, F, V
+(C) V, V, F, V, V
+(D) F, F, F, F, F
+(E) V, V, V, V, VQUESTÃO 20 
+[…]
+Agora Fabiano era vaqueiro, e ninguém o tiraria 
+dali. Aparecera como um bicho, entocado como 
+um bicho, mas criara raízes, estava plantado. [...] 
+Ele, sinhá Vitória, os dois filhos e a cachorra Baleia 
+estavam agarrados à terra.
+[…] 
+Entristeceu. Considerar plantado em uma terra 
+alheia! Engano. A sina dele era correr mundo, andar 
+para cima e para baixo, à toa, como judeu errante. 
+Um vagabundo empurrado pela seca. Achava-se ali 
+de passagem, era hóspede. Sim senhor, hóspede 
+que se demorara demais, tomava amizade à casa, 
+ao curral, ao chiqueiro das cabras, ao juazeiro que 
+os tinha abrigado uma noite. 
+Graciliano Ramos. Vidas Secas. Editora Record, RJ/SP , 2017, p. 19. 
+Sobre o aspecto sociológico de Vidas Secas, de 
+Graciliano Ramos, assinale a alternativa correta.
+(A) O drama narrado por Graciliano Ramos por meio 
+dos personagens Fabiano e Sinhá Vitória trata-se 
+de uma criação literária sem correspondência com 
+a realidade social da época.
+(B) O autor procura demonstrar, a partir da história 
+de Fabiano e Sinhá Vitória, as aventuras de uma 
+família de retirantes, em busca de água e comida, 
+que passa a viajar pelo nordeste brasileiro 
+apresentando as belezas e riquezas do sertão.
+(C) Na história, Fabiano é um viajante que não 
+estabelece vínculos com os locais por onde passa, 
+por não se considerar pertencente a esses espaços, 
+escolhendo uma vida errante em meio ao sertão 
+nordestino.
+(D) Apesar de verdadeira, a história de Fabiano e Sinhá 
+Vitória trata-se de um caso isolado e pouco pode 
+dizer a respeito das condições sociais da vida no 
+sertão nordestino.
+(E) O segundo trecho apresentado aponta para o 
+drama, ainda atual, vivido por milhares de pessoas 
+no sertão nordestino, que, devido às condições 
+de escassez, concentração das terras nas mãos de 
+poucos proprietários e dificuldades para encontrar 
+trabalho, obriga famílias inteiras a viverem em 
+busca de condições de existência, nas quais 
+possam se sentir humanas.CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS8   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 21 
+O gráfico a seguir apresenta dados concernentes à 
+pirâmide etária brasileira.
+PIRÂMIDE ETÁRIA (BRASIL - 2012 E 2018)
+Disponivel em: <https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-
+piramide-etaria.html>. Acesso em: 24 set. 2019. 
+Segundo a leitura desse gráfico, é correto afirmar que 
+essa pirâmide etária é típica de um país
+(A) dotado de alto crescimento demográfico.
+(B) em estágio de envelhecimento populacional.
+(C) com baixa porcentagem de trabalhadores 
+aposentados.
+(D) com presença de jovens.
+(E) em recessão econômica.
+QUESTÃO 22 
+ÁFRICA POLÍTICO
+Disponível em: <https://bit.ly/2MrHShZ>. Acesso em: 24 set. 2019 (Adaptado).
+Conhecimentos referentes aos países do globo são 
+muito importantes para compreensão e ampliação 
+da concepção do/de mundo. Observe, no mapa 
+apresentado, os três países africanos indicados 
+com círculos pretos e assinale a alternativa que os 
+identifica corretamente. (A) Egito, Somália e Gana.
+(B) Etiópia, África do Sul e Marrocos.
+(C) Nigéria, Egito e Quênia.
+(D) Angola, Nigéria e Eritreia.
+(E) Egito, Nigéria e Etiópia.
+QUESTÃO 23 
+REGIONALIZAÇÃO DO BRASIL
+Disponível em: <http://brunovalverde.no.comunidades.net/imagens/brasil_2.jpg>. Acesso 
+em: 16 set. 2019.
+Analise o mapa e assinale a alternativa correta. 
+(A) O Brasil está dividido, de acordo com o 
+geógrafo Pedro Pinchas Geiger, em três regiões 
+geoeconômicas ou complexos regionais: Centro-
+Sul, Nordeste e Amazônia.
+(B) O Brasil está dividido, de acordo com a proposta 
+do Instituto Brasileiro de Geografia e Estatística 
+(IBGE), em cinco Regiões: Norte, Nordeste, Sul, 
+Sudeste e Centro-Oeste.  
+(C) O Brasil está dividido, de acordo com a proposta 
+do Instituto Brasileiro de Geografia e Estatística 
+(IBGE), em quatro regiões: Amazônia, Centro-
+Oeste, Concentrada e Nordeste.
+(D) O Brasil está dividido, de acordo com a proposta 
+do geógrafo Milton Santos, em quatro regiões: 
+Amazônia, Centro-Oeste, Concentrada e Nordeste 
+a partir das diferenças na difusão do meio técnico-
+científico-informacional.
+(E) O Brasil está dividido, de acordo com o geógrafo 
+Pedro Pinchas Geiger, em quatro regiões 
+geoeconômicas ou complexos regionais: Amazônia, 
+Centro-Oeste, Concentrada e Nordeste a partir das 
+diferenças históricas e econômicas.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 9QUESTÃO 24 
+Leia o excerto a seguir.
+[...]
+A chuva caía meticulosamente, sem pressa de 
+cessar. A palha do rancho porejava água, fedia a 
+podre, derrubando dentro da casa uma infinidade 
+de bichos que a sua podridão gerava. Ratos, sapos, 
+baratas, grilos, aranhas, —
+o diabo refugiava-se ali dentro, fugindo à inundação, 
+que aos poucos ia galgando a perambeira do 
+morrote.
+[...]
+ Disponível em: <https://contobrasileiro.com.br/nhola-dos-anjos-e-a-cheia-do-corumba-
+conto-de-bernardo-elis/>. Acesso em: 20 set. 2019 .
+Esse trecho, extraído do conto de Bernardo Élis, Nhola 
+dos Anjos e a Cheia do Rio Corumbá , refere-se  
+(A) ao bioma Pantanal e ao ciclo das chuvas que 
+controla a vazão dos rios, mudando a paisagem 
+anualmente. Faz referência ao início das chuvas na 
+área desse bioma, que se inicia no verão e finda-se 
+no outono. 
+(B) ao bioma Pantanal e ao ciclo das chuvas que 
+controla a vazão dos rios, mudando a paisagem 
+anualmente. Faz referência ao início das chuvas 
+nesse bioma, que se inicia no final do inverno e 
+finda-se em meados do outono.  
+(C) ao bioma Chaco e ao ciclo das chuvas que controla 
+a vazão dos rios, mudando a paisagem anualmente. 
+Faz referência ao início das chuvas nesse bioma 
+que se inicia no final do inverno e finda-se em 
+meados do outono.   
+(D) ao bioma Chaco e ao ciclo das chuvas que controla 
+a vazão dos rios, mudando a paisagem anualmente. 
+Faz referência ao fim das chuvas, que se inicia na 
+primavera e finda-se no verão.  
+(E) ao bioma Pantanal e ao ciclo das chuvas que 
+controla a vazão dos rios, mudando a paisagem 
+anualmente. Faz referência ao fim das chuvas 
+que se inicia no final da primavera e finda-se em 
+meados do outono.  QUESTÃO 25 
+Disponível em: <https://3.bp.blogspot.com/-ZzoyAjsMDBk/VyI_odpDl6I/AAAAAAAAiGE/
+Qty31xdyzAEE1i8j9PnPb4q8ugRxBOCsQCLcB/s1600/.jpg>. Acesso em: 20 set. 2019.
+Além de sua significação artística e histórica 
+originais, a figura apresentada faz uma alusão à 
+contemporaneidade e à importância da obra de
+(A) Pablo Picasso, Guernica, sobre a violência e a crise 
+de refugiados que assolam países europeus no 
+século XXI. 
+(B) Pablo Picasso, Refugiados, sobre a violência e a 
+crise de refugiados que assolam países africanos 
+no século XXI.
+(C) Pablo Picasso, Guernica, sobre a violência e a crise 
+de refugiados que assolam países europeus no 
+século XX.
+(D) Pablo Picasso, Refugiados, sobre a violência e 
+a crise de refugiados quem assolam os países 
+europeus no século XXI.
+(E) Salvador Dalí, Guernica, sobre a violência e a crise 
+de refugiados que assolam os países europeus no 
+século XXI. 10   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 26 
+ Satrapi, Marjane. Persépolis. 26ª Reimpressão. São Paulo: Companhia das Letras, 2007. 
+Esse fragmento extraído da obra Persépolis se refere 
+à 
+(A) revolução islâmica, ocorrida no Irã no final 
+da década de 1970, que levou ao poder 
+grupos fundamentalistas, os quais suprimiram 
+direitos sociais, adotaram medidas sexistas e  
+implementaram um regime político-social baseado 
+no alcorão, o qual prevaleceu até o final do século 
+XX.  
+(B) revolução islâmica, ocorrida no Irã no final 
+da década de 1970, que levou ao poder 
+grupos fundamentalistas, os quais suprimiram 
+direitos sociais, adotaram medidas sexistas e 
+implementaram um regime político-social baseado 
+na fé cristã, o qual prevalece ainda no século XXI.
+(C) revolução islâmica, ocorrida no Irã no final 
+da década de 1960, que levou ao poder 
+grupos fundamentalistas, os quais suprimiram 
+direitos sociais, adotaram medidas sexistas e 
+implementaram um regime político-social baseado 
+no alcorão, o qual prevalece ainda no século XXI. 
+(D) revolução islâmica, ocorrida no Iraque no 
+final da década de 1970, que levou ao poder 
+grupos fundamentalistas, os quais suprimiram 
+direitos sociais, adotaram medidas sexistas e  
+implementaram um regime político-social baseado 
+no alcorão, o qual prevalece ainda no século XXI.
+(E) revolução islâmica, ocorrida no Irã no final 
+da década de 1970, que levou ao poder 
+grupos fundamentalistas, os quais suprimiram 
+direitos sociais, adotaram medidas sexistas e  implementaram um regime político-social baseado 
+no alcorão, o qual prevalece ainda no século XXI.
+QUESTÃO 27  
+VIOLA DE COCHO
+Disponível em: <http://www.fundacaodecultura.ms.gov.br/oficina-de-viola-de-cocho-
+apresenta-tradicoes-do-mato-grosso-uno>. Acesso em: 23 set 2019. 
+O modo de fazer “Viola de Cocho” é um saber 
+encontrado nos estados de Mato Grosso e Mato 
+Grosso do Sul, e foi registrado no Livro dos Saberes  do 
+Instituto do Patrimônio Histórico e Artístico Nacional 
+(Iphan), em 2005. Com relação ao patrimônio cultural 
+brasileiro, é correto afirmar que
+(A) este tem como centralidade os bens materiais, 
+pois cumprem uma função melhor para o país. 
+(B) a Constituição de 1988 não inclui as criações 
+científicas, artísticas e tecnológicas como 
+patrimônio. 
+(C) os bens imateriais são restritos a 30% do total do 
+patrimônio. 
+(D) este é constituído de bens de natureza material e 
+imaterial.
+(E) este é tomado exclusivamente de forma individual, 
+servindo como referência identitária ao país. 
+QUESTÃO 28 
+O romance Ponciá Vicêncio (2003) da autora 
+Conceição Evaristo é permeado de tensões que 
+envolvem passado com ramificações no presente; 
+no caso, o passado escravocrata e o período após 
+abolição da escravatura (1888). Trata-se de um 
+romance que explora as marcas e os prolongamentos 
+do passado escravocrata na formação da sociedade 
+brasileira. Nessa perspectiva, considerando essa 
+obra, é correto afirmar que o seu enredo
+(A) é favorável à ideia da democracia racial na 
+formação da sociedade brasileira. 
+(B) oportuniza debates sobre a exclusão racial, a 
+exclusão de gênero e a exclusão de classe na 
+sociedade brasileira.
+(C) gira em torno da promulgação da Lei Áurea, de Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 111888, que efetivamente extinguiu a discriminação 
+racial e de classe no Brasil. 
+(D) denuncia o feminismo, pois a característica central 
+da sociedade brasileira se constrói pela igualdade 
+de gêneros. 
+(E) trata de uma sociedade inventada, pois a relação 
+passado e presente em toda obra não dialoga com 
+a formação social do Brasil. 
+QUESTÃO 29   
+As descobertas arqueológicas colaboram no 
+entendimento do processo de ocupação do Brasil 
+e de toda a América por meio dos vestígios da 
+cultura material, encontrados no vasto continente 
+americano, como, por exemplo, o que mostram as 
+imagens a seguir. 
+IMAGEM I
+O fóssil de Luzia: o mais antigo ser humano encontrado no 
+Brasil (Lagoa Santa – Minas Gerais)
+Disponível em: <https://www.tribunapr.com.br/wp-content/uploads/sites/1/2018/09/Luiza-
+825x793.jpg?a86372>. Acesso em: 20 set. 2019.
+IMAGEM II
+Registro rupestre. Representação dos chamados “veadinhos 
+azuis”, tesouro de um dos sítios arqueológicos da Serra da 
+Capivara, no Piauí.
+Disponível em: <http://2.bp.blogspot.com/-5xkWfXsUfV4/VpAn8g7I7vI/AAAAAAAAFkU/
+NfB_KN8NpMw/s1600/IMG_4475.JPG>. Acesso em: 20 set. 2019.Sobre o processo de ocupação do Brasil, assinale a 
+alternativa correta.
+(A) O território conhecido como Brasil vem 
+sendo continuamente ocupado por diferentes 
+populações há mais de 10 mil anos antes do 
+presente, conforme evidenciam as descobertas 
+das pesquisas arqueológicas.
+(B) Os primeiros habitantes do Brasil foram os 
+portugueses e os espanhóis que, auxiliados pelo 
+processo de expansão ultramarina no século XVI, 
+chegaram em terras brasileiras.
+(C) Os povos indígenas habitavam apenas a costa 
+litorânea atlântica, quando da chegada dos 
+europeus no século XVI. A região Centro-Oeste do 
+Brasil, por exemplo, caraterizada por uma floresta 
+tropical, era completamente desocupada.
+(D) As evidências arqueológicas apenas comprovam 
+a ocupação do território brasileiro a partir do 
+século X, já que os objetos da cultura material 
+encontrados não permitem datações anteriores a 
+mais de mil anos.
+(E) O processo de ocupação do Brasil se deu sempre 
+de forma pacífica, contando com a harmonia 
+entre indígenas, europeus e africanos, atendendo 
+as demandas de todos os grupos étnicos e de 
+diferentes nacionalidades.
+QUESTÃO 30 
+A diferença fundamental entre as ditaduras 
+modernas e as tiranias do passado está no 
+uso do terror não como meio de extermínio e 
+amedrontamento dos oponentes, mas como 
+instrumento corriqueiro, para governar as 
+massas perfeitamente obedientes. O terror, 
+como o conhecemos hoje, ataca sem provocação 
+preliminar, e suas vítimas são inocentes até mesmo 
+do ponto de vista do perseguidor.
+ARENDT, Hannah. Origens do Totalitarismo. São Paulo, Companhia das Letras, 2004, p. 25 
+(Fragmento).
+Sobre os regimes totalitários europeus emergidos no 
+século XX, assinale a alternativa correta. 
+(A) A forma de governar pelo terror não estava na 
+centralidade dos regimes, pois tinham como 
+premissa básica a democracia. 
+(B) O pluripartidarismo era parte dos aparatos 
+ideológicos, pois quanto mais partidos tivessem 
+nos regimes, maior era a capacidade de controle 
+das massas. 
+(C) O terror, manifesto nas diversas formas de 
+violência, era exclusivamente uma forma de 
+resistência ante o exércitos de libertação nacional 
+dos regimes.   12   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGD(D) Era proibido censurar os meios de comunicação. 
+(E) O terror se apresenta como instrumento necessário 
+para a realização de ideologia específica nos 
+regimes. 
+QUESTÃO 31 
+FILME I – LONGA: A SOCIEDADE LITERÁRIA E A 
+TORTA DE CASCA DE BATATA, 2018, 160MIN.
+Sinopse: uma escritora londrina visitando a ilha de Guernsey, 
+em 1946, por meio de um clube literário, estabelece relacio-
+namentos com os moradores locais e escreve um livro sobre 
+as experiências deles na guerra.
+Disponível em: <https://http2.mlstatic.com/filme-a-sociedade-literaria-e-a-torta-de-casca-
+de-batata-D_NQ_NP_799160-MLB27948124181_082018-O.webp>.  Acesso em :22 set. 
+2019.
+FILME II – LONGA: O PRIMEIRO HOMEM, 2018, 
+137MIN.
+Sinopse: retrata a trajetória do astronauta norte-americano 
+Neil Armstrong para se tornar o primeiro homem a pisar na 
+Lua, em 1969, durante as arriscadas missões na história da 
+corrida espacial.
+Disponível em: <http://br.web.img2.acsta.net/r_1920_1080/
+pictures/18/06/11/17/46/3758033.jpg>. Acesso em: 24 set. 2019.Assinale a alternativa que apresenta as guerras que, 
+respectivamente, são os contextos das experiências 
+de sofrimento retratadas no Filme I e da corrida 
+espacial abordada no Filme II.
+(A) Primeira Guerra Mundial e Segunda Guerra 
+Mundial.
+(B) Segunda Guerra Mundial e Primeira Guerra 
+Mundial.
+(C) Segunda Guerra Mundial e Guerra Fria.
+(D) Primeira Guerra Mundial e Guerra Fria.
+(E) Guerra Fria e Primeira Guerra Mundial.
+QUESTÃO 32 
+Há cerca de 155 anos, no dia 29 de dezembro de 1864, 
+o território brasileiro na região sul do antigo estado 
+de Mato Grosso, na Colônia Militar dos Dourados, 
+foi invadido por tropas estrangeiras, que mataram o 
+Tenente Antônio João Ribeiro e mais alguns de seus 
+soldados. Esse episódio, marcante na história do 
+Brasil e de Mato Grosso do Sul, foi um marco no maior 
+e mais longo conflito bélico da América do Sul, que 
+teve como consequências: cerca de 300 mil mortos, 
+entre civis e militares e incluindo negros e indígenas; 
+mais da metade da população do país derrotado 
+foi morta; gastos com a guerra prejudicaram a 
+economia brasileira e aumentaram a dívida externa 
+do país; fortalecimento do exército brasileiro como 
+importante força no cenário político nacional, com 
+protagonismo na Proclamação da República Brasileira 
+em 1889. Assinale a alternativa que corresponde 
+corretamente ao conflito mencionado.
+(A) Guerra Guaranítica.
+(B) Guerra das Malvinas.
+(C) Guerra da Cisplatina.
+(D) Guerra do Acre.
+(E) Guerra do Paraguai.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 13QUESTÃO 33 
+UMA MARIA QUARQUÉ
+Kennya Silva
+Eu sô uma Maria quarqué. 
+Uma dessas muié, qui vivi na roça, 
+qui viaja di carroça, di cavalo ou a pé.
+Eu sô uma maria quarqué. 
+Dessas que acorda cedin, faz o bolo i o café, cuida 
+da casa du quintá, 
+dus bichin dos animá, qui sustenta o brasí di pé.
+Eu sô uma maria quarqué 
+qui tira o leite da vaquinha, cuida das prantas i 
+das galinhas, sô maria muié de fé. Sô maria forte, 
+sô du su ou sô do norti num importa o lugar, in 
+quarqué parti du praneta ixisti uma Maria cuma 
+eu, qui luta cum fé i coragi na lida qui Deus lhe 
+deu.
+Eu Sô uma Maria quarqué 
+Num sei falar ingrêz, num intendo di moda, uso 
+xita i xadrez,  
+Sô diferente di ocês, mas isso num mi incomoda.
+Eu sô uma Maria quarqué 
+di vêz inguanto vô na cidade, inté cumpriendo seu 
+valô.  
+mais é aqui no mato qui tenho felicidade, sô 
+bonita do meu jeito também tenho vaidade.
+Eu sô uma Maria quarqué 
+Sô da roça sim sinhô, sô caipira cum orguio, mas 
+trabaio cum amor.
+Eu sô uma Maria quarqué. 
+qui só usei esse papé, pra chamar sua atenção pra 
+fazer ocê oiá ,cum o zói du coração pras tantas 
+Marias quaisquer, que vivem de realidade, que 
+retratam o amor à vida e a fé, que só desejam 
+ser respeitadas ao longo dessa jornada no seu 
+ranchinho de sapé.
+Disponível em: <http://www.agricultura.gov.br/noticias/produtora-rural-do-interior-
+do-para-traduz-em-poesia-os-desafios-das-mulheres-rurais>. Acesso em: 23 set. 2019 
+(Adaptado).
+Considerando esse texto e a variação linguística 
+apresentada, assinale a alternativa correta.
+(A) No poema, predomina uma variedade da língua 
+portuguesa considerada não padrão, o que 
+inviabiliza a interpretação do texto, portanto 
+precisa ser reescrito, a fim de que alcance o efeito 
+desejado pela poetisa.(B) O poema é concluído com a variedade considerada 
+culta da língua portuguesa, pois se trata de uma 
+mensagem direcionada àqueles que não fazem 
+uso da variedade predominante no poema e 
+podem conhecer ou não a realidade de vida da 
+mulher do campo.
+(C) O poema é a representação escrita da forma falada 
+de uma variedade não padrão da língua portuguesa, 
+típica do interior do nordeste brasileiro, como 
+afirma a própria poetisa na terceira estrofe. 
+(D) A variedade linguística predominante no poema 
+apresenta variações em todos os níveis linguísticos, 
+quais sejam: fonológico, morfológico, sintático e 
+semântico da língua portuguesa, o que passa a 
+impressão de se tratar de uma nova língua.
+(E) A variação linguística predominante no poema é 
+o resultado de um processo de empobrecimento 
+da língua portuguesa, resultante das condições 
+sociais da mulher do campo, impedindo a sua 
+escolarização devido a tantos afazeres domésticos.
+QUESTÃO 34 
+Segundo Will Eisner, a linguagem dos quadrinhos é 
+definida como gênero híbrido e arte sequencial. 
+Disponível em: https://vermesrealistas.com/tirinhas/buraco-de-minhoca/. Acesso em 11 
+set. 2019.
+Com base na tirinha, assinale a alternativa correta.
+(A) O último quadrinho da tirinha introduz um sentido 
+diverso do apresentado nos quadrinhos anteriores 
+para a expressão “buraco de minhoca” provocando 
+um desfecho inesperado.LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS14   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGD(B) Na sequência apresentada pela tirinha, as 
+reticências presentes no quinto quadrinho 
+sugerem desinteresse de ambos os personagens 
+com relação ao buraco de minhoca.
+(C) A inversão da posição da terra e a “queda” 
+dos personagens no espaço denotam fatos 
+cientificamente comprovados sobre os buracos de 
+minhoca observados a olho nu.
+(D) A ausência de balões com falas dos personagens 
+em três dos seis quadrinhos da sequência impedem 
+a compreensão dos eventos apresentados, pois 
+os quadrinhos sempre devem conter legendas ou 
+balões de fala.
+(E) O último quadrinho pode ser eliminado da 
+sequência ou ter sua posição trocada sem que isso 
+altere a compreensão da narrativa apresentada na 
+tirinha.
+QUESTÃO 35 
+ANTES DO NOME
+Adélia Prado
+Não me importa a palavra, esta corriqueira.
+Quero é o esplêndido caos de onde emerge a sintaxe, 
+os sítios escuros onde nasce o «de», o «aliás», o 
+«o», o «porém» e o «que», esta incompreensível 
+muleta que me apoia.
+Quem entender a linguagem entende Deus
+cujo Filho é Verbo. Morre quem entender.
+A palavra é disfarce de uma coisa mais grave, surda-
+muda, 
+foi inventada para ser calada.
+Em momentos de graça, infrequentíssimos,
+se poderá apanhá-la: um peixe vivo com a mão.
+Puro susto e terror.
+ Disponível em: <http://www.citador.pt/poemas/antes-do-nome-adelia-prado>. Acesso em: 
+11 set. 2019.
+Com base nesse poema de Adélia Prado, é correto 
+afirmar que
+(A) A autora renega o recurso da metalinguagem para 
+construir o poema, o que se percebe no verso 
+iniciado com: “Não me importa a palavra”.
+(B) Para o eu lírico, o fazer poético é resultado de uma 
+busca racional e metódica pela sintaxe.
+(C) “Morre quem entender” expressa certa relação 
+visceral com a linguagem associada, no poema, ao 
+elemento transcendental.
+(D) Escrever é algo artificial e dissimulado, daí os 
+termos “muleta” e “disfarce” presentes no poema. 
+(E) A autora faz apologia à censura ao afirmar que 
+a palavra “foi inventada para ser calada” e que a poesia gera “susto e terror”.
+QUESTÃO 36 
+Considere a primeira estrofe do poema Língua 
+Portuguesa,  de Olavo Bilac.
+1 Última flor do lácio, inculta e bela
+2 És, a um tempo, esplendor e sepultura
+3 Ouro nativo, que na ganga impura
+4 A bruta mina entre os cascalhos vela [...]
+Disponível em: https://www.letras.mus.br/olavo-bilac/lingua-portuguesa/. Acesso em: 15 
+ago. 2019 (Fragmento).
+Considerando os versos 1 e 2, assinale a alternativa 
+que contém a informação correta quanto ao sujeito 
+da oração. 
+(A) Última flor do lácio  é o sujeito simples da oração.
+(B) inculta e bela  é o sujeito composto da oração.
+(C) O sujeito é indeterminado.
+(D) O sujeito é oculto.
+(E) A oração é sem sujeito.
+QUESTÃO 37 
+ASSIM NÃO DÁ, DEPUTADO! 
+Sírio Possenti 
+Um ditado popular diz que pelo dedo se conhece 
+o gigante. Acho que não há, mas deveria haver, 
+um ditado desse tipo com conotações negativas 
+análogas, algo como "pela orelha se conhece o 
+burro", assim como há o prêmio Ig-Nóbil, o avesso 
+do Nobel, para "premiar" pesquisas esquisitas, e 
+o Prêmio Santa Clara, que os colunistas de cultura 
+atribuem aos piores programas e apresentadores 
+da TV brasileira (as explicações dos jurados, às 
+vezes, merecem o prêmio que concedem...). Mas 
+não há um ditado com alcance negativo genérico, 
+talvez porque seja mais difícil dar conta de todos os 
+defeitos em que a humanidade se especializou do 
+que de suas virtudes. Não há, mas devia haver. Se 
+houvesse, e se eu pudesse opinar, ele iria para o 
+deputado Aldo Rebelo. Ele tem tudo, aliás, para ser 
+hors concours. É que ele não acerta uma quando se 
+trata de língua. Explico.
+No dia 02/02/2008, o colunista esportivo José 
+Geraldo Couto escreveu na Folha de S.Paulo sobre 
+a enorme quantidade de jogadores de futebol que 
+tem nome estrangeiro, especialmente de origem 
+anglo-americana - apesar de um ou outro Jean 
+ou Pierre ou Juan. A certa altura, disse que podia 
+parecer que estava engrossando o coro dos que, 
+como o deputado Aldo Rebelo, querem defender 
+a "pureza" da língua pátria. Mas que não era nada Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 15disso.
+Alguns dias depois, o jornal publicou carta do 
+deputado, que se queixava de ter entrado na coluna 
+de Couto como Pilatos no Credo. É que seu projeto 
+não diz nada sobre nomes estrangeiros, até porque, 
+acrescenta, já são proibidos pelo Formulário 
+Ortográfico (!).
+José Geraldo dava especial destaque ao que chamou 
+de processo de canibalização ao qual os nomes 
+estrangeiros têm sido submetidos. Alain vira Allan, 
+David vira Deivid, Michael vira Maicon, Holliwood 
+vira Oliúde. Sem contar que a vida às vezes frustra 
+o imaginário dos pais, já que, por exemplo, Ebert 
+William Amâncio virou simplesmente Betão e 
+Wanderson de Paula Sabino é conhecido como 
+Somália.
+Pois foi sobre isso que o deputado resolveu 
+opinar. Escreveu que aquilo que o colunista 
+chama de canibalização "nada mais é do que o 
+aportuguesamento a que deveria ser submetida 
+toda palavra estrangeira que entra em nosso 
+idioma, com exceção dos sobrenomes. É por isso 
+que chamamos o herói suíço de Guilherme, e não 
+de Wilhelm Tell. Coisa nossa? Os espanhóis dizem 
+Guillermo, os franceses, Guillaume, os italianos, 
+Guglielmo".
+A declaração tem dois problemas. Um é leve, poderia 
+até ser esquecido, mas um pouco de precisão faz 
+bem. Espanhóis, franceses e italianos não dizem 
+Wilhelm das formas como o deputado acha que 
+dizem: eles escrevem assim o nome equivalente na 
+sua língua. As pronúncias são um pouco diferentes, 
+e até variáveis. Guillermo, por exemplo, pode 
+ser pronunciado pelo menos "guijermo" (pelos 
+portenhos) e "guilhermo" (na pronúncia castelhana 
+"padrão").
+Mas o diabo é que Rebelo mencionou Maicon como 
+exemplo.
+Não dá, deputado. Pelo seu critério, o 
+"aportuguesamento" de Michael deveria ser o velho 
+e bom Miguel: se Wilhelm equivale a Guilherme, 
+Michael equivale a Miguel. Elementar.
+Para a grafia Maicon, o termo "canibalização" é 
+bem mais adequado (lembremos que Patrícia Mello 
+chamou Máiquel a seu herói em O matador). Se 
+alguém decidisse aportuguesar Wilhelm seguindo 
+os critérios adotados para "aportuguesar" Michael 
+por Maicon, Giovanni por Geovane, Charles por 
+Tiarles e Jefferson por Djiefferson etc., a solução 
+não seria Guilherme, como o deputado afirmou, 
+mas Wilirrelme ou Wilirreume ou Wilirrelmi ou 
+Wilerreu(l)me(i) (etc., que a criatividade de pais e tabeliães é quase infinita).
+ POSSENTI. Sírio. Assim não dá, deputado. Disponível em: http://cronicasbrasil.
+blogspot.com/2012/07/assim-nao-da-deputado-sirio-possenti.html . Acesso em: 20 ago. 
+2019.
+Com relação às ideias do texto, assinale a alternativa 
+correta.
+(A) O colunista esportivo José Geraldo Couto, 
+com o intuito de promover a  pureza da língua 
+portuguesa, propõe aportuguesar a grafia dos 
+nomes estrangeiros, que ocorrem, principalmente, 
+na esfera esportiva e que já são proibidos.
+(B) O deputado Aldo Rebelo era favorável, 
+similarmente ao que ocorria na política francófona 
+dos nos 80, que se contribuísse para o crescimento 
+da influência intelectual e moral do português no 
+mundo.
+(C) O autor faz uma crítica às declarações do então 
+deputado Aldo Rebelo por haver falta de critérios 
+claros, dentro da argumentação de Rebelo, em 
+relação à questão do aportuguesamento de 
+palavras estrangeiras.
+(D) O autor do texto ironiza a grafia de Máiquel, 
+personagem do livro O Matador, de Patrícia 
+Melo, publicado em 1995,  que trata de casos de 
+canibalização na periferia paulistana.
+(E) Para Sírio Possenti, a padronização e a proibição 
+dos nomes próprios em língua estrangeira, 
+amplamente utilizados no português, deveria 
+seguir um critério transparente, como acontece 
+em algumas línguas como espanhol, italiano e 
+francês.
+QUESTÃO 38 
+Leia o trecho a seguir.
+A chuva caía meticulosamente , sem pressa de 
+cessar. A palha do rancho porejava  água, fedia a 
+podre, derrubando dentro da casa uma infinidade 
+de bichos que a sua podridão gerava. Ratos, sapos, 
+baratas, grilos, aranhas, — o diabo refugiava-se ali 
+dentro, fugindo à inundação, que aos poucos ia 
+galgando  a perambeira do morrote.
+ÉLIS, Bernardo. Nhola dos Anjos e a cheia do Corumbá. In: -----. Almas de Goiás: obra 
+reunida. Rio de Janeiro: José Olympio,1987 (Fragmento).
+Assinale a alternativa que apresenta palavras com 
+sentidos equivalentes aos das palavras destacadas no 
+texto, na ordem em que se apresentam. 
+(A) torrencialmente, acumulava, distanciando
+(B) abundantemente, esguichava, esvaziando 
+(C) abruptamente, inundava, delimitando
+(D) distraidamente, pingava, afastando
+(E) cuidadosamente, gotejava, atingindo16   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 39 
+Leia o texto a seguir.
+Em seu livro Manuais de Cinema II: Gêneros 
+Cinematográficos  (2010), Luiz Nogueira assevera 
+que um gênero cinematográfico é uma categoria 
+ou tipo de filme “que congrega e descreve obras a 
+partir de marcas de afinidade de diversa ordem” (p. 
+3), assim: O filme de ação é o de maior apelo popular, 
+de maior sucesso comercial e traz uma série de 
+situações que “são trabalhadas recorrentemente, 
+sobretudo as cenas e as sequências [que contam 
+com] perseguições vertiginosas, batalhas grandiosas, 
+duelos contundentes ou explosões exuberantes” (p. 
+18). A comédia “procura suscitar necessariamente 
+o riso, nas suas diversas manifestações (indo da 
+gargalhada estridente e compulsiva ao sorriso mais 
+cúmplice e recatado) [...]. A comédia romântica, por 
+exemplo, tende a assentar o seu arco narrativo entre 
+um momento inicial de desdém e eventual ruptura do 
+casal e um momento de aproximação e reconciliação 
+final” (p. 20-22). Agora, “[...] se existe uma qualidade 
+emotiva que o drama procura sublinhar ela é, sem 
+dúvida, a seriedade dos fatos. Poderemos, então, 
+afirmar que o seu objeto é o ser humano comum, 
+normal, em situações cotidianas mais ou menos 
+complexas, mas sempre com grandes implicações 
+afetivas ou causadoras de inescapável polêmica 
+social” (p. 23). Por fim, o filme de suspense “[....] é 
+o fato de o espectador se encontrar em suspenso – 
+ou seja, em dúvida – relativamente ao destino das 
+personagens, partilhando empaticamente os seus 
+medos e as suas vulnerabilidades, que lhe provoca 
+o nervosismo, a ansiedade e a angústia que tão 
+envolventes se tornam. O thriller é, portanto, um 
+dos gêneros em que a tensão dramática se torna 
+mais forte e as expectativas narrativas são mais 
+desafiadas” (p. 40).
+NOGUEIRA, Luís. Manuais de Cinema II: Gêneros Cinematográficos. Covilhã: LabCom 
+Books, 2010. Disponível em: <http://www.labcom-ifp.ubi.pt/ficheiros/nogueira-manual_II_
+generoscinematograficos.pdf>. Acesso em: 20 set. 2019. (Adaptado).
+Disponível em: <https://poltronanerd.com.br/filmes/a-sociedade-literaria-e-a-torta-de-
+casca-de-batata-74990>. Acesso: 20 set. 2019.Em A Sociedade Literária e a Torta de Casca de Batata 
+(2018), com direção de Mike Newell, a trama se passa 
+em 1946, um ano após o término da guerra referida 
+no filme. O enredo retrata o resgate da memória e da 
+história de moradores ingleses da Ilha de Guernsey. O 
+local, apesar de ser um pequeno território, foi ocupado 
+pelos soldados nazistas de 1940 a 1945, fazendo com 
+que seus habitantes sofressem as consequências da 
+guerra. Com base no referencial teórico apresentado 
+e, também, no conteúdo narrativo do filme, escolha 
+a alternativa que relaciona corretamente o gênero e 
+o enredo dessa produção audiovisual.
+(A) O filme é um documentário histórico, pois além 
+de retratar os fatos da guerra e o isolamento dos 
+territórios, apresenta emocionantes depoimentos, 
+com o objetivo de resgatar a memória dos 
+moradores da pequena ilha, como o caso de: 
+Dawsey Adams, um fazendeiro; Elizabeth Mckenna, 
+uma enfermeira; Eben Ramsey, o carteiro local e 
+Amelia Maugery, uma dona de casa.
+(B) Apesar de ter como enredo uma guerra, o filme é 
+uma comédia romântica. Traz como protagonista 
+a escritora Juliet Ashton em sua busca por 
+descobrir o segredo tanto da Sociedade Literária 
+de Guernsey, quanto da famosa Torta de Casca de 
+Batata. Para isso, no vilarejo, ela faz o lançamento 
+de sua coletânea de crônicas com tom humorístico: 
+o livro Izzy Bickerstaff vai à guerra .
+(C) O filme é um drama que retrata as consequências 
+da invasão nazista no cotidiano dos moradores da 
+pequena ilha. Mas, essencialmente, as entrelinhas 
+do enredo demonstram a importância da literatura 
+para a união fraternal de um grupo de pessoas e 
+o fortalecimento da memória, como forma de 
+existência e de resistência em meio ao caos, à 
+guerra, ao ódio. 
+(D) Trata-se de um thriller . O enredo centra-se no 
+envolvimento romântico de um soldado nazista 
+com a enfermeira do vilarejo, Elizabeth MacKenna. 
+Ela foi uma das fundadoras da Sociedade Literária 
+de Guernsey, com o objetivo de unir os moradores 
+do local, resgatando suas memórias logo após a 
+guerra, em 1946. 
+(E) Este é um exemplo de filme de ação, que aborda 
+os combates ocorridos para a fundação da 
+“Sociedade Literária e a Torta de Casca de Batata”, 
+momento em que seus membros resistiram à 
+ocupação nazista na localidade de Guernsey.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 17QUESTÃO 40  
+Sobre o conto Nhola dos Anjos e a Cheia do Corumbá , 
+de Bernardo Élis, é correto afirmar que
+(A) representa uma determinada realidade 
+sociocultural do mundo rural.
+(B) critica a frieza dos habitantes do mundo rural.
+(C) documenta o egoísmo presente nas relações 
+familiares. 
+(D) critica a violência familiar contra crianças e idosos.
+(E) comprova a condição de abandono dos idosos nos 
+tempos atuais. 
+QUESTÃO 41 
+Leia o trecho do Auto de São Lourenço, de José de 
+Anchieta.
+PERSONAGENS:
+GUAIXARÁ: rei dos diabos
+AIMBIRÊ SARAVAIA: criados de Guaixará
+TATAURANA URUBU JAGUARUÇU: companheiros 
+dos diabos
+VALERIANO DÉCIO: imperadores romanos
+SÃO SEBASTIÃO: padroeiro do Rio de Janeiro
+SÃO LOURENÇO: padroeiro da aldeia de São 
+Lourenço
+[...] 
+TEMA:
+Após a cena do martírio de São Lourenço, Guaixará 
+chama Aimbirê e Saravaia para ajudarem a 
+perverter a aldeia. São Lourenço a defende, São 
+Sebastião prende os demônios. Um anjo manda-os 
+sufocarem Décio e Valeriano. Quatro companheiros 
+acorrem para auxiliar os demônios. Os imperadores 
+recordam façanhas, quando Aimbirê se aproxima. O 
+calor que se desprende dele abrasa os imperadores, 
+que suplicam a morte. O Anjo, o Temor de Deus, e 
+o Amor de Deus aconselham a caridade, a contrição 
+e a confiança em São Lourenço. Faz-se o enterro do 
+santo. Meninos índios dançam. 
+Disponível em: http://www.virtualbooks.com.br/v2/ebooks/pdf/00069.pdf. Acesso em: 15 
+set. 2019.
+Assinale a alternativa que contém as características 
+corretas, acerca da linguagem literária do escritor Pe. 
+José de Anchieta. 
+(A) Nos cinco atos da peça teatral Auto de São 
+Lourenço, o autor se utiliza da visão maniqueísta 
+(dualismo religioso), para representar de maneira 
+pedagógica o “bem” e o “mal”. Um exemplo é a 
+seleção do idioma, sendo o português e o espanhol 
+para as falas dos protetores, enquanto o tupi e o guarani são ditos pelos seres demoníacos.
+(B) Com uma temática religiosa, o texto em poesia e 
+prosa utiliza-se da paródia e do discurso indireto, 
+para evidenciar personagens culturalmente 
+estereotipados, em especial, o indígena.
+(C) O referido Auto apresenta uma função didático-
+religiosa, com a descrição de metodologias lúdicas 
+envolvendo, principalmente, o teatro, pois seu 
+objetivo era salvar o seu público da barbárie pelo 
+ensinamento da doutrina da Igreja Católica. 
+(D) Como José de Anchieta foi um padre jesuíta 
+espanhol, o Auto de São Lourenço é uma peça 
+teatral formada por textos narrativos que visam 
+à catequese dos jesuítas e dos índios nas regiões 
+dominadas pela Espanha, descrevendo fielmente 
+as condições encontradas pelos colonizadores 
+europeus no Novo Mundo. 
+(E) Com seu talento para o teatro, José de Anchieta 
+evidencia, no Auto de São Lourenço, as pluralidades 
+linguística e cultural ao apresentar personagens 
+europeus e brasileiros em detrimento dos 
+protagonistas indígenas.
+QUESTÃO 42 
+Sobre Helena Meirelles – a dama da viola  (2004), de 
+Francisco de Paula, assinale a alternativa correta.
+(A) É um longa-metragem, apoiado em elementos 
+biográficos, em que imagens do pantanal sul-
+mato-grossense e a apresentação de composições 
+de Helena Meirelles por renomados violeiros são 
+articuladas num enredo ficcional que retrata a vida 
+da violeira, do nascimento até sua morte.
+(B) É um filme, apoiado em elementos autobiográficos, 
+em que a violeira e compositora, já idosa, 
+rememora sua vida em entrevistas, abrangendo 
+desde a infância até a idade adulta, alternando 
+performances da artista e imagens do mundo 
+rural sul-mato-grossense, com destaque para o 
+Pantanal.
+(C) É um documentário em que imagens do pantanal e a 
+música tradicional da fronteira sul-mato-grossense 
+se misturam para retratar ficcionalmente a vida da 
+violeira referida no título, tempos depois de sua 
+morte, dramatizando o período de anonimato e os 
+muitos reveses de sua curta carreira.
+(D) É um registro audiovisual que descreve a vida 
+da famosa violeira, abrangendo do nascimento 
+à morte precoce, destacando sua passagem por 
+bordéis, a descoberta de seus dons musicais, a 
+saída da prostituição e, por fim, sua consagração 
+pela crítica musical europeia.
+(E) É um registro de turnê da violeira e compositora, 
+por importantes capitais do Brasil, misturando 18   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDperformances musicais, depoimentos dela 
+e de familiares, dentre outros, enfocando 
+ficcionalmente os momentos posteriores ao 
+reconhecimento internacional da consagrada 
+violeira.
+QUESTÃO 43 
+Já no final de A Queda de um Anjo (1865), de Camilo 
+Castelo Branco, o personagem Brás Lobato vai a 
+Sintra, região metropolitana de Lisboa, a serviço da 
+esposa de Calisto Elói, para encontrar o protagonista 
+do romance, depois de muito tempo sem vê-lo. 
+Quando isso acontece, manifesta surpresa com as 
+seguintes palavras: “— Em nome do Padre, do Filho, 
+e do Espírito Santo! Coisa assim nunca os meus olhos 
+esperaram ver! V. Exa. é outro homem! Eu estarei 
+a dormir! — e esfregava os olhos, desconfiando 
+seriamente que estava sonhando”. Dentre os trechos 
+a seguir, retirados do romance em questão, qual deles 
+descreve corretamente a condição do protagonista 
+no momento em que Brás Lobato o vê?
+(A) “[...] ficou sendo a casa de Calisto a maior da 
+comarca; e, com o rodar de dez anos, prosperou 
+a olho, tendo grande parte neste incremento a 
+parcimônia a que o morgado circunscreveu seus 
+prazeres [...]”.
+(B) “Não era desajeitado da sua pessoa. Tinha poucas 
+carnes, e compleição, como dizem, afidalgada. 
+A sensível e dissimétrica saliência do abdômen 
+devia-se ao uso destemperado da carne de porco 
+e outros alimentos intumescentes”. 
+(C) “Excedia a estatura meã e era direito de pernas. No 
+tronco havia tal qual inclinação, que denunciava o 
+arqueamento da espinha por efeito da incansável 
+leitura e minguado exercício”. 
+(D) “Tinha o nariz algum tanto estragado das invasões 
+do rapé e torceduras do lenço de algodão 
+vermelho. A dilatação das ventas e o escarlate 
+das cartilagens não eram, assim mesmo, coisa de 
+repulsão”. 
+(E) “Calisto Elói de Silos estava uma esbelta figura de 
+homem. […] O descostume da leitura restituíra-
+lhe o aprumo da espinha dorsal. O ventre baixou 
+às proporções razoáveis. No trajar, refinava em 
+elegância e gosto [...]”.
+QUESTÃO 44 
+Sobre Capítulo 4, Versículo 3, pertencente 
+originalmente ao álbum Sobrevivendo no inferno   
+(1997), do grupo Racionais MC’s, é correto afirmar 
+que é
+(A) um discurso poético musical em que há empenho de um eu lírico para definir sua identidade tanto 
+em relação aos jovens da chamada elite, quanto 
+aos da sua comunidade, que pode ser chamada 
+de periférica, demarcando sua posição em 
+relação à cor da pele, rejeitando, como tentação 
+do demônio, as drogas e o álcool, a violência e o 
+consumismo, o sexo desmedido e a busca pela 
+fama.
+(B) um texto rítmico poético em que um narrador, por 
+meio do uso de rimas, conta histórias sobre a vida 
+dos negros da periferia, grupo no qual se inclui, 
+mostrando que não há diferenças fundamentais 
+entre suas próprias escolhas de vida e as dos 
+chamados “branquinhos do shopping”, dos 
+“manos” e do “PM negro”, uma vez que todos 
+estão seduzidos pelo consumo e pela publicidade.
+(C) um exemplo de funk engajado em que o eu lírico 
+se dizendo missionário, busca desde o início definir 
+sua identidade que, aos poucos, vai se consolidando 
+como sendo fortemente marcada pela cor da pele, 
+pelo acolhimento da violência, das drogas e do 
+álcool, como elementos adequados a um perfil ao 
+mesmo tempo consumista e, contraditoriamente, 
+religioso, ancorado na Bíblia.
+(D) uma canção de protesto que tenta igualar a 
+violência e a arte, apresentando um narrador 
+que afirma a ação revolucionária em detrimento 
+da acomodação religiosa, para combater as 
+seduções do sexo, do consumo, das drogas e da 
+violência, demarcando sua posição como jovem 
+negro periférico distinto dos brancos de elite, 
+mas também distinto dos jovens violentos e dos 
+drogados.
+(E) uma música de entretenimento da periferia, feita 
+para jovem negro periférico, apresentando um eu 
+lirico que, para se definir, exalta o consumismo, o 
+uso das drogas e da violência, numa letra repleta 
+de convites ao disparo indiscriminado de armas 
+de fogo (vide as onomatopeias), propondo o 
+extermínio do jovem branco da elite como forma 
+de vingança social.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 19QUESTÃO 45 
+Analise a seguir as fotografias de indivíduos da etnia 
+Awá-Guajá, de Sebastião Salgado.
+ 
+ 
+Disponível em: <http://www.funai.gov.br/index.php/comunicacao/galeria-de-
+imagens/1748-os-awa-guaja-por-sebastiao-salgado>. Acesso em: 11 set. 2019.
+Sobre essas fotografias, é correto afirmar que
+(A) representam uma comunidade extemporânea e 
+imaginária, diferente das comunidades indígenas 
+da atualidade, que já desfrutam de recursos 
+tecnológicos e têm pouco ou nenhum contato 
+com produtos florestais.
+(B) apresentam cenas do cotidiano dos indígenas e 
+revelam a integração entre indivíduo e natureza 
+em áreas habitadas por uma etnia composta por 
+nômades e coletores.
+(C) apresentam a vida dos povos da Amazônia em 
+áreas protegidas pela Funai e denunciam a 
+indiferença governamental em relação à questão 
+indígena.
+(D) mostram o desprezo das comunidades urbanas em 
+relação ao estilo de vida dos indígenas que, desde 
+a chegada dos portugueses em 1500, têm sido 
+vítimas da violência e da aculturação por parte dos 
+europeus.
+(E) revelam uma estética autoral que retrata o elemento humano como coadjuvante e apresenta 
+a natureza exuberante da Amazônia como a real 
+protagonista.
+QUESTÃO 46 
+A música Baile Pantaneiro , de composição de Helena 
+Meirelles, é uma obra que retrata o chamamé, 
+gênero musical de origens Argentina e Paraguaia, 
+mas que também foi difundido em diversas regiões 
+fronteiriças do Brasil, como no estado de Mato Grosso 
+do Sul. Esse gênero musical, além da apreciação das 
+composições instrumentais, proporciona e estimula 
+a prática da dança. Quanto à dança, assinale a 
+alternativa incorreta.
+(A) A dança é uma prática de atividade física lúdica e 
+cultural.
+(B) O Brasil é um país de ampla diversidade cultural e a 
+dança é uma de suas expressões mais significativas.
+(C) A dança de salão chamamé é uma manifestação 
+rítmica que ilustra a cultura sul-mato-grossense.
+(D) A dança permite a vivência de experiências 
+com o corpo físico, mas restringe a ampliação 
+de possibilidades de expressão, criatividade e 
+comunicação.
+(E) A dança é uma expressão corporal, cultural e, 
+também, inclusiva. 
+QUESTÃO 47 
+Segundo a literatura disponível, física e virtualmente, 
+Sociedade da Informação, também chamada de 
+Sociedade do Conhecimento, é um termo que 
+surgiu no fim do século XX. Esse tipo de sociedade 
+se encontra em processo de formação e expansão, 
+porque está atrelada ao conhecimento que sofre 
+constante mutação, até mesmo porque este por 
+sua vez está condicionado às novas tecnologias 
+existentes, e, como tal, a sociedade contemporânea 
+também está inserida num processo de mudança 
+em que a tecnologia é a principal responsável. Esse 
+novo modelo de organização de sociedade assenta 
+num modo de desenvolvimento social e econômico, 
+no qual a informação, como meio de criação de 
+conhecimento, desempenha um papel fundamental 
+na produção de riqueza e na contribuição para 
+o bem-estar e a qualidade de vida dos cidadãos. 
+Condição para a sociedade da informação avançar 
+é a possibilidade de todos poderem ascender às 
+Tecnologias de Informação e Comunicação (TIC), 
+presentes no nosso cotidiano, que constituem 
+instrumentos indispensáveis às comunicações 
+pessoais, de trabalho, de estudo e de lazer. No 
+contexto mais específico do estudo, inúmeras são as 
+vantagens de se utilizar as TIC no processo de ensino 20   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDe aprendizagem. Sobre o uso das TIC, no processo 
+de ensino e aprendizagem, assinale a alternativa 
+correta.
+(A) As TIC impedem a adequação do contexto e 
+das situações do processo de aprendizagem às 
+diversidades em sala de aula. 
+(B) As tecnologias fornecem recursos didáticos 
+estáticos, forçando o aluno a se adequar de acordo 
+com sua necessidade.
+(C) A falta de possibilidades constatada no uso das TIC 
+faz com que o professor não apresente de forma 
+diferenciada as informações.
+(D) As TIC, quando bem utilizadas, melhoram o 
+processo de ensino, pois criam ambientes virtuais 
+de ensino e aprendizagem, colaborando com o 
+aluno na assimilação dos conteúdos. 
+(E) O computador e a Internet distraem a atenção dos 
+alunos e os impedem de desenvolver habilidades 
+para captar a informação.
+AS QUESTÕES 48 A 52 SE REFEREM À LÍNGUA 
+ESTRANGEIRA DE OPÇÃO NA INSCRIÇÃO.
+ESPANHOL
+Leia as imagens a seguir para responder as questões 
+48 e 49. 
+IMAGEN I
+Satélite de FIRMS, Departamento de la NASA
+Disponible en: <https://www.publico.es/tremending/2019/08/22>. Acceso en: 26  ago. 
+2019.IMAGEN II
+Twitter 
+Disponible en: <https://twitter.com/Bruno18035420>. Acceso en: 26 ago. 2019.
+LA IMPACTANTE FOTO DE LA NASA DE LOS 
+INCENDIOS EN LA AMAZONIA (Y UNA REFLEXIÓN 
+SOBRE LA DESINFORMACIÓN).
+Arde la selva del Amazonas y con ella también las 
+redes sociales. Twitter, en concreto, se ha llenado 
+de mensajes de apoyo e imágenes que denuncian 
+la trágica situación de esta región, donde los 
+incendios han aumentado un 83% el último año, 
+según el Instituto Nacional de Investigaciones 
+Especiales de Brasil. Una de las instantáneas que 
+más revuelo ha despertado fue captada por satélite 
+por una delegación de la NASA especializada en el 
+seguimiento de incendios.
+En la imagen, los puntos que identifican la presencia 
+de un incendio tiñen de rojo el continente 
+sudamericano. Sin embargo, lo cierto es que, por 
+su composición, puede llevar a que su observador 
+sobredimensione una situación ya de por sí 
+suficientemente grave. En el mapa de la NASA, se 
+muestran focos de los incendios, no áreas quemadas. 
+Por lo tanto, con un simple zoom, la imagen parece 
+algo menos dramática.
+En Twitter sucede algo similar. Con un simple zoom 
+y algo de detenimiento, es fácil detectar el reguero 
+imparable de fotografías que no se corresponden 
+de manera alguna con los actuales incendios. Si 
+bien el apoyo hacia la región y la condena unánime 
+a las políticas medioambientales han marcado la 
+respuesta social a los incendios, la falsedad de 
+muchas de las imágenes difundidas contribuye a un 
+clima general de desinformación que hace un flaco 
+favor al intento de denunciar esta grave situación 
+climática.
+Aunque el esfuerzo de la gente por reclamar la 
+atención hacia la crítica situación de la Amazonia 
+es encomiable y aplaudible, especialmente el de 
+personajes notorios, también resulta necesario no 
+avivar el fuego de la desinformación.
+Disponible en: <https://www.publico.es/tremending/2019/08/22/incendio-amazonas-la-
+impactante-foto-de-la-nasa-de-los-incendios-en-la-amazonia-y-una-reflexion-sobre-la-
+desinformacion/>. Acceso en: 26 ago. 2019 (Adaptado).Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 21QUESTÃO 48 
+De acordo com as imagens e o texto, assinale a 
+alternativa correta.
+(A) A Imagem I (NASA) e a Imagem II (Twitter) tratam 
+especificamente do mesmo assunto: as queimadas 
+na Amazônia em 2019. 
+(B) O esforço de pessoas notórias é positivo, já que 
+colaboram com a denúncia da grave situação dos 
+incêndios.
+(C) O objetivo é chamar a atenção e criticar as falsas 
+imagens e a desinformação disseminadas nas 
+redes sociais, especialmente no twitter.
+(D) Com um simples olhar atento, é fácil detectar o 
+apoio às políticas meio ambientais veiculado no 
+twitter.
+(E) De acordo com o Instituto Nacional de 
+Investigações Especiais do Brasil, é considerável o 
+esforço mundial das pessoas em reclamar sobre as 
+queimadas na Amazônia. 
+QUESTÃO 49 
+As palavras que traduzem, correta e respectivamente, 
+os vocábulos, encomiable  e aplaudible  no último  
+parágrafo do texto, são:
+(A) louvável e plausível.
+(B) econômico e plausível.
+(C) reprovável e apreciável.
+(D) encantador e prezável.
+(E) aprazível e desprezível.
+Leia atentamente o texto a seguir para responder as 
+questões 50 e 51.
+EL MUNDO
+Eduardo Galeano
+Un hombre del pueblo de Neguá, en la costa de 
+Colombia, pudo subir al alto cielo.
+A la vuelta contó. Dijo que había contemplado desde 
+arriba, la vida humana.
+Y dijo que somos un mar de fueguitos.
+- El mundo es eso – reveló – un montón  de gente, un 
+mar de fueguitos.
+Cada persona brilla con luz propia entre todas las 
+demás.
+No hay dos fuegos iguales. Hay fuegos grandes y 
+fuegos chicos y fuegos de todos los colores. Hay gente 
+de fuego sereno, que ni se entera del viento, y gente 
+de fuego loco que llena el aire de chispas. Algunos 
+fuegos, fuegos bobos, no alumbran ni queman; pero 
+otros arden la vida con tanta pasión que no se puede 
+mirarlos sin parpadear, y quien se acerca se enciende.
+Disponible en: <https://www.diariolaprovinciasj.com/cultura/2015/4/13/un-fueguitos-
+microrelato-galeano-compartido-redes-sociales-29476.html>. Acceso  en:  26  ago. 2019. QUESTÃO 50  
+Com relação ao texto El Mundo , analise se são falsas 
+ou verdadeiras as seguintes afirmações.
+( ) O texto El Mundo , de Eduardo Galeano, descreve e 
+compara a sociedade a "un mar de fueguitos”.
+( ) A mensagem do escritor uruguaio permite inferir 
+que as pessoas são distintas na sociedade.
+( ) Em cada fogo existe uma característica única 
+e singular e é precisamente isso o que nos 
+potencializa e complementa; juntos todos 
+formamos um mar de foguinhos. 
+( ) Cada um com seu próprio fogo e todos os outros 
+fogos juntos fazem um fogo maior, no qual cada 
+um brilha por si mesmo, mas todos juntos brilham 
+ainda mais, a ponto de ser impossível olhá-los sem 
+piscar. 
+( ) As imagens I e II anteriores tratam do mesmo tema 
+do texto El Mundo , visto que chama a atenção para 
+as pessoas que, como no twitter, são consideradas 
+como “fuegos bobos”, que não iluminam nem 
+queimam.
+Assinale a alternativa que contém a sequência correta 
+de cima para baixo.
+(A) F, F, V, V, V
+(B) F, F, F, F, V
+(C) V, V, F, F, V
+(D) F, V, F, V, F
+(E) V, V, V, V, F
+QUESTÃO 51 
+Segundo as regras de acentuação em espanhol, as 
+palavras montón  e pasión , sublinhadas no texto, são 
+igualmente classificadas como
+(A) sobresdrújulas.
+(B) esdrújulas.
+(C) graves o llanas.
+(D) agudas.
+(E) diptongos.22   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 52 
+Las dos tiritas de Mafalda que vas a leer son del argentino Joaquín Salvador Lavado Tejón, más conocido como 
+Quino. Léelos con atención antes de contestar correctamente a la pregunta formulada.
+TIRITA I
+Quino 
+Disponible em: <https://bellavitalternactiva.files.wordpress.com/2014/02/tira-mafalda.jpg>. Acceso em:  04 sept. 2019.
+TIRITA II
+Quino
+Disponible en: <https://www.expoknews.com/wp-content/uploads/2015/01/Lecciones-ambientales-de-Mafalda2.jpg>. Acceso em:  04  sept. 2019.
+Con base en las tiritas, señala la proposición correcta.
+(A) La tirita II nos presenta Mafalda optimista en relación al planeta.
+(B) Constatamos en el cuarto cuadro de la tirita I y en el tercer cuadro de la tirita II, una preocupación/desilución 
+de Mafalda con el futuro y el presente del planeta. 
+(C) En la tirita I, Mafalda queda tranquila, pues constata que hay muchas personas trabajando para acabar y 
+resolver muchos de los problemas que afligen el mundo.
+(D) Para Mafalda, el problema del planeta sólo existe en las maquetas, por eso ellas son utilizados en las dos 
+tiritas.
+(E) Las tiritas I y II encumbran los problemas del mundo, por eso Mafalda habla con él.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 23INGLÊS
+QUESTÃO 48 
+SCIENTISTS FIGURED OUT A WAY TO GROW MEAT 
+IN A LAB WITHOUT RELYING ON ANY PRODUCTS 
+FROM SLAUGHTERED ANIMALS.
+A handful of startups are racing to create real pieces 
+of meat out of animal cells in a lab.
+But for the most part, the food that's used to coax 
+those cells to proliferate is an animal product called 
+fetal bovine serum, which comes from slaughtered 
+cows. That means the lab-grown meat isn't yet 
+cruelty-free.
+However, the Dutch startup Meatable claims to have 
+solved that problem by using only stem cells from 
+animals' umbilical cords "This way, we don't harm the 
+animals at all, and it's material that would otherwise 
+get thrown away," Krijn De Nood, Meatable's CEO, 
+told Business Insider in September.
+The company aims to begin serving its slaughter-
+free burgers and sausages to restaurants in roughly 
+four years.
+Available in: <https://amp.businessinsider.com/biggest-scientific-discoveries-
+of-2018-2018-12>. Access in: 17 aug. 2019
+Depreende-se do texto que
+(A) no prazo de quatro anos, cientistas anunciarão 
+que serão lançados hambúrgueres veganos com 
+sabor de carne. 
+(B) a startup Meatable  usará células-tronco 
+provenientes de soro bovino na produção de 
+hambúrgueres para evitar a matança de animais.
+(C) há uma corrida dentre as startups para convencer as 
+pessoas a consumirem menos carne vermelha por 
+meio de hambúrgueres fabricados em laboratório 
+e com sabor semelhante à carne animal.
+(D) em quatro anos, o uso de hambúrgueres feitos a 
+partir de proteínas do soro bovino estará livre de 
+crueldade animal.
+(E) Krijn De Nood alega ter solucionado o problema 
+da matança de animais, utilizando células-tronco 
+de cordões umbilicais de animais para a produção 
+de hambúrgueres.QUESTÃO 49 
+KNOCKIN' ON HEAVEN'S DOOR
+Bob Dylan
+Mama, take this badge off of me 
+I can’t use it anymore. 
+It’s gettin’ dark, too dark for me to see 
+I feel like I’m knockin’ on heaven’s door.
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door
+Mama, put my guns in the ground  
+I can’t shoot them anymore. 
+That long black cloud is comin’ down  
+I feel like I’m knockin’ on heaven’s door.
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door 
+Knock, knock, knockin’ on heaven’s door
+Available in: <https://www.wordsinthebucket.com/knockin-on-heavens-door-bob-dylan >. 
+Access in: 16 aug. 2019.
+Originalmente composta em 1973 por Bob Dylan, a 
+música Knocking on heaven’s door tornou-se uma 
+das mais populares do artista. A letra dessa canção 
+evidencia
+(A) uma consideração sobre a morte e a eterna 
+questão humana sobre o post mortem.
+(B) uma crítica à posse de armas na sociedade 
+americana atual.
+(C) um protesto contra a indústria bélica americana 
+durante a Guerra da Secessão.
+(D) uma apologia ao Velho Oeste americano, 
+inexplorado pelo cinema atual.
+(E) uma análise da relação problemática que o autor 
+tinha com a mãe, por causa de sua responsabilidade 
+na aplicação da lei no condado.
+QUESTÃO 50 
+NOT SORRY FOR HELPING MAKE ENGLISH AFRICA’S 
+LINGUA FRANCA 
+Readers respond to a piece that claimed the English langua-
+ge was taking over the world, and to a letter about American 
+English that it prompted.
+American English differs from (standard) British 
+English in allowing such constructions as “he grabbed 
+the bag off of me”, “I left it outside of the house” 
+(i.e. with two prepositions). However, these usages 
+are nothing at all to do with “linguistic precision”. 
+They are simply regional variants, both equally 24   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDacceptable/grammatical. I recall using the “off of” 
+expression myself as a boy in Yorkshire. Non-standard 
+yes, but nothing to do with grammaticality as such. 
+And in what sense is “different to” ungrammatical/
+inaccurate? It is simply a reflection of the writer’s 
+personal taste/style. In confusing the informal with 
+the ungrammatical in such an authoritarian manner, 
+it is the writer who is guilty of “imprecision”, not 
+American English.
+Philip J Jaggar. Emeritus professor of West African linguistics, Soas University of London.
+Available in: <https://www.theguardian.com/education/2018/aug/01/im-not-sorry-for-
+helping-make-english-africas-lingua-franca>. Access in:  19 sept. 2019 (Adapted).
+De acordo com o texto,
+(A) o inglês americano tende a ser mais impreciso e 
+informal do que o inglês padrão britânico.
+(B) expressões como off of e outside of são variações 
+regionais.
+(C) o uso da preposição to em different to em vez de 
+different from  soa autoritário e agramatical.
+(D) a variedade americana é responsável pela maioria 
+das imprecisões nos textos do inglês.
+(E) o fato de o inglês americano permitir construções 
+com duas preposições faz dele uma variedade 
+mais informal  do que a britânica.
+QUESTÃO 51 
+50 YEARS AFTER THE BEATLES’ FAMOUS ABBEY 
+ROAD ALBUM COVER, FAB FOUR
+The Beatles — John Lennon, Paul McCartney, Ringo Star and 
+George Harrison — became rock legends and sold millions 
+upon millions of albums worldwide because of their songs.
+However, the album Abbey Road is not just famous 
+for (1) its music, but also for its album cover. Created 
+in an era when music was listened to on vinyl records, 
+the cover was all important. And the cover of The 
+Beatles’ Abbey Road album became iconic because 
+of its simplicity.  (2) It  featured the four members 
+of the band walking across a pedestrian crossing 
+in suburban London just near the Abbey Road 
+studios where (3) they  recorded the songs. Most 
+of the world knows this photograph, it is instantly 
+recognisable.
+Available in: <https://bit.ly/2P9Sp3h>. Access in: 31 aug. 2019 (Adapted).Escolha a alternativa cujas expressões se referem, 
+respectivamente, às três palavras destacadas e 
+numeradas no texto.  
+(A) (1) the street Abbey Road; (2) the album Abbey 
+Road; (3) the four members of the band.
+(B) (1) the Beatles;  (2)  the album Abbey Road;  (3) 
+the songs.
+(C) (1)  the street Abbey Road; (2)  its simplicity; (3) 
+the Beatles.
+(D) (1) the album Abbey Road; (2)  the cover of The 
+Beatles’ Abbey Road album; (3) the four members 
+of the band.
+(E) (1) the album Abbey Road; (2)  the cover of The 
+Beatles’ Abbey Road album; (3) the Abbey Road 
+Studios.
+QUESTÃO 52 
+Available in: <https://br.pinterest.com/pin/183521753538650859/?lp=true>. Access in: 31 
+aug. 2019.
+Cartoons are drawings (often including caricature) 
+made for the purpose of conveying editorial 
+commentary on current events. Choose the correct 
+alternative about this cartoon.
+(A) Humor in the cartoon comes from the fact the 
+form “got milk” encourages the consumption of 
+milk, which is politically incorrect. 
+(B) The lady was arrested because she was taking part 
+in a demonstration against the government.
+(C) The lady, who is an English teacher, is overly 
+concerned with grammar.
+(D) Humor in the cartoon comes from the fact the lady 
+is politically correct.
+(E) The police office is a grammar freak, and he made 
+it clear by his speech.Processo Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 25QUESTÃO 53 
+O esquadrejamento ou ato de colocar no esquadro, 
+na construção civil, é a verificação das medidas dos 
+alicerces, paredes ou de qualquer parte em que seja 
+necessário obter um ângulo reto, com o objetivo de 
+garantir a perpendicularidade e o paralelismo da 
+obra, evitando uma edificação defeituosa. Muitos 
+construtores realizam esse procedimento com o 
+uso de marcações e medidas utilizando as relações 
+do triângulo-retângulo, na parte da obra em que se 
+deseja verificar o esquadro. Considerando isso e que 
+as sequências das medições dadas nas alternativas 
+são todas referentes a lados de um triângulo, 
+assinale a alternativa com as medidas que indicam 
+o esquadrejamento correto na construção de um 
+alicerce.
+(A) 20 cm, 30 cm e 40 cm. 
+(B) 20 cm, 40 cm e 50 cm.
+(C) 35 cm, 45 cm e 70 cm.
+(D)  60 cm, 80 cm e 120 cm.
+(E) 90 cm, 120 cm e 150 cm.
+QUESTÃO 54 
+Segundo dados da Associação dos Produtores de 
+Soja de Mato Grosso do Sul (Aprosoja/MS) e do 
+Sistema de Informação Geográfica do Agronegócio 
+(SIGA/MS), Mato Grosso do Sul colheu 12,16 
+milhões de toneladas de milho na 2ª safra 
+2018/2019. Um volume recorde para o estado e 
+maior que os 7,84 milhões de toneladas colhidos 
+na safra 2017/2018. Esse aumento de produção 
+permitiu ao estado alcançar o posto de terceiro 
+maior produtor de milho na 2ª safra, ficando atrás 
+do Mato Grosso (31.045 milhões de toneladas) e 
+do Paraná (13.497 milhões de toneladas). 
+Disponível em: <http://sistemafamasul.com.br/milho-2a-safra-ms-termina-colheita-com-
+recorde-de-121-milhoes-de-toneladas/>. Acesso em: 29 set. 2019. (Adaptado).
+Considerando os dados apresentados, qual foi o 
+aumento percentual da colheita de milho na 2ª safra?
+(A) 32%.
+(B) 43%.
+(C) 55%.
+(D) 64%.
+(E) 71%.QUESTÃO 55 
+A figura a seguir representa a construção de um 
+triângulo limitado pela função f(x)=-x2+6x-5 e o 
+eixo X do gráfico. Nessa construção, o vértice A do 
+triângulo coincide com o ponto máximo da função 
+f(x) e o vértice C toca o eixo X em uma das raízes 
+reais dessa função.  
+Assinale a alternativa que determina a área do 
+triângulo ABC em unidades de área.
+(A) 2 u.a.
+(B) 4 u.a.
+(C) 5 u.a.
+(D) 6 u.a.
+(E) 12 u.a.
+QUESTÃO 56 
+Um galão de 18 litros de tinta é suficiente para pintar 
+300 m2 de paredes. Considerando a mesma tinta, a 
+quantidade necessária de galões de 3,6 litros para 
+pintar 480 m2 de paredes é de
+(A) 6
+(B) 8
+(C) 9
+(D) 10
+(E) 7
+QUESTÃO 57 
+Considere a seguinte sequência de números naturais: 
+3, 5, 7, 10, 13, 15, 17, 20, 23, 25, 27, 30, … É correto 
+afirmar que o quadragésimo termo da sequência é
+(A) 101.
+(B) 95.
+(C) 103.
+(D) 100.
+(E) 105.MATEMÁTICA E SUAS TECNOLOGIAS26   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDQUESTÃO 58 
+Considerando os pontos A=(1,2), B=(4,-1), C=(2,-2) e 
+D=(0,0), no plano cartesiano, é correto afirmar que o 
+quadrilátero convexo com vértices nos pontos A, B, 
+C e D é um
+(A) paralelogramo.
+(B) trapézio isósceles.
+(C) trapézio escaleno.
+(D) losango.
+(E) trapézio retângulo.
+QUESTÃO 59 
+Na cidade Porã, foi criada a loteria “Porã Sena”, na 
+qual o apostador escolhe exatamente cinco números, 
+sendo que, para ganhar, estes devem coincidir com os 
+cinco números sorteados de um total de 30 dezenas 
+(de 01 a 30). Nessa loteria, um grupo de amigos 
+aposta apenas em números que sejam primos. Um 
+dos amigos calculou a probabilidade de os cinco 
+números sorteados serem todos primos, e concluiu 
+que é igual a
+(A) 2
+1311
+(B) 2
+1031
+(C) 2
+1131
+(D) 2
+1133
+(E) 2
+1103
+QUESTÃO 60 
+ 
+Dada a matriz M=4x6
+101
+x64, existem exatamente  
+ 
+dois valores para x, tal que log3(det(M))=2 . Então, a 
+soma desses dois valores é
+(A) 5.
+(B) 3.
+(C) 2.
+(D) 4.
+(E) 6.RASCUNHOProcesso Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 27RASCUNHO28   Prova Objetiva A - 24|nov|2019 Processo Seletivo Vestibular 2020/UFGDRASCUNHOProcesso Seletivo Vestibular 2020/UFGD    Prova Objetiva A - 24|nov|2019 29RASCUNHO
+Gabarito
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+              
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60Leia atentamente estas instruções!
+1) Verifique se este Caderno está completo e contém 60 (sessenta) questões. Caso apresente 
+imperfeições gráficas que possam gerar dúvidas, informe ao aplicador de prova imediatamente.
+2) Cada questão apresenta 5 alternativas de resposta, das quais apenas uma é a correta.
+3) Junto com este Caderno de Prova foi entregue o Cartão-Resposta, que não será substituído em 
+caso de erro durante o preenchimento, que deve ser feito, utilizando apenas caneta esferográfica 
+nas cores azul ou preta, com tinta que não apague, sem rasuras. Certifique-se de que o Cartão-
+Resposta não apresenta imperfeições gráficas ou marcações indevidas. Se houver, informe ao 
+aplicador de prova. Assine o cartão somente no local indicado e marque o tipo de prova (A) no 
+campo específico.
+4) O tempo de duração da prova é de até 4 (quatro) horas, já incluídos os preenchimentos do 
+Cartão-Resposta. O candidato só poderá retirar-se, definitivamente, da sala e do prédio após 
+transcorridas duas horas do início das provas, levando consigo este Caderno.
+5) É obrigatório que telefones celulares, pagers, smartphones e outros do gênero fiquem desligados 
+durante toda a realização da prova, inclusive no tempo de sua permanência no prédio.
+6) O candidato será excluído do Processo Seletivo caso deixe de informar o tipo de prova no Cartão-
+Resposta, ou ainda:
+ a) Utilize, durante a prova, recursos bibliográficos e/ou eletroeletrônicos como fontes de consulta.
+ b) Deixe a sala em que realiza a prova levando consigo o Cartão-Resposta.
+ c) Comunique-se com outros candidatos ou efetue empréstimos.
+ d) Pratique atos contrários às normas e/ou à disciplina.
+ e) Utilize itens de chapelaria em geral.
+ f) Se houver sinais sonoros de seus aparelhos eletrônicos, caso não estejam desligados.
+Boa Prova!
+Rua João Rosa Góes, 1.761 - Vila Progresso
+Caixa Portal 322 - 79825-070
+Dourados - Mato Grosso do Sul - Brasil
+https://cs.ufgd.edu.br
+cs.vestibular@ufgd.edu.br
+(67) 3410-2840CCSCoodrdenadoria do 
+Centro de Seleção UFGD

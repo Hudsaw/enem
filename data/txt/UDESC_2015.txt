@@ -26,7 +26,8 @@ Tancredo Neves presidente do Brasil.
  
 Assinale a alternativa que contém a sequência correta,  de cima para baixo. 
  
-A.  (   )  V – V – V – V – F  B.  (   )  F – V – V – F – F  
+A.  (   )  V – V – V – V – F  
+B.  (   )  F – V – V – F – F  
 C.  (   )  V – F – V – V – V  
 D.  (   )  F – F – V – V – V  
 E.  (   )  F – V – F – F – F  

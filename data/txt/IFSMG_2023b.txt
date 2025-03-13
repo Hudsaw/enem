@@ -1,0 +1,1542 @@
+PROCESSO SELETIVO 2023
+2° SEMESTRE · ENSINO SUPERIOR
+ATENÇÃO!
+● É terminantemente proibido o deslocamento de carteiras , tendo em vista que elas são organizadas de 
+forma a manter o distanciamento entre os candidatos.
+● Não é permitida a aglomeração de pessoas  nas dependências dos locais de prova. Ao entregar o cartão 
+de respostas preenchido, dirija-se imediatamente à saída do local.
+● O uso dos banheiros só é permitido durante o tempo em que o candidato estiver realizando a prova. 
+Por esse motivo, ao terminar a prova, se desejar utilizar o banheiro, faça antes de entregar sua prova 
+ao aplicador.
+INSTRUÇÕES
+Caderno de Questões:
+1. Ao receber este caderno de provas, verifique se a prova está completa, com todas as folhas e questões. 
+Caso não esteja, comunique imediatamente ao fiscal de sala.
+2. Para cada questão há apenas uma alternativa correta a ser marcada . Leia atentamente a questão e 
+assinale apenas uma alternativa. A interpretação das questões faz parte da prova, não sendo permitido 
+aos aplicadores repassar nenhuma informação sobre qualquer questão.
+3. Caso haja alguma discordância com relação a questão(ões) da prova, cabe ao candidato apresentar 
+recurso, conforme orientações e cronograma disponível no Edital.
+3. A contracapa deste caderno de provas serve de rascunho ao candidato para conferência do gabarito, 
+após a prova.
+4. Esta prova possui 42 páginas . Confira o caderno e o número de páginas antes de iniciar a prova.
+Folha de resposta:
+1. Cada candidato receberá uma folha de respostas individual, com seu nome e número de inscrição. Ao 
+receber, confira seu nome e número de inscrição. Caso identifique algum erro, comunique ao fiscal de 
+sala imediatamente.
+2. As respostas deverão ser transferidas para a folha de respostas utilizando caneta esferográfica azul 
+ou preta .
+3. Qualquer rasura ou marcação de mais de uma alternativa, na folha de respostas ou redação, será 
+considerada como questão INCORRETA .
+4. Caso o candidato não utilize a caneta adequada e o leitor de folha de respostas não identifique a 
+marcação, a questão será considerada como INCORRETA .04/06/2023 Caderno de questões: Ensino SuperiorINSTITUTO FEDERA L
+Sul de Minas GeraisDisciplinas Questões Pontos
+Língua Portuguesa 01 a 10 10
+Matemática 11 a 20 10
+Biologia 21 a 25 05
+Química 26 a 30 05
+Física 31 a 35 05
+Geografia 36 a 40 05
+História 41 a 45 05
+Língua Estrangeira - Espanhol*
+Língua Estrangeira - Inglês*46 a 50 05
+Redação - 50
+Total 50 100
+*A prova de Língua Estrangeira apresenta questões de Inglês e Espanhol. Resolva APENAS as questões 
+referentes ao idioma que você escolheu no momento da inscrição e preencha o gabarito conforme 
+suas respostas. NA FOLHA DE RESPOSTAS SOMENTE É PERMITIDA A MARCAÇÃO DE UMA DAS OPÇÕES DE 
+LÍNGUA ESTRANGEIRA.
+OBSERVAÇÕES
+A folha de respostas e a folha de redação não devem ser dobradas, amassadas, rasgadas ou 
+rasuradas. Elas deverão ser preenchidas corretamente. Não haverá substituição delas.
+BOA PROVA!
+Inscrição:Nome do candidato:5. A redação deverá ser transcrita de maneira legível na folha de respostas específica, utilizando-se 
+caneta azul ou preta.
+6. Caso a redação esteja ilegível ou com rasuras que impossibilitem a compreensão, o trecho em questão 
+será desconsiderado na correção.PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS3
+LÍNGUA PORTUGUESA (Questões de 01 a 10)
+As questões 01 e 05 se referem ao texto I.
+Texto I
+Fake news na ciência
+ A má informação, a desinformação e a informação falsificada assolam o mundo contemporâneo, 
+dominado pelas mídias digitais, pelas redes sociais e pela circulação de notícias em escala global e em 
+tempo real.
+ O território da ciência, supostamente protegido pelo apuro na realização das pesquisas e pelo 
+rigor em sua difusão, não está imune. As fake news invadiram o noticiário científico em uma época em 
+que hipóteses como a do movimento geocêntrico dos planetas ou a da criação de espécies biológicas 
+imutáveis, refutadas por séculos de estudos criteriosos e bem fundamentados, voltaram a circular na 
+web com sabor de novidade.
+ “As fake news na ciência” foram tema e título do primeiro evento do Ciclo ILP-FAPESP de Ciência 
+e Inovação de 2019. Resultado de parceria entre o Instituto do Legislativo Paulista (ILP) e a FAPESP, o 
+debate foi coordenado pelo professor Carlos Américo Pacheco, diretor-presidente do Conselho Técnico-
+Administrativo (CTA) da Fundação.
+ Participaram do evento o jornalista Francisco Belda, vice-coordenador do programa de pós-
+graduação em Mídia e Tecnologia da Universidade Estadual Paulista (Unesp); a médica Helena Sato, 
+diretora técnica da Divisão de Imunização do Centro de Vigilância Epidemiológica da Secretaria de 
+Estado da Saúde; a bióloga Natália Pasternak, uma das fundadoras do Instituto Questão de Ciência; e 
+o físico Peter Schulz, professor titular da Faculdade de Ciências Aplicadas da Universidade Estadual de 
+Campinas (FCA-Unicamp).
+ Apresentando uma espécie de tipologia do fenômeno – que vai das reportagens malfeitas pela 
+mídia sobre assuntos científicos, passando pelos erros grosseiros, mas inocentes, que circulam pela 
+internet, até as notícias falsas deliberadamente fabricadas – Francisco Belda chegou ao que chamou de 
+“notícias falsas profundas”. E citou, como exemplo, o caso no qual, por meio de aplicativo sofisticado, 
+foram colocadas falas falsas em um vídeo do ex-presidente norte-americano Barack Obama.
+ “A informação sempre foi uma arma política, uma arma de disputa pelo poder. Não é novo 
+na história da humanidade o uso da informação e da comunicação como instrumento de disputa. 
+Muitas vezes, há um investimento, caro inclusive, na produção de verdadeiras fazendas de robôs, com 
+servidores instalados no exterior, e equipes profissionais que se dedicam diariamente à produção de 
+conteúdo mal-intencionado”, disse Belda à Agência FAPESP.
+ O papel deletério que a falsificação da verdade sob o rótulo de ciência pode exercer sobre uma 
+sociedade foi bem exemplificado por Peter Schulz por meio de um caso histórico famoso: o Projeto 
+Huemul, conduzido na Argentina de 1948 a 1952, durante o primeiro mandato presidencial de Juan 
+Domingo Perón (1895-1974).
+ Militar de formação e político populista, Perón teria desestruturado a comunidade científica 
+argentina depois de assumir a Presidência em 1946. Logo, passou a ser influenciado por Ronald Richter 
+(1909-1991), um autoproclamado cientista, alemão nascido na Áustria, que emigrou para a Argentina 
+depois da derrota do nazismo em 1945. Segundo Schulz, Richter tornou-se uma espécie de guru do 
+presidente, convencendo-o a implementar um “projeto de controle da fusão nuclear para a produção 
+de energia barata, sem resíduos radioativos, que transformaria a Argentina na primeira potência a 
+dominar uma tecnologia que todos começavam a perseguir”.
+ De fato, os experimentos de Richter não levaram a fusão nenhuma. Porém, muito dinheiro 
+público e muito esforço governamental foram despendidos nesse projeto secreto, até que a fraude 
+fosse desmascarada por um cientista de verdade, José Antonio Balseiro (1919-1962).
+ Exemplos do papel prejudicial das fake news já ocorreram no país, prejudicando iniciativas 
+sérias, como o Programa de Vacinação do Centro de Vigilância Epidemiológica da Secretaria da Saúde 
+do Estado de São Paulo. “Hoje, o calendário básico para as crianças é constituído por 14 vacinas. E há 
+fake news do tipo ‘quem toma vacina contra meningite vai ter meningite’, ou ‘a vacina contra sarampo 
+pode dar reação adversa’. Isso não é real: as vacinas são extremamente seguras e com uma excelente 
+eficácia”, disse Helena Sato.
+ Encerrando o evento, Pacheco ressaltou que, se é preciso defender a ciência das notícias falsas, PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS4
+LÍNGUA PORTUGUESA
+é preciso também evitar transformar o discurso científico em um discurso monolítico de autoridade. “O 
+conhecimento científico ajuda muito a melhorar a qualidade de vida, mas ajuda também a melhorar a 
+compreensão do mundo em que vivemos. Por isso, a FAPESP financia diversos tipos de pesquisa, umas 
+até mesmo em contradição com outras, para ampliar o espaço do conhecimento”, disse.
+ “O conhecimento é muito antigo, se pensarmos, por exemplo, na filosofia, na matemática, na 
+astronomia dos antigos gregos. Mas o método científico é bem mais recente, remontando a Francis 
+Bacon (1561-1626). E uma ideia central do método científico é a da reprodutibilidade daquilo que 
+é observado. Isso é fundamental. Mesmo que mudem os paradigmas científicos, a ideia de que é 
+possível testar e reproduzir o que foi feito por outro cientista, e avançar no conhecimento a partir 
+dessa reprodução, se mantém como um elemento fundamental da ciência, um elemento constitutivo 
+do método científico”, continuou.
+ Pacheco lembrou que o Código de Boas Práticas Científicas da FAPESP visa a evitar a reprodução 
+de material científico de baixa qualidade. “Muitas vezes não se trata de algo intencionalmente errado, 
+mas de algo produzido sem a devida checagem, sem o devido cuidado. Essas boas práticas mostram 
+que, também no campo da ciência, é preciso que tenhamos o cuidado de não usar da autoridade que o 
+conhecimento confere para encobrir os problemas. Não tenho dúvidas de que muito do que discutimos 
+aqui tem a ver com mediações da vida em sociedade. E o palco para discutir isso é o da política. Embora 
+tenha se tornado uma palavra horrorosa nos tempos em que vivemos, a política, desde a Grécia antiga, 
+é o exercício que possibilita mediar as diferentes visões”, disse.
+ 
+Fonte:  ARANTES, José Tadeu. Agência Fapesp.  Disponível em: https://agencia.fapesp.br/fake-news-na-ciencia/30120/  Acesso 
+em 20 de abr. de 2023.
+QUESTÃO 01
+De acordo com o texto I, é correto afirmar que:
+a) As fake news podem ser tipificadas como notícias falsas criadas de propósito, reportagens sobre 
+assuntos científicos elaboradas com a finalidade de ludibriar o público-alvo e induzir a erros graves 
+que não são cometidos com a intencionalidade de enganar.
+b) Os conhecimentos relacionados à ciência, em certa medida, são menos propensos a sofrerem com 
+a prática de fabricação de notícias falsas.
+c) A veiculação de fake news pode gerar efeitos danosos à sociedade, sendo o Projeto Huemul um 
+exemplo disso.
+d) As fake news, no que se refere ao seu escopo histórico, foram impulsionadas principalmente  pelo 
+surgimento e pela popularização massiva das mídias digitais individuais.
+QUESTÃO 02
+No trecho “De fato, os experimentos de Richter não levaram a fusão nenhuma. Porém,  muito dinheiro 
+público e muito esforço governamental foram despendidos nesse projeto secreto, até que a fraude 
+fosse desmascarada por um cientista de verdade, José Antonio Balseiro (1919-1962)", o termo em 
+negrito indica relação:
+a) Adversativa.
+b) Conclusiva.
+c) Explicativa.
+d) Aditiva.PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS5
+QUESTÃO 03  
+Releia o trecho abaixo:
+“Militar de formação e político populista, Perón teria desestruturado a comunidade científica argentina 
+depois de assumir a Presidência em 1946.” 
+Considerando a construção sintática do período, a locução verbal “teria desestruturado” é formada 
+pelo: 
+a) verbo auxiliar “desestruturar”, conjugado no particípio, e pelo verbo principal “ter”, conjugado no 
+futuro do pretérito do indicativo.
+b) verbo auxiliar “ter”, conjugado no futuro do pretérito do indicativo, e pelo verbo principal  
+“desestruturar”, conjugado no particípio.
+c) verbo auxiliar “ter”, conjugado no particípio, e pelo verbo principal “desestruturar”, conjugado no 
+futuro do pretérito do indicativo.
+d) verbo auxiliar “desestruturar”, conjugado no futuro do pretérito do indicativo, e pelo verbo principal 
+“ter”, conjugado no particípio.
+QUESTÃO 04
+Segundo o texto, é característica da ciência:
+a) O uso da autoridade para resolver problemas por meio da realização de pesquisas que comprovem 
+fatos.
+b) A existência de rigor absoluto nas práticas de divulgação de resultados de pesquisa.
+c) O emprego de método que possibilite a testagem e a reprodução de pesquisas desenvolvidas por 
+outros cientistas.
+d) A geração de conhecimentos que necessariamente melhoram a vida das pessoas e propiciam 
+benefícios para a sociedade.
+QUESTÃO 05
+No trecho “ Embora  tenha se tornado uma palavra horrorosa nos tempos em que vivemos, a política, 
+desde a Grécia antiga, é o exercício que possibilita mediar as diferentes visões”, a palavra em negrito 
+poderia ser substituída, sem prejuízo de sentido e respeitando-se a norma padrão da Língua Portuguesa 
+escrita, nesse contexto, por todas as expressões abaixo, EXCETO:
+a) Ainda que.
+b) Mesmo que.
+c) Por mais que.
+d) Apesar de.
+QUESTÃO 06
+Leia o texto a seguir da escritora Luísa Ducla Soares: LÍNGUA PORTUGUESAPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS6
+Poema Às Notas
+Sem um euro pedi notas
+ontem à noite, aos meus pais.
+Deram-me notas e notas,
+mas só notas musicais.
+Mandaram-me tirar notas
+e ter atenção na aula.
+Fui preso por roubar notas
+da minha colega Paula.
+Hoje vou receber nota
+do ponto de português.
+Com ela vou jantar fora
+ao restaurante chinês...
+Fonte: SOARES, Luísa Ducla. Tagarelinhas.  Disponível em http://tagarelinhas.blogspot.com/2011/02/hoje-ouvimos-o-poema-as-
+notas-do-livro.html. Acesso em 02 de maio de 2023. 
+Considerando o texto, avalie as afirmações abaixo: 
+I. a autora, para escrever este poema, "brincou" com os diferentes significados da palavra nota.
+II. o texto foi construído com palavras homógrafas.
+III. o texto não apresenta informatividade.
+Estão corretas as alternativas: 
+a) I e II.
+b) II e III.
+c) I e III.
+d) nenhuma. 
+QUESTÃO 07
+Leia parte do poema a seguir de João de Deus. 
+Beatriz
+Tu és o cheiro que exala
+Ao ir-se abrindo uma flor!
+Tu és o colo que embala
+Suas primícias de amor!
+Tu és um beijo materno!
+Tu és um riso infantil,
+Sol entre as nuvens do Inverno,
+Rosa entre as flores de Abril.
+Tu és a rosa de Maio!
+Tu és a flâmula azul
+Que atam à flecha do raio
+As tempestades do sul!
+[...]
+Fonte: DEUS, João de. Veredas da língua.  Disponível em http://veredasdalingua.blogspot.com/2013/05/joao-de-deus-poemas.
+html. Acesso em 02 de maio de 2023.LÍNGUA PORTUGUESAPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS7
+Considerando a leitura do poema, JULGUE as afirmações: 
+I. as estrofes do poema apresentam rimas cruzadas ou alternadas .
+II. as palavras destacadas na segunda estrofe, quanto às regras de acentuação, são paroxítonas.
+III. as palavras destacadas na segunda estrofe, quanto aos encontros vocálicos e fonética, apresentam 
+ditongos decrescentes .
+Está correto o que se afirma em: 
+a)  I e II.
+b)  II e III.
+c)  I e III.
+d) nenhuma. 
+QUESTÃO 08 
+Atente-se à placa de sinalização a seguir:  
+ 
+Fonte:  Demais.com.  Disponível em https://ndmais.com.br/em-placas-e-inscricoes-nas-areas-publicas-de-joinville/. Acesso em 
+02 de maio de 2023. 
+Considerando a ortografia da língua portuguesa, quantos erros de grafia há na placa?  
+a) um  
+b) dois  
+c) três  
+d) nenhumLÍNGUA PORTUGUESA
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS8
+As questões 09 e 10 se referem ao texto II e ao texto III
+Texto II                                                                                                    Texto III 
+QUESTÃO 09 
+A intertextualidade é a relação entre dois textos caracterizada pela referência de um pelo outro de 
+maneira implícita ou explícita, podendo se concretizar de formas distintas. A relação entre os textos II 
+e III se dá por meio de:
+a) Citação, visto que os versos da canção foram reproduzidos diretamente no anúncio. 
+b) Plágio, já que na propaganda houve uma cópia não autorizada dos versos da música. 
+c) Alusão, pois há uma referência indireta no anúncio da característica da personagem da canção.  
+d) Paródia, porque houve transposição de sentido da qualidade da personagem para a margarina .
+QUESTÃO 10 
+Considerando a intertextualidade presente no anúncio, é possível inferir que:
+a) a mulher legítima usa margarina Amélia. 
+b) a aparência do produto está aquém de sua qualidade. 
+c) as outras margarinas são inferiores às da marca Amélia. 
+d) tanto a margarina quanto a mulher são de verdade porque não têm boa aparência.
+Ai que saudades da Amélia *
+Amélia não tinha a menor vaidade
+Amélia que era mulher de verdade
+Fonte:  Discutindo a redação. Disponível em https://
+discutindoaredacao.wordpress.com/category/intertex -
+tualidade-2/. Acesso em 02 de maio de 2023 .Fonte: * Refrão da canção “Ai que saudades 
+da Amélia”, composta por Mário Lago e 
+gravada por Ataulfo Alves em 1942. Dis -
+ponível em: https://www.letras.mus.br/mario-
+lago/377002/ . Acesso em 10/05/2023PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS9
+QUESTÃO 11
+Uma lâmpada emite luz a partir do ponto onde está instalada até o chão, formando uma circunferência 
+iluminada, correspondente à base de um cone circular reto que tem a lâmpada como vértice. Ao se 
+instalar essa lâmpada a 1m do chão, pôde-se observar uma circunferência de diâmetro igual a 80cm. 
+Para a apresentação de um espetáculo, deseja-se, com essa lâmpada, iluminar todo um tapete quadrado 
+de lado 4m. 
+Considerando-se 1,41 como aproximação para a raiz quadrada de 2, a menor altura em relação ao 
+tapete que se deve posicionar a lâmpada é: 
+a) Menor do que 6m.
+b) Entre 6m e 9m.
+c) Maior do que 9m.
+d) Impossível determinar.
+QUESTÃO 12
+Ao se lançar dois dados comuns e honestos (de seis faces, cada um com um número entre 1 e 6), e 
+somar o resultado obtido nas faces voltadas para cima, o número de possíveis resultados é:
+a) 6             
+b) 11
+c) 12           
+d) 36
+QUESTÃO 13 
+Um professor de matemática irá aplicar uma prova para uma turma de 40 estudantes. Ele tem a 
+expectativa de que, pelo menos, 75% desses estudantes obtenham nota igual ou superior à média 
+nessa prova. No dia da aplicação, 10 estudantes faltaram, e, dos que realizaram a prova, 30% perderam 
+média. Os  10 estudantes que faltaram farão a prova em  outra data.  Para que a expectativa do professor 
+se concretize, é necessário que dentre os  10 estudantes restantes:
+a) No máximo, 10% deles percam média nessa prova.
+b) No máximo, 25% deles percam média nessa prova.
+c) No máximo, 30% deles percam média nessa prova.
+d) Nenhum deles perca média na prova.MATEMÁTICA (Questões de 11 a 20)
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS10
+QUESTÃO 14
+Desde que o Real foi implementado como a moeda oficial do Brasil, em 1994, houve muita variação 
+em relação à cotação do Dólar, que é a moeda estadunidense utilizada em todo o mundo. A cotação 
+do Dólar, que consiste no valor em Real de um dólar (US$ 1,00), atingiu seu menor valor em janeiro de 
+1995: R$ 0,84. Em outubro de 2020,  a moeda estrangeira atingiu a maior cotação no Brasil: R$ 5,74. Ao 
+longo de todo esse período, o aumento percentual da cotação do Dólar foi: 
+a) Inferior a 500%.
+b) Entre 500% e 600%.
+c) Entre 600% e 700%.
+d) Superior a 700%.
+QUESTÃO 15
+Um grupo de estudantes deseja criar um jogo cujo jogador avance a pontuação sempre que fornecer 
+corretamente uma possibilidade de valores de x, y e z que satisfaçam as equações do sistema linear 
+dado abaixo.  
+Para que o jogo seja factível, é necessário que existam infinitas soluções disponíveis para o sistema.
+Os valores de a e b reais, para os quais o sistema seja possível e indeterminado são:
+a) a=-10 e b=-50. 
+b) a=-2 e b=-10. 
+c) a=3/2 e b=15/2. 
+d) a=-2/3 e b=-10/3. 
+QUESTÃO 16
+A figura ilustra, no diagrama de Venn, grupos de alunos  que farão um reforço escolar envolvendo 
+até quatro disciplinas. Os conjuntos intersecções são os subconjuntos correspondentes aos grupos de 
+alunos que farão mais de uma disciplina. 
+Os conjuntos A, B, C e D  representam a seleção das disciplinas de matemática, 
+português, biologia e artes, respectivamente. Sabe-se que: 
+• dois subconjuntos apresentam 8 alunos que escolheram apenas uma 
+disciplina
+• três subconjuntos apresentam 3 alunos que escolheram duas disciplinas
+• três subconjuntos apresentam 5 alunos que escolheram 3 disciplinas 
+• um subconjunto apresenta 2 alunos que escolheram as 4 disciplinas. MATEMÁTICA
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS11
+Considerando o diagrama de Venn e os conjuntos apresentados,  o quantitativo de alunos que estudará 
+matemática no reforço escolar é de: 
+a) 2 alunos.
+b) 8 alunos.
+c) 15 alunos.
+d) 20 alunos.
+QUESTÃO 17
+A magnitude m em graus de um terremoto na escala Richter é representada na fórmula abaixo, sendo 
+x a energia liberada em quilowatts-hora. Se a magnitude de um terremoto foi m=8 , o valor da energia 
+liberada por este terremoto em quilowatts-hora foi de:
+a) 7009
+b) 70015
+c) 7.103
+d) 7.109
+QUESTÃO 18
+Em uma farmácia da cidade, que fica aberta 24 horas, o número médio de clientes N varia de acordo 
+com a função trigonométrica representada abaixo, para t em horas. 
+Marque a alternativa que representa a quantidade de clientes às 18 horas nesta farmácia.  
+a) 10
+b) 20
+c) 25
+d) 30
+QUESTÃO 19
+Sobre a teoria do estudo de matrizes, observe a figura abaixo:  
+ 
+Levando em consideração a teoria de estudo de matrizes e a figura ao 
+lado, JULGUE as seguintes afirmações: 
+I - A matriz coluna é aquela que possui apenas uma única coluna.
+II - A matriz linha é aquela que possui apenas uma única linha.
+III - A matriz quadrada é aquela em que o número de linhas é o dobro 
+do número de colunas.MATEMÁTICA
+Fonte: https://pixabay.com/pt/
+vectors/ilus%c3%a3o-pontos-
+preto-e-branco-rede-161996/
+Acesso em 19/04/2023 
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS12
+É FALSO  o que se afirma: 
+a) Somente em I.
+b) Somente em II. 
+c) Somente em III. 
+d) Todas as afirmativas.
+QUESTÃO 20
+Um professor de geografia do IFSULDEMINAS solicitou que os estudantes colorissem os seis continentes 
+do mapa-mundi, usando cores diferentes para cada continente, disponibilizando, para isso, 10 cores 
+distintas. 
+ 
+Fonte: https://pixabay.com/pt/vectors/globo-mundo-mapa-terra-geografia-32299//Acesso em 20/04/2023
+De quantas maneiras distintas os estudantes poderão colorir este mapa-mundi?
+a) 30.240
+b) 151.200
+c) 100.000
+d) 1.000.000MATEMÁTICA
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS13
+RASCUNHOMATEMÁTICAPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS14
+QUESTÃO 21
+ O episódio “Marcelo e a doença de Huntington” – gravado em 2022, no Podcast Segredos de 
+Família (GenomaUSP), do canal do YouTube – relata a história do Marcelo, um médico de 26 anos, 
+que pretende se especializar em neurocirurgia. Ele recebe a notícia de que seu pai tem doença de 
+Huntington.
+ A doença de Huntington é hereditária, de herança autossômica dominante. Trata-se de uma 
+doença progressiva de caráter neurológico. Neste caso, os primeiros sintomas aconteceram, por volta 
+dos 40 anos de idade, marcados por movimentos involuntários, que depois foram ficando incontroláveis 
+e por problemas com coordenação motora. Com o passar dos anos, o quadro pode evoluir para 
+demência e para a perda de funções respiratórias. 
+A partir da história do Podcast, considere que: 
+• Marcelo possuiu uma cópia do gene defeituoso
+• A esposa de Marcelo possui uma cópia do gene defeituoso
+• O filho do casal é normal para a doença de Huntington
+• O casal deseja ter uma filha  
+Neste contexto, a probabilidade de o casal vir a ter uma filha com pelo menos um gene defeituoso é de: 
+a) 1/2
+b) 1/4
+c) 3/8
+d) 1/8
+QUESTÃO 22
+“Negacionismo tira da população a oportunidade de viver melhor", diz o professor da USP - Gonzalo 
+Vecina Neto. Durante a pandemia do SARS-CoV-2, o negacionismo foi utilizado para esconder fatos 
+importantes e essenciais à saúde das pessoas, como os resultados de pesquisas científicas e a 
+importância da vacinação. Ainda segundo o pesquisador, alguém está interessado em vender algo 
+diferente, que pode ser um produto, e aí o negócio é só dinheiro. Mas pode ser também uma ideologia, 
+um jeito de enxergar o mundo que não deveria ser utilizado. No evento "CoronaVac Symposium", o 
+pesquisador relata que devemos divulgar mais os estudos científicos a fim de combater as informações 
+falsas que são compartilhadas na internet e redes sociais com relação à eficiência e segurança das 
+vacinas. 
+Fonte: Disponível em: https://butantan.gov.br/noticias/negacionismo-tira-da-populacao-a-oportunidade-de-viver-melhor-diz-
+professor-da-usp. 24 de abr. de 2023.
+Sobre as informações das vacinas contra a Covid-19, assinale a única informação VERDADEIRA, ou seja, 
+que não é uma fake news.
+a) A vacina contra a Covid-19 vai modificar o DNA dos seres humanos.
+b) Os imunizantes contra Covid-19 estão relacionados à transmissão de HIV.
+c) A vacina contra a Covid-19 tem chip líquido e inteligência artificial para controle populacional. 
+d) A CoronaVac, vacina com tecnologia brasileira, possui maior eficácia em casos mais graves do que 
+nos casos leves da doença.BIOLOGIA (Questões de 21 a 25)PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS15
+QUESTÃO 23
+Leia a charge e o trecho abaixo: 
+Fonte: Reprodução/Gazo - charge sobre o negacionismo do aquecimento global
+O texto publicado no site da UNIFESP: "negacionismo: a onda de ceticismo sobre o valor da ciência", 
+relata a ação humana como principal fator associado às mudanças climáticas, e que esta discussão 
+já é consensual entre os cientistas. A instituição-chave para a elucidação desse tema é o Painel 
+Intergovernamental sobre Mudanças Climáticas, mais conhecido pela sigla IPCC (de sua denominação 
+em inglês: Intergovernmental Panel on Climate Change), uma organização político-científica criada em 
+1988 no âmbito das Nações Unidas (ONU) por iniciativa do Programa das Nações Unidas para o Meio 
+Ambiente (PNUMA) e da Organização Meteorológica Mundial (OMM). Seu propósito é o de sintetizar e 
+divulgar o conhecimento produzido por cientistas do mundo todo sobre as mudanças climáticas que 
+afetam o planeta – especificamente, o aquecimento global –, apontando seus efeitos e riscos para a 
+humanidade e o meio ambiente e sugerindo maneiras de combater suas causas.
+Fonte: Disponível em: https://www.unifesp.br/reitoria/dci/publicacoes/entreteses/item/4780-negacionismo-a-onda-de-ceticis -
+mo-sobre-o-valor-da-ciencia. 25 de abr. 2023.  
+Considerando a leitura da charge e do trecho e o seu conhecimento sobre o assunto, NÃO  é uma 
+consequência do aquecimento global:
+a) Ondas de frio mais rigorosas.
+b) Alteração do regime das chuvas.
+c) Aumento da temperatura do planeta.
+d) Rebaixamento do nível dos oceanos e consequente expansão das áreas litorâneas.
+QUESTÃO 24  
+Com a publicação em 1859 da obra intitulada “A origem das espécies”, de autoria do naturalista inglês 
+Charles Darwin, houve uma mudança radical sobre o entendimento de muitos processos biológicos, 
+sobretudo no que concerne aos fenômenos que nos permitem compreender a história da vida no 
+planeta. Sobre esse tema, assinale a alternativa que apresenta um conhecimento evolutivo que não foi 
+concebido por Darwin em sua obra citada, mas que foi incorporado à teoria da evolução por estudos 
+realizados no século XX:BIOLOGIA
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS16
+a) O surgimento de novas espécies ocorre ao longo do tempo.
+b) A seleção natural atua selecionando os indivíduos melhores adaptados a seus ambientes.
+c) A mutação promove a alteração do material genético do indivíduo, o que pode levar ao surgimento 
+de novos genes, e ser altamente benéfico para a sobrevivência do indivíduo.
+d) A admissão de que homens e outros primatas compartilham ancestral comum, isto é, descendem 
+de um mesmo ancestral, portanto, humanos e todos os outros primatas são aparentados.
+QUESTÃO 25
+A Caatinga é um bioma que vem sofrendo processos de desertificação, em função do desmatamento, o 
+que está ocasionando a perda de sua biodiversidade, que é rica e com altas taxas de endemismo, porém 
+é pouco conhecido da população brasileira.  Uma das famílias vegetais mais representativas do bioma 
+é a cactaceae, que engloba os populares cactos, que possuem muitas adaptações para sobreviver aos 
+longos períodos de estiagem, típicos da região. Nessas plantas, o principal órgão vegetal responsável 
+pela realização da fotossíntese é(são):
+a) as raízes aéreas do tipo pneumatóforos.
+b) o caule cladódio.
+c) as folhas modificadas do tipo brácteas.
+d) a flor.PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS17
+QUÍMICA (Questões de 26 a 30)
+QUESTÃO 26
+Os gases nobres são encontrados na temperatura ambiente. Porém, ao serem resfriados, eles passarão 
+para o estado líquido em temperaturas diferentes, pois possuem diferentes temperaturas de ebulição. 
+Essa diferença é justificada pela variação no raio atômico dos gases nobres: quanto maior o raio atômico, 
+mais facilmente esse gás passará para o estado líquido, ou seja, maior a sua temperatura de ebulição. 
+Baseando-se nessas informações, indique qual dos gases nobres indicados apresenta a maior 
+temperatura de ebulição:
+a) He (Hélio)
+b) Ne (Neônio)
+c) Ar (Argônio)
+d) Kr (Criptônio)
+QUESTÃO 27
+A cal, também conhecida como cal virgem, é quimicamente denominada de óxido de cálcio (CaO). Ela 
+pode ser obtida a partir da decomposição térmica do calcário, cujo principal componente é o carbonato 
+de cálcio (CaCO3). A decomposição do carbonato de cálcio forma, além do óxido de cálcio, o dióxido de 
+carbono (CO2). 
+Considere as massas molares (g/mol): Ca = 40   C = 12  O = 16
+Se a decomposição térmica de 2 toneladas de calcário (que é o carbonato de cálcio impuro) produziu 
+560 kg de óxido de cálcio, a pureza desse calcário é de:
+a) 56%
+b) 50%
+c) 28%
+d) 44%
+QUESTÃO 28
+As vitaminas são compostos orgânicos essenciais para o bom funcionamento do organismo humano. 
+Elas podem ser classificadas em hidrossolúveis (solúveis em água) e lipossolúveis (solúveis em lipídios, 
+consequentemente, insolúveis em água).
+A seguir estão representadas as estruturas de algumas vitaminas:
+ 
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS18
+QUÍMICA
+Observando as estruturas acima, a única das vitaminas apresentadas que pode ser classificada como 
+lipossolúvel é a:
+a) vitamina A.
+b) vitamina B6.
+c) vitamina B9.
+d) vitamina C.
+QUESTÃO 29
+Estimativas recentes sugerem que uma em cada oito pessoas, quase um bilhão de indivíduos em 
+todo o mundo, vive com algum problema de saúde mental. No primeiro ano da pandemia, houve um 
+aumento estimado de 25% na prevalência de depressão e ansiedade no mundo. Em virtude disso, 
+houve uma maior procura por fármacos que auxiliam no apoio da restauração da saúde mental. Neste 
+contexto, especialistas destacam a importância do acompanhamento médico e terapêutico e os riscos 
+do uso indiscriminado dos remédios. Esses remédios, de uma forma geral, regulam a produção dos 
+mediadores químicos, responsáveis pelos estágios de humor, como a dopamina e a serotonina.
+                             Dopamina                                                                               Serotonina 
+Disponível em: https://www.cnnbrasil.com.br/saude/uso-de-medicamentos-para-a-saude-mental-cresce-no-brasil-especialistas-
+alertam-sobre-cuidados/. Acesso em: 21 abr. 2023 (Adaptado).
+As duas substâncias, descritas acima, possuem em comum as funções orgânicas:
+a) Álcool e Amina.
+b) Fenol e Amina.
+c) Ácido carboxílico e Amida.
+d) Éster e Amida.
+QUESTÃO 30
+As transformações químicas ocorrem diariamente no nosso cotidiano. Por exemplo, é comum 
+observarmos que materiais como portões e pregos, entre outros, ao ficarem expostos ao ambiente, 
+acabam se deteriorando. Isso ocorre devido ao contato do elemento químico ferro (Fe), presente nesses 
+materiais, com moléculas de oxigênio (O2) e água, segundo a reação: 2Fe + O 2 + 2H 2O     2Fe(OH)2
+Nessa reação, o número de oxidação do ferro varia de ____________ para ____________, sendo, portanto, 
+o agente ____________. 
+Marque a alternativa que completa corretamente as lacunas:
+a) zero, +2, redutor
+b) zero, +4, redutor
+c) zero, +2, oxidante
+d) zero, +4, oxidante
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS19
+QUÍMICA1
+H
+hydrogen
+[1.007, 1. 009]1 18 
+3
+Li
+lithium
+[6.938, 6.997]4
+Be
+beryllium
+9.012
+11
+Na
+sodium
+22.9912
+Mg
+magnesiu m
+[24.30, 24.31]
+19
+K
+potassium
+39.1020
+Ca
+calcium
+40.08
+37
+Rb
+rubidium
+85.4738
+Sr
+strontium
+87.6238
+Sr
+strontium
+87.62
+55
+Cs
+caesium
+132.955
+Cs
+caesium
+132.956
+Ba
+barium
+137.3
+87
+Fr
+francium88
+Ra
+radium5
+B
+boron
+[10.80, 10.83]
+13
+Al
+aluminium
+26.98
+31
+Ga
+gallium
+69.72
+49
+In
+indium
+114.8
+81
+Tl
+thallium
+[204.3, 204.4]6
+C
+carbon
+[12.00, 12.02]
+14
+Si
+silicon
+[28.08, 28.09]
+32
+Ge
+germanium
+72.63
+50
+Sn
+tin
+118.7
+82
+Pb
+lead
+207.27
+N
+nitroge n
+[14.00, 14.01]
+15
+P
+phosphorus
+30.97
+33
+As
+arsenic
+74.92
+51
+Sb
+antimony
+121.8
+83
+Bi
+bismuth
+209.08
+O
+oxygen
+[15.99, 16.00]
+16
+S
+sulfur
+[32.05, 32.08]
+34
+Se
+selenium
+78.96(3)
+52
+Te
+tellurium
+127.6
+84
+Po
+polonium9
+F
+fluorine
+19.00
+17
+Cl
+chlorine
+[35.44, 35.46]
+35
+Br
+bromine
+[79.90, 79.91]
+53
+I
+iodine
+126.9
+85
+At
+astatine10
+Ne
+neon
+20.182
+He
+helium
+4.003
+18
+Ar
+argon
+39.95
+36
+Kr
+krypton
+83.80
+54
+Xe
+xenon
+131.3
+86
+Rn
+radon22
+Ti
+titanium
+47.8722
+Ti
+titanium
+47.87
+40
+Zr
+zirconium
+91.22
+72
+Hf
+hafnium
+178.5
+104
+Rf
+rutherfordium
+  23
+V
+vanadium
+50.94
+41
+Nb
+niobiu m
+92.91
+73
+Ta
+tantalum
+180.9
+105
+Db
+dubniu m24
+Cr
+chromium
+52.0024
+Cr
+chromium
+52.00
+42
+Mo
+molybdenum
+95.96(2)
+74
+W
+tungsten
+183.8
+106
+Sg
+seaborgium25
+Mn
+manganes e
+54.94
+43
+Tc
+technetium
+75
+Re
+rhenium
+186.2
+107
+Bh
+bohrium26
+Fe
+iron
+55.85
+44
+Ru
+ruthenium
+101.1
+76
+Os
+osmium
+190.2
+108
+Hs
+hassium27
+Co
+cobalt
+58.93
+45
+Rh
+rhodium
+102.9
+77
+Ir
+iridium
+192.2
+109
+Mt
+meitnerium28
+Ni
+nickel
+58.69
+46
+Pd
+palladium
+106.4
+78
+Pt
+platinum
+195.1
+110
+Ds
+darmstadtium29
+Cu
+copper
+63.55
+47
+Ag
+silver
+107.9
+79
+Au
+gold
+197.030
+Zn
+zinc
+65.38(2)
+48
+Cd
+cadmium
+112.4
+80
+Hg
+mercury
+200.6
+111
+Rg
+roentgenium112
+Cn
+copernicium114
+Fl
+flerovium116
+Lv
+livermorium
+57
+La
+lanthanum
+138.9
+89
+Ac
+actinium58
+Ce
+cerium
+140.1
+90
+Th
+thorium
+232.059
+Pr
+praseodymium
+140.9
+91
+Pa
+protactinium
+231.060
+Nd
+neodymium
+144.2
+92
+U
+uranium
+238.061
+Pm
+promethium
+93
+Np
+neptunium62
+Sm
+samarium
+150.4
+94
+Pu
+plutonium63
+Eu
+europium
+152.0
+95
+Am
+americium64
+Gd
+gadolinium
+157.3
+96
+Cm
+curium65
+Tb
+terbium
+158.9
+97
+Bk
+berkelium66
+Dy
+dysprosium
+162.5
+98
+Cf
+californium67
+Ho
+holmium
+164.9
+99
+Es
+einsteinium68
+Er
+erbium
+167.3
+100
+Fm
+fermium69
+Tm
+thulium
+168.9
+101
+Md
+mendelevium70
+Yb
+ytterbium
+173.1
+102
+No
+nobelium71
+Lu
+lutetium
+175.0
+103
+Lr
+lawrencium21
+Sc
+scandium
+44.96
+39
+Y
+yttrium
+88.91
+57-71  
+ 
+lanthanoids  
+89-103  
+ 
+actinoids  atomic number  
+ Symbol 
+ 
+ 
+standard atomic weight  2 13 14 15 16 17 Key: 
+3 4 5 6 7 8 9 10 11 12 name 
+ 
+ 
+Notes
+-  IUPAC 2011 Standard atomic weights abridged to four significant digits (Table 4 published in Pure Appl. Chem. 85, 1047-1078 (2013);  
+ http://dx.doi.org/10.1351/PAC-REP-13-03-02. The uncertainty in the last digit of the standard atomic weight value is listed in parentheses following  
+ the value. In the absence of parentheses, the uncertainty is one in that last digit. An interval in square brackets provides the lower and upper bounds of  
+ the standard atomic weight for that element. No values are listed for elements which lack isotopes with a characteristic isotopic abundance in natural   
+ terrestrial samples. See PAC for more details. 
+- “Aluminum” and “cesium” are commonly used alternative spellings for “ aluminium” and “caesium.”
+- Claims for the discovery of all the remaining elements in the last row of the Table, namely elements with atomic numbers 1 13, 115, 117 and 1 18,  
+ and for which no assignments have yet been made, are being considered by a IUPAC and IUPAP Joint Working Party.
+For updates to this table, see iupac.org/reports/periodic_table/ . This version is dated 1 May 20 13.  
+Copyright © 20 13 IUPAC, the International Union of Pure and Applied Chemistry.IUPAC Periodic Table of the Elements
+InternatIonal UnIon of  
+PUre and aPPlIed ChemIstry
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS20
+FÍSICA (Questões de 31 a 35)
+QUESTÃO 31
+Um vídeo bastante visualizado nas redes sociais mostra três situações em que uma pessoa tenta 
+equilibrar uma borracha sobre uma régua que está parcialmente sobre uma mesa. Na situação 1 a 
+borracha e a régua caem, o equilíbrio não é obtido. Na situação 2, a pessoa coloca uma folha de papel 
+sobre a régua, e observa-se que o equilíbrio é obtido, a régua e a borracha não caem. Na situação 3, 
+a mesma folha de papel é dobrada pela metade e novamente colocada sobre a régua, mas não se 
+observa o equilíbrio, a régua e a borracha caem.
+Sobre as situações mostradas, é possível afirmar que:
+a) O peso do papel equilibra o peso da borracha.
+b) A força de atrito entre a régua e a mesa aumenta na situação 2, causando o equilíbrio.
+c) A pressão sobre o papel é maior na parte de cima do papel do que na parte de baixo do papel, na 
+situação 2.
+d) Se esse vídeo fosse feito no vácuo, as situações se repetiriam.
+QUESTÃO 32
+Os longos tempos de reverberação das catedrais medievais, de 5 a 10 s, requeriam que a música fosse 
+tocada ou cantada muito lentamente. Devido a isso, as palavras ditas eram difíceis de se entender e o 
+cântico substituiu a palavra. Giovanni Gabrieli, organista da Basílica de São Marcos, em Veneza, por volta 
+de 1600, escreveu músicas em um tempo lento, para espaços com um longo tempo de reverberação. 
+Ao mesmo tempo que Gabrieli estava trabalhando em Veneza, novos desenvolvimentos ocorriam na 
+Itália. Pequenas capelas, de forma retangular e com tetos altos, eram construídas próximas às grandes 
+catedrais. Característica do tempo, as paredes eram ornadas, ricas em detalhes esculturais. Essas 
+superfícies decorativas eram difusores muito eficientes de som para todas as frequências audíveis. 
+Os curtos tempos de reverberação, menores que 1,5 s, dessas pequenas capelas encorajaram o 
+desenvolvimento de novas formas musicais e conduziram ao período Barroco. 
+Fonte:David Halliday, Robert Resnick e Jearl Walker, Fundamentos de Física – vol.2 (Gravitação, Ondas e Termodinâmica),  
+4ª. Edição (1993) Editora LTC.
+O fenômeno ondulatório que explica a situação relatada no texto é a:
+a) reflexão das ondas sonoras.
+b) difração das ondas sonoras.
+c) refração das ondas sonoras.
+d) dispersão das ondas sonoras.
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS21
+QUESTÃO 33
+Para determinar em que faixa de diferença de potencial um resistor se comporta como ôhmico e o 
+valor da resistência desse resistor nessa faixa, um técnico conectou um voltímetro e um amperímetro 
+conforme indicado na figura abaixo, em que mostra um trecho do circuito quando a fonte de alimentação, 
+que é variável, estava desligada.
+Variando a diferença de potencial da fonte, anotando os valores lidos no voltímetro e amperímetro, o 
+técnico fez um gráfico de tensão U (V) versus corrente elétrica i (A), apresentado abaixo.
+Qual o valor da resistência encontrada pelo técnico na faixa citada?
+a) 4,5
+b) 10 
+c) 18
+d) Não é possível determinar a resistência para essa situação, pois o voltímetro e amperímetro foram 
+ligados de maneira errada. FÍSICA
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS22
+QUESTÃO 34
+Um avião de salvamento voa com velocidade constante de v = 55 m/s, a uma altura de H = 125 m, em 
+direção a um ponto diretamente acima de uma vítima de um naufrágio, com a intenção de liberar uma 
+balsa (veja a figura). Use g = 10 m/s2 e desconsidere a resistência do ar e qualquer outro atrito. Abaixo 
+da figura há uma tabela de ângulos e as respectivas tangentes para auxílio. 
+Para que a balsa caia exatamente na posição da vítima o ângulo de visada do piloto em relação à vítima 
+no instante em que o piloto deixa a balsa cair deve ser de:
+a) 35°
+b) 45º
+c) 55º
+d) 65º
+QUESTÃO 35
+Um objeto de altura 2 cm é colocado a 15 cm de uma lente esférica convergente de distância focal 10 cm.  
+Nesse contexto, a altura da imagem formada pela lente devidamente  projetada em um anteparo é:
+a) 4 cm
+b) 5 cm
+c) 6 cm
+d) 7 cm
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS23
+FÍSICA
+RASCUNHOPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS24
+As questões 36, 37 e 38 se referem ao texto IV
+Texto IV
+ Sempre investimos em meios de conhecer melhor a forma da Terra, e durante muitos anos 
+esse tema foi foco de debates e de elaboração de teorias. Desde a Antiguidade, buscamos maneiras de 
+melhor conhecer e representar o nosso planeta, possibilitando, assim, que mapeamentos e medições 
+diversas pudessem ser feitos com maior exatidão.
+ Plana? Redonda? Arredondada? Foram muitos os questionamentos. E só com o aprimoramento 
+de técnicas cartográficas e o desenvolvimento tecnológico foi possível ir construindo uma melhor 
+definição.
+ Mas por que devemos conhecer tão bem a forma do nosso planeta? Conhecer tanto a forma 
+como a dimensão da Terra é fundamental para operações relacionadas ao posicionamento terrestre, 
+à navegação (seja terrestre, marítima ou aérea) e a diferentes transformações de escala, importantes 
+para a elaboração de mapas, com detalhamentos variados.
+Fonte: CRUZ, Carla Madureira. Nem plana, nem redonda:  definir a forma exata da Terra é um desafio. Ciência Hoje. Coluna 
+Geoinformação, julho 2018. Disponível em: https://cienciahoje.org.br/artigo/nem-plana-nem-redonda-definir-a-forma-exata-
+da-terra-e-um-desafio/#:~:text=Hoje%2C%20o%20nosso%20planeta%20%C3%A9,o%20paradigma%20da%20Terra%20es -
+f%C3%A9rica. Acesso em 21 de abr. de 2023.
+QUESTÃO 36
+Ao longo do tempo foram realizados inúmeros estudos sobre a forma do planeta Terra. Desde a 
+Antiguidade esta é uma questão debatida nas diferentes áreas do conhecimento. 
+Sobre os estudos acerca da forma do planeta marque a alternativa INCORRETA.
+a) O planeta era considerado uma esfera regular, até meados do século XVII, ou seja, seu raio e 
+diâmetro eram uniformes em toda a superfície terrestre. As pesquisas científicas voltadas para a 
+existência da gravidade alteraram esta definição, indicando diferenças expressivas entre os raios 
+geométricos do planeta.
+b) As teorias físicas newtonianas foram responsáveis pela definição do novo formato do planeta, 
+questionando o paradigma da Terra esférica.
+c) Achatado nos pólos, o elipsóide de revolução é ainda hoje a figura matemática que os geodesistas 
+(cientistas dedicados a estudar, entre outras questões, a forma e as dimensões da Terra) 
+consideram a que mais se adapta à forma verdadeira da Terra.
+d) A superfície terrestre é regular, sendo este o seu formato definitivo, ou seja, não há interferência de 
+ações erosivas.
+QUESTÃO 37
+Segundo Carla M. Cruz, para a realização da representação da “superfície terrestre em um plano, é 
+necessário que se adote uma superfície de referência, que corresponda a uma figura matematicamente 
+definida” (CRUZ, 2018). 
+Desta maneira, a representação da Terra deverá ser feita segundo certos princípios. Sobre as formas 
+de projeção geográfica, marque a alternativa correta.
+a) A Projeção cartográfica pode ser definida como um registro de linhas numa superfície plana, 
+produzido como base para a elaboração dos mapas. As projeções cartográficas podem ser: 
+cilíndricas, cônicas e azimutais.
+b) A projeção cilíndrica projeta os meridianos e paralelos na superfície plana, distorcendo a forma dos 
+continentes e mantendo as suas áreas.
+c) As projeções cartográficas mais utilizadas são as cilíndricas, sendo as mais conhecidas as de 
+Mercator e a de Gall-Peters, sendo a primeira conhecida como projeção equivalente e a segunda 
+como projeção conformal.
+d) As projeções azimutais sacrificam a proporção das áreas em favor das formas dos continentes.GEOGRAFIA (Questões de 36 a 40)PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS25
+QUESTÃO 38
+Como afirma Carla M. Cruz, o conhecimento acerca tanto da forma como da dimensão do planeta 
+é imprescindível para a realização de posicionamento terrestre voltado à navegação - seja terrestre, 
+marítima ou aérea - e para a elaboração de mapas e cartas em diferentes escalas voltado a diferentes 
+objetivos.
+Leia as asserções abaixo:
+I - Os mapeamentos por computador e os sistemas de informações geográficas vêm contribuindo 
+para a capacidade de armazenamento de dados e a exploração de novas aplicações como o 
+georreferenciamento de mapas históricos.
+II - A aplicação das escalas nos registros cartográficos permite a representação de dimensões 
+diferenciadas de uma mesma área.
+III - Os mapas são constituídos de símbolos - legendas - utilizados para a comunicação dos dados 
+espaciais sobre aspectos naturais, sociais, culturais e políticos de uma área geográfica
+Está correto o que se afirma em: 
+a) I e II
+b) II e III.
+c) I e III.
+d) Todas.
+QUESTÃO 39
+Ciências como a Sociologia, a Geografia e a Ecologia apresentam diferentes definições para a categoria 
+população.
+Assinale a alternativa que apresenta a definição de “população” correta conforme a concepção da área 
+do saber:
+a) A Geografia e a Demografia consideram “população” como grupos de pessoas fixadas em 
+determinado território, explicitando a relação entre indivíduos e o espaço geográfico.
+b) A Sociologia tem abordagem qualitativa, avaliando as populações através de sondagens estatísticas.
+c) A Geografia define a população como grupos de pessoas que transitam entre diferentes espaços, 
+como as cidades e as áreas rurais.
+d) A Demografia desconsidera a alteração no número de pessoas ao longo de determinado período.GEOGRAFIAPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS26
+GEOGRAFIA
+QUESTÃO 40
+Analise o gráfico abaixo para responder à questão:
+Fonte: http://sigaceivap.org.br/publicacoes/2013/Processo_64-2013/Processo_064-2013-Divino/Processo_064-2013_Divino_
+Prop-I_Fase%201.pdf
+De acordo com os dados do gráfico e as condições que envolvem o fenômeno, analise as seguintes 
+proposições: 
+I. As taxas de natalidade no Brasil eram, no passado, uma das mais elevadas do mundo. Os últimos 
+anos demonstram um decréscimo nítido no número médio de filhos por mulher.
+II. A urbanização da população brasileira facilitou a adoção de novos procedimentos quanto à 
+natalidade: maior acesso a métodos contraceptivos e mais informações nos meios de comunicação 
+sobre políticas de natalidade.
+III. A maior integração da mulher como força de trabalho na área urbana, associado aos custos mais 
+elevados na criação de filhos, criam limitações no número de filhos por casal, o que pode ser visto 
+como estratégia de mobilidade social ascendente.
+IV. Em geral, as pessoas que vivem nas cidades casam com idade mais elevada, o que diminui o 
+período social de fertilidade e, consequentemente, a média de filhos por família.
+Está correto o que se afirma em:
+a) I e II.
+b) I e III.
+c) I, II e III.
+d) I, II, III e IV.
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS27
+QUESTÃO 41
+Leia os textos abaixo para responder à questão.
+Texto A
+Pode ser que, no futuro, haja uma história da África a ser ensinada. No presente, porém, ela não existe; 
+o que existe é a história dos europeus na África. O resto são trevas e as trevas não constituem história. 
+O mundo atual [...] está a tal ponto dominado pelas ideias, técnicas e valores da Europa ocidental 
+que, pelo menos nos últimos cinco séculos, na medida em que a história do mundo tem importância, 
+é somente a história da Europa que conta. Por conseguinte, não podemos nos permitir divertirmo-
+nos com o movimento sem interesse de tribos bárbaras nos confins pitorescos do mundo, mas não 
+exerceram nenhuma influência em outras regiões.
+Fonte: TREVOR-ROPER, H. Apud FAGE, J.D. “A evolução da historiografia da África”. In: História Geral da África. Metodologia e Pré 
+História da África. vol. I. São Paulo: Ática/Unesco.
+Texto B
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte 
+Lei:
+Art. 26 A - Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se 
+obrigatório o ensino sobre História e Cultura Afro-Brasileira.
+§ 1o O conteúdo programático a que se refere o caput deste artigo incluirá o estudo da História da 
+África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação 
+da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e 
+política pertinentes à História do Brasil.
+§ 2o Os conteúdos referentes à História e Cultura Afro-Brasileira serão ministrados no âmbito de 
+todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História 
+Brasileiras.
+ 
+Fonte: Lei n. 10.639 de 9 de janeiro de 2003. Disponível em https://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm. Acesso 
+em 20/04/2023.
+O texto  A foi redigido na década de 1960 em pleno processo de descolonização política das colônias 
+africanas por um professor de história moderna da Universidade de Oxford. O texto B faz parte de uma 
+legislação que, em 2023, completa 20 anos de vigor. 
+A partir da leitura dos textos e de seus conhecimentos, assinale a alternativa correta.    
+             
+a) O historiador Trevor-Roper faz uma análise realista da história africana, ao apontar sua 
+a-historicidade sem a presença europeia. A legislação brasileira corrobora as afirmações 
+apresentadas no texto A, uma vez que não propõe o estudo da África como um objeto autônomo 
+da história europeia.
+b) O historiador Trevor-Roper, ao defender a centralidade europeia, demonstra que o estudo 
+da história é, metodologicamente, feito por escolhas dos historiadores, inseridos em diversos 
+contextos políticos-econômicos que os influenciam. A lei 10.639, por sua vez, ignora que as 
+escolhas metodológicas na história, arte e literatura  importam no que tange à educação no Brasil.
+c) O historiador Trevor-Roper nega a historicidade própria dos povos africanos, desqualificando-os 
+ao adotar uma perspectiva eurocêntrica. A legislação brasileira, por sua vez, busca superar tal 
+perspectiva, visando garantir o reconhecimento da diversidade que compõe a história e cultura 
+brasileiras.
+d) O historiador Trevor-Roper remonta uma interpretação que classifica os africanos como primitivos 
+e inferiores, incapazes de fazer e contar a própria história. A legislação brasileira ratifica essa 
+interpretação ao tornar obrigatório o estudo da África, reforçando práticas racistas no Brasil.
+ HISTÓRIA (Questões de 41 a 45)PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS28
+HISTÓRIA
+QUESTÃO 42
+O texto a seguir, sobre a cidade inglesa de Manchester, foi escrito pelo historiador francês Alexis de 
+Tocqueville, em 1835:
+Desta vala imunda a maior corrente da indústria humana flui para fertilizar o mundo todo. Deste esgoto 
+imundo jorra ouro puro. Aqui a humanidade atinge o mais completo desenvolvimento e sua maior 
+brutalidade, aqui a civilização faz milagres e o homem civilizado torna-se quase um selvagem.
+Fonte: Apud HOBSBAWM, E. A Era das Revoluções: Europa 1979-1848. Rio de janeiro: Paz e Terra, 1989, p.43.
+A partir da leitura do texto e de seus conhecimentos, assinale a alternativa que caracteriza corretamente 
+a Revolução Industrial:
+a) A intensa urbanização desordenada, as longas jornadas de trabalho, a falta de condições de saúde 
+laboral e a geração de riqueza com concentração de renda.
+b) O êxodo urbano, a presença de burgueses e operários, a alimentação precária e insuficiente e 
+designação das atividades com justificativas religiosas.
+c) O trabalho escravo, as extensas jornadas de trabalho, a grande mobilidade social e a circulação de 
+riqueza e ouro.
+d) A valorização da intervenção do Estado na economia, o planejamento sanitário das cidades, a 
+especialização do trabalho e a produção em larga escala.
+QUESTÃO 43
+Art. 3º - O Presidente da República, no interesse nacional, poderá decretar a intervenção nos Estados 
+e Municípios, sem as limitações previstas na Constituição.
+Art. 10 - Fica suspensa a garantia de habeas corpus, nos casos de crimes políticos, contra a segurança 
+nacional, a ordem econômica e social e a economia popular.
+ Art. 11 - Excluem-se de qualquer apreciação judicial todos os atos praticados de acordo com este Ato 
+institucional e seus Atos Complementares, bem como os respectivos efeitos.  
+Fonte: ATO INSTITUCIONAL N.º 5 DE 13 DE DEZEMBRO DE 1968. Disponível em: http://www.planalto.gov.br/ccivil_03/ait/ait-05-
+68.htm. Acesso em 20/04/2023.
+O AI-5, do qual foram retirados os artigos acima, representou uma ruptura profunda com o Estado 
+Democrático de Direito pois:
+a) Retirou o presidente João Goulart do poder, desrespeitando as eleições, transformando o Brasil em 
+parlamentarista com as intervenções nos Estados e Municípios.
+b) Deu liberdade para que o judiciário julgasse os criminosos terroristas dentro do Código Penal então 
+vigente, descaracterizando um sistema democrático.
+c) Possibilitou a contestação pacífica e legal dentro das esferas municipais e estaduais, reiterando 
+direitos civis e políticos historicamente conquistados.
+d) Suprimiu os direitos individuais dos cidadãos, legitimando prisões arbitrárias, perseguições e 
+torturas, sem que houvesse possibilidade de uma instância regulatória.
+ PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS29
+QUESTÃO 44
+A Igreja Católica não ficou imóvel diante da Reforma Protestante. Uma parte do clero e grupos de 
+fiéis achavam necessário acabar com os abusos praticados por muitos de seus membros e reformar a 
+instituição. Consideravam também urgente promover um movimento de reafirmação dos princípios da 
+doutrina católica que ampliasse o número de seus seguidores. Foi nesse contexto que se adotou um 
+conjunto de medidas conhecido como Reforma Católica ou Contrarreforma.
+Fonte: COTRIM, Gilberto. História Global. São Paulo: Saraiva, 2016.
+Sobre a Contrarreforma Católica, leia as afirmativas:
+I. Ocorreu a legitimação da concessão de indulgências, porém, com a proibição da venda das mesmas, 
+de modo a conter as práticas abusivas que ocasionaram lucros desonestos. 
+II. Houve a reativação do Tribunal da Inquisição e a criação do Index librorum prohibitorum, que 
+tratava-se de uma lista de livros condenados e proibidos pela Igreja Católica. 
+III. Foi criada a Ordem dos Jesuítas, que teve como missão combater o avanço do protestantismo em 
+prol da proteção e respeito às crenças religiosas dos povos originários. 
+Está correto o que se afirmar em: 
+a) I e II.
+b) II e III.
+c)  I e III.
+d) I, II e III. 
+QUESTÃO 45  
+Para os grupos reformistas que apoiavam Vargas, a nova Constituição trazia o risco de retorno ao 
+liberalismo, o que poderia representar um retrocesso do Brasil para o regime oligárquico. Como vinha 
+acontecendo na Europa, o Brasil assistia à radicalização de organizações de direita e de esquerda, que 
+começavam a protagonizar conflitos entre si.
+Fonte: VAINFAS, Ronaldo, FARIA, Sheila de Castro, FERREIRA, Jorge, DOS SANTOS, Jorgina. História 3 . São Paulo: Saraiva, 2016. 
+Sobre a Ação Integralista Brasileira (AIB) e a Aliança Nacional Libertadora (ANL), que correspondem a 
+grupos políticos que atuaram durante o período do Governo Constitucional de Getúlio Vargas (1934-
+1937), assinale a alternativa que apresenta uma informação INCORRETA sobre contexto citado:
+a) A existência de um partido único, o fim da liberdade de expressão e a eliminação de qualquer 
+oposição foram medidas defendidas pela AIB. 
+b) A existência de uma frente antifascista, a defesa do anti-imperialiismo e a exigência de liberdades 
+democráticas foram medidas defendidas pela ANL.
+c) O nacionalismo radicalizado, a defesa dos valores mais conservadores da Igreja Católica e o culto à 
+personalidade do líder foram medidas defendidas pela AIB.
+d) A reforma agrária, os empréstimos estrangeiros para gerar empregos e a proibição de militares e 
+ex-militares de participarem da política foram medidas defendidas pela ANL. PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS30
+Língua Estrangeira
+ESPANHOL
+ (Questões de 46 a 50)PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS31
+As questões 46 a 47 se referem ao Texto V.
+TEXTO V
+ 
+Fonte: Disponível em:  https://stryptor.pages.dev/mafalda/05/095/ acesso em 19/04/2023.
+QUESTÃO 46 
+Na tirinha, Mafalda aparece no 1º quadrinho lendo um jornal. O conteúdo da notícia lida por ela é 
+transmitido ao leitor por meio da expressão: “No hay mal que dure cien años”. 
+Neste contexto, o sentido desta expressão é:
+a) As coisas ruins duram cem anos ou mais.
+b) As coisas ruins duram pouco tempo, somente cem anos.
+c) Não há mal que dure para sempre.
+d) Os males duram para sempre.
+QUESTÃO 47
+O uso da linguagem não verbal é fundamental para construção do sentido da tirinha. No último 
+quadrinho (3º) a expressão facial de Mafalda denota angústia e muita apreensão, após ler as notícias 
+do jornal. Estas expressões corroboram o sentido da frase utilizada por ela “Cien años no sé, pero hay 
+males que hace rato peinan canas.” 
+Assinale a alternativa que traduz o sentido desta expressão:
+a) Cem anos eu não sei, mas há males que já estão velhos.
+b) Cem anos eu não sei, mas há males que são como os ratos, saem correndo da nossa vida.
+c) Cem anos eu não sei, mas não há males que perduram tanto tempo.
+d) Cem anos eu não sei, mas há males que são piores que ratos, assustam as pessoas.ESPANHOL
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS32
+QUESTÃO 48
+ Leia a tirinha abaixo para responder à questão:
+ Fonte: Disponível em: https://22tonslatinosport.wordpress.com/2013/04/12/sociedad-suciedad-ou-zoociedad/ Acesso em 
+20/04/2023. 
+Na tirinha, Quino utiliza uma ironia para fazer uma crítica à sociedade. A ironia consiste no uso das 
+palavras:
+a) homógrafas “sociedade, suciedad e zoociedad”.
+b) homófonas “sociedad, suciedad e zoociedad”.
+c) antônimas “sociedade suciedad e zoociedad”.
+d) metafóricas “sociedade, suciedad e zoocidad”.
+As questões 49 e 50 se referem ao Texto VI
+TEXTO VI  
+Excerto do poema “20”, de Pablo Neruda
+Puedo escribir los versos más tristes esta noche.
+Escribir, por ejemplo: «La noche está estrellada,
+y tiritan, azules, los astros, a lo lejos».
+[...]
+Puedo escribir los versos más tristes esta noche.
+Pensar que no la tengo. Sentir que la he perdido.
+[...]ESPANHOL
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS33
+Ya no la quiero, es cierto, pero cuánto la quise.
+Mi voz buscaba el viento para tocar su oído.
+De otro. Será de otro. Como antes de mis besos.
+Su voz, su cuerpo claro. Sus ojos infinitos.
+Ya no la quiero, es cierto, pero tal vez la quiero.
+Es tan corto el amor, y es tan largo el olvido.
+Porque en noches como ésta la tuve entre mis brazos,
+mi alma no se contenta con haberla perdido.
+Aunque éste sea el último dolor que ella me causa,
+y estos sean los últimos versos que yo le escribo.
+Fonte: NERUDA, Pablo. “El poema 20.” Veinte poemas de amor y una canción desesperada. Disponível em: https://www.cer -
+vantesvirtual.com/obra-visor/poema-20-0/html/ffc28ba4-9c97-4592-97a8-f338821299f1_2.html acesso em 19/04/2023.
+QUESTÃO 49
+No poema, o eu-lírico, em tom de lamentação e melancolia, retrata seu estado emocional. A partir da 
+leitura, é possível afirmar que o tema central do poema é a expressão do: 
+a) sofrimento e da angústia diante da partida da amada. O eu poético demonstra sua insatisfação por 
+meio dos versos “De otro. Será de outro”, evidenciando que não houve amor correspondido.
+b) sofrimento e da angústia diante de um amor perdido. O eu lírico faz referência à amada e aos 
+sentimentos diante da perda dela.
+c) contentamento ao se dar conta da partida da amada. O eu enunciador sente-se aliviado diante da 
+situação e, assim, escreve seus tristes versos.
+d) sentimento paradoxal. Ao mesmo tempo que a eu poético sofre pela finitude do amor,   sente-se 
+contente e feliz.
+QUESTÃO 50
+Nos seguintes versos do poema:
+“Ya no la quiero, es cierto, pero tal vez la quiero.
+Es tan corto el amor, y es tan largo el olvido.”
+A palavra “olvido”  está sendo utilizada no sentido de:
+a) dor
+b) esquecimento
+c) ouvido
+d) sofrimentoESPANHOLPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS34
+Língua Estrangeira
+INGLÊS
+ (Questões de 46 a 50)PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS35
+As questões 46 a 47 se referem ao Texto VII.
+Texto VII
+Bulletproof rooms in US schools
+People in the US continue to fight for stricter gun laws, but lawmakers haven’t implemented any 
+legislation yet.  According to officials, this year, there were more mass shootings than days.
+A security company in Alabama developed bulletproof safe rooms which can protect children during 
+such incidents. KT Solutions created a collapsible bulletproof room which workers install inside 
+classrooms. It is possible to set up the room in 10 seconds and it protects children and teachers in 
+situations when there’s a shooter in the school. Each room costs more than 50,000 dollars.
+Kevin Thomas is the designer of the rooms. He said that bulletproof rooms wouldn’t solve the problem 
+of mass shootings, but they kept children safe if something like that happened.
+Fonte: Disponível em: <https://www.newsinlevels.com/products/bulletproof-rooms-in-us-schools-level-2/> Acesso em 17 abr. 
+2023.
+              
+QUESTÃO 46
+Considere as seguintes afirmações acerca do texto VII:
+I - Já existem leis mais rigorosas sobre armas implementadas nos Estados Unidos.
+II - Este ano, já houve muitos tiroteios em massa no país.
+III - Uma empresa de segurança no Alabama desenvolveu salas seguras à prova de balas com o intuito         
+de proteger as crianças em casos de possíveis ataques.
+IV - De acordo com o designer das salas, Kevin Thomas, as salas à prova de balas resolverão o problema 
+dos tiroteios em massa.
+É correto somente o que se afirma em:
+a) I, III e IV.
+b) II, III e IV.
+c) II e III.
+d) I e III.
+QUESTÃO 47
+Os pronomes which  e it, em destaque no texto, referem-se, respectivamente a:
+a) bulletproof safe rooms  /  room
+b) security company / bulletproof safe rooms  
+c) Alabama / room
+d) bulletproof safe rooms / ten seconds
+              
+    INGLÊSPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS36
+QUESTÃO 48
+Leia o texto para responder à questão:
+Fonte: Disponível em: <https://www.gocomics.com/comics/lists/1723076/friendship-comics-1629281880?page=2> Acesso em 17 
+abr. 2023.
+A construção “We’ve been buds for a long time.”, apresentada no primeiro quadro da tirinha, tem o 
+sentido de que
+a) as meninas foram amigas por muito tempo.
+b) as meninas são amigas há muito tempo.
+c) as meninas não são mais amigas há muito tempo.
+d) as meninas, incluindo a Tiffany, são amigas há pouco tempo.
+QUESTÃO 49
+Ghana first to approve 'world-changer' malaria vaccine
+By James Gallagher
+Health and science correspondent
+ 
+Ghana is the first country to approve a new malaria vaccine that has been described as a "world-
+changer" by the scientists who developed it.       
+The vaccine - called R21 - appears to be hugely effective, in stark contrast to previous ventures in the 
+same field.
+Ghana's drug regulators have assessed the final trial data on the vaccine's safety and effectiveness, 
+which is not yet public, and have decided to use it.
+The World Health Organization is also considering approving the vaccine.
+Malaria kills about 620,000 people each year, most of them young children.
+It has been a massive, century-long, scientific undertaking to develop a vaccine that protects the body 
+from the malaria parasite.
+Trial data from preliminary studies in Burkina Faso showed the R21 vaccine was up to 80% effective 
+when given as three initial doses, and a booster a year later.
+Fonte: Disponível em: <https://www.bbc.com/news/health-65252511> Acesso em 17 abr. 2023.
+ INGLÊS
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS37
+INGLÊS
+A partir da leitura da notícia, é possível afirmar que:
+a) Ghana foi o primeiro país a tentar desenvolver a vacina contra a malária, o que foi descrito como 
+uma mudança mundial.
+b) A vacina desenvolvida parece ser extremamente eficaz, em contraste com empreendimentos 
+anteriores no mesmo campo.  
+c) A Organização Mundial de Saúde já aprovou a vacina contra a malária desenvolvida em Ghana.
+d) Dados de estudos preliminares mostraram que a vacina contra a malária foi até 80% eficaz com 
+apenas uma dose.            
+              
+     
+QUESTÃO 50
+Read the text below:
+As we get older and when we think about our past, we sometimes ponder the things that we should 
+have done. And we also might regret those things we did badly and the mistakes we made. In reality, 
+we can always learn from our mistakes and hope to never make them again. For example, if I failed a 
+test because of a lack of study, the next test I will hope to pass because of hard work. Remember too 
+that some regrets are not based in reality, and we may waste time thinking that they are. Would I have 
+really not been involved in a car crash if I had been driving more slowly? After all, the other driver should 
+have been concentrated and not playing with their radio. We have to  be honest with ourselves and live 
+in the now. The only things we can control are the things happening now, in this moment. We need to 
+focus on the present.
+Fonte: Disponível em: <https://view.genial.ly/60a22e17c0967f0d0f04b1b4/presentation-modal-verbs-in-narratives-texts> Acesso 
+em 17 abr. 2023.
+O texto acima faz uso de vários modal verbs (verbos modais) que são verbos auxiliares utilizados 
+para complementar ou mudar o sentido dos verbos principais nas frases. Observando o sentido do 
+texto, podemos dizer que os verbos modais should, can e have to , destacados no texto, expressam, 
+respectivamente,:
+a) recomendação, habilidade e possibilidade.
+b) obrigação, permissão e necessidade.
+c) necessidade, possibilidade e obrigação.
+d) sugestão, possibilidade e necessidade.PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS38
+PROPOSTA DE REDAÇÃO
+A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de 
+sua formação, redija um texto dissertativo-argumentativo em modalidade escrita formal da língua 
+portuguesa sobre o tema "As dimensões da pobreza no Brasil durante e pós pandemia de COVID 
+19", apresentando proposta de intervenção que respeite os direitos humanos. Selecione, organize e 
+relacione, de forma coerente e coesa, argumentos e fatos para defesa de seu ponto de vista. 
+Texto motivador 01
+POBREZA SOCIAL BATE RECORDE E ATINGE 64,6 MILHÕES DE BRASILEIROS DURANTE PANDEMIA, 
+DIZ ESTUDO
+ Entre 2020 e 2021, 11,7 milhões de pessoas entraram em situação de pobreza, elevando a 
+30,4% a taxa de pessoas nessa condição.
+ A pobreza social no Brasil bateu recorde durante a pandemia de Covid-19, atingindo 64,6 
+milhões de pessoas em 2021. É o que mostra um estudo publicado por pesquisadores da Pontifícia 
+Universidade Católica do Rio Grande do Sul (PUC-RS).
+ Entre 2020 e 2021, 11,7 milhões de brasileiros entraram em situação de pobreza social, elevando 
+a 30,4% o percentual de pessoas nessa condição – a maior taxa da série histórica, iniciada em 2012.
+ O estudo do Laboratório de desigualdades, pobreza e mercado de trabalho da universidade 
+analisou as dimensões absoluta e relativa da pobreza, considerando linhas de medição do Banco 
+Mundial. Os dados foram baseados na Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, 
+do IBGE.INSTRUÇÕES
+1. O rascunho da redação deve ser feito em lugar apropriado. 
+2. O texto definitivo deve ser escrito à tinta azul ou preta, na folha própria, em até 25 (vinte e cinco) 
+linhas.   
+3. Receberá nota zero à redação que:
+• apresentar menos de 15 (quinze) linhas escritas, sendo considerada “insuficiente”;
+• fugir ao tema;
+• não atender ao tipo dissertativo-argumentativo em prosa
+• apresentar conteúdo que desrespeite os direitos humanos;
+• apresentar letra ilegível;
+• apresentar parte do texto deliberadamente desconectada do tema proposto;
+• apresentar tentativa de identificação por parte do candidato.
+ 
+4. A redação que apresentar cópia dos textos motivadores ou do Caderno de Questões terá 
+desconsiderado o número de linhas copiadas, para efeito de avaliação. Desconsiderando as 
+linhas que sejam cópias, se sobrarem menos de 15 linhas de autoria, à redação será atribuída 
+nota zero. REDAÇÃOPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS39
+Evolução da população em situação de pobreza social no Brasil
+Fonte: PUCRS Data Social: Laboratório de desigualdades, pobreza e mercado de trabalho
+ De acordo com a pesquisa, os grupos mais atingidos pelo aumento da pobreza social foram os 
+negros e moradores das regiões Norte e Nordeste.
+ Entre os brancos, a taxa de pobreza social era de 19,4% em 2021, enquanto o percentual entre 
+os pretos, pardos e indígenas chegou a 38,9%.
+ No Nordeste do país, a taxa de pessoas abaixo da linha da pobreza era de 36,4%. O Norte era 
+a segunda região com maior concentração de pessoas nessa situação, com 33,9% da população. Em 
+seguida, estavam Sudeste (29%), Centro-Oeste (28,4%) e a região Sul (24%). “O Brasil é um país em que 
+as desigualdades são marcadas por disparidades não apenas funcionais ou educacionais, mas também 
+regionais e de raça, o que torna o fenômeno ainda mais complexo para ser enfrentado”, afirma Ely 
+Mattos, coordenador do PUCCRS Data Social.
+ O estudo também mostrou que o percentual de mulheres em situação de pobreza social foi 
+superior ao de homens entre 2012 e 2021, com exceção de 2018, quando ficou 0,07 pontos percentuais 
+abaixo. Em geral, no entanto, a diferença é relativamente pequena. "Isso acontece porque o cálculo das 
+taxas de pobreza é feito com base na renda da família onde os indivíduos estão inseridos. Dessa forma, 
+se a família é considerada pobre de acordo com determinado critério, todos os seus membros serão 
+assim classificados, independentemente de seu sexo", diz o estudo.
+[...].
+ 
+Fonte G1:  Disponível em https://g1.globo.com/economia/noticia/2023/02/02/pobreza-social-bate-recorde-e-atinge-646-mil -
+hoes-de-brasileiros-durante-pandemia-diz-estudo.ghtml. Acesso em 02 de maio de 2023.REDAÇÃO
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS40
+Texto motivador 02
+O Bicho 
+Manuel Bandeira
+Vi ontem um bicho 
+Na imundície do pátio
+Catando comida entre os detritos.
+Quando achava alguma coisa, 
+Não examinava nem cheirava:
+Engolia com voracidade.
+O bicho não era um cão, 
+Não era um gato,
+Não era um rato.
+O bicho, meu Deus, era um homem. 
+Cultura Genial: Disponível em https://www.culturagenial.com/poema-o-bicho-manuel-bandeira/. 
+Acesso em 02 de maio de 2023.
+Texto motivador 03 
+Tribuna do Norte:  Disponível em http://www.tribunadonorte.com.br/noticia/aumento-da-extrema-pobreza-a-tema-da-charge-
+de-brum/464433. Acesso em 02 de maio de 2023. 
+PROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS41
+RASCUNHO PARA A REDAÇÃO
+0501
+10
+15
+20
+25
+INSTITUTO FEDERA L
+Sul de Minas GeraisPROCESSO SELETIVO  2023 · 2° Semestre | Ensino Superior INSTITUTO FEDERAL DO SUL DE MINAS GERAIS42
+RASCUNHO PARA O GABARITO
+Língua Portuguesa
+Língua
+EstrangeiraMatemática Biologia
+Química Física Geograﬁa História
+Informações aos candidatos:
+1) Para acompanhar as publicações do Processo Seletivo 2023/2º semestre, acesse:
+https://vestibular.ifsuldeminas.edu.br ;
+2) Para entrar em contato com o IFSULDEMINAS sobre o Processo Seletivo 2023/1º semestre, envie 
+mensagem para o e-mail vestibular@ifsuldeminas.edu.br ;
+3) O link para a plataforma de solicitação de matrícula é: https://www.gov.br/pt-br/servicos/
+matricular-se-em-curso-de-educacao-superior-de-graduacao-licenciatura-tecnologia-e-
+bacharelado-ifsuldeminas 
+4) A documentação para matrícula, tanto de candidatos que concorrem às vagas de ação afirmativa, 
+quanto às vagas de ampla concorrência, devem ser anexadas no próprio sistema de matrícula . Não é 
+necessária a apresentação de documentos em outro momento;
+5) Para consultar o cronograma deste Processo Seletivo, acesse: https://portal.ifsuldeminas.
+edu.br/index.php/cursos-superiores/aberto-cursos-superiores/5775-edital-82-2023-cursos-
+superiores-2023-2 

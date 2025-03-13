@@ -1,0 +1,1509 @@
+ 
+QUESTÃO 01 
+ 
+Considere o gráfico da função g(x), representada a seguir e assinale no cartão -
+resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 
+ 
+     
+ 
+     
+ 
+  
+ 
+01. A imagem da função g(x) é o intervalo  ( -4, +∞). 
+02. A função g(x) é crescente no intervalo [ - 2, +∞ ). 
+04. A função representada no gráfico acima é g(x)= x
+2 + 2x – 3. 
+08. A distância das raízes da função g(x) ao vértice da função g(x) é igual a 2√5. 
+16. O ponto D( -10, 107) pertence à função g(x) representada no gráfico acima.  
+32. A função g(x) intercepta o eixo y no ponto (1, 0).        √                       
+                        
+√      
+   
+2‖     
+     
+     ‖                     
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+2 
+QUESTÃO 02  
+ 
+ 
+Assinale no cartão -resposta a soma da(s) pr oposição(ões) CORRETA (S). 
+  
+01.  Antônio possui um caminhão com capacidade para carregar 80 sacos de cimento 
+ou 600 tijolos. Se o caminhão já estiver com uma carga de 42 sacos de cimento, então, além dessa carga, ainda poderão ser colocados no máximo 285 t ijolos.  
+ 02.  Supondo -se que o salário de um trabalhador suba 30% e que os preços subam 
+25%, é correto afirmar que o poder aquisitivo desse trabalhador aumentará 5%. 
+ 
+04.  Luiz Arthur, um pequeno fazendeiro, possui ração suficiente para alimentar suas 28 
+vacas durante 60 dias. Após 12 dias, ele vendeu 10 vacas e, passados mais 16 
+dias, ele comprou 14 vacas. Depois des sa última compra, a quantidade de ração 
+restante será suficiente para alimentar as vacas por mais 36 dias.  
+ 
+08.  Leonardo gastou todo o seu di nheiro em três lojas. Em cada loja que ele entrava, 
+gastava a metade do dinheiro que ainda possuía e mais três reais. Sendo assim, 
+podemos afirmar que, ao entrar na primeira loja, Leonardo tinha  R$ 48,00 . 
+ 
+16.  Adilson escolheu quatro números e, ao somar cada um deles à média aritmética 
+dos outros três, obteve como resultado os números 50, 54, 58 e 62. Sendo assim, a 
+média aritmética dos quatro números escolhidos por ele é igual a 28. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+3 
+QUESTÃO 03  
+ 
+Em determinado dia de 2016, a temperatura de um muni cípio de Santa Catarina variou 
+conforme  a função T(t)= 20 - 5.sen(   
+   ), onde T é a temperatura medida em º C, no 
+instante t em horas, do determinado dia.  
+ 
+Com base nessas informações, assinale no cartão -resposta a soma da(s) 
+proposição(ões) CORRETA (S). 
+  
+01. A temperatura à 1h foi de 15 ºC.   
+ 
+02. A maior temperatura do dia ocorreu às 14h.  
+ 04. A amplitude térmica (diferença entre a maior e a menor temperatura) no município, 
+nesse dia foi de 10 ºC. 
+ 
+08. A temperatura de 20 ºC ocorreu três vezes nesse dia.  
+ 16. A menor temperatura foi de 10 ºC.  
+ 32. Às 2h40 a temperatura foi de 17,5 ºC.  
+ 
+ 
+    
+ 
+   
+ 
+   
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+4 
+QUESTÃO 04  
+ 
+Seis amigos se sentam em torno de uma mesa redonda, de maneira que formam um 
+hexágono regular perfeitamente circunscrito à mesa, conforme ilustra a figura a seguir.  
+ 
+Considerando -se que a mesa tem raio de 1m, assinale no cartão -resposta a soma 
+da(s) proposição(ões)  CORRETA(S).  
+ 
+01. A distância entre dois amigos que estejam lado a lado, como Ana e Bruno, é 1 
+metro.  
+ 
+02. A distância entre Ana e Bruno é  a mesma que existe entre Fabio  e o centro da 
+mesa. 
+ 
+04. A distância entre Carla e Eric é de √3 metros.  
+ 
+08. Ninguém na mesa está a mais de 1,5 m de outro amigo sentado à mesa.  
+ 16. Se a mãe de Dani colocasse uma toalha de mesa quadrada sobre essa mesa de 
+forma que a toalha ficasse perfeitamente inscrita na circunferência, a toalha teria 
+que ter 2 m ² de área
+.         
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+5 
+QUESTÃO 05  
+  
+ 
+A respeito de matrizes e determinantes, analise as afirmações a seguir e marque no 
+cartão resposta a soma daquela(s) que é(são)  CORRETA (S). 
+ 01. Dadas as matrizes A e B e o produto A.B, então det(A) . det(B) = det(A.B).  
+02. Seja uma matriz C, quadrada de ordem 3, de tal forma que det( C) = 5. Se 
+multiplicarmos todos os elementos de C por 2, o determinante da nova matriz será 
+10. 
+04. O determinante da matriz abaixo vale 16. 
+
+
+
+
+
+2 0001 1007 102 08134
+A
+ 
+08. Para toda matriz quadrada de ordem m, é válida a afirmação de que  
+       det    = det     , sendo    a transposta da matriz A. 
+16. Toda matriz quadrada de ordem m admite inversa.  
+32. Para que o sistema linear abaixo admita solução única, é necessário que k  6. 
+
+
+3 9y-kx5 3y 2x
+ 
+ 
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+6 
+QUESTÃO  06  
+ 
+Três caçadores (como são denominadas as pessoas que jogam Pokémon Go) A, B e C 
+estão se entretendo com esse jogo em um lote amento onde as ruas formam uma 
+malha quadrangular, como representada na figura a seguir.  
+ 
+ 
+ 
+Sabendo -se que em determinado momento as coordenadas dos caçadores, como 
+representadas na figura, são:  A(5,10), B(3,6) e C(11,12), assinale no cartão -resposta a 
+soma da(s) proposição(ões) CORRETA (S). 
+ 
+01.  No momento descrito, um Pokémon está sobre a reta que passa pelos caçadores 
+B e C. Então, a menor distância que ele pode estar do caçador A é 2 unidades de 
+comprimento.  
+02. A área do triângulo formado pela locali zação dos três caçadores de Pokémon é 20 
+unidades de área.  
+04.  A distância entre os caçadores B e C é 8 unidades de comprimento.  
+08. Se um Pokémon está sobre a circunferência que tem como centro o caçador A e 
+passa pelo caçador B, então    3       6   20 é a equação desse lugar 
+geométrico.  
+16.  No momento descrito, um Pokémon está sobre a mediatriz do segmento de reta 
+formado pelos caçadores A e B. Então a equação dessa mediatriz é x+ 2y-20=0. 
+32.  Se um Pokémon está no centro da circunferência que  passa pelos três caçadores, 
+ele está no Ponto ( 10,5). 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+7 
+Texto 1 
+ 
+La interculturalidad de los Juegos  retratada en una foto  (Manuel Viejo)  
+ 
+  
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+10 
+11 
+12 13 
+14 
+15 
+16 
+  
+Las arenas de la Playa de Copacabana acogieron  este 
+domingo las fa ses preliminares de voleibol playa. 
+Ganaron las germanas por 21 -12 y 21 -15. Al finalizar el 
+encuentro, Elhgobashy se acercó para responder a 
+preguntas de la prensa y explicó: “Llevo el hiyab desde 
+que tenía 10 años. El velo no me impide hacer las cosas 
+que me gustan; y una de ellas es jugar a este deporte”. 
+Su compañera, Nada Meawad, llevaba también manga 
+larga, pero la cabeza sin cubrir. 
+ Nunca antes Egipto se había clasificado para 
+esta competición. Ni en hombres ni en mujeres. Las 
+miradas y los focos se centraron en ella y en su 
+acompañante, Nada Meawad, de 18 años. Elghobasy y 
+su pareja se clasificaron para los Juegos de Río gracias 
+a una ampliación del reglamento de la competición 
+diseñada meses antes de los Juegos de Londres 2012.  Foto: Lucy Nicholson (Reuters)  
+ 
+17 
+18 19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+ 
+ Hasta entonces, las normas de este deporte señalaban específicamente que las jugadoras 
+no podían llevar bikinis que midiesen más de siete centímetros de ancho  en las caderas. 
+Ahora pueden elegir su indumentar ia. Con este cambio se pretendía conseguir la 
+participación de más países, además de Brasil, Estados Unidos y Europa, los grandes 
+dominadores del circuito profesional. “La idea era abrirlo a otras culturas”, dijo el jefe de 
+prensa de la Federación Internac ional de Voleibol Playa. “La meta es que cada día juegue 
+más gente a este deporte”. La medida ha sido un éxito. En el proceso de clasificación para 
+Londres participaron 143 países. En Río, 169. 
+ Este martes, en la playa más famosa del mundo, volverá a comp etir la pareja 
+egipcia ante Italia. Y volverán hacer historia. Y a disfrutar de este deporte. “Estoy orgullosa 
+de llevar la bandera egipcia en este carnaval de naciones”, dijo Elhgobashy tras la derrota.  
+http://verne.elpais.com/verne/2016/08/08/articulo/14 70667537_816047.html acceso en: 25/08/2016 [adaptado ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+8 
+CUESTIÓN 07  
+Señale la suma de la(s) proposición(es) CORRECTA (S) en la tarjeta de respuestas.  
+ 
+Las expresiones ACOGIERON, DE ANCHO e INDUMENTARIA, que aparecen 
+destacadas en el Texto 1, pueden ser  respectivamente sustituidas, sin cambio de 
+significado, por:  
+ 01. Admitieron / de espacioso / ropa  
+02. Refugiaron / de amplio / chándal  
+04. Recibieron / de largo / vestimenta  
+08. Apadrinaron / de pequeño / atuendo  
+16. Aceptaron / de estrecho / vestimenta  
+ 
+ 
+ 
+CUESTIÓN 08  
+ 
+Señale la suma de la(s) proposición(es) CORRECTA (S) en la tarjeta de respuestas . 
+ Al utilizar el término Interculturalidad, presente en el título, el autor del texto en análisis 
+plantea que  
+ 
+01. es posible haber comunicación, interacción y convivencia entre grupos sociales con 
+identidades culturales específicas y que las Olimpíadas de 2016  promocionaron 
+dicha relación.  
+02. haya una hegemonía cultural, política, económica, ideológica y comunicacional 
+entre los países que participan de los j uegos olímpicos con el objetivo de integrar 
+las personas, sin sistemas que las excluan, las discriminen o las desnivelen 
+jerárquicamente entre los grupos sociales.  
+04. no haya mecanismos sociales y políticos que diferencien los humanos por género, 
+etnia, c ultura, ideologías en los juegos olímpicos.  
+08. las mujeres en Egipto están exentas de utilizar el velo y tuvieron como probarlo en 
+los Juegos Olímpicos  de 2016 una vez que los juegos pasaron a ser interculturales a partir de las Olimpíadas de Londres 201 2. 
+16. los Juegos Olímpicos permiten la interculturalidad y harmonía entre personas de 
+nacionalidades distintas y con el nuevo reglamento del comité internacional fue posible atender a otras culturas.  
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+9 
+CUESTIÓN 09 
+ 
+Señale la suma de la(s) proposición(es)  CORRECTA (S) en la tarjeta de respuestas.  
+ Con  la expresión “Estoy orgullosa de llevar la bandera egipcia en este carnaval de 
+naciones” (líneas 26 y 27), la atleta quiso decir que  
+ 01. Usa la bandera egipcia como ropa y estaba orgullosa de su indumentaria en los 
+Juegos Olímpicos de 2016 . 
+ 
+02. tuvo la oportunidad de incluir su país en un evento deportivo en el que hay muchas 
+otras naciones siendo representadas.  
+ 04. considera los Juegos Olímpicos un carnaval con posibilidades de participación de 
+distintas nacio nes. 
+ 08. que como su pareja no llevaba el velo ella podría llevar también la bandera de 
+Egipto y estaba orgullosa por eso.  
+ 
+16. que estaba orgullosa de llevar la bandera egipcia en los juegos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+10 
+TEXT 1  
+Global Warming  
+March 11, 2016  
+Amanda MacM illan 
+ 
+Everything you wanted to know about our changing climate but were too afraid to ask.  
+ 
+ 
+(A) Global warming occurs when carbon 
+dioxide (CO2) and other air pollutants 
+collect in the atmosphere and absorb 
+sunlight and solar radia tion that have 
+bounced o ff the E arth‟s surface. 
+Normally, this radiation would escape 
+into space – but these pollutants, which 
+can last for years to centuries in the 
+atmosphere, trap the heat and cause the 
+planet to get hotter.  
+ 
+ 
+  
+(B) Over the past 50 years, the average global  temperature has increased at the fastest rate 
+in recorded history. And experts see the trend is accelerating: All but one of the 16 
+hottest years in NASA‟s 134 -year record have occurred since 2000.  
+ 
+(C) Scientists agree that the E arth‟s rising temperature s are fueling longer and hotter heat 
+waves, more frequent droughts, heavier rainfall, and more powerful hurricanes. In 2015, 
+for example, scientists said that an ongoing drought in California – the state‟s worst 
+water shortage in 1,200 years – had been int ensified by 15 percent to 20 percent by 
+global warming.  
+ 
+(D) Each year, scientists learn more about how global warming is affecting the planet, and 
+many agree that environmental, economic, and health consequences are likely to occur 
+if current trends conti nue. We can look forward to seeing: melting glaciers, early snow -
+melt, and severe droughts; rising sea levels leading to coastal flooding; forests, farms, 
+and cities facing troublesome new pests, heat waves, heavy downpours, and increased 
+flooding; among o ther problems.  
+ 
+Adapted from: <https://www.nrdc.org/stories/global -warming -101> . Accessed on: Aug 22nd, 2016.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+11 
+QUESTION 07  
+ 
+Each paragraph of the text (A, B, C, D) corresponds to an answer of the following 
+questions.  
+ 
+(1) Is global warming ca using extreme weather?  
+(2) What causes global warming?  
+(3) Why should I care?  
+(4) Is the earth really getting hotter?  
+ 
+Mark the sum for the alternative(s) that represent(s) “question and answer” 
+CORRECTLY.  
+ 
+01. 2-A; 3-D  
+02. 1-B; 2-A 
+04. 3-D; 4-C 
+08. 1-C; 3-D 
+16. 1-C; 3-B 
+32. 4-A; 2-B  
+ 
+ 
+QUESTION 08  
+ 
+Mark the sum for the statements that are CORRECT , according to the text.  
+ 01. It refers to a manual with instructions on how to contribute with the decrease of 
+global warming in the world.  
+02.  It brings up answers of relevant questions one might have on global warming.  
+04. The text was written with the purpose of elucidating what global warming is and its 
+results in California, USA.  
+08. The consequences of global warming are irreversible and people cannot do  
+anything to change it.  
+16. The verb “fueling” (paragraph C) means “to make something stronger”.  
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+12 
+QUESTION 09  
+ 
+ 
+Read the poster below and mark the sum for the statements that are TRUE according to 
+the information presented . 
+ 
+ 
+          
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+    
+ 
+Source: http://www.andrei -ivascu.ro/youre -wrong -google -anti-racism -ampaign   [Adapted]  
+ 
+01. The Google search presents some examples of positive characteristics associated  
+with black men.  
+02. The words in the Google search box speak for the black man in the picture.  
+04. The expression “You‟re wrong, Google” implies that the Internet does not provide us 
+with an accurate depiction of black men.  
+08. The poster contains the ide a that people should stop using the internet and 
+technology because it reinforces racism.  
+16. The poster promotes the idea that people need to be critical of the internet and other 
+media.  
+ 
+ 
+ 
+ 
+ 
+ 
+black men are  
+black men are failures  
+black men are losers  
+black men are disgrace  
+black men are disrespectful  
+Combating racism requires 
+reflection on channels that can 
+poison your mind and judgement .   
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+13 
+Texto 1 
+ 
+ 
+QUINO.  Toda Mafalda . Rio de Janeiro: Martins Fonte s Editora, 2003.  Acesso em: 12 set. 2016.  
+ 
+QUESTÃO 10   
+ 
+Após a leitura do Texto 1, assinale no cartão -resposta a soma da(s) proposição(ões)  
+CORRETA (S). 
+ 
+01. A expectativa da menina em relação à resposta do colega de classe acaba não se 
+confirmando.  
+02. O humor da tira pode ser atribuído à quebra de expectativa do leitor no último 
+quadrinho, pois “palavrão” parece referir -se, inicialmente, a alguma palavra 
+grosseira ou obscena.  
+04. A partir da leitura da tirinha, infere -se que as práticas políticas são obs cenas, 
+moralmente reprováveis.  
+08. A partir da leitura da tirinha, pode -se concluir que a palavra “política” é 
+intrinsecamente obscena.  
+16. A temática central da tirinha é uma crítica às práticas de ensino tradicionais.  
+32. No último quadrinho, percebe -se o constrangimento da menina por seu colega não 
+conseguir atender adequadamente ao pedido da professora.   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+14 
+Leia o texto 2 para responder as questões 11 e 12. 
+ 
+Texto 2 
+ 
+Drone substitui “pau de selfie” em autorretratos de famílias  
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 Na praia, membros de uma família sorriem, se abraçam e olham para o céu. 
+Parece um delírio coletivo, até que a chegada de um drone mostra que eles estão, na 
+verdade, faze ndo uma selfie. Ou melhor, um “dronie”, como é chamado o novo tipo de 
+autorretrato.  
+O drone é o novo pau de selfie. É melhor, mas muito mais caro. O facilitador de 
+autorretrato, que foi “o item” de 2014, custa de R$10 a R$  20,00. Um drone chega a 
+R$ 5.000,00. 
+Mas, para os adeptos da tecnologia, vale a pena gastar mais. Quem trabalha 
+com publicidade e tem drone aproveita para usá -lo também para o lazer, tirando selfies.  
+“Para onde vou, levo ele junto”, diz o publicitário João Feitosa, 20, de Santa Cruz 
+do Ca pibaribe (PE). Por R$  5.500,00  ele comprou um drone que já vem com uma 
+câmera.  
+Num churrasco no ano passado, ele e amigos pularam na piscina e, com um 
+controle, fizeram o drone levantar voo e registrar o momento. “Vida de cinema a sua, 
+né? ”, comentou uma amiga na foto postada em sua conta no Instagram. “Foi para tirar 
+onda”, responde Feitosa.  
+Ainda não há legislação para o uso de drones no Brasil. Uma portaria de 1999 
+estabelece regras para a operação de aeromodelos –  a mais importante delas é que 
+deve se r feita em locais “suficientemente distantes das áreas povoadas”.  
+O drone de Feitosa é usado no dia a dia para produzir imagens aéreas para 
+clientes de sua agência. É também nesse esquema que o publicitário William Gregio, 
+37, de Americana (a 127 KM de SP)  usa o seu, comprado há dois anos por R $7 mil. 
+Quando viaja, Gregio leva o equipamento para aperfeiçoar a fotografia, tomando 
+cuidado com o vento e a chuva. “A moda das selfies já chegou no grupo que tem os 
+drones. Mas não vai substituir as selfies feitas com celulares”, diz. “Veio para agregar. ”  
+“Tem que pegar a manha”, diz o relações públicas Leonardo Araújo, 40, de 
+Moreno (PE), que celebra ter tirado uma foto sua com a cidade inteira ao fundo. Ele 
+comprou o equipamento por R$  1.500,00  no ano passado.  
+O conceito do dronie extrapola a mera fotografia. Costuma ser um vídeo, que 
+começa registrando de perto quem controla o drone e se distancia, revelando uma 
+paisagem ao redor. 
+Nos EUA, o dronie já é um gênero reconhecido e deve ser reforçado com as 
+vendas do novo “Lily”, equipamento que segue o dono para captar suas atividades – na 
+pré-venda, custa U$$  899, cerca de R$  3.311,00 . 
+Para o alemão Florian Fischer, 37, diretor de vídeo, a diferença entre a selfie e o 
+drone é que a primeira “é algo completamente liga do ao ego”. Já a nova modalidade do 
+autorretrato, diz, “é o contrário, porque quase só se vê o que está ao redor, mostra a 
+relação com o mundo”.  
+ 
+GRAGNANI, Juliana. Drone substitui „pau de selfie‟ em fotos de família. Folha de São Paulo , 22 set. 2016. Disp onível 
+em: http://www1.folha.uol.com.br/cotidiano/2016/04/1756970 -drone -substitui -pau-de-selfie -em-fotos -de-familia.shtml. 
+Acesso em : 15 set. 2016. [Adaptado ]. 
+ 
+ 
+  
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+15 
+QUESTÃO 11  
+ 
+Com relação ao Texto 2, assinale no cartão -resposta a soma da(s) proposição(ões)  
+CORRETA (S). 
+ 
+01. A ideia central do Texto 2 são as inovações tecnológicas propiciadas pelo uso do 
+„pau de selfie‟.  
+ 
+02. Nos trechos em que se reproduz a fala de entrevistados, aparecem expressões de 
+uso coloquial, que dão certo tom de informalidade ao tex to e evitam a aridez de 
+uma linguagem excessivamente técnica.  
+ 04. A expressão “a nova modalidade do autorretrato” (linhas 36-37) refere -se a “drone” 
+(linha 36). 
+ 
+08. No trecho “Por R$ 5.500,00 ele comprou um drone que já vem com uma câmera”  
+(linhas 11 -12), o pronome em destaque retoma “drone” (linha 11 ). 
+ 
+16. O texto é uma notícia jornalística, pois relata a compra de drones por três 
+profissionais.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+    
+ 
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+16 
+QUESTÃO 12 
+ 
+Assinale no cartão -resposta a soma da(s) proposição(ões) CORRETA (S), de acordo 
+com o Texto 2. 
+ 
+01. Algumas expressões próprias da linguagem coloquial, tais como “Foi para tirar 
+onda” (linhas 15 e 16) e “Tem que pegar a manha” (linha 26), mostram que o autor do texto pretendeu ironizar a linguagem utilizada por alguns leitores do veícul o de 
+comunicação.  
+ 
+02. Apesar de tratar de um assunto relacionado à tecnologia, o texto é direcionado ao 
+público em geral.  
+ 
+04. Ao longo do texto, o uso predominante de verbos no pretérito perfeito do indicativo 
+revela certeza do autor em relação às inform ações apresentadas, além de 
+corresponder à finalidade do texto, que é narrar um fato.  
+ 08. No trecho “ Mas, para os adeptos da tecnologia, vale a pena gastar mais” (linha 8), 
+a palavra em destaque poderia ser substituída por “Todavia”, sem prejuízo ao senti do. 
+ 16. No trecho “Vida de cinema a sua, né?” (linhas 14-15), como em outras partes do 
+texto, o uso das aspas visa a marcar a fala de terceiros.  
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+17 
+Texto 3 
+Retrato  
+ 
+1 
+2 
+3 
+4 
+ 
+5 
+6 
+7 
+8 
+ 
+9 
+10 
+11 
+12 
+ 
+ Eu não tinha este rosto de hoje,  
+assim calmo, as sim triste, assim magro,  
+nem estes olhos tão vazios,  
+nem o lábio amargo.  
+ Eu não tinha estas mãos sem força,  
+tão paradas e frias e mortas;  
+eu não tinha este coração  
+que nem se mostra.  
+ 
+Eu não dei por esta mudança,  
+tão simples, tão certa, tão fácil:  
+– Em qu e espelho ficou perdida  
+a minha face?  
+ 
+MEIRELES, Cecília.  Viagem e Vaga Música. Rio de Janeiro: Nova Fronteira, 1982 . 
+ 
+QUESTÃO 13  
+ 
+Assinale no cartão- resposta a soma da(s) proposição(ões) CORRETA (S), de acordo 
+com o  Texto 3. 
+ 
+01. O poema de Cecília Meirell es evidencia características próprias da estética 
+modernista, como versos brancos e métrica livre.  
+02. O poema apresenta uma forte herança clássica, marcada pela presença de 
+algumas rimas ricas (“magro”/”amargo”; “mortas/mostra”) e de um vocabulário 
+rebusc ado. 
+04. A aceitação da mudança pela qual passa o eu lírico implica uma viagem 
+introspectiva, que o  leva a ver -se novamente jovem. 
+08. O poema apresenta um autorretrato, no qual o eu lírico observa a si próprio no 
+presente, comparando -se com aquilo que fo i no passado.  
+16. A metáfora “lábio amargo”, no quarto verso, sugere que o eu lírico, ao longo dos 
+anos, foi -se tornando mais pessimista, mais propenso a comentários amargos.  
+32. A última estrofe expressa que as mudanças inesperadas pelas quais passa o eu  
+lírico deixam -no profundamente surpreso.                  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+18 
+Leia o texto 4 para responder as questões de 14 a 15 . 
+Texto 4 
+Comportamentos camuflados  
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+ [...] quantas vezes, no seu cotidiano, você compartilha uma mensagem/ informação, 
+sem saber se ela é verdadeira ou não, com os seus colegas de trabalho ou com amigos e 
+familiares? Pense no constrangimento que você passaria caso  alguém desacreditasse 
+essa informação no momento em que você está falando. Agora compare com o que  você 
+tem feito nas redes sociais virtuais.  
+Alguma vez você pegou uma foto íntima de um conhecido e saiu por aí mostrando 
+essa foto para todas as pessoas que você encontra no seu dia-a-dia – no ambiente de 
+trabalho, na fila do supermercado ou num encontro com amigos mais próximos? Agora 
+compare com o que você tem feito nas redes sociais virtuais.  
+Hoje em dia, para disseminar uma informação basta apertar o botão de enviar e/ou 
+compartilhar. Mas a facilidade desse ato pode ser inversamente proporcional às 
+repercussões e os efeitos que causamos na sociedade como um todo. A popularização 
+da internet permitiu que tivéssemos acesso a uma quantidade inimaginável de 
+informações. Da mesma forma , ela possibilitou que adotássemos determinados 
+comportamentos sem o quest ionamento moral dessas ações, camuflados por nossos 
+avatares e/ou perfis nas redes sociais ou “ escondidos” dentro de um grupo de Whatsapp 
+[...]. 
+ 
+TESSAROLO, Felipe. Comportamentos Camuflados. Observatório da Imprensa . 19. jan. 2016. Disponível em 
+<http://o bservatoriodaimprensa.com.br/jornal -de-debates/sobre -a-banalidade -do-mal/>. Acesso em: 15 set. 2016. 
+Fragmento.  
+ 
+QUESTÃO 14  
+De acordo com o Texto 4, assinale no cartão -resposta a soma da(a) proposição(ões) 
+CORRETA (S). 
+ 
+01. O compartilhamento e a divulgaçã o de informações tornaram -se menos usuais com 
+a popularização da internet.  
+02. As redes sociais e grupos de WhatsApp proporcionam a exposição das identidades 
+reais daqueles que se manifestam.  
+04. A palavra "escondidos" (linha 16) está se referindo aos comp ortamentos adotados 
+por algumas pessoas quanto ao compartilhamento de informações na internet.  
+08. A facilidade de compartilhar informações e as repercussões derivadas dessa 
+atividade sempre são inversamente proporcionais.  
+16. A possibilidade de proteção da identidade é um dos fatores que impulsionam o 
+compartilhamento de informação sem a devida verificação e sem cuidado com 
+questões morais.   
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+19 
+QUESTÃO 15  
+ 
+          
+Em se tratando das palavras e expressões sublinhadas no Texto 4, marque no cartão -
+resposta a soma da(s) proposição(ões)  CORRETA (S). 
+ 
+01. A conjunção "caso" (linha 3) introduz uma situação hipotética, também marcada 
+pelo uso do modo subjuntivo na forma verbal “desacreditasse” (linha 3). 
+ 
+02. A expressão "dia -a-dia" (linha 7) está adequadamente gra fada, de acordo com as 
+regras ortográficas atuais, que mandam hifenizar todas as locuções adjetivas.  
+ 
+04. Na linha 11, para refletir a fala de muitos falantes do português, "mas" poderia ser 
+substituído por "mais", sem que isso implicasse erro.  
+ 
+08. A substituição da expressão "Da mesma forma" (linha 14) por "No entanto” 
+acentuaria a contradição entre um aspecto positivo da popularização da internet, o acesso à informação, e um aspecto negativo, que é a adoção de comportamentos 
+moralmente repreensíveis.  
+ 
+16. O pronome "ela" (linha 14) está retomando o referente "quantidade inimaginável de 
+informações" (linhas  13-14). 
+ 
+32. O texto configura -se como literário, pois apresenta muitas palavras em sentido 
+figurado e privilegia linguagem conotativa.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+20 
+QUESTÃO 16  
+ 
+          
+ 
+ 
+Fonte: JACOBI, P.  O portal do geólogo. Disponível em: <http://www.geologo.com.br/Deslizamentos.asp>  Acesso  em: 17 ago . 
+2016.  
+ 
+ 
+Com base nos seus conhecimentos de Geografia e na análise da imagem acima, 
+assinale no cartão -resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 01. Deslizamentos de encostas são fenômenos naturais que colaboram para a 
+esculturação do relevo terrestre.  
+02. A ocupação das encostas pelo homem não aumenta os riscos de deslizamentos, 
+pois  a modelagem do relevo  terrestre é de responsabilidade dos fenômenos 
+naturais.  
+04. A vegetação exerce importância no equilíbrio das encostas. A cobertura vegetal  
+impede o impacto direto das gotas de chuva com o solo e diminui o escoamento 
+superficial, pois as raízes ajudam a s egurar as partículas do solo.  
+08. No Brasil, o acelerado processo de expansão urbana tem levado ao aumento da 
+ocupação de áreas de risco. Nesse cenário, há tendência para que seja cada vez 
+maior o número de pessoas vítimas de deslizamentos. A fim de evitar  isso, o poder 
+público precisa fiscalizar com rigor a abertura de novos loteamentos, assim como a ocupação ilegal de áreas urbanas e periurbanas.  
+16. O deslizamento ocorre somente se a encosta for ocupada indevidamente e a 
+vegetação for removida; caso con trário, ela estará protegida e livre desse tipo de 
+fenômeno.  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+21 
+QUESTÃO 17   
+ 
+As pirâmides etárias a seguir representam, respectivamente, as populações de 
+Florianópolis, de Santa Catarina e do Brasil em 2010 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adaptado de IBGE Cidades, 2010. htt p://goo.gl/RJWGSJ  
+ 
+Com base nos seus conhecimentos e na análise das pirâmides etárias, assinale no 
+cartão -resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 
+01. Há distúrbios visíveis nas pirâmides etárias indicando que houve uma queda 
+acentuada no nascime nto de homens em 1985 . 
+02. A expectativa de vida é maior na população feminina.  
+04. As pirâmides etárias servem como complemento aos estudos da qualidade de vida, 
+já que, por meio delas,  pode -se inferir aspectos populacionais ao longo do tempo.  
+08. Nesse tipo de gráfico, cada uma das metades representa um sexo e, do ponto de 
+vista etário, a base representa o grupo jovem, o corpo representa o grupo adulto e 
+o topo representa a população idosa.  
+16. Estudos em demografia apontam que, no futuro, teremos um est reitamento das 
+bases das pirâmides, indicando que haverá uma diminuição na taxa de natalidade.  
+ 
+ 
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+22 
+QUESTÃO 18   
+ 
+       Se estudarmos a globalização somente pelos seus aspectos geopolíticos e 
+econômicos, correremos o risco de obter uma pesquisa mecânica, q ue apenas alinha 
+dados e situa fenômenos específicos. Podemos cair na cilada da abordagem 
+estritamente técnica, que se esgota com o estudo do sistema, das mutações dos blocos nacionais e socioeconômicos. Ou deslumbrarmo -nos com o processo 
+tecnológico dos m eios de comunicação. Claro, nada disso é desprezível: é uma 
+pesquisa necessária como suporte para análise. Mas devemos ir além, penetrar na essência de nossa razão de existir: o ser humano.  
+ 
+Fonte: CHIAVENATO, J. J. Ética globalizada e sociedade de consumo . 2ª Ed. São Paulo; Moderna, 2004, 96 pg.  
+ 
+ 
+ 
+Sobre a globalização, assinale no cartão -resposta a soma da(s) proposição(ões) 
+CORRETA (S). 
+ 
+01. A globalização promove a integração cultural entre os povos, sem que haja a 
+sobreposição de uma cultura em relação a outra.  
+02. No mundo globalizado, não há fronteiras e a relação entre todos os países é 
+amistosa, pois a humanidade vive um período de prosperidade, igualdade, 
+seguridade social e, principalmente, acesso ao consumo.  
+04. Os países estão integrados por meio  do capital financeiro que circula com maior 
+fluidez pelos territórios.  
+08. Com a globalização, os países assumem papéis assimétricos em relação à divisão 
+internacional do trabalho e às relações de poder, com os países centrais possuindo 
+maior capacidade d e influenciar as políticas nos países periféricos.  
+16. Com origem na década de 1980 , a globalização é um fenômeno recente e resultou 
+no surgimento de uma aldeia global que inclui todos os países do mundo.  
+32. Na globalização, há espaço para todos, pois a c ompleta abertura das fronteiras 
+possibilita a livre circulação das pessoas.  
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+23 
+FORMULÁRIO DE FÍSICA  
+ 
+ 
+QUESTÃO 19  
+ 
+Os espelhos esféricos possuem diversas aplicações cotidianas. Os espelhos convexos, 
+por exemplo, ampliam o campo visual em relação a um espelho plano. Graças a essa propriedade, eles são frequentemente instalados em retrovisores de veículos ou em sistemas de observação e vigilância em supermercados, garagens etc. Os espelhos côncavos, por sua vez, possuem larga aplicação em telescópios do tipo refletor, onde 
+os objetos colocados praticamente no “infinito” em relação ao tamanho do espelho têm 
+suas imagens reais projetadas sobre o foco do sistema .  
+ 
+Com base nessas informações, considere doi s espelhos esféricos de distância focal de 
+módulo 30,0cm, um deles côncavo (espelho A) e outro convexo (espelho B). Levando 
+em consideração apenas situações ópticas envolvendo objetos reais, analise as 
+afirmações a seguir e assinale no cartão -resposta a soma da(s) proposição(ões) 
+CORRETA (S).  
+ 
+ 
+01. O espelho B forma apenas imagens virtuais.  
+02. É impossível, para o espelho B, formar uma imagem localizada a uma distância de 
+60,0cm em relação ao espelho.  
+04. Um espelho de maquiagem, onde se deseja ter a image m maior que o objeto, pode 
+ser constituído tanto pelo espelho A quanto pelo espelho B. 
+08. Um objeto a 20,0cm em frente ao espelho B terá sua imagem com aumento linear 
+transversal valendo + 3,0. 
+16. Um objeto colocado no ponto médio entre o centro de curvat ura e o foco do espelho 
+A terá sua imagem localizada a uma distância do espelho correspondente ao triplo 
+da distância focal.  
+32. As imagens virtuais produzidas pelo espelho A são de tamanho menor que o 
+objeto.   
+ 
+       
+   
+                
+2    
+     
+                       
+     
+   
+           
+    2         
+2           
+       
+       
+2                                        
+   
+      
+          
+   
+   
+      
+               
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+24 
+QUESTÃO 20  
+ 
+“Com jeito de brinquedo radi cal de parque de diversões, o 
+elevador panorâmico Bailong sobe os 330 metros de um 
+penhasco em apenas um minuto. Ele é o maior do mundo 
+ao ar livre e oferece vistas estonteantes da região de 
+Wulingyuan, na província de Hunan, declarada Patrimônio 
+Mundial d a Unesco. Mas para apreciar a paisagem é 
+preciso coragem e, principalmente, boas condições 
+cardíacas para encarar a altura. Uma outra opção é levar 
+2 horas e meia e fazer a subida pela escada ”.  
+ 
+Subir ou descer ao longo de prédios usando elevadores é 
+uma excelente situação para explorar os conceitos de 
+mecânica aprendidos ao longo do ensino médio.  
+  
+http://revistacasaejardim.globo.com/Revista/Co
+mmon/0,,EMI329951 -16938,00 -
+O+MAIOR+ELEVADOR+DO+MUNDO.htm  
+Acesso  em: 26 ago. 2016.  
+Considere que apenas uma pess oa de 90,0kg esteja dentro do elevador descrito no texto. Para 
+fins de cálculo, a aceleração da gravidade tem módulo 10,0m/s2. Além disso, sabe -se que as 
+duas únicas forças que atuam na pessoa durante todos os deslocamentos do elevador são a 
+força normal e  o peso.  
+ 
+Assinale no cartão -resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 
+01. Durante toda a subida, a força normal que o chão do elevador exerce sobre a 
+pessoa tem módulo maior que o peso da pessoa.  
+ 
+02. A velocidade média para percorrer os 330m de deslocamento vertical pelo elevador 
+tem módulo 19,8km/h.  
+ 
+04. Nos momentos finais antes de chegar ao ponto mais alto, suponha que o elevador 
+desacelere a uma taxa de módulo constante de 2,0m/s2. Nesse caso, a força 
+normal sobre a pessoa terá módulo de 180N . 
+ 08. Supondo que em um determinado instante a velocidade do elevador esteja 
+constante e para cima, é possível afirmar que a força resultante sobre a pessoa será nula.  
+ 16. Supondo -se que uma pessoa leve as 2 horas e meia para fazer o deslocamento 
+vertica l de 330m, podemos afirmar que sua velocidade média terá módulo maior 
+que 5,0cm/s.  
+ 32. Sempre que a pessoa estiver dentro do elevador com movimento descendente, ela 
+se sentirá mais leve que a sensação que ela tem do próprio peso com elevador parado.  
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+25 
+QUESTÃO 21 
+ 
+A figura a seguir ilustra um circuito elétrico formado por um fio condutor em forma de 
+bobina, uma chave que abre e fecha o circuito e uma lâmpada. Não há nenhuma fonte 
+de tensão elétrica e, para que uma corrente elétrica percorra o circuito, dev e-se variar o 
+campo magnético com o movimento do ímã, de forma a induzir a corrente. Assim, a 
+lâmpada acenderá devido a um fenômeno eletromagnético.  
+ 
+Disponível em: < http://www.proprofs.com/quiz -school/story.php?title=eletromagnetismo > Acesso em ago. 2016.  
+De acordo com a figura, assinale no cartão -resposta a soma da(s) proposições 
+CORRETA (S). 
+01. As partes A e C da figura indicam a movimentação do ímã em sentidos diferentes. 
+Ao ligar a chave que fecha o circuito, a corrente induzida no circuito na parte A da 
+figura terá o mesmo sentido da corrente induzida na parte C da figura.  
+02. Mesmo com a chave fechada, sem a movimentação do ímã, como indicado na 
+parte B da figura, não haverá corrente induzida no circuito e por isso, a lâmpada 
+não acenderá.  
+04. A intensidade da corrente induzida depende do diâmetro das espiras na bobina e, 
+quanto maior a espira, menor a corrente induzida.  
+08. Quando o ímã é intr oduzido na bobina pelo polo norte, a corrente induzida possui 
+intensidade maior do que quando ele é introduzido pelo polo sul.  
+16. Nas partes A, B e C da figura, ao fechar a chave, observamos a conversão de 
+energia mecânica em energia elétrica a ser consum ida pela lâmpada.  
+32. O fenômeno físico demonstrado na figura é o mesmo que é associado ao 
+funcionamento de um transformador.  
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+26 
+QUESTÃO 22 
+ 
+O texto a seguir relata o início da povoação da Nossa Senhora do Desterro no século 
+XVII.  
+ 
+No governo de Dias Velho, a póvoa contava com aproximadamente 400 habitantes [...] 
+Entretanto, sua estabilidade durou pouco. Em 1687, Dias Velho aprisionou um navio 
+corsário que fundeara em Canasvieiras para reparos. [...] Dois anos depois, para vingar -se, os piratas voltaram e ata caram o povoado de surpresa. Dias Velho foi morto. 
+Sua família foi deixada em liberdade à custa de um resgate em víveres e suprimentos negociado pelos dois padres da póvoa.  
+(FLORES, Maria Bernadete Ramos. Povoadores da fronteira : os casais açorianos rumo ao sul do Brasil. Florianópolis: Ed. Da 
+UFSC, 2000. P . 37).   
+ 
+Sobre Santa Catarina colonial, assinale no cartão -resposta a soma da(s ) 
+proposição(ões)  CORRETA (S). 
+ 
+01. As terras catarinenses eram habitadas no período colonial pelos grupos indígenas 
+Tupi-Guarani, Tupinambá e Kayapô.  
+02 O surgimento da Vila de Nossa Senhora dos Prazeres de Lages, em 1771 , está 
+relacionado com a atividade dos tropeiros e do comércio de gado. Até 1820 , a 
+região de Lages pertencia à capitania de São Paulo.  
+04. No século XVIII, a atividade econômica no litoral de Santa Catarina girava em torno 
+da produção de farinha de mandioca. Além disso, a caça da baleia também 
+desempenhou papel importante na geração de riquezas.  
+08. Com o intuito de povoar a recém -criada capitania de Santa Cata rina e garantir a 
+proteção da região, a Coroa portuguesa incentivou e subsidiou a vinda de famílias 
+açorianas para o litoral catarinense. Alguns casais encaminharam -se para o Rio 
+Grande do Sul, onde se estabeleceram nos arredores de Porto Alegre.  
+16. Santa  Catarina teve um número inexpressivo de escravos negros. As ati vidades 
+econômicas desenvolvidas em solo catarinense como a pecuária e a produção de farinha não eram compatíveis com a escravidão negra.  
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+27 
+QUESTÃO 23   
+ 
+Sobre a revolução industrial ocorri da em meados do século XVIII e suas 
+consequências, assinale no cartão -resposta a soma da(s ) proposição(ões)  
+CORRETA (S). 
+ 
+01. A revolução inglesa ocorrida no século XVII favoreceu o desenvolvimento 
+econômico e político da burguesia, propiciando assim, o des envolvimento industrial 
+no século seguinte.  
+ 02. O sistema econômico mercantilista estimulou a livre concorrência e o livre mercado, 
+favorecendo o surgimento das fábricas e o enriquecimento dos capitalistas.  
+ 
+04. O proletariado estava sujeito aos ambientes  sujos e escuros das fábricas e ao 
+trabalho repetitivo e exaustivo, com baixa remuneração. Homens, mulheres e crianças estavam submetidos a rotinas longas de trabalho, ameaças e castigos.  
+ 08. A Inglaterra é considerada a pioneira na revolução industrial, uma vez que possuía 
+boas reservas de carvão e ferro, forte burguesia com capital e sistema político absolutista.  
+ 16. Os trabalhadores não aceitaram as condições de trabalho passivamente e reagiram 
+às transformações na sociedade inglesa. O ludismo foi uma das primeiras reações 
+e caracterizou- se pela participação política do proletariado por meio do sufrágio 
+universal no parlamento inglês.  
+ 
+32. Já no século XIX, o movimento operário tornou -se mais expressivo e forte. Um 
+exemplo foi o movimento “a Carta do Po vo” de 1838  que tinha por objetivo o 
+aumento da participação popular na política.  
+ 
+ 
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+28 
+QUESTÃO 24  
+ 
+“Os representantes do povo francês, reunidos em Assembleia Nacional, tendo em vista 
+que a ignorância, o esquecimento ou o desprezo dos direitos do homem são as únicas 
+causas dos males públicos e da corrupção dos Governos, resolveram declarar solenemente os direitos naturais, inalienáveis e sagrados do homem, a fim de que esta declaração, sempre presente em todos os membros do corpo social, lhes lembre permanen temente seus direitos e seus deveres […].”  
+(Trecho da Declaração dos Direitos do Homem e do Cidadão, aprovado pela Assembleia Nacional Constituinte da França 
+revolucionária, em 26 de agosto de 1789).  
+ 
+Sobre as razões que desencadearam a Revolução Francesa  de 1789, assinale no 
+cartão -resposta a soma da(s) proposição(ões) CORRETA (S).  
+ 
+01. A divisão em três estamentos sociais, nos quais o clero e a nobreza estavam 
+isentos do pagamento de tributos, compõe uma das motivações da rebelião.  
+ 02. Os sans -culottes,  príncipes ricos e senhores feudais, não apoiaram a Revolução 
+Francesa, pois queriam a manutenção dos seus privilégios, ameaçados pelos revolucionários.  
+ 
+04. A fome e a grave crise econômica que assolaram a França nos anos que 
+antecederam à revolução, para doxalmente, fortaleceram o governo do rei Luís XVI.  
+ 
+08. A Bastilha era a sede da administração parisiense e representava ideais de 
+liberdade, igualdade e fraternidade, difundidos pelo governo absolutista.  
+ 
+16. “Os representantes do povo francês”, do qual fala a declaração, eram os 
+revolucionários do Terceiro Estado, maioria da população e opositores ao 
+absolutismo monárquico.  
+ 
+32.  A Revolução Francesa foi um movimento das elites, defendendo a manutenção 
+dos privilégios dos mais ricos sobre a população car ente.  
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+30 
+QUESTÃO 25  
+ 
+ 
+A efedrina é uma amina simpatomática similar aos derivados sintéticos da anfetamina, 
+muito utilizada em medicamentos para emagrecer, pois ela faz com que o metabolismo 
+acelere, queimando mais gordura (através da termogênese - produção de calor). 
+Porém, causa forte dependência, o que fez o uso da droga ser proibido para essa finalidade. No entanto, essa substância ainda pode ser encontrada em algumas 
+farmácias em forma de remédios destinados a problemas respiratórios.  
+Efedrina  
+Fonte: http://www.quimica.seed.pr.gov.br/modules/galeria/detalhe.php?foto=1744&evento=5 [adaptado] 
+ 
+ Sobre a efedrina e sua fórmula estrutural, assinale no cartão -resposta a soma da(s) 
+proposição(ões) CORRETA (S). 
+ 
+01. Cada molécula da efedrina é constituída  de 10 átomos de carbono.  
+02. A cadeia carbônica da efedrina é homogênea.  
+04. A cadeia carbônica da efedrina não apresenta carbono terciário.  
+08. Pela baixa polaridade de seus grupos funcionais, a efedrina é insolúvel em água.  
+16. A cadeia carbônica da efe drina é saturada.  
+32. A molécula da efedrina apresenta 2 carbonos assimétricos.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+31 
+QUESTÃO 26   
+ 
+As informações a seguir foram retiradas do rótulo de uma garrafa de água mineral de 
+500mL.  
+ 
+Composição Química (mg/L)  
+Bicarbonato  22,10  Estrôncio  0,020  
+Cálcio 3,987  Fluoreto  0,04 
+Cloreto  2,93 Potássio  2,016  
+ 
+ Considerando -se essas informações e seus conhecimentos, assinale no cartão -
+resposta a soma da proposição(ões) CORRETA (S). 
+ 
+01. Uma garrafa dessa água mineral contém 22,10  mg de bicarbonato.  
+ 02. Na tabela anterior, encontram -se informações referentes a um metal de transição.  
+ 
+04. Uma pessoa que ingere um copo de 300 mL dessa água está consumindo 0,012  
+mg de fluoreto.  
+ 
+08. O cálcio presente nessa água está na forma catiônica.  
+ 
+16. Dividindo -se o conteú do dessa garrafa em duas partes, cada parte apresentará 
+concentração de cloreto igual a 1,465  mg/L. 
+ 
+32.  Os íons fluoreto presentes nessa água apresentam o octeto incompleto.  
+ 
+  
+ 
+  
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+32 
+QUESTÃO 27   
+ 
+O nitrato de amônio é uma substância que é instável em dete rminadas condições de 
+temperatura ou que, quando em contato com outras substâncias, pode explodir. Por ser 
+uma opção mais barata do que outros compostos, há alguns anos foi usado como 
+propelente em airbags . Em certos casos, o vigor com que este composto in fla o airbag  
+pode causar a morte de passageiros. Por isso, algumas montadoras de automóveis foram levadas a substituir milhares de airbags  de veículos em circulação.  
+ 
+Sabendo -se que, entre outros fatores, a decomposição do nitrato de amônio leva à 
+formaçã o de monóxido de dinitrogênio e água, ambos no estado gasoso, assinale no 
+cartão -resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 
+01. O nitrato de amônio é um sal. Cada íon fórmula é constituído por um cátion NH 4+ e 
+um ânion NO 3- . 
+02. A decomposição de um mol de nitrato de amônio produz 1/2 mol de monóxido de 
+dinitrogênio e 2 mol de água.  
+04. A formação de produtos gasosos durante a decomposição do nitrato de amônio 
+explica o motivo pelo qual o airbag  infla.  
+08. Nas condições normais de temperatura e pre ssão, a decomposição de 1 mol de 
+nitrato de amônio produz um total de 11,2 L de gás.  
+16. O nitrato de amônio é uma substância orgânica.  
+32. O íon amônio apresenta geometria piramidal.  
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+33 
+QUESTÃO 28  
+ 
+A ciência por trás do mito:  
+como funciona o co rpo de Usain Bolt quando corre os 100 metros.  
+Para encarar uma prova como a final dos 100 metros rasos, corredores devem chegar 
+recuperados da semifinal, realizada uma hora e meia antes, e realizar aquecimento, 
+para assegurar que os músculos estejam flexív eis, quentes e elásticos, com menor 
+possibilidade de lesão. 
+Esses músculos contêm o que chamamos fibra muscular de contração rápida: músculos fortes, poderosos e rápidos na contração, mas também de fácil fadiga.  
+A maioria de nós temos cerca de metade de mú sculos com fibras rápidas e metade com 
+fibras lentas. Mas o homem mais rápido do mundo tem 80% da musculatura composta 
+por fibras rápidas.  
+Fonte: http://www.bbc.com/portuguese/geral -37084886 . Acesso em: 22 ago. 2016 . [Adaptado]  
+ 
+ 
+Sobre o tecido muscular, as fibras musculares e sua contração, assinale no cartão -
+resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 
+01. A fadiga muscular é resultado da respiração anaeróbia que ocorre nas fibras 
+musculares em situações em que há grande disponibilidade de oxigênio . 
+02. A sensação de dor causada pela fadiga é decorrente da formação de ácido láctico 
+nas fibras musculares.  
+04. As unidades de contração das fibras musculares são denominadas sarcômeros, 
+ricos em proteínas actina e queratina.  
+08. Para que ocorra a contraç ão de forma eficiente há um bombeamento de ATP e íons 
+Fe++ para o interior das fibras musculares.  
+16. A musculatura do quadríceps utilizada na corrida de 100 metros rasos  é  
+classificada como um tecido muscular estriado esquelético.  
+32. Durante a prova do s 100m rasos, tanto a realização de respiração aeróbia quanto 
+anaeróbia pelas fibras musculares apresentam rendimento energético semelhante, 
+no que se refere à produção de ATP.  
+ 
+ 
+ 
+   
+ 
+  
+INSTITUTO FEDERAL SANTA CATARINA  
+PRÓ-REITORIA DE ENSINO 
+DEPARTAMENTO DE INGRESSO  
+  
+ 
+Vestibular 2017.1  
+34 
+QUESTÃO 29  
+ 
+A tragédia ambiental no Rio Doce, que foi atingido pelos re jeitos de minério da 
+Samarco, completou um ano em novembro de 2016. A lama não é mais tão evidente, 
+mas ainda gera desconfiança nos moradores da região. Para piorar a situação, o 
+esgoto sem tratamento continua sendo despejado no Rio Doce, em Colatina, na 
+região Noroeste do Espírito Santo. As obras para captar o esgoto começaram, mas a 
+construção da estação de tratamento está parada.  
+Fonte: saneamentobasico.com.br.[adaptado]  
+ 
+ 
+A respeito de seus conhecimentos sobre poluição hídrica, assinale no cartão -resposta 
+a soma da(s) proposição(ões) CORRETA (S).  
+ 
+01. Os metais pesados tendem a desaparecer depois de alguns meses, graças à ação 
+de organismos decompositores.  
+02. Metais pesados em grande quantidade podem se acumular em organismos das 
+cadeias tróficas subsequentes, num processo denominado magnificação trófica.  
+04. O acúmulo de matéria orgânica proveniente de esgotos domésticos pode acarretar 
+um dano ambiental denominado eutrofização.  
+08. O fenômeno de maré vermelha se dá pela proliferação de algas clorófita s que 
+secretam toxinas através de seu metabolismo.  
+16. A eutrofização só ocorre quando as fontes hídricas carecem de material orgânico.  
+ 
+ 
+ 
+ 
+QUESTÃO 30  
+ 
+Sobre os processos de divisão celular conhecidos como mitose e meiose, assinale no 
+cartão -resposta a soma da(s) proposição(ões) CORRETA (S). 
+ 01.  Ambos os processos acontecem nas células somáticas do corpo humano.  
+ 02.  Para a formação de células reproduti vas a meiose é fundamental.  
+ 
+04. Por ser um processo reducional, a mitose ocorre com maior facilidade nos 
+organismos vivos.  
+ 
+08.  Na metáfase da mitose, os cromossomos estão na mesma posição que na 
+metáfase II da meiose.  
+ 16.  Na prófase I da meiose ocorre  a permutação ou crossing over,  evento que contribui 
+para a variabilidade genética dos organismos.  
+ 
+32.  Tanto a mitose quanto a meiose ocorrem somente em células haploides.  
+ 
+ 
+
+ 
